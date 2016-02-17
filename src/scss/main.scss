@@ -1,0 +1,26 @@
+html {
+	background: red;
+	width: 100%;
+
+	:global(.main) {
+		background: white;
+	}
+}
+
+.yes {
+	color: white;
+}
+
+h1 {
+	font-size: 1em;
+	max-width: 100%;
+}
+
+:global(.className) {
+	color: white;
+}
+
+button {
+	height: 50px;
+	width: 100%;
+}

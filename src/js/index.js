@@ -5,7 +5,7 @@ import 'babel-polyfill'
 import Vue from 'vue'
 // var Vue = require('vue')
 // require a *.vue component
-import App from './components/App.vue'
+import App from '../components/App.vue'
 // var App = require('./components/App.vue')
 
 // mount a root Vue instance

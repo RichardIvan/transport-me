@@ -57,14 +57,24 @@ module.exports = {
     },
     {
       test: /\.vue$/,
-      loader: 'vue'
+      loader: 'vue-loader'
     },
     {
       test: /\.(png|jpg)$/, loader: 'url-loader?limit=8192'
     }]
   },
+  vue: {
+    // use custom postcss plugins
+    postcss: [require('postcss-cssnext')()],
+    // disable vue-loader autoprefixing.
+    // this is a good idea since cssnext comes with it too.
+    autoprefixer: false,
+    loaders: {
+      less: ExtractTextPlugin.extract("css!less")
+    }
+  },
   postcss: [
-    require('autoprefixer')
+    require('postcss-cssnext'),
   ],
   sassLoader: {
     includePaths: [path.resolve(__dirname, 'src')]

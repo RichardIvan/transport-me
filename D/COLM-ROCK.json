@@ -1,0 +1,5963 @@
+{
+  "FRI": {
+    "1005": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:05 AM",
+        "origin": "COLM"
+      }
+    ],
+    "1020": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:20 AM",
+        "origin": "COLM"
+      }
+    ],
+    "1035": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:14 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:35 AM",
+        "origin": "COLM"
+      }
+    ],
+    "1050": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:29 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:50 AM",
+        "origin": "COLM"
+      }
+    ],
+    "1105": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:05 AM",
+        "origin": "COLM"
+      }
+    ],
+    "1120": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:20 AM",
+        "origin": "COLM"
+      }
+    ],
+    "1135": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:35 AM",
+        "origin": "COLM"
+      }
+    ],
+    "1150": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:50 AM",
+        "origin": "COLM"
+      }
+    ],
+    "1205": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:05 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1220": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:20 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1235": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:35 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1250": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:50 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1305": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:05 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1320": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:20 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1335": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:35 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1350": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:50 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1405": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:05 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1420": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:20 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1435": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:35 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1450": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:50 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1505": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:05 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1520": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:20 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1535": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:35 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1550": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:50 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1605": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:05 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1620": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:20 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1635": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:35 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1642": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:49 PM",
+        "destination": "BALB",
+        "line": "08",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:42 PM",
+        "origin": "COLM"
+      },
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:23 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:51 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1650": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:50 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1657": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:30 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:57 PM",
+        "origin": "COLM"
+      },
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:39 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:33 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1705": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:05 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1712": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:45 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:12 PM",
+        "origin": "COLM"
+      },
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:54 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:48 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1720": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:20 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1727": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:00 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:27 PM",
+        "origin": "COLM"
+      },
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:09 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:03 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1735": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:35 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1742": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:15 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:42 PM",
+        "origin": "COLM"
+      },
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:24 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:18 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1750": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:50 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1757": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:30 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:57 PM",
+        "origin": "COLM"
+      },
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:39 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:33 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1805": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:05 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1812": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:45 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:12 PM",
+        "origin": "COLM"
+      },
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:54 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:48 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1820": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:20 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1835": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:35 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1850": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:50 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1905": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:05 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1920": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:20 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1939": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:39 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1959": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:59 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2019": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:19 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2039": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:39 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2059": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:59 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2119": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:19 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2139": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:39 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2159": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:59 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2219": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:19 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2239": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:39 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2259": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:59 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2319": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:00 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:19 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2344": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:25 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:44 PM",
+        "origin": "COLM"
+      }
+    ],
+    "0005": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "12:48 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/11/2016",
+        "origTimeMin": "12:05 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0420": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:20 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0435": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:14 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:35 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0450": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:29 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:50 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0505": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:05 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0520": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:20 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0535": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:14 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:35 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0550": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:29 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:50 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0605": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:05 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0620": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:20 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0635": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:14 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:35 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0650": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:29 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:50 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0705": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:05 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0720": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:20 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0735": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:14 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:35 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0750": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:29 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:50 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0805": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:05 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0820": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:20 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0835": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:14 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:35 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0850": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:29 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:50 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0905": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:05 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0920": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:20 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0935": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:14 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:35 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0950": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:29 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:50 AM",
+        "origin": "COLM"
+      }
+    ]
+  },
+  "MON": {
+    "1005": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:05 AM",
+        "origin": "COLM"
+      }
+    ],
+    "1020": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:20 AM",
+        "origin": "COLM"
+      }
+    ],
+    "1035": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:14 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:35 AM",
+        "origin": "COLM"
+      }
+    ],
+    "1050": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:29 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:50 AM",
+        "origin": "COLM"
+      }
+    ],
+    "1105": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:05 AM",
+        "origin": "COLM"
+      }
+    ],
+    "1120": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:20 AM",
+        "origin": "COLM"
+      }
+    ],
+    "1135": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:35 AM",
+        "origin": "COLM"
+      }
+    ],
+    "1150": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:50 AM",
+        "origin": "COLM"
+      }
+    ],
+    "1205": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:05 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1220": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:20 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1235": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:35 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1250": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:50 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1305": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:05 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1320": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:20 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1335": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:35 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1350": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:50 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1405": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:05 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1420": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:20 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1435": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:35 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1450": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:50 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1505": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:05 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1520": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:20 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1535": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:35 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1550": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:50 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1605": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:05 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1620": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:20 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1635": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:35 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1642": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:49 PM",
+        "destination": "BALB",
+        "line": "08",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:42 PM",
+        "origin": "COLM"
+      },
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:23 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:51 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1650": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:50 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1657": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:30 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:57 PM",
+        "origin": "COLM"
+      },
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:39 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:33 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1705": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:05 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1712": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:45 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:12 PM",
+        "origin": "COLM"
+      },
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:54 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:48 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1720": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:20 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1727": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:00 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:27 PM",
+        "origin": "COLM"
+      },
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:09 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:03 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1735": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:35 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1742": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:15 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:42 PM",
+        "origin": "COLM"
+      },
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:24 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:18 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1750": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:50 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1757": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:30 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:57 PM",
+        "origin": "COLM"
+      },
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:39 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:33 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1805": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:05 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1812": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:45 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:12 PM",
+        "origin": "COLM"
+      },
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:54 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:48 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1820": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:20 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1835": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:35 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1850": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:50 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1905": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:05 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1920": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:20 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1939": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:39 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1959": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:59 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2019": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:19 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2039": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:39 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2059": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:59 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2119": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:19 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2139": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:39 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2159": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:59 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2219": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:19 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2239": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:39 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2259": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:59 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2319": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:00 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:19 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2344": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:25 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:44 PM",
+        "origin": "COLM"
+      }
+    ],
+    "0005": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:47 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:05 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0420": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:20 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0435": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:14 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:35 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0450": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:29 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:50 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0505": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:05 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0520": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:20 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0535": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:14 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:35 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0550": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:29 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:50 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0605": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:05 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0620": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:20 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0635": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:14 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:35 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0650": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:29 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:50 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0705": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:05 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0720": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:20 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0735": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:14 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:35 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0750": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:29 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:50 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0805": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:05 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0820": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:20 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0835": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:14 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:35 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0850": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:29 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:50 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0905": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:05 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0920": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:20 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0935": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:14 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:35 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0950": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:29 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:50 AM",
+        "origin": "COLM"
+      }
+    ]
+  },
+  "SAT": {
+    "1019": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:00 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:19 AM",
+        "origin": "COLM"
+      }
+    ],
+    "1039": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:20 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:39 AM",
+        "origin": "COLM"
+      }
+    ],
+    "1059": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:40 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:59 AM",
+        "origin": "COLM"
+      }
+    ],
+    "1119": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:19 AM",
+        "origin": "COLM"
+      }
+    ],
+    "1139": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:39 AM",
+        "origin": "COLM"
+      }
+    ],
+    "1159": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:59 AM",
+        "origin": "COLM"
+      }
+    ],
+    "1219": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:19 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1239": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:39 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1259": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:59 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1319": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:19 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1339": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:39 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1359": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:59 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1419": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:19 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1439": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:39 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1459": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:59 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1519": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:19 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1539": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:39 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1559": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:59 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1619": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:19 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1639": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:39 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1659": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:59 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1719": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:19 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1739": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:39 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1759": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:59 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1819": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:19 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1839": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:39 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1859": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:59 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1919": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:19 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1939": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:39 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1959": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:59 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2019": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:19 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2039": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:39 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2059": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:59 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2119": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:19 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2139": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:39 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2159": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:59 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2219": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:19 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2239": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:39 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2259": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:59 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2319": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:00 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:19 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2344": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:25 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:44 PM",
+        "origin": "COLM"
+      }
+    ],
+    "0005": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:48 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:05 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0619": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:00 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:19 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0639": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:20 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:39 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0659": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:40 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:59 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0719": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:00 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:19 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0739": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:20 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:39 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0759": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:40 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:59 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0819": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:00 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:19 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0839": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:20 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:39 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0859": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:40 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:59 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0919": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:00 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:19 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0939": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:20 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:39 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0959": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:40 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:59 AM",
+        "origin": "COLM"
+      }
+    ]
+  },
+  "SUN": {
+    "1019": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:00 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:19 AM",
+        "origin": "COLM"
+      }
+    ],
+    "1039": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:20 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:39 AM",
+        "origin": "COLM"
+      }
+    ],
+    "1059": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:40 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:59 AM",
+        "origin": "COLM"
+      }
+    ],
+    "1119": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:19 AM",
+        "origin": "COLM"
+      }
+    ],
+    "1139": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:39 AM",
+        "origin": "COLM"
+      }
+    ],
+    "1159": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:59 AM",
+        "origin": "COLM"
+      }
+    ],
+    "1219": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:19 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1239": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:39 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1259": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:59 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1319": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:19 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1339": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:39 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1359": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:59 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1419": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:19 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1439": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:39 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1459": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:59 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1519": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:19 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1539": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:39 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1559": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:59 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1619": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:19 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1639": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:39 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1659": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:59 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1719": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:19 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1739": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:39 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1759": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:59 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1819": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:19 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1839": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:39 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1859": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:59 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1919": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:19 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1939": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:39 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1959": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:59 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2019": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:19 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2039": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:39 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2059": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:59 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2119": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:19 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2139": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:39 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2159": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:59 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2219": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:19 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2239": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:39 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2259": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:59 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2319": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:00 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:19 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2344": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:25 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:44 PM",
+        "origin": "COLM"
+      }
+    ],
+    "0005": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:48 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:05 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0819": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:00 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:19 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0839": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:20 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:39 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0859": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:40 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:59 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0919": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:00 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:19 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0939": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:20 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:39 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0959": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:40 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:59 AM",
+        "origin": "COLM"
+      }
+    ]
+  },
+  "THU": {
+    "1005": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:05 AM",
+        "origin": "COLM"
+      }
+    ],
+    "1020": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:20 AM",
+        "origin": "COLM"
+      }
+    ],
+    "1035": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:14 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:35 AM",
+        "origin": "COLM"
+      }
+    ],
+    "1050": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:29 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:50 AM",
+        "origin": "COLM"
+      }
+    ],
+    "1105": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:05 AM",
+        "origin": "COLM"
+      }
+    ],
+    "1120": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:20 AM",
+        "origin": "COLM"
+      }
+    ],
+    "1135": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:35 AM",
+        "origin": "COLM"
+      }
+    ],
+    "1150": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:50 AM",
+        "origin": "COLM"
+      }
+    ],
+    "1205": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:05 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1220": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:20 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1235": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:35 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1250": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:50 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1305": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:05 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1320": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:20 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1335": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:35 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1350": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:50 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1405": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:05 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1420": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:20 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1435": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:35 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1450": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:50 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1505": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:05 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1520": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:20 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1535": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:35 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1550": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:50 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1605": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:05 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1620": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:20 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1635": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:35 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1642": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:49 PM",
+        "destination": "BALB",
+        "line": "08",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:42 PM",
+        "origin": "COLM"
+      },
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:23 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:51 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1650": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:50 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1657": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:30 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:57 PM",
+        "origin": "COLM"
+      },
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:39 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:33 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1705": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:05 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1712": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:45 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:12 PM",
+        "origin": "COLM"
+      },
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:54 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:48 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1720": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:20 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1727": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:00 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:27 PM",
+        "origin": "COLM"
+      },
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:09 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:03 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1735": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:35 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1742": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:15 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:42 PM",
+        "origin": "COLM"
+      },
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:24 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:18 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1750": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:50 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1757": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:30 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:57 PM",
+        "origin": "COLM"
+      },
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:39 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:33 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1805": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:05 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1812": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:45 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:12 PM",
+        "origin": "COLM"
+      },
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:54 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:48 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1820": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:20 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1835": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:35 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1850": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:50 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1905": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:05 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1920": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:20 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1939": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:39 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1959": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:59 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2019": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:19 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2039": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:39 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2059": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:59 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2119": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:19 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2139": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:39 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2159": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:59 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2219": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:19 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2239": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:39 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2259": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:59 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2319": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:00 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:19 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2344": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "12:25 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:44 PM",
+        "origin": "COLM"
+      }
+    ],
+    "0005": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:48 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:05 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0420": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:20 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0435": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:14 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:35 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0450": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:29 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:50 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0505": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:05 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0520": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:20 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0535": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:14 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:35 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0550": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:29 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:50 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0605": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:05 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0620": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:20 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0635": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:14 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:35 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0650": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:29 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:50 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0705": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:05 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0720": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:20 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0735": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:14 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:35 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0750": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:29 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:50 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0805": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:05 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0820": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:20 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0835": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:14 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:35 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0850": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:29 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:50 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0905": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:05 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0920": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:20 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0935": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:14 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:35 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0950": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:29 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:50 AM",
+        "origin": "COLM"
+      }
+    ]
+  },
+  "TUE": {
+    "1005": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:05 AM",
+        "origin": "COLM"
+      }
+    ],
+    "1020": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:20 AM",
+        "origin": "COLM"
+      }
+    ],
+    "1035": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:14 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:35 AM",
+        "origin": "COLM"
+      }
+    ],
+    "1050": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:29 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:50 AM",
+        "origin": "COLM"
+      }
+    ],
+    "1105": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:05 AM",
+        "origin": "COLM"
+      }
+    ],
+    "1120": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:20 AM",
+        "origin": "COLM"
+      }
+    ],
+    "1135": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:35 AM",
+        "origin": "COLM"
+      }
+    ],
+    "1150": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:50 AM",
+        "origin": "COLM"
+      }
+    ],
+    "1205": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:05 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1220": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:20 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1235": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:35 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1250": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:50 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1305": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:05 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1320": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:20 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1335": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:35 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1350": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:50 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1405": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:05 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1420": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:20 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1435": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:35 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1450": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:50 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1505": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:05 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1520": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:20 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1535": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:35 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1550": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:50 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1605": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:05 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1620": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:20 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1635": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:35 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1642": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:49 PM",
+        "destination": "BALB",
+        "line": "08",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:42 PM",
+        "origin": "COLM"
+      },
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:23 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:51 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1650": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:50 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1657": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:30 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:57 PM",
+        "origin": "COLM"
+      },
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:39 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:33 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1705": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:05 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1712": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:45 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:12 PM",
+        "origin": "COLM"
+      },
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:54 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:48 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1720": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:20 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1727": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:00 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:27 PM",
+        "origin": "COLM"
+      },
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:09 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:03 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1735": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:35 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1742": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:15 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:42 PM",
+        "origin": "COLM"
+      },
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:24 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:18 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1750": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:50 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1757": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:30 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:57 PM",
+        "origin": "COLM"
+      },
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:39 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:33 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1805": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:05 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1812": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:45 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:12 PM",
+        "origin": "COLM"
+      },
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:54 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:48 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1820": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:20 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1835": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:35 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1850": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:50 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1905": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:05 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1920": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:20 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1939": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:39 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1959": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:59 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2019": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:19 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2039": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:39 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2059": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:59 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2119": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:19 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2139": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:39 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2159": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:59 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2219": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:19 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2239": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:39 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2259": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:59 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2319": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:00 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:19 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2344": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:25 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:44 PM",
+        "origin": "COLM"
+      }
+    ],
+    "0005": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:47 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:05 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0420": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:20 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0435": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:14 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:35 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0450": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:29 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:50 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0505": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:05 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0520": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:20 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0535": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:14 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:35 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0550": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:29 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:50 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0605": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:05 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0620": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:20 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0635": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:14 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:35 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0650": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:29 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:50 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0705": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:05 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0720": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:20 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0735": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:14 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:35 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0750": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:29 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:50 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0805": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:05 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0820": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:20 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0835": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:14 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:35 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0850": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:29 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:50 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0905": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:05 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0920": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:20 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0935": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:14 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:35 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0950": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:29 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:50 AM",
+        "origin": "COLM"
+      }
+    ]
+  },
+  "WED": {
+    "1005": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:05 AM",
+        "origin": "COLM"
+      }
+    ],
+    "1020": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:20 AM",
+        "origin": "COLM"
+      }
+    ],
+    "1035": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:14 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:35 AM",
+        "origin": "COLM"
+      }
+    ],
+    "1050": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:29 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:50 AM",
+        "origin": "COLM"
+      }
+    ],
+    "1105": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:05 AM",
+        "origin": "COLM"
+      }
+    ],
+    "1120": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:20 AM",
+        "origin": "COLM"
+      }
+    ],
+    "1135": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:35 AM",
+        "origin": "COLM"
+      }
+    ],
+    "1150": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:50 AM",
+        "origin": "COLM"
+      }
+    ],
+    "1205": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:05 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1220": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:20 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1235": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:35 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1250": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:50 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1305": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:05 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1320": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:20 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1335": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:35 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1350": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:50 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1405": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:05 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1420": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:20 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1435": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:35 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1450": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:50 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1505": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:05 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1520": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:20 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1535": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:35 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1550": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:50 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1605": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:05 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1620": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:20 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1635": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:35 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1642": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:49 PM",
+        "destination": "BALB",
+        "line": "08",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:42 PM",
+        "origin": "COLM"
+      },
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:23 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:51 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1650": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:50 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1657": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:30 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:57 PM",
+        "origin": "COLM"
+      },
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:39 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:33 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1705": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:05 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1712": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:45 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:12 PM",
+        "origin": "COLM"
+      },
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:54 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:48 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1720": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:20 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1727": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:00 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:27 PM",
+        "origin": "COLM"
+      },
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:09 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:03 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1735": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:35 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1742": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:15 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:42 PM",
+        "origin": "COLM"
+      },
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:24 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:18 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1750": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:50 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1757": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:30 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:57 PM",
+        "origin": "COLM"
+      },
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:39 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:33 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1805": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:05 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1812": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:45 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:12 PM",
+        "origin": "COLM"
+      },
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:54 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:48 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1820": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:20 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1835": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:35 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1850": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:50 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1905": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:05 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1920": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:20 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1939": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:39 PM",
+        "origin": "COLM"
+      }
+    ],
+    "1959": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:59 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2019": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:19 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2039": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:39 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2059": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:59 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2119": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:19 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2139": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:39 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2159": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:59 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2219": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:19 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2239": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:39 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2259": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:59 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2319": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:00 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:19 PM",
+        "origin": "COLM"
+      }
+    ],
+    "2344": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:25 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:44 PM",
+        "origin": "COLM"
+      }
+    ],
+    "0005": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:48 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:05 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0420": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:20 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0435": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:14 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:35 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0450": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:29 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:50 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0505": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:05 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0520": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:20 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0535": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:14 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:35 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0550": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:29 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:50 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0605": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:05 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0620": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:20 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0635": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:14 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:35 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0650": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:29 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:50 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0705": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:05 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0720": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:20 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0735": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:14 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:35 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0750": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:29 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:50 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0805": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:05 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0820": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:20 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0835": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:14 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:35 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0850": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:29 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:50 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0905": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:05 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0920": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:20 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0935": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:14 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:35 AM",
+        "origin": "COLM"
+      }
+    ],
+    "0950": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:29 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:50 AM",
+        "origin": "COLM"
+      }
+    ]
+  }
+}

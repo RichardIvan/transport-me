@@ -1,0 +1,5340 @@
+{
+  "FRI": {
+    "1008": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:28 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:08 AM",
+        "origin": "NCON"
+      }
+    ],
+    "1023": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:43 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:23 AM",
+        "origin": "NCON"
+      }
+    ],
+    "1038": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:58 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:38 AM",
+        "origin": "NCON"
+      }
+    ],
+    "1053": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:53 AM",
+        "origin": "NCON"
+      }
+    ],
+    "1108": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:08 AM",
+        "origin": "NCON"
+      }
+    ],
+    "1123": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:23 AM",
+        "origin": "NCON"
+      }
+    ],
+    "1138": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:38 AM",
+        "origin": "NCON"
+      }
+    ],
+    "1153": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:53 AM",
+        "origin": "NCON"
+      }
+    ],
+    "1208": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:08 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1223": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:23 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1238": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:38 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1253": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:53 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1308": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:08 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1323": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:23 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1338": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:38 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1353": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:53 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1408": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:08 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1423": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:23 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1438": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:38 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1453": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:53 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1508": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:08 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1523": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:23 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1538": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:38 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1553": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:53 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1608": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:08 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1623": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:23 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1638": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:38 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1653": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:53 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1708": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:08 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1723": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:23 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1738": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:38 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1753": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:53 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1808": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:08 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1823": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:23 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1838": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:38 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1853": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:53 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1908": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:08 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1924": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:24 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1944": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:44 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2004": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:04 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2024": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:24 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2044": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:44 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2104": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:04 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2124": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:24 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2144": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:44 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2204": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:04 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2224": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:24 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2244": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:05 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:44 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2304": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:25 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:04 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2324": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:45 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:24 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2344": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:05 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:44 PM",
+        "origin": "NCON"
+      }
+    ],
+    "0005": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "1:35 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/11/2016",
+        "origTimeMin": "12:05 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0408": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:28 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:08 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0423": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:43 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:23 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0438": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:58 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:38 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0453": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:13 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:53 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0508": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:28 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:08 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0523": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:43 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:23 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0538": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:58 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:38 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0553": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:13 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:53 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0608": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:28 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:08 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0623": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:43 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:23 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0638": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:58 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:38 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0653": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:13 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:53 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0708": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:28 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:08 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0723": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:43 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:23 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0738": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:58 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:38 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0753": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:13 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:53 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0808": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:28 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:08 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0823": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:43 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:23 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0838": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:58 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:38 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0853": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:13 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:53 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0908": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:28 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:08 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0923": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:43 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:23 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0938": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:58 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:38 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0953": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:13 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:53 AM",
+        "origin": "NCON"
+      }
+    ]
+  },
+  "MON": {
+    "1008": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:28 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:08 AM",
+        "origin": "NCON"
+      }
+    ],
+    "1023": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:43 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:23 AM",
+        "origin": "NCON"
+      }
+    ],
+    "1038": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:58 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:38 AM",
+        "origin": "NCON"
+      }
+    ],
+    "1053": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:53 AM",
+        "origin": "NCON"
+      }
+    ],
+    "1108": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:08 AM",
+        "origin": "NCON"
+      }
+    ],
+    "1123": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:23 AM",
+        "origin": "NCON"
+      }
+    ],
+    "1138": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:38 AM",
+        "origin": "NCON"
+      }
+    ],
+    "1153": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:53 AM",
+        "origin": "NCON"
+      }
+    ],
+    "1208": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:08 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1223": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:23 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1238": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:38 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1253": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:53 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1308": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:08 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1323": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:23 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1338": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:38 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1353": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:53 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1408": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:08 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1423": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:23 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1438": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:38 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1453": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:53 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1508": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:08 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1523": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:23 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1538": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:38 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1553": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:53 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1608": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:08 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1623": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:23 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1638": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:38 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1653": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:53 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1708": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:08 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1723": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:23 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1738": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:38 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1753": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:53 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1808": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:08 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1823": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:23 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1838": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:38 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1853": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:53 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1908": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:08 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1924": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:24 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1944": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:44 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2004": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:04 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2024": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:24 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2044": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:44 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2104": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:04 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2124": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:24 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2144": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:44 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2204": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:04 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2224": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:24 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2244": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:05 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:44 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2304": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:25 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:04 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2324": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:45 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:24 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2344": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:05 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:44 PM",
+        "origin": "NCON"
+      }
+    ],
+    "0005": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:35 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:05 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0408": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:28 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:08 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0423": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:43 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:23 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0438": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:58 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:38 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0453": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:13 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:53 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0508": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:28 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:08 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0523": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:43 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:23 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0538": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:58 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:38 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0553": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:13 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:53 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0608": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:28 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:08 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0623": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:43 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:23 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0638": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:58 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:38 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0653": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:13 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:53 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0708": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:28 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:08 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0723": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:43 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:23 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0738": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:58 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:38 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0753": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:13 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:53 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0808": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:28 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:08 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0823": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:43 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:23 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0838": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:58 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:38 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0853": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:13 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:53 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0908": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:28 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:08 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0923": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:43 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:23 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0938": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:58 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:38 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0953": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:13 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:53 AM",
+        "origin": "NCON"
+      }
+    ]
+  },
+  "SAT": {
+    "1004": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:25 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:04 AM",
+        "origin": "NCON"
+      }
+    ],
+    "1024": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:45 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:24 AM",
+        "origin": "NCON"
+      }
+    ],
+    "1044": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:44 AM",
+        "origin": "NCON"
+      }
+    ],
+    "1104": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:04 AM",
+        "origin": "NCON"
+      }
+    ],
+    "1124": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:24 AM",
+        "origin": "NCON"
+      }
+    ],
+    "1144": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:44 AM",
+        "origin": "NCON"
+      }
+    ],
+    "1204": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:04 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1224": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:24 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1244": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:44 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1304": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:04 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1324": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:24 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1344": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:44 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1404": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:04 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1424": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:24 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1444": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:44 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1504": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:04 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1524": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:24 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1544": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:44 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1604": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:04 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1624": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:24 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1644": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:44 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1704": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:04 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1724": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:24 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1744": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:44 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1804": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:04 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1824": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:24 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1844": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:44 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1904": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:04 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1924": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:24 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1944": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:44 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2004": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:04 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2024": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:24 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2044": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:44 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2104": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:04 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2124": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:24 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2144": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:44 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2204": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:04 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2224": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:24 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2244": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:05 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:44 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2304": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:25 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:04 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2324": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:45 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:24 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2344": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:05 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:44 PM",
+        "origin": "NCON"
+      }
+    ],
+    "0005": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:35 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:05 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0604": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:25 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:04 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0624": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:45 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:24 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0644": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:05 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:44 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0704": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:25 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:04 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0724": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:45 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:24 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0744": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:05 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:44 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0804": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:25 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:04 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0824": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:45 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:24 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0844": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:05 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:44 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0904": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:25 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:04 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0924": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:45 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:24 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0944": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:05 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:44 AM",
+        "origin": "NCON"
+      }
+    ]
+  },
+  "SUN": {
+    "1004": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:25 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:04 AM",
+        "origin": "NCON"
+      }
+    ],
+    "1024": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:45 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:24 AM",
+        "origin": "NCON"
+      }
+    ],
+    "1044": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:44 AM",
+        "origin": "NCON"
+      }
+    ],
+    "1104": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:04 AM",
+        "origin": "NCON"
+      }
+    ],
+    "1124": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:24 AM",
+        "origin": "NCON"
+      }
+    ],
+    "1144": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:44 AM",
+        "origin": "NCON"
+      }
+    ],
+    "1204": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:04 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1224": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:24 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1244": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:44 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1304": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:04 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1324": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:24 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1344": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:44 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1404": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:04 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1424": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:24 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1444": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:44 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1504": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:04 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1524": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:24 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1544": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:44 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1604": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:04 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1624": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:24 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1644": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:44 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1704": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:04 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1724": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:24 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1744": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:44 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1804": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:04 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1824": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:24 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1844": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:44 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1904": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:04 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1924": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:24 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1944": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:44 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2004": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:04 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2024": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:24 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2044": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:44 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2104": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:04 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2124": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:24 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2144": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:44 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2204": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:04 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2224": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:24 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2244": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:05 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:44 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2304": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:25 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:04 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2324": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:45 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:24 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2344": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:05 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:44 PM",
+        "origin": "NCON"
+      }
+    ],
+    "0005": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:35 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:05 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0804": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:25 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:04 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0824": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:45 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:24 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0844": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:05 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:44 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0904": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:25 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:04 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0924": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:45 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:24 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0944": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:05 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:44 AM",
+        "origin": "NCON"
+      }
+    ]
+  },
+  "THU": {
+    "1008": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:28 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:08 AM",
+        "origin": "NCON"
+      }
+    ],
+    "1023": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:43 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:23 AM",
+        "origin": "NCON"
+      }
+    ],
+    "1038": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:58 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:38 AM",
+        "origin": "NCON"
+      }
+    ],
+    "1053": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:53 AM",
+        "origin": "NCON"
+      }
+    ],
+    "1108": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:08 AM",
+        "origin": "NCON"
+      }
+    ],
+    "1123": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:23 AM",
+        "origin": "NCON"
+      }
+    ],
+    "1138": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:38 AM",
+        "origin": "NCON"
+      }
+    ],
+    "1153": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:53 AM",
+        "origin": "NCON"
+      }
+    ],
+    "1208": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:08 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1223": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:23 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1238": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:38 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1253": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:53 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1308": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:08 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1323": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:23 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1338": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:38 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1353": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:53 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1408": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:08 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1423": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:23 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1438": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:38 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1453": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:53 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1508": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:08 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1523": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:23 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1538": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:38 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1553": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:53 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1608": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:08 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1623": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:23 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1638": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:38 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1653": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:53 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1708": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:08 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1723": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:23 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1738": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:38 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1753": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:53 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1808": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:08 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1823": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:23 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1838": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:38 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1853": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:53 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1908": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:08 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1924": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:24 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1944": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:44 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2004": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:04 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2024": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:24 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2044": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:44 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2104": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:04 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2124": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:24 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2144": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:44 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2204": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:04 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2224": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:24 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2244": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "12:05 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:44 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2304": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "12:25 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:04 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2324": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "12:45 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:24 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2344": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "1:05 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:44 PM",
+        "origin": "NCON"
+      }
+    ],
+    "0005": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:35 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:05 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0408": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:28 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:08 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0423": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:43 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:23 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0438": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:58 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:38 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0453": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:13 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:53 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0508": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:28 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:08 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0523": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:43 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:23 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0538": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:58 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:38 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0553": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:13 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:53 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0608": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:28 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:08 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0623": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:43 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:23 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0638": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:58 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:38 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0653": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:13 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:53 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0708": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:28 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:08 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0723": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:43 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:23 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0738": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:58 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:38 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0753": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:13 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:53 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0808": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:28 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:08 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0823": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:43 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:23 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0838": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:58 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:38 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0853": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:13 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:53 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0908": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:28 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:08 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0923": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:43 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:23 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0938": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:58 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:38 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0953": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:13 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:53 AM",
+        "origin": "NCON"
+      }
+    ]
+  },
+  "TUE": {
+    "1008": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:28 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:08 AM",
+        "origin": "NCON"
+      }
+    ],
+    "1023": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:43 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:23 AM",
+        "origin": "NCON"
+      }
+    ],
+    "1038": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:58 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:38 AM",
+        "origin": "NCON"
+      }
+    ],
+    "1053": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:53 AM",
+        "origin": "NCON"
+      }
+    ],
+    "1108": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:08 AM",
+        "origin": "NCON"
+      }
+    ],
+    "1123": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:23 AM",
+        "origin": "NCON"
+      }
+    ],
+    "1138": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:38 AM",
+        "origin": "NCON"
+      }
+    ],
+    "1153": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:53 AM",
+        "origin": "NCON"
+      }
+    ],
+    "1208": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:08 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1223": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:23 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1238": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:38 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1253": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:53 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1308": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:08 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1323": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:23 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1338": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:38 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1353": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:53 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1408": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:08 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1423": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:23 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1438": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:38 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1453": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:53 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1508": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:08 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1523": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:23 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1538": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:38 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1553": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:53 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1608": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:08 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1623": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:23 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1638": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:38 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1653": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:53 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1708": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:08 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1723": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:23 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1738": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:38 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1753": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:53 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1808": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:08 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1823": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:23 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1838": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:38 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1853": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:53 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1908": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:08 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1924": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:24 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1944": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:44 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2004": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:04 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2024": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:24 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2044": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:44 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2104": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:04 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2124": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:24 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2144": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:44 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2204": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:04 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2224": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:24 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2244": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:05 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:44 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2304": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:25 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:04 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2324": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:45 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:24 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2344": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:05 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:44 PM",
+        "origin": "NCON"
+      }
+    ],
+    "0005": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:35 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:05 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0408": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:28 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:08 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0423": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:43 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:23 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0438": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:58 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:38 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0453": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:13 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:53 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0508": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:28 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:08 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0523": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:43 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:23 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0538": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:58 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:38 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0553": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:13 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:53 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0608": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:28 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:08 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0623": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:43 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:23 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0638": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:58 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:38 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0653": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:13 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:53 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0708": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:28 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:08 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0723": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:43 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:23 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0738": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:58 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:38 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0753": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:13 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:53 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0808": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:28 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:08 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0823": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:43 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:23 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0838": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:58 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:38 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0853": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:13 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:53 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0908": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:28 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:08 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0923": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:43 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:23 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0938": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:58 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:38 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0953": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:13 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:53 AM",
+        "origin": "NCON"
+      }
+    ]
+  },
+  "WED": {
+    "1008": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:28 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:08 AM",
+        "origin": "NCON"
+      }
+    ],
+    "1023": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:43 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:23 AM",
+        "origin": "NCON"
+      }
+    ],
+    "1038": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:58 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:38 AM",
+        "origin": "NCON"
+      }
+    ],
+    "1053": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:53 AM",
+        "origin": "NCON"
+      }
+    ],
+    "1108": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:08 AM",
+        "origin": "NCON"
+      }
+    ],
+    "1123": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:23 AM",
+        "origin": "NCON"
+      }
+    ],
+    "1138": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:38 AM",
+        "origin": "NCON"
+      }
+    ],
+    "1153": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:53 AM",
+        "origin": "NCON"
+      }
+    ],
+    "1208": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:08 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1223": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:23 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1238": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:38 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1253": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:53 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1308": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:08 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1323": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:23 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1338": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:38 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1353": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:53 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1408": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:08 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1423": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:23 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1438": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:38 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1453": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:53 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1508": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:08 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1523": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:23 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1538": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:38 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1553": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:53 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1608": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:08 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1623": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:23 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1638": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:38 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1653": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:53 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1708": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:08 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1723": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:23 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1738": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:38 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1753": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:53 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1808": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:08 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1823": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:23 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1838": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:38 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1853": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:53 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1908": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:08 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1924": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:24 PM",
+        "origin": "NCON"
+      }
+    ],
+    "1944": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:44 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2004": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:04 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2024": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:24 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2044": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:44 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2104": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:04 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2124": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:24 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2144": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:44 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2204": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:04 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2224": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:24 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2244": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:05 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:44 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2304": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:25 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:04 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2324": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:45 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:24 PM",
+        "origin": "NCON"
+      }
+    ],
+    "2344": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:05 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:44 PM",
+        "origin": "NCON"
+      }
+    ],
+    "0005": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:35 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:05 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0408": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:28 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:08 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0423": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:43 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:23 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0438": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:58 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:38 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0453": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:13 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:53 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0508": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:28 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:08 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0523": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:43 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:23 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0538": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:58 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:38 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0553": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:13 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:53 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0608": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:28 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:08 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0623": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:43 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:23 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0638": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:58 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:38 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0653": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:13 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:53 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0708": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:28 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:08 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0723": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:43 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:23 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0738": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:58 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:38 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0753": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:13 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:53 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0808": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:28 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:08 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0823": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:43 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:23 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0838": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:58 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:38 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0853": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:13 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:53 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0908": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:28 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:08 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0923": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:43 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:23 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0938": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:58 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:38 AM",
+        "origin": "NCON"
+      }
+    ],
+    "0953": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:13 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:53 AM",
+        "origin": "NCON"
+      }
+    ]
+  }
+}

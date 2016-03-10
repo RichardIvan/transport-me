@@ -1,0 +1,5362 @@
+{
+  "FRI": {
+    "1005": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:20 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:05 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1020": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:35 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:20 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1035": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:50 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:35 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1050": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:05 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:50 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1105": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:20 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:05 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1120": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:35 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:20 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1135": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:50 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:35 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1150": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:50 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1205": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:05 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1220": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1235": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:35 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1250": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:50 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1305": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:05 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1320": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1335": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:35 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1350": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:50 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1405": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:05 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1420": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1435": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:35 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1450": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:50 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1505": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:05 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1520": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1535": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:35 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1550": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:50 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1605": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:05 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1620": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1635": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:35 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1650": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:50 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1705": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:05 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1720": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1735": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:35 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1750": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:50 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1805": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:05 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1820": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1835": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:35 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1850": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:50 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1905": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:05 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1920": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1935": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:35 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1954": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:54 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2014": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:14 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2034": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:34 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2054": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:54 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2114": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:14 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2134": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:34 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2154": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:54 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2214": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:14 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2234": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:34 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2254": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:54 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2314": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:14 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2334": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:34 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2354": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:08 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:54 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "0014": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "12:28 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/11/2016",
+        "origTimeMin": "12:14 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0043": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "12:57 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/11/2016",
+        "origTimeMin": "12:43 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0110": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "1:25 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/11/2016",
+        "origTimeMin": "1:10 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0450": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:05 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:50 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0505": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:20 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:05 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0520": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:35 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:20 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0535": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:50 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:35 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0550": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:05 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:50 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0605": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:20 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:05 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0620": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:35 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:20 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0635": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:50 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:35 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0650": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:05 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:50 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0705": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:20 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:05 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0722": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:36 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:22 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0737": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:51 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:37 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0752": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:06 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:52 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0807": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:21 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:07 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0822": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:36 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:22 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0837": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:51 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:37 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0850": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:05 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:50 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0905": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:20 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:05 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0920": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:35 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:20 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0935": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:50 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:35 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0950": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:05 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:50 AM",
+        "origin": "BAYF"
+      }
+    ]
+  },
+  "MON": {
+    "1005": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:20 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:05 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1020": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:35 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:20 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1035": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:50 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:35 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1050": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:05 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:50 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1105": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:20 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:05 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1120": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:35 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:20 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1135": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:50 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:35 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1150": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:50 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1205": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:05 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1220": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1235": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:35 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1250": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:50 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1305": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:05 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1320": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1335": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:35 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1350": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:50 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1405": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:05 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1420": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1435": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:35 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1450": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:50 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1505": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:05 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1520": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1535": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:35 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1550": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:50 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1605": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:05 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1620": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1635": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:35 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1650": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:50 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1705": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:05 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1720": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1735": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:35 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1750": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:50 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1805": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:05 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1820": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1835": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:35 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1850": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:50 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1905": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:05 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1920": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1935": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:35 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1954": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:54 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2014": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:14 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2034": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:34 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2054": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:54 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2114": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:14 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2134": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:34 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2154": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:54 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2214": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:14 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2234": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:34 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2254": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:54 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2314": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:14 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2334": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:34 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2354": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:08 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:54 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "0014": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:28 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:14 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0043": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:57 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:43 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0110": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:25 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:10 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0450": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:05 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:50 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0505": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:20 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:05 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0520": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:35 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:20 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0535": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:50 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:35 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0550": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:05 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:50 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0605": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:20 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:05 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0620": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:35 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:20 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0635": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:50 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:35 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0650": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:05 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:50 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0705": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:20 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:05 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0722": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:36 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:22 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0737": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:51 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:37 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0752": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:06 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:52 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0807": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:21 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:07 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0822": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:36 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:22 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0837": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:51 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:37 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0850": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:05 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:50 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0905": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:20 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:05 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0920": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:35 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:20 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0935": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:50 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:35 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0950": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:05 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:50 AM",
+        "origin": "BAYF"
+      }
+    ]
+  },
+  "SAT": {
+    "1014": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:28 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:14 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1034": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:48 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:34 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1054": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:08 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:54 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1114": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:28 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:14 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1134": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:48 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:34 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1154": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:54 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1214": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:14 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1234": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:34 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1254": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:54 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1314": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:14 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1334": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:34 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1354": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:54 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1414": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:14 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1434": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:34 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1454": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:54 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1514": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:14 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1534": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:34 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1554": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:54 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1614": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:14 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1634": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:34 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1654": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:54 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1714": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:14 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1734": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:34 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1754": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:54 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1814": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:14 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1834": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:34 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1854": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:54 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1914": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:14 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1934": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:34 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1954": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:54 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2014": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:14 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2034": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:34 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2054": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:54 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2114": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:14 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2134": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:34 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2154": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:54 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2214": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:14 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2234": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:34 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2254": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:54 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2314": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:14 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2334": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:34 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2354": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:08 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:54 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "0014": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:28 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:14 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0043": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:57 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:43 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0110": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:25 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:10 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0634": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:48 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:34 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0654": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:08 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:54 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0714": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:28 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:14 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0734": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:48 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:34 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0754": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:08 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:54 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0814": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:28 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:14 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0834": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:48 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:34 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0854": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:08 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:54 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0914": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:28 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:14 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0934": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:48 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:34 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0954": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:08 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:54 AM",
+        "origin": "BAYF"
+      }
+    ]
+  },
+  "SUN": {
+    "1014": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:28 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:14 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1034": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:48 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:34 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1054": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:08 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:54 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1114": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:28 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:14 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1134": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:48 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:34 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1154": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:54 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1214": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:14 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1234": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:34 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1254": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:54 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1314": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:14 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1334": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:34 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1354": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:54 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1414": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:14 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1434": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:34 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1454": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:54 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1514": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:14 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1534": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:34 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1554": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:54 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1614": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:14 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1634": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:34 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1654": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:54 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1714": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:14 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1734": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:34 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1754": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:54 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1814": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:14 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1834": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:34 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1854": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:54 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1914": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:14 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1934": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:34 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1954": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:54 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2014": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:14 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2034": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:34 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2054": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:54 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2114": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:14 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2134": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:34 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2154": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:54 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2214": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:14 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2234": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:34 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2254": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:54 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2314": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:14 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2334": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:34 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2354": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:08 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:54 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "0014": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:28 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:14 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0043": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:57 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:43 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0110": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:25 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:10 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0834": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:48 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:34 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0854": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:08 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:54 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0914": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:28 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:14 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0934": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:48 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:34 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0954": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:08 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:54 AM",
+        "origin": "BAYF"
+      }
+    ]
+  },
+  "THU": {
+    "1005": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:20 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:05 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1020": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:35 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:20 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1035": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:50 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:35 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1050": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:05 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:50 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1105": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:20 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:05 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1120": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:35 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:20 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1135": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:50 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:35 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1150": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:50 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1205": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:05 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1220": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1235": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:35 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1250": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:50 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1305": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:05 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1320": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1335": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:35 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1350": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:50 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1405": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:05 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1420": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1435": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:35 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1450": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:50 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1505": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:05 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1520": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1535": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:35 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1550": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:50 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1605": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:05 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1620": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1635": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:35 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1650": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:50 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1705": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:05 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1720": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1735": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:35 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1750": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:50 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1805": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:05 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1820": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1835": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:35 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1850": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:50 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1905": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:05 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1920": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1935": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:35 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1954": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:54 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2014": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:14 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2034": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:34 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2054": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:54 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2114": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:14 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2134": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:34 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2154": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:54 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2214": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:14 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2234": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:34 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2254": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:54 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2314": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:14 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2334": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:34 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2354": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "12:08 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:54 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "0014": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:28 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:14 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0043": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:57 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:43 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0110": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:25 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:10 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0450": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:05 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:50 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0505": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:20 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:05 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0520": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:35 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:20 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0535": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:50 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:35 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0550": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:05 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:50 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0605": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:20 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:05 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0620": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:35 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:20 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0635": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:50 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:35 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0650": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:05 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:50 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0705": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:20 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:05 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0722": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:36 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:22 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0737": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:51 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:37 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0752": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:06 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:52 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0807": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:21 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:07 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0822": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:36 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:22 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0837": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:51 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:37 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0850": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:05 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:50 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0905": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:20 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:05 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0920": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:35 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:20 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0935": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:50 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:35 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0950": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:05 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:50 AM",
+        "origin": "BAYF"
+      }
+    ]
+  },
+  "TUE": {
+    "1005": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:20 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:05 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1020": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:35 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:20 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1035": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:50 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:35 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1050": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:05 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:50 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1105": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:20 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:05 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1120": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:35 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:20 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1135": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:50 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:35 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1150": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:50 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1205": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:05 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1220": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1235": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:35 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1250": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:50 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1305": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:05 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1320": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1335": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:35 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1350": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:50 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1405": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:05 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1420": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1435": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:35 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1450": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:50 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1505": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:05 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1520": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1535": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:35 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1550": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:50 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1605": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:05 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1620": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1635": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:35 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1650": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:50 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1705": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:05 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1720": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1735": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:35 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1750": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:50 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1805": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:05 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1820": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1835": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:35 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1850": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:50 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1905": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:05 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1920": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1935": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:35 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1954": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:54 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2014": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:14 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2034": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:34 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2054": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:54 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2114": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:14 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2134": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:34 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2154": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:54 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2214": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:14 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2234": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:34 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2254": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:54 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2314": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:14 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2334": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:34 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2354": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:08 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:54 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "0014": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:28 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:14 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0043": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:57 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:43 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0110": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:25 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:10 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0450": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:05 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:50 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0505": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:20 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:05 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0520": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:35 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:20 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0535": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:50 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:35 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0550": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:05 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:50 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0605": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:20 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:05 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0620": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:35 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:20 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0635": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:50 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:35 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0650": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:05 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:50 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0705": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:20 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:05 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0722": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:36 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:22 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0737": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:51 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:37 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0752": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:06 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:52 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0807": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:21 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:07 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0822": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:36 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:22 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0837": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:51 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:37 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0850": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:05 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:50 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0905": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:20 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:05 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0920": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:35 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:20 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0935": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:50 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:35 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0950": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:05 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:50 AM",
+        "origin": "BAYF"
+      }
+    ]
+  },
+  "WED": {
+    "1005": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:20 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:05 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1020": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:35 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:20 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1035": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:50 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:35 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1050": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:05 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:50 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1105": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:20 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:05 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1120": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:35 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:20 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1135": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:50 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:35 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1150": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:50 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1205": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:05 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1220": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1235": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:35 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1250": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:50 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1305": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:05 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1320": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1335": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:35 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1350": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:50 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1405": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:05 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1420": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1435": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:35 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1450": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:50 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1505": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:05 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1520": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1535": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:35 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1550": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:50 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1605": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:05 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1620": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1635": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:35 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1650": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:50 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1705": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:05 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1720": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1735": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:35 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1750": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:50 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1805": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:05 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1820": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1835": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:35 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1850": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:50 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1905": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:05 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1920": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1935": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:35 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1954": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:54 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2014": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:14 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2034": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:34 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2054": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:54 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2114": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:14 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2134": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:34 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2154": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:54 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2214": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:14 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2234": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:34 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2254": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:54 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2314": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:14 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2334": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:34 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2354": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:08 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:54 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "0014": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:28 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:14 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0043": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:57 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:43 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0110": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:25 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:10 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0450": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:05 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:50 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0505": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:20 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:05 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0520": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:35 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:20 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0535": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:50 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:35 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0550": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:05 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:50 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0605": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:20 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:05 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0620": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:35 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:20 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0635": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:50 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:35 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0650": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:05 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:50 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0705": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:20 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:05 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0722": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:36 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:22 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0737": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:51 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:37 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0752": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:06 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:52 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0807": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:21 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:07 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0822": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:36 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:22 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0837": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:51 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:37 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0850": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:05 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:50 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0905": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:20 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:05 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0920": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:35 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:20 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0935": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:50 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:35 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0950": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:05 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:50 AM",
+        "origin": "BAYF"
+      }
+    ]
+  }
+}

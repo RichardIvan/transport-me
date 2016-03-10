@@ -1,0 +1,72 @@
+data/journey/12TH/16TH
+
+loop for each departure within old endpoint and extract all connections into an array
+
+get out unique ways of transport
+
+/
+parse the previous array for all of single type of this transport 
+
+find what line is the origin station on and get all the starting times and ways of transportation
+/
+
+// file one
+// ROUTES
+
+1 get ROUTES
+2 parse each route and save it's stations
+
+16TH/OAKL 
+[
+  {
+    origin: '16TH',
+    line: '01',
+    dest: '24TH'
+  },
+  {
+    origin: '24TH',
+    line: '07',
+    dest: 'OAKL'
+  }
+],
+[
+  {
+    origin: '16TH',
+    line: '01',
+    dest: '24TH'
+  }
+]
+
+// these are time difference of each station to first
+{'07': [{
+  '16TH': 1,
+  '24TH': 2,
+  'OAKL': 3
+  }]}
+[]
+
+// 12TH on line 01 has this first departure
+// the second array is ordered by timestamp, then converted back to the correct format after soting and put back to this array
+ 
+// create new array and add it to the full one of each item  
+// arr.splice(index, 0, item);
+
+
+/// SORT TIME
+
+// var times = ['01:00 am', '06:00 pm', '12:00 pm', '03:00 am', '12:00 am'];
+
+// times.sort(function (a, b) {
+//   return new Date('1970/01/01 ' + a) - new Date('1970/01/01 ' + b);
+// });
+
+// console.log(times);
+
+[
+  {'01': [[{'12TH': 04:36}, '16TH', 'OAKL'], ['04:32 AM', '05: 32', '05:35']]},
+  {'02': []}
+]
+
+{
+
+}

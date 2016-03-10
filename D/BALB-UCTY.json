@@ -1,0 +1,7544 @@
+{
+  "FRI": {
+    "1002": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:55 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:02 AM",
+        "origin": "BALB"
+      }
+    ],
+    "1017": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:10 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:17 AM",
+        "origin": "BALB"
+      }
+    ],
+    "1032": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:25 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:32 AM",
+        "origin": "BALB"
+      }
+    ],
+    "1047": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:40 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:47 AM",
+        "origin": "BALB"
+      }
+    ],
+    "1102": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:55 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:02 AM",
+        "origin": "BALB"
+      }
+    ],
+    "1117": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:10 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:17 AM",
+        "origin": "BALB"
+      }
+    ],
+    "1132": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:25 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:32 AM",
+        "origin": "BALB"
+      }
+    ],
+    "1147": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:40 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:47 AM",
+        "origin": "BALB"
+      }
+    ],
+    "1202": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:55 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:02 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1217": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:10 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:17 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1232": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:25 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:32 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1247": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:40 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:47 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1302": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:55 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:02 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1317": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:10 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:17 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1332": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:25 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:32 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1347": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:40 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:47 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1402": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:55 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:02 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1417": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:10 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:17 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1432": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:25 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:32 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1447": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:40 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:47 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1502": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:55 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:02 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1515": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:08 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:15 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1530": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:23 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:30 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1545": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:38 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:45 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1600": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:53 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:00 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1615": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:08 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:15 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1630": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:23 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:30 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1645": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:38 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:45 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1700": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:53 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:00 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1715": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:08 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:15 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1732": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:25 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:32 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1747": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:40 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:47 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1802": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:55 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:02 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1817": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:10 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:17 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1832": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:25 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:32 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1847": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:40 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:47 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1902": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:55 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:02 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1913": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:54 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:13 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:16 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:03 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1933": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:14 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:33 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:33 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1953": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:34 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:53 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:53 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:40 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2013": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:54 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:13 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:13 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:00 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2033": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:14 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:33 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:33 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2053": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:34 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:53 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:53 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:40 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2113": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:54 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:13 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:13 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:00 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2133": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:14 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:33 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:33 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2153": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:34 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:53 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:53 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:40 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2213": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:54 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:13 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:13 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:00 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2233": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:14 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:33 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:33 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2253": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:34 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:53 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:53 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:40 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2313": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:54 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:13 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:13 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:00 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "2333": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:14 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:33 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:33 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:20 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0002": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "12:43 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/11/2016",
+        "origTimeMin": "12:02 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "1:24 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/11/2016",
+        "origTimeMin": "1:10 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0410": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:50 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:10 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:16 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:03 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0425": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:05 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:25 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:31 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:18 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0440": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:20 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:40 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:46 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:33 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0455": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:35 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:55 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:01 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:48 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0510": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:50 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:10 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:16 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:03 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0525": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:05 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:25 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:31 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:18 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0540": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:20 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:40 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:46 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:33 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0555": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:35 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:55 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:01 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:48 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0617": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:10 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:17 AM",
+        "origin": "BALB"
+      }
+    ],
+    "0632": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:25 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:32 AM",
+        "origin": "BALB"
+      }
+    ],
+    "0647": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:40 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:47 AM",
+        "origin": "BALB"
+      }
+    ],
+    "0702": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:55 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:02 AM",
+        "origin": "BALB"
+      }
+    ],
+    "0717": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:10 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:17 AM",
+        "origin": "BALB"
+      }
+    ],
+    "0732": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:25 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:32 AM",
+        "origin": "BALB"
+      }
+    ],
+    "0747": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:40 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:47 AM",
+        "origin": "BALB"
+      }
+    ],
+    "0802": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:55 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:02 AM",
+        "origin": "BALB"
+      }
+    ],
+    "0817": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:10 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:17 AM",
+        "origin": "BALB"
+      }
+    ],
+    "0832": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:25 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:32 AM",
+        "origin": "BALB"
+      }
+    ],
+    "0847": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:40 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:47 AM",
+        "origin": "BALB"
+      }
+    ],
+    "0902": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:55 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:02 AM",
+        "origin": "BALB"
+      }
+    ],
+    "0917": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:10 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:17 AM",
+        "origin": "BALB"
+      }
+    ],
+    "0932": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:25 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:32 AM",
+        "origin": "BALB"
+      }
+    ],
+    "0947": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:40 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:47 AM",
+        "origin": "BALB"
+      }
+    ]
+  },
+  "MON": {
+    "1002": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:55 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:02 AM",
+        "origin": "BALB"
+      }
+    ],
+    "1017": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:10 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:17 AM",
+        "origin": "BALB"
+      }
+    ],
+    "1032": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:25 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:32 AM",
+        "origin": "BALB"
+      }
+    ],
+    "1047": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:40 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:47 AM",
+        "origin": "BALB"
+      }
+    ],
+    "1102": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:55 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:02 AM",
+        "origin": "BALB"
+      }
+    ],
+    "1117": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:10 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:17 AM",
+        "origin": "BALB"
+      }
+    ],
+    "1132": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:25 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:32 AM",
+        "origin": "BALB"
+      }
+    ],
+    "1147": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:40 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:47 AM",
+        "origin": "BALB"
+      }
+    ],
+    "1202": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:55 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:02 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1217": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:10 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:17 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1232": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:25 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:32 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1247": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:40 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:47 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1302": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:55 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:02 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1317": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:10 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:17 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1332": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:25 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:32 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1347": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:40 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:47 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1402": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:55 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:02 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1417": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:10 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:17 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1432": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:25 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:32 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1447": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:40 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:47 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1502": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:55 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:02 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1515": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:08 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:15 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1530": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:23 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:30 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1545": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:38 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:45 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1600": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:53 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:00 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1615": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:08 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:15 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1630": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:23 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:30 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1645": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:38 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:45 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1700": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:53 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:00 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1715": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:08 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:15 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1732": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:25 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:32 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1747": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:40 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:47 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1802": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:55 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:02 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1817": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:10 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:17 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1832": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:25 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:32 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1847": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:40 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:47 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1902": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:55 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:02 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1913": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:54 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:13 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:16 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:03 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1933": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:14 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:33 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:33 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1953": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:34 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:53 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:53 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:40 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2013": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:54 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:13 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:13 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:00 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2033": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:14 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:33 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:33 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2053": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:34 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:53 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:53 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:40 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2113": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:54 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:13 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:13 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:00 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2133": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:14 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:33 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:33 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2153": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:34 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:53 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:53 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:40 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2213": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:54 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:13 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:13 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:00 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2233": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:14 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:33 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:33 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2253": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:34 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:53 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:53 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:40 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2313": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:54 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:13 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:13 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:00 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "2333": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:14 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:33 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:33 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:20 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0002": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:43 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:02 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:24 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:10 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0410": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:50 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:10 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:16 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:03 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0425": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:05 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:25 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:31 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:18 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0440": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:20 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:40 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:46 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:33 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0455": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:35 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:55 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:01 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:48 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0510": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:50 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:10 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:16 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:03 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0525": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:05 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:25 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:31 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:18 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0540": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:20 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:40 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:46 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:33 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0555": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:35 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:55 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:01 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:48 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0617": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:10 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:17 AM",
+        "origin": "BALB"
+      }
+    ],
+    "0632": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:25 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:32 AM",
+        "origin": "BALB"
+      }
+    ],
+    "0647": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:40 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:47 AM",
+        "origin": "BALB"
+      }
+    ],
+    "0702": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:55 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:02 AM",
+        "origin": "BALB"
+      }
+    ],
+    "0717": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:10 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:17 AM",
+        "origin": "BALB"
+      }
+    ],
+    "0732": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:25 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:32 AM",
+        "origin": "BALB"
+      }
+    ],
+    "0747": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:40 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:47 AM",
+        "origin": "BALB"
+      }
+    ],
+    "0802": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:55 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:02 AM",
+        "origin": "BALB"
+      }
+    ],
+    "0817": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:10 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:17 AM",
+        "origin": "BALB"
+      }
+    ],
+    "0832": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:25 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:32 AM",
+        "origin": "BALB"
+      }
+    ],
+    "0847": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:40 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:47 AM",
+        "origin": "BALB"
+      }
+    ],
+    "0902": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:55 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:02 AM",
+        "origin": "BALB"
+      }
+    ],
+    "0917": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:10 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:17 AM",
+        "origin": "BALB"
+      }
+    ],
+    "0932": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:25 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:32 AM",
+        "origin": "BALB"
+      }
+    ],
+    "0947": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:40 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:47 AM",
+        "origin": "BALB"
+      }
+    ]
+  },
+  "SAT": {
+    "1002": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:55 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:02 AM",
+        "origin": "BALB"
+      }
+    ],
+    "1013": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:54 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:13 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:13 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:00 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1022": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:15 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:22 AM",
+        "origin": "BALB"
+      }
+    ],
+    "1033": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:14 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:33 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:33 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:20 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1042": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:35 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:42 AM",
+        "origin": "BALB"
+      }
+    ],
+    "1053": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:34 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:53 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:53 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:40 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1102": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:55 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:02 AM",
+        "origin": "BALB"
+      }
+    ],
+    "1113": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:54 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:13 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:13 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:00 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1122": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:15 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:22 AM",
+        "origin": "BALB"
+      }
+    ],
+    "1133": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:14 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:33 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:33 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1142": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:35 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:42 AM",
+        "origin": "BALB"
+      }
+    ],
+    "1153": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:34 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:53 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:53 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:40 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1202": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:55 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:02 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1213": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:54 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:13 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:13 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:00 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1222": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:15 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:22 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1233": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:14 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:33 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:33 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1242": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:35 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:42 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1253": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:34 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:53 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:53 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:40 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1302": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:55 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:02 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1313": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:54 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:13 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:13 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:00 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1322": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:15 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:22 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1333": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:14 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:33 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:33 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1342": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:35 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:42 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1353": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:34 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:53 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:53 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:40 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1402": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:55 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:02 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1413": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:54 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:13 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:13 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:00 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1422": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:15 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:22 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1433": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:14 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:33 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:33 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1442": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:35 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:42 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1453": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:34 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:53 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:53 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:40 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1502": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:55 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:02 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1513": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:54 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:13 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:13 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:00 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1522": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:15 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:22 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1533": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:14 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:33 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:33 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1542": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:35 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:42 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1553": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:34 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:53 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:53 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:40 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1602": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:55 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:02 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1613": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:54 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:13 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:13 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:00 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1622": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:15 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:22 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1633": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:14 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:33 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:33 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1642": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:35 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:42 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1653": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:34 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:53 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:53 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:40 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1702": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:55 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:02 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1713": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:54 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:13 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:13 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:00 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1722": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:15 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:22 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1733": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:14 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:33 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:33 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1742": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:35 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:42 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1753": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:34 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:53 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:53 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:40 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1802": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:55 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:02 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1813": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:54 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:13 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:13 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:00 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1822": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:15 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:22 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1833": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:14 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:33 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:33 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1842": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:35 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:42 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1853": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:34 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:53 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:53 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:40 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1902": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:55 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:02 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1913": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:54 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:13 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:13 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:00 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1933": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:14 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:33 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:33 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1953": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:34 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:53 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:53 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:40 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2013": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:54 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:13 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:13 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:00 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2033": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:14 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:33 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:33 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2053": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:34 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:53 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:53 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:40 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2113": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:54 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:13 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:13 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:00 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2133": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:14 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:33 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:33 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2153": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:34 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:53 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:53 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:40 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2213": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:54 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:13 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:13 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:00 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2233": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:14 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:33 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:33 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2253": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:34 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:53 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:53 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:40 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2313": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:54 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:13 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:13 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:00 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "2333": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:14 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:33 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:33 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:20 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0002": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:43 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:02 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:24 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:10 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0613": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:54 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:13 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:13 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:00 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0633": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:14 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:33 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:33 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:20 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0653": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:34 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:53 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:53 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:40 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0713": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:54 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:13 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:13 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:00 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0733": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:14 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:33 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:33 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:20 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0753": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:34 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:53 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:53 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:40 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0813": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:54 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:13 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:13 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:00 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0833": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:14 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:33 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:33 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:20 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0853": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:34 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:53 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:53 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:40 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0913": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:54 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:13 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:13 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:00 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0933": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:14 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:33 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:33 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:20 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0953": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:34 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:53 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:53 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:40 AM",
+        "origin": "BAYF"
+      }
+    ]
+  },
+  "SUN": {
+    "1013": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:54 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:13 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:13 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:00 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1033": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:14 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:33 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:33 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:20 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1053": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:34 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:53 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:53 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:40 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1113": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:54 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:13 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:13 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:00 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1133": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:14 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:33 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:33 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1153": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:34 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:53 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:53 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:40 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1213": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:54 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:13 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:13 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:00 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1233": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:14 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:33 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:33 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1253": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:34 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:53 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:53 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:40 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1313": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:54 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:13 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:13 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:00 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1333": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:14 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:33 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:33 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1353": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:34 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:53 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:53 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:40 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1413": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:54 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:13 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:13 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:00 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1433": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:14 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:33 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:33 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1453": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:34 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:53 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:53 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:40 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1513": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:54 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:13 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:13 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:00 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1533": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:14 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:33 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:33 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1553": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:34 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:53 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:53 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:40 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1613": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:54 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:13 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:13 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:00 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1633": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:14 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:33 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:33 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1653": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:34 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:53 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:53 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:40 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1713": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:54 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:13 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:13 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:00 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1733": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:14 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:33 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:33 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1753": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:34 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:53 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:53 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:40 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1813": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:54 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:13 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:13 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:00 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1833": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:14 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:33 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:33 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1853": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:34 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:53 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:53 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:40 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1913": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:54 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:13 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:13 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:00 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1933": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:14 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:33 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:33 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1953": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:34 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:53 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:53 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:40 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2013": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:54 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:13 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:13 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:00 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2033": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:14 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:33 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:33 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2053": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:34 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:53 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:53 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:40 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2113": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:54 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:13 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:13 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:00 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2133": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:14 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:33 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:33 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2153": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:34 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:53 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:53 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:40 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2213": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:54 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:13 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:13 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:00 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2233": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:14 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:33 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:33 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2253": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:34 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:53 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:53 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:40 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2313": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:54 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:13 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:13 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:00 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "2333": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:14 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:33 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:33 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:20 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0002": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:43 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:02 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:24 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:10 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0753": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:34 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:53 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:53 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:40 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0813": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:54 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:13 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:13 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:00 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0833": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:14 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:33 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:33 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:20 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0853": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:34 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:53 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:53 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:40 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0913": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:54 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:13 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:13 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:00 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0933": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:14 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:33 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:33 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:20 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0953": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:34 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:53 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:53 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:40 AM",
+        "origin": "BAYF"
+      }
+    ]
+  },
+  "THU": {
+    "1002": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:55 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:02 AM",
+        "origin": "BALB"
+      }
+    ],
+    "1017": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:10 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:17 AM",
+        "origin": "BALB"
+      }
+    ],
+    "1032": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:25 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:32 AM",
+        "origin": "BALB"
+      }
+    ],
+    "1047": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:40 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:47 AM",
+        "origin": "BALB"
+      }
+    ],
+    "1102": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:55 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:02 AM",
+        "origin": "BALB"
+      }
+    ],
+    "1117": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:10 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:17 AM",
+        "origin": "BALB"
+      }
+    ],
+    "1132": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:25 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:32 AM",
+        "origin": "BALB"
+      }
+    ],
+    "1147": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:40 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:47 AM",
+        "origin": "BALB"
+      }
+    ],
+    "1202": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:55 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:02 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1217": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:10 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:17 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1232": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:25 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:32 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1247": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:40 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:47 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1302": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:55 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:02 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1317": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:10 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:17 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1332": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:25 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:32 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1347": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:40 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:47 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1402": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:55 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:02 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1417": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:10 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:17 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1432": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:25 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:32 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1447": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:40 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:47 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1502": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:55 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:02 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1515": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:08 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:15 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1530": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:23 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:30 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1545": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:38 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:45 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1600": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:53 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:00 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1615": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:08 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:15 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1630": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:23 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:30 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1645": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:38 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:45 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1700": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:53 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:00 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1715": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:08 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:15 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1732": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:25 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:32 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1747": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:40 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:47 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1802": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:55 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:02 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1817": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:10 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:17 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1832": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:25 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:32 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1847": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:40 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:47 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1902": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:55 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:02 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1913": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:54 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:13 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:16 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:03 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1933": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:14 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:33 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:33 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1953": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:34 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:53 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:53 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:40 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2013": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:54 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:13 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:13 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:00 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2033": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:14 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:33 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:33 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2053": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:34 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:53 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:53 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:40 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2113": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:54 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:13 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:13 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:00 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2133": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:14 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:33 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:33 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2153": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:34 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:53 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:53 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:40 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2213": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:54 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:13 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:13 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:00 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2233": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:14 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:33 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:33 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2253": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:34 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:53 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:53 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:40 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2313": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:54 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:13 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "12:13 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:00 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "2333": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "12:14 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:33 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "12:33 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/11/2016",
+        "origTimeMin": "12:20 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0002": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:43 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:02 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:24 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:10 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0410": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:50 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:10 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:16 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:03 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0425": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:05 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:25 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:31 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:18 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0440": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:20 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:40 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:46 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:33 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0455": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:35 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:55 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:01 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:48 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0510": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:50 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:10 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:16 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:03 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0525": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:05 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:25 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:31 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:18 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0540": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:20 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:40 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:46 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:33 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0555": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:35 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:55 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:01 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:48 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0617": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:10 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:17 AM",
+        "origin": "BALB"
+      }
+    ],
+    "0632": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:25 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:32 AM",
+        "origin": "BALB"
+      }
+    ],
+    "0647": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:40 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:47 AM",
+        "origin": "BALB"
+      }
+    ],
+    "0702": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:55 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:02 AM",
+        "origin": "BALB"
+      }
+    ],
+    "0717": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:10 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:17 AM",
+        "origin": "BALB"
+      }
+    ],
+    "0732": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:25 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:32 AM",
+        "origin": "BALB"
+      }
+    ],
+    "0747": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:40 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:47 AM",
+        "origin": "BALB"
+      }
+    ],
+    "0802": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:55 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:02 AM",
+        "origin": "BALB"
+      }
+    ],
+    "0817": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:10 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:17 AM",
+        "origin": "BALB"
+      }
+    ],
+    "0832": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:25 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:32 AM",
+        "origin": "BALB"
+      }
+    ],
+    "0847": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:40 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:47 AM",
+        "origin": "BALB"
+      }
+    ],
+    "0902": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:55 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:02 AM",
+        "origin": "BALB"
+      }
+    ],
+    "0917": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:10 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:17 AM",
+        "origin": "BALB"
+      }
+    ],
+    "0932": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:25 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:32 AM",
+        "origin": "BALB"
+      }
+    ],
+    "0947": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:40 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:47 AM",
+        "origin": "BALB"
+      }
+    ]
+  },
+  "TUE": {
+    "1002": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:55 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:02 AM",
+        "origin": "BALB"
+      }
+    ],
+    "1017": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:10 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:17 AM",
+        "origin": "BALB"
+      }
+    ],
+    "1032": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:25 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:32 AM",
+        "origin": "BALB"
+      }
+    ],
+    "1047": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:40 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:47 AM",
+        "origin": "BALB"
+      }
+    ],
+    "1102": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:55 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:02 AM",
+        "origin": "BALB"
+      }
+    ],
+    "1117": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:10 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:17 AM",
+        "origin": "BALB"
+      }
+    ],
+    "1132": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:25 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:32 AM",
+        "origin": "BALB"
+      }
+    ],
+    "1147": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:40 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:47 AM",
+        "origin": "BALB"
+      }
+    ],
+    "1202": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:55 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:02 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1217": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:10 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:17 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1232": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:25 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:32 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1247": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:40 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:47 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1302": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:55 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:02 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1317": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:10 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:17 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1332": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:25 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:32 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1347": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:40 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:47 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1402": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:55 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:02 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1417": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:10 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:17 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1432": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:25 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:32 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1447": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:40 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:47 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1502": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:55 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:02 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1515": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:08 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:15 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1530": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:23 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:30 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1545": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:38 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:45 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1600": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:53 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:00 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1615": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:08 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:15 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1630": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:23 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:30 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1645": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:38 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:45 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1700": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:53 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:00 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1715": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:08 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:15 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1732": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:25 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:32 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1747": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:40 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:47 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1802": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:55 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:02 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1817": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:10 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:17 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1832": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:25 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:32 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1847": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:40 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:47 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1902": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:55 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:02 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1913": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:54 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:13 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:16 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:03 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1933": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:14 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:33 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:33 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1953": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:34 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:53 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:53 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:40 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2013": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:54 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:13 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:13 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:00 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2033": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:14 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:33 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:33 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2053": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:34 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:53 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:53 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:40 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2113": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:54 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:13 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:13 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:00 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2133": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:14 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:33 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:33 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2153": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:34 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:53 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:53 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:40 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2213": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:54 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:13 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:13 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:00 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2233": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:14 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:33 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:33 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2253": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:34 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:53 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:53 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:40 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2313": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:54 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:13 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:13 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:00 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "2333": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:14 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:33 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:33 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:20 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0002": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:43 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:02 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:24 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:10 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0410": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:50 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:10 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:16 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:03 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0425": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:05 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:25 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:31 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:18 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0440": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:20 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:40 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:46 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:33 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0455": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:35 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:55 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:01 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:48 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0510": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:50 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:10 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:16 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:03 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0525": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:05 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:25 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:31 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:18 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0540": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:20 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:40 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:46 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:33 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0555": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:35 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:55 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:01 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:48 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0617": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:10 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:17 AM",
+        "origin": "BALB"
+      }
+    ],
+    "0632": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:25 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:32 AM",
+        "origin": "BALB"
+      }
+    ],
+    "0647": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:40 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:47 AM",
+        "origin": "BALB"
+      }
+    ],
+    "0702": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:55 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:02 AM",
+        "origin": "BALB"
+      }
+    ],
+    "0717": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:10 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:17 AM",
+        "origin": "BALB"
+      }
+    ],
+    "0732": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:25 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:32 AM",
+        "origin": "BALB"
+      }
+    ],
+    "0747": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:40 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:47 AM",
+        "origin": "BALB"
+      }
+    ],
+    "0802": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:55 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:02 AM",
+        "origin": "BALB"
+      }
+    ],
+    "0817": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:10 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:17 AM",
+        "origin": "BALB"
+      }
+    ],
+    "0832": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:25 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:32 AM",
+        "origin": "BALB"
+      }
+    ],
+    "0847": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:40 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:47 AM",
+        "origin": "BALB"
+      }
+    ],
+    "0902": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:55 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:02 AM",
+        "origin": "BALB"
+      }
+    ],
+    "0917": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:10 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:17 AM",
+        "origin": "BALB"
+      }
+    ],
+    "0932": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:25 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:32 AM",
+        "origin": "BALB"
+      }
+    ],
+    "0947": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:40 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:47 AM",
+        "origin": "BALB"
+      }
+    ]
+  },
+  "WED": {
+    "1002": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:55 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:02 AM",
+        "origin": "BALB"
+      }
+    ],
+    "1017": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:10 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:17 AM",
+        "origin": "BALB"
+      }
+    ],
+    "1032": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:25 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:32 AM",
+        "origin": "BALB"
+      }
+    ],
+    "1047": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:40 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:47 AM",
+        "origin": "BALB"
+      }
+    ],
+    "1102": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:55 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:02 AM",
+        "origin": "BALB"
+      }
+    ],
+    "1117": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:10 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:17 AM",
+        "origin": "BALB"
+      }
+    ],
+    "1132": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:25 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:32 AM",
+        "origin": "BALB"
+      }
+    ],
+    "1147": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:40 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:47 AM",
+        "origin": "BALB"
+      }
+    ],
+    "1202": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:55 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:02 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1217": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:10 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:17 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1232": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:25 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:32 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1247": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:40 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:47 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1302": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:55 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:02 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1317": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:10 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:17 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1332": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:25 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:32 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1347": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:40 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:47 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1402": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:55 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:02 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1417": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:10 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:17 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1432": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:25 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:32 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1447": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:40 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:47 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1502": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:55 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:02 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1515": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:08 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:15 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1530": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:23 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:30 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1545": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:38 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:45 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1600": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:53 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:00 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1615": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:08 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:15 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1630": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:23 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:30 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1645": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:38 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:45 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1700": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:53 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:00 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1715": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:08 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:15 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1732": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:25 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:32 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1747": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:40 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:47 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1802": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:55 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:02 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1817": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:10 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:17 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1832": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:25 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:32 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1847": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:40 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:47 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1902": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:55 PM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:02 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1913": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:54 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:13 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:16 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:03 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1933": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:14 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:33 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:33 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1953": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:34 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:53 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:53 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:40 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2013": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:54 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:13 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:13 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:00 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2033": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:14 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:33 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:33 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2053": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:34 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:53 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:53 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:40 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2113": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:54 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:13 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:13 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:00 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2133": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:14 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:33 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:33 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2153": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:34 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:53 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:53 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:40 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2213": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:54 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:13 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:13 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:00 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2233": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:14 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:33 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:33 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:20 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2253": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:34 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:53 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:53 PM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:40 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2313": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:54 PM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:13 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:13 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:00 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "2333": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:14 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:33 PM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:33 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:20 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0002": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:43 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:02 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:24 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:10 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0410": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:50 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:10 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:16 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:03 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0425": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:05 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:25 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:31 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:18 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0440": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:20 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:40 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:46 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:33 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0455": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:35 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:55 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:01 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:48 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0510": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:50 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:10 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:16 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:03 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0525": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:05 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:25 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:31 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:18 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0540": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:20 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:40 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:46 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:33 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0555": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:35 AM",
+        "destination": "BAYF",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:55 AM",
+        "origin": "BALB"
+      },
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:01 AM",
+        "destination": "UCTY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:48 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0617": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:10 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:17 AM",
+        "origin": "BALB"
+      }
+    ],
+    "0632": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:25 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:32 AM",
+        "origin": "BALB"
+      }
+    ],
+    "0647": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:40 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:47 AM",
+        "origin": "BALB"
+      }
+    ],
+    "0702": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:55 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:02 AM",
+        "origin": "BALB"
+      }
+    ],
+    "0717": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:10 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:17 AM",
+        "origin": "BALB"
+      }
+    ],
+    "0732": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:25 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:32 AM",
+        "origin": "BALB"
+      }
+    ],
+    "0747": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:40 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:47 AM",
+        "origin": "BALB"
+      }
+    ],
+    "0802": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:55 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:02 AM",
+        "origin": "BALB"
+      }
+    ],
+    "0817": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:10 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:17 AM",
+        "origin": "BALB"
+      }
+    ],
+    "0832": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:25 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:32 AM",
+        "origin": "BALB"
+      }
+    ],
+    "0847": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:40 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:47 AM",
+        "origin": "BALB"
+      }
+    ],
+    "0902": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:55 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:02 AM",
+        "origin": "BALB"
+      }
+    ],
+    "0917": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:10 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:17 AM",
+        "origin": "BALB"
+      }
+    ],
+    "0932": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:25 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:32 AM",
+        "origin": "BALB"
+      }
+    ],
+    "0947": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:40 AM",
+        "destination": "UCTY",
+        "line": "06",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:47 AM",
+        "origin": "BALB"
+      }
+    ]
+  }
+}

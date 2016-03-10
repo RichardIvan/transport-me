@@ -1,0 +1,5263 @@
+{
+  "FRI": {
+    "1000": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:47 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:00 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "1015": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:02 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:15 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "1030": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:17 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:30 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "1045": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:32 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:45 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "1100": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:47 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:00 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "1115": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:02 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:15 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "1130": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:17 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:30 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "1145": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:32 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:45 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "1200": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:47 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:00 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1215": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:02 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:15 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1230": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:17 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:30 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1245": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:32 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:45 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1300": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:47 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:00 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1315": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:02 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:15 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1330": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:17 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:30 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1345": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:32 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:45 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1400": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:47 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:00 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1415": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:02 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:15 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1430": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:17 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:30 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1445": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:32 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:45 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1500": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:47 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:00 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1515": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:02 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:15 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1530": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:17 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:30 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1545": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:32 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:45 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1600": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:47 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:00 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1615": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:02 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:15 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1630": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:17 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:30 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1645": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:32 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:45 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1700": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:47 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:00 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1715": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:02 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:15 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1730": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:17 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:30 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1745": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:32 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:45 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1800": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:47 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:00 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1815": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:02 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:15 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1830": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:17 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:30 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1845": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:32 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:45 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1900": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:47 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:00 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1915": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:02 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:15 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1939": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:26 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:39 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2003": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:50 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:03 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2023": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:10 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:23 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2043": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:30 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:43 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2103": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:50 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:03 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2123": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:10 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:23 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2143": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:30 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:43 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2203": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:50 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:03 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2223": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:10 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:23 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2243": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:30 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:43 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2303": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:50 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:03 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2323": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:10 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:23 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2343": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:30 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:43 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "0000": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:46 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:00 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0415": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:02 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:15 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0430": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:17 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:30 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0445": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:32 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:45 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0500": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:47 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:00 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0515": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:02 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:15 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0530": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:17 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:30 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0545": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:32 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:45 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0600": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:47 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:00 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0615": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:02 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:15 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0630": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:17 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:30 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0645": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:32 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:45 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0700": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:47 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:00 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0715": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:02 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:15 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0730": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:17 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:30 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0745": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:32 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:45 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0800": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:47 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:00 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0815": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:02 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:15 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0830": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:17 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:30 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0845": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:32 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:45 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0900": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:47 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:00 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0915": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:02 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:15 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0930": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:17 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:30 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0945": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:32 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:45 AM",
+        "origin": "WDUB"
+      }
+    ]
+  },
+  "MON": {
+    "1000": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:47 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:00 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "1015": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:02 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:15 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "1030": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:17 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:30 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "1045": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:32 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:45 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "1100": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:47 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:00 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "1115": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:02 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:15 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "1130": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:17 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:30 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "1145": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:32 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:45 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "1200": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:47 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:00 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1215": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:02 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:15 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1230": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:17 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:30 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1245": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:32 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:45 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1300": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:47 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:00 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1315": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:02 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:15 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1330": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:17 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:30 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1345": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:32 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:45 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1400": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:47 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:00 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1415": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:02 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:15 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1430": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:17 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:30 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1445": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:32 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:45 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1500": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:47 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:00 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1515": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:02 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:15 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1530": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:17 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:30 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1545": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:32 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:45 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1600": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:47 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:00 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1615": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:02 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:15 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1630": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:17 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:30 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1645": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:32 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:45 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1700": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:47 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:00 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1715": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:02 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:15 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1730": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:17 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:30 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1745": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:32 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:45 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1800": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:47 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:00 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1815": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:02 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:15 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1830": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:17 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:30 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1845": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:32 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:45 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1900": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:47 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:00 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1915": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:02 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:15 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1939": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:26 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:39 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2003": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:50 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:03 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2023": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:10 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:23 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2043": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:30 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:43 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2103": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:50 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:03 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2123": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:10 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:23 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2143": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:30 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:43 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2203": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:50 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:03 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2223": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:10 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:23 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2243": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:30 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:43 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2303": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:50 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:03 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2333": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:20 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:33 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "0000": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:46 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:00 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0415": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:02 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:15 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0430": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:17 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:30 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0445": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:32 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:45 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0500": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:47 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:00 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0515": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:02 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:15 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0530": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:17 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:30 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0545": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:32 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:45 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0600": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:47 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:00 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0615": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:02 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:15 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0630": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:17 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:30 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0645": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:32 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:45 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0700": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:47 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:00 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0715": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:02 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:15 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0730": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:17 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:30 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0745": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:32 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:45 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0800": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:47 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:00 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0815": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:02 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:15 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0830": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:17 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:30 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0845": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:32 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:45 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0900": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:47 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:00 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0915": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:02 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:15 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0930": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:17 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:30 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0945": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:32 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:45 AM",
+        "origin": "WDUB"
+      }
+    ]
+  },
+  "SAT": {
+    "1003": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:50 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:03 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "1023": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:10 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:23 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "1043": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:30 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:43 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "1103": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:50 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:03 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "1123": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:10 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:23 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "1143": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:30 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:43 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "1203": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:50 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:03 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1223": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:10 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:23 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1243": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:30 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:43 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1303": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:50 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:03 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1323": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:10 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:23 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1343": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:30 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:43 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1403": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:50 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:03 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1423": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:10 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:23 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1443": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:30 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:43 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1503": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:50 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:03 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1523": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:10 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:23 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1543": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:30 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:43 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1603": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:50 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:03 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1623": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:10 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:23 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1643": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:30 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:43 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1703": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:50 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:03 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1723": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:10 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:23 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1743": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:30 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:43 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1803": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:50 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:03 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1823": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:10 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:23 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1843": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:30 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:43 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1903": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:50 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:03 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1923": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:10 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:23 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1943": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:30 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:43 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2003": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:50 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:03 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2023": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:10 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:23 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2043": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:30 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:43 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2103": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:50 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:03 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2123": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:10 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:23 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2143": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:30 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:43 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2203": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:50 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:03 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2223": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:10 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:23 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2243": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:30 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:43 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2303": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:50 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:03 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2323": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:10 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:23 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2343": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:30 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:43 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "0000": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:46 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:00 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0603": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:50 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:03 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0623": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:10 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:23 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0643": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:30 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:43 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0703": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:50 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:03 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0723": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:10 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:23 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0743": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:30 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:43 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0803": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:50 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:03 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0823": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:10 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:23 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0843": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:30 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:43 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0903": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:50 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:03 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0923": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:10 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:23 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0943": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:30 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:43 AM",
+        "origin": "WDUB"
+      }
+    ]
+  },
+  "SUN": {
+    "1003": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:50 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:03 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "1023": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:10 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:23 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "1043": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:30 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:43 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "1103": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:50 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:03 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "1123": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:10 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:23 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "1143": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:30 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:43 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "1203": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:50 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:03 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1223": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:10 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:23 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1243": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:30 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:43 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1303": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:50 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:03 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1323": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:10 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:23 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1343": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:30 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:43 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1403": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:50 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:03 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1423": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:10 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:23 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1443": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:30 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:43 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1503": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:50 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:03 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1523": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:10 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:23 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1543": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:30 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:43 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1603": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:50 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:03 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1623": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:10 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:23 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1643": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:30 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:43 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1703": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:50 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:03 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1723": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:10 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:23 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1743": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:30 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:43 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1803": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:50 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:03 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1823": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:10 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:23 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1843": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:30 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:43 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1903": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:50 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:03 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1923": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:10 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:23 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1943": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:30 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:43 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2003": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:50 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:03 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2023": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:10 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:23 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2043": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:30 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:43 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2103": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:50 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:03 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2123": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:10 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:23 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2143": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:30 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:43 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2203": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:50 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:03 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2223": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:10 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:23 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2243": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:30 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:43 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2303": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:50 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:03 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2333": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:20 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:33 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "0000": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:46 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:00 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0803": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:50 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:03 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0823": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:10 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:23 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0843": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:30 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:43 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0903": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:50 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:03 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0923": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:10 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:23 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0943": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:30 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:43 AM",
+        "origin": "WDUB"
+      }
+    ]
+  },
+  "THU": {
+    "1000": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:47 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:00 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "1015": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:02 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:15 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "1030": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:17 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:30 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "1045": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:32 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:45 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "1100": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:47 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:00 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "1115": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:02 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:15 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "1130": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:17 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:30 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "1145": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:32 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:45 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "1200": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:47 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:00 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1215": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:02 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:15 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1230": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:17 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:30 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1245": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:32 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:45 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1300": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:47 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:00 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1315": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:02 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:15 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1330": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:17 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:30 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1345": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:32 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:45 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1400": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:47 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:00 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1415": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:02 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:15 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1430": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:17 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:30 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1445": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:32 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:45 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1500": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:47 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:00 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1515": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:02 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:15 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1530": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:17 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:30 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1545": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:32 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:45 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1600": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:47 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:00 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1615": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:02 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:15 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1630": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:17 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:30 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1645": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:32 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:45 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1700": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:47 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:00 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1715": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:02 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:15 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1730": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:17 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:30 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1745": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:32 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:45 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1800": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:47 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:00 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1815": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:02 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:15 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1830": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:17 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:30 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1845": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:32 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:45 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1900": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:47 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:00 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1915": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:02 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:15 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1939": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:26 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:39 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2003": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:50 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:03 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2023": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:10 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:23 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2043": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:30 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:43 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2103": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:50 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:03 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2123": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:10 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:23 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2143": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:30 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:43 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2203": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:50 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:03 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2223": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:10 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:23 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2243": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:30 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:43 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2303": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:50 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:03 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2323": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "12:10 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:23 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2343": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "12:30 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:43 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "0000": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "12:46 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:00 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0415": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:02 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:15 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0430": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:17 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:30 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0445": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:32 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:45 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0500": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:47 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:00 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0515": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:02 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:15 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0530": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:17 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:30 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0545": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:32 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:45 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0600": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:47 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:00 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0615": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:02 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:15 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0630": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:17 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:30 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0645": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:32 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:45 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0700": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:47 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:00 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0715": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:02 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:15 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0730": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:17 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:30 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0745": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:32 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:45 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0800": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:47 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:00 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0815": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:02 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:15 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0830": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:17 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:30 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0845": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:32 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:45 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0900": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:47 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:00 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0915": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:02 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:15 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0930": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:17 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:30 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0945": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:32 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:45 AM",
+        "origin": "WDUB"
+      }
+    ]
+  },
+  "TUE": {
+    "1000": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:47 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:00 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "1015": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:02 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:15 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "1030": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:17 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:30 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "1045": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:32 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:45 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "1100": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:47 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:00 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "1115": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:02 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:15 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "1130": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:17 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:30 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "1145": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:32 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:45 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "1200": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:47 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:00 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1215": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:02 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:15 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1230": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:17 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:30 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1245": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:32 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:45 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1300": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:47 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:00 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1315": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:02 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:15 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1330": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:17 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:30 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1345": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:32 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:45 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1400": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:47 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:00 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1415": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:02 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:15 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1430": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:17 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:30 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1445": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:32 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:45 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1500": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:47 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:00 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1515": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:02 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:15 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1530": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:17 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:30 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1545": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:32 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:45 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1600": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:47 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:00 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1615": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:02 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:15 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1630": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:17 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:30 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1645": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:32 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:45 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1700": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:47 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:00 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1715": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:02 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:15 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1730": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:17 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:30 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1745": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:32 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:45 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1800": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:47 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:00 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1815": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:02 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:15 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1830": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:17 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:30 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1845": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:32 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:45 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1900": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:47 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:00 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1915": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:02 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:15 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1939": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:26 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:39 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2003": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:50 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:03 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2023": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:10 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:23 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2043": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:30 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:43 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2103": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:50 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:03 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2123": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:10 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:23 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2143": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:30 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:43 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2203": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:50 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:03 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2223": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:10 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:23 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2243": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:30 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:43 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2303": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:50 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:03 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2323": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:10 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:23 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2343": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:30 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:43 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "0000": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:46 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:00 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0415": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:02 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:15 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0430": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:17 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:30 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0445": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:32 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:45 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0500": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:47 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:00 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0515": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:02 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:15 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0530": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:17 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:30 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0545": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:32 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:45 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0600": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:47 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:00 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0615": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:02 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:15 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0630": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:17 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:30 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0645": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:32 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:45 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0700": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:47 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:00 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0715": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:02 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:15 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0730": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:17 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:30 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0745": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:32 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:45 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0800": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:47 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:00 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0815": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:02 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:15 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0830": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:17 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:30 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0845": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:32 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:45 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0900": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:47 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:00 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0915": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:02 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:15 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0930": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:17 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:30 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0945": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:32 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:45 AM",
+        "origin": "WDUB"
+      }
+    ]
+  },
+  "WED": {
+    "1000": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:47 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:00 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "1015": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:02 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:15 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "1030": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:17 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:30 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "1045": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:32 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:45 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "1100": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:47 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:00 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "1115": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:02 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:15 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "1130": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:17 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:30 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "1145": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:32 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:45 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "1200": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:47 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:00 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1215": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:02 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:15 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1230": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:17 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:30 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1245": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:32 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:45 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1300": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:47 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:00 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1315": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:02 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:15 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1330": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:17 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:30 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1345": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:32 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:45 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1400": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:47 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:00 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1415": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:02 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:15 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1430": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:17 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:30 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1445": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:32 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:45 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1500": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:47 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:00 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1515": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:02 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:15 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1530": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:17 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:30 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1545": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:32 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:45 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1600": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:47 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:00 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1615": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:02 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:15 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1630": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:17 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:30 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1645": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:32 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:45 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1700": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:47 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:00 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1715": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:02 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:15 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1730": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:17 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:30 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1745": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:32 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:45 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1800": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:47 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:00 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1815": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:02 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:15 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1830": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:17 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:30 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1845": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:32 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:45 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1900": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:47 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:00 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1915": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:02 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:15 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "1939": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:26 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:39 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2003": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:50 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:03 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2023": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:10 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:23 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2043": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:30 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:43 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2103": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:50 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:03 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2123": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:10 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:23 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2143": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:30 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:43 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2203": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:50 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:03 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2223": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:10 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:23 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2243": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:30 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:43 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2303": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:50 PM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:03 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2323": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:10 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:23 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "2343": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:30 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:43 PM",
+        "origin": "WDUB"
+      }
+    ],
+    "0000": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:46 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:00 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0415": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:02 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:15 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0430": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:17 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:30 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0445": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:32 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:45 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0500": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:47 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:00 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0515": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:02 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:15 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0530": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:17 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:30 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0545": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:32 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:45 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0600": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:47 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:00 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0615": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:02 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:15 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0630": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:17 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:30 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0645": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:32 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:45 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0700": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:47 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:00 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0715": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:02 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:15 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0730": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:17 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:30 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0745": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:32 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:45 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0800": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:47 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:00 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0815": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:02 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:15 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0830": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:17 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:30 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0845": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:32 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:45 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0900": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:47 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:00 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0915": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:02 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:15 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0930": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:17 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:30 AM",
+        "origin": "WDUB"
+      }
+    ],
+    "0945": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:32 AM",
+        "destination": "CIVC",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:45 AM",
+        "origin": "WDUB"
+      }
+    ]
+  }
+}

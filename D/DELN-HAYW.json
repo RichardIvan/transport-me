@@ -1,0 +1,5362 @@
+{
+  "FRI": {
+    "1009": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:52 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:09 AM",
+        "origin": "DELN"
+      }
+    ],
+    "1024": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:07 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:24 AM",
+        "origin": "DELN"
+      }
+    ],
+    "1039": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:22 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:39 AM",
+        "origin": "DELN"
+      }
+    ],
+    "1054": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:37 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:54 AM",
+        "origin": "DELN"
+      }
+    ],
+    "1109": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:52 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:09 AM",
+        "origin": "DELN"
+      }
+    ],
+    "1124": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:07 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:24 AM",
+        "origin": "DELN"
+      }
+    ],
+    "1139": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:22 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:39 AM",
+        "origin": "DELN"
+      }
+    ],
+    "1154": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:37 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:54 AM",
+        "origin": "DELN"
+      }
+    ],
+    "1209": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:52 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:09 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1224": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:07 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:24 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1239": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:22 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1254": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:37 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:54 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1309": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:52 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:09 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1324": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:07 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:24 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1339": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:22 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1354": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:37 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:54 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1409": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:52 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:09 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1424": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:07 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:24 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1439": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:22 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1454": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:37 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:54 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1509": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:52 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:09 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1524": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:07 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:24 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1539": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:22 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1554": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:37 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:54 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1609": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:52 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:09 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1624": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:07 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:24 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1639": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:22 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1654": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:37 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:54 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1709": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:52 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:09 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1724": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:07 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:24 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1739": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:22 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1754": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:37 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:54 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1809": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:52 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:09 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1824": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:07 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:24 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1839": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:22 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1854": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:37 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:54 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1909": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:52 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:09 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1924": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:07 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:24 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1939": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:24 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1959": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:44 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:59 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2019": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:04 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:19 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2039": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:24 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2059": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:44 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:59 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2119": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:04 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:19 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2139": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:24 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2159": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:44 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:59 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2219": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:04 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:19 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2239": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:24 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2259": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:44 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:59 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2319": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:04 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:19 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2339": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:24 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2359": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:44 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:59 PM",
+        "origin": "DELN"
+      }
+    ],
+    "0021": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "1:14 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/11/2016",
+        "origTimeMin": "12:21 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0424": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:07 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:24 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0439": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:22 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:39 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0454": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:37 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:54 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0509": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:52 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:09 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0524": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:07 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:24 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0539": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:22 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:39 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0554": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:37 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:54 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0609": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:52 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:09 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0624": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:07 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:24 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0639": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:22 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:39 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0654": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:37 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:54 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0709": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:52 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:09 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0724": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:07 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:24 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0739": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:22 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:39 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0754": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:37 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:54 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0809": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:52 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:09 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0824": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:07 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:24 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0839": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:22 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:39 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0854": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:37 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:54 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0909": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:52 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:09 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0924": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:07 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:24 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0939": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:22 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:39 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0954": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:37 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:54 AM",
+        "origin": "DELN"
+      }
+    ]
+  },
+  "MON": {
+    "1009": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:52 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:09 AM",
+        "origin": "DELN"
+      }
+    ],
+    "1024": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:07 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:24 AM",
+        "origin": "DELN"
+      }
+    ],
+    "1039": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:22 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:39 AM",
+        "origin": "DELN"
+      }
+    ],
+    "1054": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:37 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:54 AM",
+        "origin": "DELN"
+      }
+    ],
+    "1109": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:52 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:09 AM",
+        "origin": "DELN"
+      }
+    ],
+    "1124": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:07 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:24 AM",
+        "origin": "DELN"
+      }
+    ],
+    "1139": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:22 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:39 AM",
+        "origin": "DELN"
+      }
+    ],
+    "1154": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:37 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:54 AM",
+        "origin": "DELN"
+      }
+    ],
+    "1209": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:52 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:09 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1224": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:07 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:24 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1239": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:22 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1254": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:37 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:54 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1309": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:52 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:09 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1324": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:07 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:24 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1339": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:22 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1354": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:37 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:54 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1409": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:52 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:09 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1424": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:07 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:24 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1439": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:22 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1454": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:37 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:54 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1509": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:52 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:09 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1524": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:07 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:24 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1539": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:22 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1554": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:37 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:54 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1609": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:52 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:09 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1624": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:07 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:24 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1639": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:22 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1654": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:37 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:54 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1709": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:52 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:09 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1724": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:07 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:24 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1739": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:22 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1754": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:37 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:54 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1809": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:52 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:09 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1824": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:07 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:24 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1839": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:22 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1854": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:37 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:54 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1909": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:52 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:09 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1924": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:07 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:24 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1939": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:24 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1959": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:44 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:59 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2019": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:04 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:19 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2039": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:24 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2059": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:44 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:59 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2119": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:04 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:19 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2139": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:24 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2159": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:44 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:59 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2219": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:04 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:19 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2239": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:24 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2259": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:44 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:59 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2319": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:04 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:19 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2339": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:24 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2359": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:44 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:59 PM",
+        "origin": "DELN"
+      }
+    ],
+    "0021": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:14 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:21 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0424": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:07 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:24 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0439": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:22 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:39 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0454": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:37 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:54 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0509": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:52 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:09 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0524": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:07 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:24 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0539": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:22 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:39 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0554": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:37 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:54 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0609": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:52 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:09 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0624": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:07 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:24 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0639": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:22 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:39 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0654": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:37 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:54 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0709": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:52 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:09 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0724": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:07 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:24 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0739": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:22 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:39 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0754": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:37 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:54 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0809": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:52 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:09 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0824": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:07 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:24 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0839": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:22 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:39 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0854": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:37 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:54 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0909": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:52 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:09 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0924": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:07 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:24 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0939": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:22 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:39 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0954": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:37 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:54 AM",
+        "origin": "DELN"
+      }
+    ]
+  },
+  "SAT": {
+    "1019": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:04 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:19 AM",
+        "origin": "DELN"
+      }
+    ],
+    "1039": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:24 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:39 AM",
+        "origin": "DELN"
+      }
+    ],
+    "1059": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:44 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:59 AM",
+        "origin": "DELN"
+      }
+    ],
+    "1119": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:04 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:19 AM",
+        "origin": "DELN"
+      }
+    ],
+    "1139": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:24 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:39 AM",
+        "origin": "DELN"
+      }
+    ],
+    "1159": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:44 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:59 AM",
+        "origin": "DELN"
+      }
+    ],
+    "1219": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:04 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:19 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1239": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:24 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1259": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:44 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:59 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1319": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:04 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:19 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1339": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:24 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1359": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:44 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:59 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1419": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:04 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:19 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1439": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:24 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1459": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:44 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:59 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1519": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:04 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:19 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1539": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:24 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1559": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:44 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:59 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1619": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:04 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:19 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1639": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:24 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1659": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:44 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:59 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1719": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:04 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:19 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1739": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:24 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1759": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:44 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:59 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1819": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:04 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:19 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1839": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:24 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1859": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:44 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:59 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1919": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:04 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:19 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1939": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:24 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1959": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:44 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:59 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2019": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:04 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:19 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2039": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:24 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2059": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:44 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:59 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2119": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:04 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:19 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2139": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:24 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2159": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:44 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:59 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2219": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:04 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:19 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2239": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:24 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2259": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:44 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:59 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2319": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:04 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:19 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2339": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:24 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2359": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:44 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:59 PM",
+        "origin": "DELN"
+      }
+    ],
+    "0021": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:14 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:21 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0559": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:44 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:59 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0619": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:04 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:19 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0639": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:24 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:39 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0659": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:44 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:59 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0719": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:04 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:19 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0739": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:24 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:39 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0759": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:44 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:59 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0819": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:04 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:19 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0839": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:24 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:39 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0859": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:44 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:59 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0919": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:04 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:19 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0939": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:24 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:39 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0959": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:44 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:59 AM",
+        "origin": "DELN"
+      }
+    ]
+  },
+  "SUN": {
+    "1019": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:04 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:19 AM",
+        "origin": "DELN"
+      }
+    ],
+    "1039": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:24 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:39 AM",
+        "origin": "DELN"
+      }
+    ],
+    "1059": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:44 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:59 AM",
+        "origin": "DELN"
+      }
+    ],
+    "1119": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:04 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:19 AM",
+        "origin": "DELN"
+      }
+    ],
+    "1139": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:24 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:39 AM",
+        "origin": "DELN"
+      }
+    ],
+    "1159": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:44 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:59 AM",
+        "origin": "DELN"
+      }
+    ],
+    "1219": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:04 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:19 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1239": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:24 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1259": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:44 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:59 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1319": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:04 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:19 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1339": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:24 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1359": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:44 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:59 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1419": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:04 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:19 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1439": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:24 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1459": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:44 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:59 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1519": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:04 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:19 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1539": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:24 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1559": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:44 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:59 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1619": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:04 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:19 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1639": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:24 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1659": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:44 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:59 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1719": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:04 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:19 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1739": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:24 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1759": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:44 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:59 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1819": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:04 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:19 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1839": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:24 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1859": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:44 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:59 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1919": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:04 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:19 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1939": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:24 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1959": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:44 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:59 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2019": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:04 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:19 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2039": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:24 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2059": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:44 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:59 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2119": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:04 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:19 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2139": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:24 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2159": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:44 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:59 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2219": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:04 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:19 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2239": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:24 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2259": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:44 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:59 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2319": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:04 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:19 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2339": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:24 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2359": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:44 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:59 PM",
+        "origin": "DELN"
+      }
+    ],
+    "0021": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:14 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:21 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0759": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:44 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:59 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0819": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:04 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:19 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0839": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:24 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:39 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0859": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:44 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:59 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0919": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:04 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:19 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0939": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:24 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:39 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0959": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:44 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:59 AM",
+        "origin": "DELN"
+      }
+    ]
+  },
+  "THU": {
+    "1009": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:52 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:09 AM",
+        "origin": "DELN"
+      }
+    ],
+    "1024": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:07 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:24 AM",
+        "origin": "DELN"
+      }
+    ],
+    "1039": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:22 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:39 AM",
+        "origin": "DELN"
+      }
+    ],
+    "1054": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:37 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:54 AM",
+        "origin": "DELN"
+      }
+    ],
+    "1109": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:52 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:09 AM",
+        "origin": "DELN"
+      }
+    ],
+    "1124": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:07 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:24 AM",
+        "origin": "DELN"
+      }
+    ],
+    "1139": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:22 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:39 AM",
+        "origin": "DELN"
+      }
+    ],
+    "1154": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:37 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:54 AM",
+        "origin": "DELN"
+      }
+    ],
+    "1209": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:52 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:09 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1224": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:07 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:24 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1239": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:22 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1254": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:37 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:54 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1309": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:52 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:09 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1324": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:07 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:24 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1339": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:22 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1354": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:37 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:54 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1409": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:52 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:09 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1424": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:07 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:24 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1439": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:22 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1454": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:37 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:54 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1509": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:52 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:09 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1524": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:07 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:24 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1539": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:22 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1554": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:37 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:54 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1609": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:52 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:09 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1624": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:07 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:24 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1639": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:22 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1654": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:37 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:54 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1709": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:52 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:09 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1724": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:07 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:24 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1739": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:22 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1754": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:37 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:54 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1809": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:52 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:09 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1824": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:07 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:24 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1839": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:22 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1854": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:37 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:54 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1909": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:52 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:09 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1924": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:07 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:24 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1939": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:24 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1959": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:44 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:59 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2019": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:04 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:19 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2039": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:24 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2059": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:44 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:59 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2119": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:04 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:19 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2139": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:24 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2159": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:44 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:59 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2219": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:04 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:19 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2239": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:24 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2259": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:44 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:59 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2319": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "12:04 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:19 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2339": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "12:24 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2359": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "12:44 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:59 PM",
+        "origin": "DELN"
+      }
+    ],
+    "0021": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:14 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:21 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0424": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:07 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:24 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0439": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:22 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:39 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0454": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:37 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:54 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0509": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:52 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:09 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0524": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:07 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:24 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0539": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:22 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:39 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0554": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:37 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:54 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0609": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:52 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:09 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0624": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:07 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:24 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0639": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:22 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:39 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0654": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:37 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:54 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0709": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:52 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:09 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0724": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:07 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:24 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0739": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:22 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:39 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0754": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:37 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:54 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0809": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:52 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:09 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0824": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:07 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:24 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0839": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:22 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:39 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0854": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:37 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:54 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0909": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:52 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:09 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0924": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:07 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:24 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0939": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:22 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:39 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0954": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:37 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:54 AM",
+        "origin": "DELN"
+      }
+    ]
+  },
+  "TUE": {
+    "1009": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:52 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:09 AM",
+        "origin": "DELN"
+      }
+    ],
+    "1024": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:07 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:24 AM",
+        "origin": "DELN"
+      }
+    ],
+    "1039": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:22 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:39 AM",
+        "origin": "DELN"
+      }
+    ],
+    "1054": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:37 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:54 AM",
+        "origin": "DELN"
+      }
+    ],
+    "1109": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:52 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:09 AM",
+        "origin": "DELN"
+      }
+    ],
+    "1124": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:07 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:24 AM",
+        "origin": "DELN"
+      }
+    ],
+    "1139": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:22 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:39 AM",
+        "origin": "DELN"
+      }
+    ],
+    "1154": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:37 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:54 AM",
+        "origin": "DELN"
+      }
+    ],
+    "1209": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:52 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:09 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1224": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:07 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:24 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1239": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:22 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1254": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:37 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:54 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1309": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:52 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:09 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1324": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:07 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:24 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1339": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:22 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1354": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:37 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:54 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1409": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:52 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:09 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1424": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:07 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:24 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1439": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:22 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1454": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:37 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:54 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1509": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:52 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:09 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1524": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:07 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:24 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1539": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:22 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1554": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:37 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:54 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1609": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:52 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:09 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1624": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:07 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:24 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1639": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:22 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1654": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:37 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:54 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1709": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:52 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:09 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1724": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:07 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:24 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1739": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:22 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1754": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:37 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:54 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1809": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:52 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:09 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1824": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:07 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:24 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1839": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:22 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1854": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:37 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:54 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1909": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:52 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:09 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1924": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:07 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:24 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1939": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:24 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1959": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:44 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:59 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2019": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:04 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:19 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2039": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:24 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2059": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:44 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:59 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2119": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:04 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:19 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2139": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:24 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2159": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:44 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:59 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2219": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:04 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:19 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2239": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:24 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2259": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:44 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:59 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2319": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:04 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:19 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2339": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:24 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2359": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:44 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:59 PM",
+        "origin": "DELN"
+      }
+    ],
+    "0021": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:14 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:21 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0424": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:07 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:24 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0439": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:22 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:39 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0454": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:37 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:54 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0509": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:52 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:09 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0524": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:07 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:24 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0539": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:22 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:39 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0554": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:37 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:54 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0609": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:52 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:09 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0624": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:07 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:24 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0639": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:22 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:39 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0654": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:37 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:54 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0709": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:52 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:09 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0724": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:07 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:24 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0739": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:22 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:39 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0754": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:37 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:54 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0809": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:52 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:09 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0824": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:07 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:24 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0839": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:22 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:39 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0854": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:37 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:54 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0909": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:52 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:09 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0924": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:07 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:24 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0939": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:22 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:39 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0954": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:37 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:54 AM",
+        "origin": "DELN"
+      }
+    ]
+  },
+  "WED": {
+    "1009": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:52 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:09 AM",
+        "origin": "DELN"
+      }
+    ],
+    "1024": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:07 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:24 AM",
+        "origin": "DELN"
+      }
+    ],
+    "1039": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:22 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:39 AM",
+        "origin": "DELN"
+      }
+    ],
+    "1054": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:37 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:54 AM",
+        "origin": "DELN"
+      }
+    ],
+    "1109": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:52 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:09 AM",
+        "origin": "DELN"
+      }
+    ],
+    "1124": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:07 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:24 AM",
+        "origin": "DELN"
+      }
+    ],
+    "1139": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:22 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:39 AM",
+        "origin": "DELN"
+      }
+    ],
+    "1154": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:37 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:54 AM",
+        "origin": "DELN"
+      }
+    ],
+    "1209": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:52 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:09 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1224": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:07 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:24 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1239": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:22 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1254": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:37 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:54 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1309": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:52 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:09 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1324": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:07 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:24 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1339": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:22 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1354": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:37 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:54 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1409": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:52 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:09 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1424": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:07 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:24 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1439": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:22 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1454": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:37 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:54 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1509": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:52 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:09 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1524": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:07 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:24 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1539": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:22 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1554": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:37 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:54 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1609": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:52 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:09 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1624": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:07 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:24 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1639": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:22 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1654": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:37 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:54 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1709": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:52 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:09 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1724": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:07 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:24 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1739": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:22 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1754": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:37 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:54 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1809": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:52 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:09 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1824": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:07 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:24 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1839": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:22 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1854": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:37 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:54 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1909": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:52 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:09 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1924": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:07 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:24 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1939": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:24 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "1959": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:44 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:59 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2019": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:04 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:19 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2039": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:24 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2059": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:44 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:59 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2119": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:04 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:19 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2139": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:24 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2159": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:44 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:59 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2219": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:04 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:19 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2239": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:24 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2259": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:44 PM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:59 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2319": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:04 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:19 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2339": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:24 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:39 PM",
+        "origin": "DELN"
+      }
+    ],
+    "2359": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:44 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:59 PM",
+        "origin": "DELN"
+      }
+    ],
+    "0021": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:14 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:21 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0424": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:07 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:24 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0439": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:22 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:39 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0454": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:37 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:54 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0509": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:52 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:09 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0524": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:07 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:24 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0539": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:22 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:39 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0554": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:37 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:54 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0609": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:52 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:09 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0624": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:07 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:24 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0639": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:22 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:39 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0654": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:37 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:54 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0709": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:52 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:09 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0724": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:07 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:24 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0739": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:22 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:39 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0754": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:37 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:54 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0809": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:52 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:09 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0824": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:07 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:24 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0839": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:22 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:39 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0854": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:37 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:54 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0909": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:52 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:09 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0924": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:07 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:24 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0939": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:22 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:39 AM",
+        "origin": "DELN"
+      }
+    ],
+    "0954": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:37 AM",
+        "destination": "HAYW",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:54 AM",
+        "origin": "DELN"
+      }
+    ]
+  }
+}

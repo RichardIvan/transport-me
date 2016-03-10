@@ -1,0 +1,5263 @@
+{
+  "FRI": {
+    "1013": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:34 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:13 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "1028": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:49 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:28 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "1043": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:04 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:43 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "1058": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:19 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:58 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "1113": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:34 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:13 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "1128": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:49 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:28 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "1143": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:04 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:43 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "1158": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:19 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:58 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "1213": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:34 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:13 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1228": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:49 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:28 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1243": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:04 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:43 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1258": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:19 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:58 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1313": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:34 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:13 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1328": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:49 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:28 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1343": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:04 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:43 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1358": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:19 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:58 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1413": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:34 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:13 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1428": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:49 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:28 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1443": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:04 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:43 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1458": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:19 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:58 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1513": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:34 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:13 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1528": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:49 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:28 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1543": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:04 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:43 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1558": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:19 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:58 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1613": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:34 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:13 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1628": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:49 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:28 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1643": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:04 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:43 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1658": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:19 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:58 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1713": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:34 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:13 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1728": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:49 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:28 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1743": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:04 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:43 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1758": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:19 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:58 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1813": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:34 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:13 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1828": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:49 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:28 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1843": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:04 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:43 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1858": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:19 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:58 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1913": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:34 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:13 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1937": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:58 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:37 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2001": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:22 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:01 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2021": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:42 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:21 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2041": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:02 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:41 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2101": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:22 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:01 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2121": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:42 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:21 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2141": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:02 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:41 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2201": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:22 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:01 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2221": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:42 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:21 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2241": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:02 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:41 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2301": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:22 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:01 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2321": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:42 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:21 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2341": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:02 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:41 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2358": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:18 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:58 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "0413": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:34 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:13 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0428": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:49 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:28 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0443": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:04 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:43 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0458": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:19 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:58 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0513": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:34 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:13 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0528": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:49 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:28 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0543": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:04 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:43 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0558": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:19 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:58 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0613": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:34 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:13 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0628": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:49 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:28 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0643": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:04 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:43 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0658": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:19 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:58 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0713": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:34 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:13 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0728": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:49 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:28 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0743": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:04 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:43 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0758": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:19 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:58 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0813": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:34 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:13 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0828": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:49 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:28 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0843": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:04 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:43 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0858": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:19 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:58 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0913": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:34 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:13 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0928": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:49 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:28 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0943": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:04 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:43 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0958": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:19 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:58 AM",
+        "origin": "DUBL"
+      }
+    ]
+  },
+  "MON": {
+    "1013": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:34 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:13 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "1028": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:49 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:28 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "1043": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:04 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:43 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "1058": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:19 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:58 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "1113": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:34 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:13 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "1128": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:49 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:28 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "1143": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:04 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:43 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "1158": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:19 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:58 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "1213": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:34 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:13 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1228": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:49 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:28 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1243": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:04 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:43 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1258": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:19 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:58 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1313": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:34 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:13 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1328": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:49 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:28 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1343": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:04 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:43 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1358": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:19 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:58 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1413": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:34 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:13 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1428": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:49 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:28 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1443": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:04 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:43 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1458": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:19 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:58 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1513": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:34 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:13 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1528": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:49 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:28 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1543": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:04 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:43 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1558": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:19 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:58 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1613": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:34 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:13 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1628": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:49 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:28 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1643": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:04 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:43 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1658": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:19 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:58 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1713": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:34 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:13 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1728": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:49 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:28 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1743": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:04 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:43 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1758": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:19 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:58 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1813": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:34 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:13 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1828": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:49 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:28 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1843": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:04 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:43 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1858": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:19 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:58 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1913": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:34 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:13 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1937": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:58 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:37 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2001": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:22 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:01 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2021": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:42 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:21 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2041": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:02 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:41 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2101": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:22 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:01 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2121": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:42 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:21 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2141": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:02 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:41 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2201": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:22 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:01 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2221": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:42 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:21 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2241": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:02 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:41 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2301": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:22 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:01 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2331": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:52 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:31 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2358": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:18 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:58 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "0413": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:34 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:13 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0428": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:49 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:28 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0443": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:04 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:43 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0458": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:19 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:58 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0513": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:34 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:13 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0528": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:49 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:28 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0543": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:04 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:43 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0558": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:19 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:58 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0613": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:34 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:13 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0628": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:49 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:28 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0643": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:04 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:43 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0658": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:19 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:58 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0713": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:34 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:13 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0728": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:49 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:28 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0743": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:04 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:43 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0758": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:19 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:58 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0813": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:34 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:13 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0828": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:49 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:28 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0843": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:04 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:43 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0858": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:19 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:58 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0913": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:34 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:13 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0928": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:49 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:28 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0943": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:04 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:43 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0958": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:19 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:58 AM",
+        "origin": "DUBL"
+      }
+    ]
+  },
+  "SAT": {
+    "1001": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:22 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:01 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "1021": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:42 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:21 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "1041": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:02 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:41 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "1101": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:22 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:01 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "1121": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:42 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:21 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "1141": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:02 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:41 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "1201": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:22 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:01 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1221": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:42 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:21 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1241": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:02 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:41 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1301": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:22 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:01 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1321": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:42 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:21 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1341": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:02 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:41 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1401": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:22 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:01 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1421": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:42 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:21 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1441": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:02 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:41 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1501": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:22 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:01 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1521": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:42 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:21 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1541": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:02 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:41 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1601": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:22 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:01 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1621": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:42 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:21 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1641": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:02 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:41 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1701": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:22 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:01 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1721": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:42 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:21 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1741": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:02 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:41 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1801": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:22 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:01 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1821": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:42 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:21 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1841": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:02 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:41 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1901": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:22 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:01 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1921": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:42 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:21 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1941": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:02 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:41 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2001": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:22 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:01 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2021": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:42 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:21 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2041": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:02 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:41 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2101": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:22 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:01 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2121": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:42 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:21 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2141": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:02 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:41 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2201": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:22 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:01 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2221": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:42 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:21 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2241": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:02 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:41 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2301": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:22 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:01 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2321": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:42 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:21 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2341": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:02 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:41 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2358": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:18 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:58 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "0601": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:22 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:01 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0621": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:42 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:21 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0641": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:02 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:41 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0701": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:22 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:01 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0721": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:42 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:21 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0741": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:02 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:41 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0801": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:22 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:01 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0821": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:42 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:21 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0841": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:02 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:41 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0901": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:22 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:01 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0921": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:42 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:21 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0941": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:02 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:41 AM",
+        "origin": "DUBL"
+      }
+    ]
+  },
+  "SUN": {
+    "1001": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:22 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:01 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "1021": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:42 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:21 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "1041": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:02 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:41 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "1101": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:22 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:01 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "1121": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:42 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:21 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "1141": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:02 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:41 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "1201": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:22 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:01 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1221": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:42 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:21 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1241": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:02 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:41 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1301": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:22 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:01 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1321": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:42 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:21 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1341": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:02 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:41 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1401": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:22 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:01 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1421": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:42 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:21 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1441": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:02 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:41 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1501": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:22 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:01 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1521": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:42 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:21 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1541": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:02 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:41 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1601": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:22 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:01 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1621": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:42 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:21 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1641": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:02 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:41 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1701": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:22 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:01 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1721": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:42 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:21 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1741": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:02 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:41 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1801": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:22 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:01 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1821": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:42 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:21 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1841": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:02 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:41 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1901": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:22 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:01 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1921": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:42 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:21 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1941": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:02 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:41 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2001": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:22 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:01 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2021": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:42 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:21 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2041": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:02 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:41 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2101": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:22 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:01 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2121": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:42 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:21 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2141": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:02 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:41 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2201": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:22 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:01 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2221": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:42 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:21 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2241": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:02 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:41 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2301": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:22 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:01 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2331": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:52 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:31 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2358": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:18 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:58 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "0801": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:22 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:01 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0821": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:42 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:21 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0841": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:02 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:41 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0901": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:22 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:01 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0921": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:42 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:21 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0941": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:02 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:41 AM",
+        "origin": "DUBL"
+      }
+    ]
+  },
+  "THU": {
+    "1013": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:34 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:13 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "1028": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:49 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:28 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "1043": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:04 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:43 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "1058": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:19 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:58 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "1113": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:34 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:13 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "1128": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:49 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:28 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "1143": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:04 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:43 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "1158": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:19 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:58 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "1213": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:34 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:13 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1228": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:49 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:28 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1243": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:04 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:43 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1258": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:19 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:58 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1313": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:34 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:13 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1328": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:49 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:28 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1343": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:04 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:43 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1358": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:19 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:58 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1413": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:34 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:13 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1428": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:49 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:28 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1443": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:04 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:43 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1458": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:19 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:58 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1513": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:34 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:13 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1528": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:49 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:28 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1543": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:04 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:43 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1558": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:19 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:58 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1613": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:34 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:13 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1628": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:49 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:28 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1643": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:04 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:43 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1658": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:19 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:58 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1713": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:34 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:13 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1728": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:49 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:28 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1743": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:04 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:43 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1758": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:19 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:58 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1813": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:34 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:13 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1828": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:49 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:28 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1843": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:04 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:43 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1858": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:19 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:58 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1913": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:34 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:13 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1937": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:58 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:37 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2001": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:22 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:01 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2021": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:42 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:21 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2041": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:02 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:41 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2101": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:22 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:01 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2121": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:42 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:21 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2141": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:02 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:41 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2201": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:22 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:01 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2221": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:42 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:21 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2241": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:02 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:41 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2301": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:22 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:01 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2321": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:42 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:21 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2341": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "12:02 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:41 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2358": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "12:18 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:58 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "0413": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:34 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:13 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0428": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:49 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:28 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0443": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:04 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:43 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0458": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:19 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:58 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0513": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:34 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:13 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0528": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:49 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:28 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0543": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:04 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:43 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0558": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:19 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:58 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0613": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:34 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:13 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0628": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:49 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:28 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0643": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:04 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:43 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0658": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:19 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:58 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0713": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:34 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:13 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0728": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:49 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:28 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0743": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:04 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:43 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0758": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:19 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:58 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0813": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:34 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:13 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0828": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:49 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:28 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0843": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:04 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:43 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0858": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:19 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:58 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0913": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:34 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:13 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0928": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:49 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:28 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0943": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:04 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:43 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0958": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:19 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:58 AM",
+        "origin": "DUBL"
+      }
+    ]
+  },
+  "TUE": {
+    "1013": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:34 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:13 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "1028": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:49 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:28 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "1043": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:04 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:43 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "1058": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:19 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:58 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "1113": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:34 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:13 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "1128": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:49 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:28 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "1143": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:04 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:43 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "1158": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:19 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:58 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "1213": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:34 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:13 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1228": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:49 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:28 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1243": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:04 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:43 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1258": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:19 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:58 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1313": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:34 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:13 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1328": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:49 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:28 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1343": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:04 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:43 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1358": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:19 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:58 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1413": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:34 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:13 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1428": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:49 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:28 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1443": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:04 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:43 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1458": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:19 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:58 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1513": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:34 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:13 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1528": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:49 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:28 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1543": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:04 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:43 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1558": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:19 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:58 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1613": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:34 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:13 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1628": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:49 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:28 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1643": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:04 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:43 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1658": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:19 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:58 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1713": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:34 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:13 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1728": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:49 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:28 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1743": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:04 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:43 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1758": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:19 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:58 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1813": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:34 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:13 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1828": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:49 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:28 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1843": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:04 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:43 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1858": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:19 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:58 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1913": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:34 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:13 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1937": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:58 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:37 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2001": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:22 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:01 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2021": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:42 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:21 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2041": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:02 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:41 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2101": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:22 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:01 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2121": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:42 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:21 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2141": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:02 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:41 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2201": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:22 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:01 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2221": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:42 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:21 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2241": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:02 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:41 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2301": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:22 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:01 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2321": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:42 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:21 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2341": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:02 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:41 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2358": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:18 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:58 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "0413": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:34 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:13 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0428": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:49 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:28 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0443": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:04 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:43 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0458": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:19 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:58 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0513": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:34 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:13 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0528": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:49 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:28 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0543": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:04 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:43 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0558": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:19 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:58 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0613": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:34 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:13 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0628": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:49 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:28 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0643": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:04 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:43 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0658": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:19 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:58 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0713": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:34 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:13 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0728": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:49 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:28 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0743": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:04 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:43 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0758": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:19 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:58 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0813": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:34 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:13 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0828": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:49 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:28 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0843": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:04 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:43 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0858": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:19 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:58 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0913": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:34 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:13 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0928": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:49 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:28 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0943": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:04 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:43 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0958": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:19 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:58 AM",
+        "origin": "DUBL"
+      }
+    ]
+  },
+  "WED": {
+    "1013": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:34 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:13 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "1028": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:49 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:28 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "1043": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:04 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:43 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "1058": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:19 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:58 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "1113": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:34 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:13 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "1128": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:49 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:28 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "1143": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:04 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:43 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "1158": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:19 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:58 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "1213": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:34 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:13 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1228": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:49 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:28 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1243": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:04 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:43 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1258": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:19 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:58 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1313": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:34 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:13 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1328": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:49 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:28 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1343": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:04 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:43 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1358": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:19 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:58 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1413": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:34 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:13 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1428": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:49 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:28 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1443": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:04 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:43 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1458": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:19 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:58 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1513": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:34 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:13 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1528": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:49 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:28 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1543": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:04 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:43 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1558": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:19 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:58 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1613": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:34 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:13 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1628": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:49 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:28 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1643": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:04 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:43 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1658": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:19 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:58 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1713": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:34 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:13 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1728": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:49 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:28 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1743": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:04 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:43 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1758": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:19 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:58 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1813": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:34 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:13 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1828": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:49 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:28 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1843": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:04 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:43 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1858": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:19 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:58 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1913": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:34 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:13 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "1937": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:58 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:37 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2001": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:22 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:01 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2021": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:42 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:21 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2041": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:02 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:41 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2101": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:22 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:01 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2121": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:42 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:21 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2141": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:02 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:41 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2201": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:22 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:01 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2221": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:42 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:21 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2241": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:02 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:41 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2301": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:22 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:01 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2321": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:42 PM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:21 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2341": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:02 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:41 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "2358": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:18 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:58 PM",
+        "origin": "DUBL"
+      }
+    ],
+    "0413": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:34 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:13 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0428": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:49 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:28 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0443": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:04 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:43 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0458": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:19 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:58 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0513": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:34 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:13 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0528": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:49 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:28 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0543": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:04 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:43 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0558": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:19 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:58 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0613": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:34 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:13 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0628": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:49 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:28 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0643": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:04 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:43 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0658": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:19 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:58 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0713": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:34 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:13 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0728": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:49 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:28 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0743": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:04 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:43 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0758": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:19 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:58 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0813": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:34 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:13 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0828": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:49 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:28 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0843": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:04 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:43 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0858": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:19 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:58 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0913": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:34 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:13 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0928": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:49 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:28 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0943": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:04 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:43 AM",
+        "origin": "DUBL"
+      }
+    ],
+    "0958": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:19 AM",
+        "destination": "SANL",
+        "line": "11",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:58 AM",
+        "origin": "DUBL"
+      }
+    ]
+  }
+}

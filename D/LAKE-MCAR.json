@@ -1,0 +1,5362 @@
+{
+  "FRI": {
+    "1003": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:12 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:03 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "1018": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:27 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:18 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "1033": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:42 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:33 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "1048": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:57 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:48 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "1103": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:12 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:03 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "1118": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:27 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:18 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "1133": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:42 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:33 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "1148": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:57 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:48 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "1203": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:12 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:03 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1218": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:27 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:18 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1233": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:42 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:33 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1248": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:48 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1303": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:12 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:03 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1318": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:27 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:18 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1333": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:42 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:33 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1348": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:48 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1403": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:12 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:03 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1418": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:27 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:18 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1433": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:42 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:33 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1448": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:48 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1503": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:12 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:03 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1518": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:27 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:18 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1533": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:42 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:33 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1548": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:48 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1603": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:12 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:03 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1618": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:27 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:18 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1633": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:42 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:33 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1648": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:48 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1703": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:12 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:03 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1718": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:27 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:18 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1733": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:42 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:33 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1748": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:48 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1803": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:12 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:03 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1818": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:27 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:18 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1833": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:42 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:33 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1848": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:48 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1903": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:12 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:03 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1918": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:27 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:18 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1933": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:42 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:33 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1948": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:48 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2007": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:17 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:07 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2027": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:37 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:27 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2047": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:47 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2107": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:17 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:07 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2127": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:37 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:27 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2147": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:47 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2207": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:17 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:07 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2227": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:37 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:27 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2247": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:47 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2307": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:17 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:07 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2327": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:37 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:27 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2347": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:47 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "0012": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "12:22 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/11/2016",
+        "origTimeMin": "12:12 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0033": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "12:45 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/11/2016",
+        "origTimeMin": "12:33 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0433": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:42 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:33 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0448": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:57 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:48 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0503": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:12 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:03 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0518": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:27 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:18 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0533": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:42 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:33 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0548": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:57 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:48 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0603": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:12 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:03 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0618": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:27 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:18 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0633": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:42 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:33 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0648": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:57 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:48 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0703": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:12 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:03 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0718": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:27 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:18 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0733": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:42 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:33 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0748": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:57 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:48 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0803": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:12 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:03 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0818": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:27 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:18 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0833": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:42 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:33 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0848": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:57 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:48 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0903": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:12 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:03 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0918": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:27 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:18 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0933": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:42 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:33 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0948": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:57 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:48 AM",
+        "origin": "LAKE"
+      }
+    ]
+  },
+  "MON": {
+    "1003": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:12 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:03 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "1018": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:27 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:18 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "1033": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:42 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:33 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "1048": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:57 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:48 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "1103": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:12 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:03 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "1118": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:27 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:18 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "1133": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:42 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:33 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "1148": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:57 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:48 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "1203": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:12 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:03 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1218": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:27 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:18 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1233": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:42 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:33 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1248": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:48 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1303": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:12 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:03 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1318": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:27 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:18 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1333": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:42 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:33 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1348": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:48 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1403": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:12 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:03 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1418": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:27 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:18 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1433": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:42 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:33 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1448": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:48 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1503": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:12 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:03 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1518": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:27 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:18 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1533": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:42 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:33 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1548": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:48 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1603": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:12 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:03 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1618": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:27 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:18 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1633": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:42 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:33 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1648": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:48 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1703": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:12 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:03 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1718": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:27 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:18 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1733": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:42 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:33 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1748": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:48 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1803": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:12 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:03 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1818": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:27 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:18 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1833": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:42 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:33 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1848": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:48 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1903": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:12 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:03 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1918": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:27 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:18 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1933": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:42 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:33 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1948": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:48 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2007": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:17 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:07 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2027": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:37 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:27 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2047": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:47 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2107": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:17 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:07 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2127": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:37 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:27 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2147": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:47 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2207": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:17 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:07 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2227": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:37 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:27 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2247": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:47 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2307": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:17 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:07 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2327": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:37 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:27 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2347": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:47 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "0012": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:22 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:12 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0033": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:45 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:33 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0433": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:42 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:33 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0448": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:57 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:48 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0503": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:12 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:03 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0518": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:27 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:18 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0533": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:42 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:33 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0548": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:57 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:48 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0603": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:12 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:03 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0618": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:27 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:18 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0633": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:42 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:33 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0648": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:57 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:48 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0703": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:12 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:03 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0718": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:27 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:18 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0733": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:42 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:33 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0748": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:57 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:48 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0803": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:12 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:03 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0818": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:27 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:18 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0833": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:42 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:33 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0848": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:57 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:48 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0903": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:12 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:03 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0918": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:27 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:18 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0933": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:42 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:33 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0948": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:57 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:48 AM",
+        "origin": "LAKE"
+      }
+    ]
+  },
+  "SAT": {
+    "1007": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:17 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:07 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "1027": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:37 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:27 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "1047": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:57 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:47 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "1107": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:17 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:07 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "1127": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:37 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:27 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "1147": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:57 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:47 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "1207": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:17 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:07 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1227": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:37 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:27 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1247": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:47 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1307": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:17 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:07 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1327": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:37 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:27 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1347": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:47 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1407": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:17 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:07 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1427": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:37 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:27 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1447": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:47 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1507": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:17 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:07 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1527": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:37 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:27 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1547": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:47 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1607": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:17 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:07 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1627": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:37 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:27 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1647": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:47 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1707": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:17 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:07 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1727": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:37 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:27 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1747": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:47 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1807": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:17 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:07 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1827": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:37 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:27 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1847": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:47 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1907": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:17 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:07 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1927": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:37 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:27 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1947": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:47 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2007": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:17 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:07 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2027": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:37 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:27 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2047": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:47 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2107": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:17 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:07 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2127": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:37 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:27 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2147": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:47 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2207": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:17 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:07 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2227": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:37 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:27 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2247": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:47 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2307": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:17 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:07 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2327": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:37 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:27 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2347": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:47 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "0012": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:22 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:12 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0033": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:45 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:33 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0607": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:17 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:07 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0627": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:37 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:27 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0647": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:57 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:47 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0707": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:17 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:07 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0727": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:37 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:27 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0747": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:57 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:47 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0807": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:17 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:07 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0827": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:37 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:27 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0847": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:57 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:47 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0907": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:17 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:07 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0927": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:37 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:27 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0947": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:57 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:47 AM",
+        "origin": "LAKE"
+      }
+    ]
+  },
+  "SUN": {
+    "1007": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:17 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:07 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "1027": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:37 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:27 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "1047": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:57 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:47 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "1107": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:17 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:07 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "1127": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:37 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:27 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "1147": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:57 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:47 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "1207": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:17 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:07 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1227": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:37 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:27 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1247": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:47 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1307": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:17 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:07 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1327": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:37 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:27 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1347": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:47 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1407": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:17 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:07 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1427": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:37 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:27 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1447": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:47 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1507": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:17 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:07 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1527": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:37 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:27 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1547": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:47 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1607": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:17 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:07 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1627": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:37 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:27 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1647": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:47 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1707": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:17 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:07 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1727": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:37 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:27 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1747": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:47 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1807": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:17 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:07 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1827": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:37 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:27 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1847": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:47 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1907": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:17 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:07 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1927": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:37 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:27 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1947": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:47 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2007": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:17 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:07 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2027": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:37 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:27 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2047": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:47 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2107": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:17 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:07 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2127": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:37 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:27 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2147": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:47 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2207": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:17 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:07 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2227": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:37 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:27 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2247": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:47 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2307": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:17 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:07 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2327": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:37 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:27 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2347": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:47 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "0012": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:22 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:12 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0033": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:45 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:33 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0807": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:17 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:07 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0827": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:37 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:27 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0847": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:57 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:47 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0907": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:17 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:07 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0927": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:37 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:27 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0947": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:57 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:47 AM",
+        "origin": "LAKE"
+      }
+    ]
+  },
+  "THU": {
+    "1003": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:12 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:03 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "1018": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:27 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:18 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "1033": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:42 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:33 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "1048": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:57 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:48 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "1103": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:12 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:03 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "1118": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:27 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:18 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "1133": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:42 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:33 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "1148": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:57 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:48 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "1203": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:12 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:03 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1218": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:27 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:18 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1233": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:42 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:33 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1248": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:48 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1303": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:12 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:03 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1318": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:27 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:18 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1333": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:42 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:33 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1348": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:48 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1403": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:12 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:03 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1418": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:27 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:18 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1433": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:42 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:33 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1448": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:48 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1503": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:12 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:03 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1518": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:27 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:18 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1533": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:42 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:33 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1548": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:48 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1603": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:12 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:03 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1618": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:27 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:18 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1633": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:42 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:33 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1648": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:48 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1703": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:12 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:03 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1718": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:27 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:18 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1733": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:42 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:33 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1748": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:48 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1803": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:12 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:03 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1818": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:27 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:18 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1833": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:42 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:33 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1848": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:48 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1903": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:12 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:03 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1918": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:27 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:18 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1933": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:42 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:33 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1948": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:48 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2007": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:17 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:07 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2027": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:37 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:27 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2047": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:47 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2107": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:17 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:07 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2127": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:37 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:27 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2147": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:47 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2207": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:17 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:07 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2227": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:37 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:27 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2247": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:47 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2307": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:17 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:07 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2327": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:37 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:27 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2347": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:47 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "0012": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:22 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:12 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0033": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:45 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:33 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0433": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:42 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:33 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0448": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:57 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:48 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0503": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:12 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:03 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0518": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:27 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:18 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0533": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:42 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:33 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0548": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:57 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:48 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0603": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:12 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:03 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0618": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:27 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:18 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0633": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:42 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:33 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0648": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:57 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:48 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0703": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:12 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:03 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0718": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:27 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:18 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0733": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:42 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:33 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0748": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:57 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:48 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0803": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:12 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:03 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0818": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:27 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:18 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0833": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:42 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:33 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0848": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:57 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:48 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0903": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:12 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:03 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0918": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:27 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:18 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0933": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:42 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:33 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0948": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:57 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:48 AM",
+        "origin": "LAKE"
+      }
+    ]
+  },
+  "TUE": {
+    "1003": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:12 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:03 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "1018": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:27 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:18 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "1033": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:42 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:33 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "1048": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:57 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:48 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "1103": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:12 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:03 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "1118": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:27 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:18 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "1133": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:42 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:33 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "1148": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:57 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:48 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "1203": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:12 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:03 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1218": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:27 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:18 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1233": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:42 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:33 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1248": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:48 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1303": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:12 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:03 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1318": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:27 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:18 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1333": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:42 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:33 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1348": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:48 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1403": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:12 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:03 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1418": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:27 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:18 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1433": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:42 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:33 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1448": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:48 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1503": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:12 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:03 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1518": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:27 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:18 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1533": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:42 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:33 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1548": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:48 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1603": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:12 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:03 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1618": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:27 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:18 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1633": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:42 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:33 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1648": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:48 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1703": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:12 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:03 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1718": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:27 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:18 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1733": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:42 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:33 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1748": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:48 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1803": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:12 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:03 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1818": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:27 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:18 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1833": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:42 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:33 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1848": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:48 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1903": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:12 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:03 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1918": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:27 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:18 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1933": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:42 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:33 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1948": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:48 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2007": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:17 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:07 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2027": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:37 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:27 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2047": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:47 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2107": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:17 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:07 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2127": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:37 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:27 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2147": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:47 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2207": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:17 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:07 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2227": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:37 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:27 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2247": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:47 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2307": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:17 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:07 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2327": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:37 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:27 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2347": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:47 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "0012": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:22 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:12 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0033": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:45 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:33 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0433": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:42 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:33 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0448": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:57 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:48 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0503": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:12 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:03 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0518": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:27 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:18 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0533": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:42 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:33 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0548": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:57 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:48 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0603": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:12 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:03 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0618": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:27 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:18 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0633": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:42 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:33 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0648": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:57 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:48 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0703": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:12 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:03 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0718": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:27 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:18 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0733": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:42 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:33 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0748": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:57 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:48 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0803": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:12 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:03 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0818": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:27 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:18 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0833": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:42 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:33 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0848": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:57 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:48 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0903": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:12 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:03 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0918": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:27 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:18 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0933": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:42 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:33 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0948": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:57 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:48 AM",
+        "origin": "LAKE"
+      }
+    ]
+  },
+  "WED": {
+    "1003": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:12 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:03 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "1018": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:27 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:18 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "1033": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:42 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:33 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "1048": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:57 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:48 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "1103": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:12 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:03 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "1118": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:27 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:18 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "1133": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:42 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:33 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "1148": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:57 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:48 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "1203": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:12 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:03 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1218": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:27 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:18 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1233": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:42 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:33 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1248": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:48 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1303": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:12 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:03 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1318": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:27 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:18 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1333": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:42 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:33 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1348": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:48 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1403": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:12 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:03 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1418": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:27 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:18 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1433": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:42 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:33 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1448": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:48 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1503": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:12 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:03 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1518": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:27 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:18 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1533": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:42 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:33 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1548": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:48 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1603": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:12 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:03 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1618": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:27 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:18 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1633": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:42 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:33 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1648": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:48 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1703": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:12 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:03 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1718": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:27 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:18 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1733": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:42 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:33 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1748": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:48 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1803": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:12 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:03 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1818": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:27 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:18 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1833": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:42 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:33 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1848": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:48 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1903": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:12 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:03 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1918": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:27 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:18 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1933": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:42 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:33 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "1948": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:48 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2007": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:17 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:07 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2027": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:37 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:27 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2047": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:47 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2107": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:17 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:07 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2127": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:37 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:27 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2147": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:47 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2207": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:17 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:07 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2227": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:37 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:27 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2247": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:47 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2307": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:17 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:07 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2327": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:37 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:27 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "2347": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:57 PM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:47 PM",
+        "origin": "LAKE"
+      }
+    ],
+    "0012": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:22 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:12 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0033": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:45 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:33 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0433": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:42 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:33 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0448": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:57 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:48 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0503": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:12 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:03 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0518": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:27 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:18 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0533": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:42 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:33 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0548": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:57 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:48 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0603": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:12 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:03 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0618": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:27 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:18 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0633": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:42 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:33 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0648": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:57 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:48 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0703": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:12 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:03 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0718": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:27 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:18 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0733": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:42 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:33 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0748": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:57 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:48 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0803": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:12 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:03 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0818": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:27 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:18 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0833": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:42 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:33 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0848": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:57 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:48 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0903": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:12 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:03 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0918": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:27 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:18 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0933": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:42 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:33 AM",
+        "origin": "LAKE"
+      }
+    ],
+    "0948": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:57 AM",
+        "destination": "MCAR",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:48 AM",
+        "origin": "LAKE"
+      }
+    ]
+  }
+}

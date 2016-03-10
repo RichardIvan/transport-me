@@ -1,0 +1,71 @@
+[
+  {
+    "route_id": "01",
+    "agency_id": "BART",
+    "route_short_name": "",
+    "route_long_name": "Pittsburg/Bay Point - SFIA/Millbrae",
+    "route_desc": "",
+    "route_type": "1",
+    "route_url": "http://www.bart.gov/schedules/bylineresults?route=1",
+    "route_color": "ffff33",
+    "route_text_color": ""
+  },
+  {
+    "route_id": "03",
+    "agency_id": "BART",
+    "route_short_name": "",
+    "route_long_name": "Fremont - Richmond",
+    "route_desc": "",
+    "route_type": "1",
+    "route_url": "http://www.bart.gov/schedules/bylineresults?route=3",
+    "route_color": "ff9933",
+    "route_text_color": ""
+  },
+  {
+    "route_id": "05",
+    "agency_id": "BART",
+    "route_short_name": "",
+    "route_long_name": "Fremont - Daly City",
+    "route_desc": "",
+    "route_type": "1",
+    "route_url": "http://www.bart.gov/schedules/bylineresults?route=5",
+    "route_color": "339933",
+    "route_text_color": ""
+  },
+  {
+    "route_id": "07",
+    "agency_id": "BART",
+    "route_short_name": "",
+    "route_long_name": "Richmond - Daly City/Millbrae",
+    "route_desc": "",
+    "route_type": "1",
+    "route_url": "http://www.bart.gov/schedules/bylineresults?route=7",
+    "route_color": "ff0000",
+    "route_text_color": ""
+  },
+  {
+    "route_id": "11",
+    "agency_id": "BART",
+    "route_short_name": "",
+    "route_long_name": "Dublin/Pleasanton - Daly City",
+    "route_desc": "",
+    "route_type": "1",
+    "route_url": "http://www.bart.gov/schedules/bylineresults?route=11",
+    "route_color": "0099cc",
+    "route_text_color": ""
+  },
+  {
+    "route_id": "19",
+    "agency_id": "BART",
+    "route_short_name": "",
+    "route_long_name": "Coliseum - Oakland Int'l Airport",
+    "route_desc": "",
+    "route_type": "1",
+    "route_url": "http://www.bart.gov/schedules/bylineresults?route=19",
+    "route_color": "d5cfa3",
+    "route_text_color": ""
+  },
+  {
+    "route_id": ""
+  }
+]

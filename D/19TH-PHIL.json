@@ -1,0 +1,6473 @@
+{
+  "FRI": {
+    "1008": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:31 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:08 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1023": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:46 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:23 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1038": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:01 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:38 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1053": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:16 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:53 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1108": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:31 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:08 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1123": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:46 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:23 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1138": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:38 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1153": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:53 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1208": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:08 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1223": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:23 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1238": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:38 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1253": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:53 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1308": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:08 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1323": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:23 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1338": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:38 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1353": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:53 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1408": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:08 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1423": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:23 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1438": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:38 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1453": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:53 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1508": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:08 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1523": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:23 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1538": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:38 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1553": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:53 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1558": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:22 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:58 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1608": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:08 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1613": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:13 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1623": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:23 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1628": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:52 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:28 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1638": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:38 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1643": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:07 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:43 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1653": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:53 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1658": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:22 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:58 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1708": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:08 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1717": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:41 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:17 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1723": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:23 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1728": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:51 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:28 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1733": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:33 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1738": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:38 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1743": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:06 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:43 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1748": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:12 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:48 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1753": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:53 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1803": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:27 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:03 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1808": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:08 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1818": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:42 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:18 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1823": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:23 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1833": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:33 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1838": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:38 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1848": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:12 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:48 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1853": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:53 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1908": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:08 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1923": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:23 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1938": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:38 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1953": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:53 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2014": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:14 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2034": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:34 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2054": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:54 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2114": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:14 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2134": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:34 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2154": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:54 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2214": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:14 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2234": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:34 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2254": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:54 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2314": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:14 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2334": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:34 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2354": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:17 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:54 PM",
+        "origin": "19TH"
+      }
+    ],
+    "0019": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "12:42 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/11/2016",
+        "origTimeMin": "12:19 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0038": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "1:05 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/11/2016",
+        "origTimeMin": "12:38 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0438": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:01 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:38 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0453": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:16 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:53 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0508": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:31 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:08 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0523": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:46 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:23 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0538": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:01 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:38 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0553": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:16 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:53 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0608": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:31 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:08 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0623": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:46 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:23 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0638": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:01 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:38 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0653": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:16 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:53 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0705": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:26 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:05 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0708": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:31 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:08 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0720": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:41 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:20 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0723": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:46 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:23 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0735": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:56 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:35 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0738": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:01 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:38 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0750": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:11 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:50 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0753": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:16 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:53 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0805": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:26 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:05 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0808": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:31 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:08 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0820": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:41 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:20 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0823": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:46 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:23 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0838": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:01 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:38 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0853": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:16 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:53 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0908": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:31 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:08 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0923": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:46 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:23 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0938": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:01 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:38 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0953": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:16 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:53 AM",
+        "origin": "19TH"
+      }
+    ]
+  },
+  "MON": {
+    "1008": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:31 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:08 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1023": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:46 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:23 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1038": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:01 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:38 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1053": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:16 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:53 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1108": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:31 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:08 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1123": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:46 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:23 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1138": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:38 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1153": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:53 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1208": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:08 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1223": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:23 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1238": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:38 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1253": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:53 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1308": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:08 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1323": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:23 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1338": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:38 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1353": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:53 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1408": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:08 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1423": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:23 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1438": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:38 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1453": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:53 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1508": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:08 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1523": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:23 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1538": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:38 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1553": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:53 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1558": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:22 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:58 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1608": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:08 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1613": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:13 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1623": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:23 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1628": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:52 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:28 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1638": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:38 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1643": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:07 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:43 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1653": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:53 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1658": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:22 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:58 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1708": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:08 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1717": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:41 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:17 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1723": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:23 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1728": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:51 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:28 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1733": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:33 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1738": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:38 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1743": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:06 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:43 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1748": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:12 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:48 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1753": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:53 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1803": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:27 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:03 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1808": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:08 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1818": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:42 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:18 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1823": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:23 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1833": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:33 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1838": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:38 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1848": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:12 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:48 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1853": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:53 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1908": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:08 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1923": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:23 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1938": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:38 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1953": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:53 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2014": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:14 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2034": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:34 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2054": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:54 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2114": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:14 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2134": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:34 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2154": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:54 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2214": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:14 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2234": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:34 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2254": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:54 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2313": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:13 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2333": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:33 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2353": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:17 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:53 PM",
+        "origin": "19TH"
+      }
+    ],
+    "0018": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:42 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:18 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0038": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:05 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:38 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0438": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:01 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:38 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0453": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:16 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:53 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0508": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:31 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:08 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0523": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:46 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:23 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0538": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:01 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:38 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0553": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:16 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:53 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0608": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:31 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:08 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0623": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:46 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:23 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0638": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:01 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:38 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0653": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:16 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:53 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0705": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:26 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:05 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0708": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:31 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:08 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0720": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:41 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:20 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0723": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:46 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:23 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0735": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:56 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:35 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0738": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:01 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:38 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0750": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:11 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:50 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0753": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:16 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:53 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0805": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:26 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:05 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0808": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:31 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:08 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0820": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:41 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:20 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0823": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:46 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:23 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0838": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:01 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:38 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0853": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:16 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:53 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0908": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:31 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:08 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0923": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:46 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:23 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0938": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:01 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:38 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0953": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:16 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:53 AM",
+        "origin": "19TH"
+      }
+    ]
+  },
+  "SAT": {
+    "1013": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:37 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:13 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1033": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:57 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:33 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1053": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:17 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:53 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1113": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:37 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:13 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1133": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:57 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:33 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1153": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:53 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1213": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:13 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1233": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:33 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1253": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:53 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1313": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:13 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1333": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:33 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1353": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:53 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1413": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:13 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1433": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:33 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1453": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:53 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1513": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:13 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1533": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:33 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1553": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:53 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1613": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:13 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1633": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:33 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1653": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:53 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1713": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:13 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1733": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:33 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1753": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:53 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1813": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:13 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1833": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:33 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1853": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:53 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1913": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:13 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1933": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:33 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1953": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:53 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2013": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:13 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2033": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:33 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2053": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:53 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2113": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:13 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2133": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:33 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2153": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:53 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2213": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:13 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2233": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:33 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2253": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:53 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2313": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:13 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2314": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:14 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2334": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:34 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2354": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:17 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:54 PM",
+        "origin": "19TH"
+      }
+    ],
+    "0019": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:42 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:19 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0038": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:05 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:38 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0613": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:37 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:13 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0633": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:57 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:33 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0653": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:17 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:53 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0713": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:37 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:13 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0733": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:57 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:33 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0753": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:17 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:53 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0813": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:37 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:13 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0833": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:57 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:33 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0853": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:17 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:53 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0913": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:37 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:13 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0933": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:57 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:33 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0953": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:17 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:53 AM",
+        "origin": "19TH"
+      }
+    ]
+  },
+  "SUN": {
+    "1013": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:37 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:13 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1033": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:57 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:33 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1053": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:17 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:53 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1113": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:37 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:13 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1133": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:57 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:33 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1153": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:53 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1213": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:13 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1233": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:33 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1253": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:53 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1313": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:13 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1333": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:33 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1353": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:53 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1413": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:13 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1433": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:33 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1453": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:53 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1513": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:13 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1533": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:33 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1553": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:53 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1613": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:13 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1633": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:33 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1653": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:53 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1713": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:13 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1733": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:33 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1753": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:53 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1813": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:13 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1833": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:33 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1853": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:53 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1913": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:13 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1933": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:33 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1953": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:53 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2013": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:13 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2033": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:33 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2053": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:53 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2113": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:13 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2133": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:33 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2153": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:53 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2213": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:13 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2233": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:33 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2253": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:53 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2313": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:13 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2333": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:33 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2353": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:17 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:53 PM",
+        "origin": "19TH"
+      }
+    ],
+    "0019": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:42 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:19 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0038": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:05 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:38 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0813": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:37 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:13 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0833": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:57 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:33 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0853": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:17 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:53 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0913": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:37 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:13 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0933": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:57 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:33 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0953": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:17 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:53 AM",
+        "origin": "19TH"
+      }
+    ]
+  },
+  "THU": {
+    "1008": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:31 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:08 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1023": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:46 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:23 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1038": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:01 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:38 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1053": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:16 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:53 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1108": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:31 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:08 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1123": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:46 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:23 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1138": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:38 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1153": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:53 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1208": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:08 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1223": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:23 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1238": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:38 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1253": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:53 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1308": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:08 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1323": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:23 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1338": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:38 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1353": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:53 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1408": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:08 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1423": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:23 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1438": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:38 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1453": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:53 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1508": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:08 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1523": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:23 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1538": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:38 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1553": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:53 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1558": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:22 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:58 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1608": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:08 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1613": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:13 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1623": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:23 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1628": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:52 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:28 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1638": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:38 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1643": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:07 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:43 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1653": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:53 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1658": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:22 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:58 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1708": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:08 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1717": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:41 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:17 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1723": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:23 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1728": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:51 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:28 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1733": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:33 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1738": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:38 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1743": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:06 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:43 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1748": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:12 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:48 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1753": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:53 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1803": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:27 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:03 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1808": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:08 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1818": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:42 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:18 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1823": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:23 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1833": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:33 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1838": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:38 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1848": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:12 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:48 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1853": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:53 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1908": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:08 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1923": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:23 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1938": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:38 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1953": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:53 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2014": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:14 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2034": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:34 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2054": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:54 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2114": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:14 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2134": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:34 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2154": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:54 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2214": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:14 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2234": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:34 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2254": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:54 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2314": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:14 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2334": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:34 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2354": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "12:17 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:54 PM",
+        "origin": "19TH"
+      }
+    ],
+    "0019": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:42 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:19 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0038": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:05 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:38 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0438": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:01 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:38 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0453": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:16 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:53 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0508": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:31 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:08 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0523": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:46 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:23 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0538": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:01 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:38 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0553": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:16 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:53 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0608": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:31 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:08 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0623": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:46 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:23 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0638": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:01 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:38 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0653": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:16 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:53 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0705": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:26 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:05 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0708": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:31 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:08 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0720": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:41 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:20 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0723": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:46 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:23 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0735": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:56 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:35 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0738": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:01 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:38 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0750": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:11 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:50 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0753": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:16 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:53 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0805": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:26 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:05 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0808": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:31 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:08 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0820": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:41 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:20 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0823": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:46 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:23 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0838": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:01 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:38 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0853": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:16 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:53 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0908": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:31 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:08 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0923": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:46 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:23 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0938": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:01 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:38 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0953": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:16 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:53 AM",
+        "origin": "19TH"
+      }
+    ]
+  },
+  "TUE": {
+    "1008": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:31 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:08 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1023": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:46 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:23 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1038": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:01 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:38 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1053": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:16 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:53 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1108": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:31 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:08 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1123": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:46 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:23 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1138": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:38 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1153": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:53 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1208": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:08 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1223": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:23 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1238": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:38 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1253": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:53 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1308": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:08 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1323": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:23 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1338": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:38 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1353": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:53 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1408": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:08 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1423": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:23 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1438": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:38 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1453": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:53 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1508": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:08 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1523": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:23 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1538": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:38 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1553": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:53 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1558": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:22 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:58 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1608": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:08 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1613": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:13 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1623": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:23 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1628": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:52 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:28 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1638": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:38 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1643": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:07 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:43 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1653": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:53 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1658": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:22 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:58 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1708": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:08 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1717": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:41 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:17 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1723": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:23 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1728": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:51 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:28 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1733": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:33 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1738": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:38 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1743": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:06 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:43 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1748": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:12 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:48 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1753": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:53 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1803": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:27 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:03 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1808": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:08 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1818": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:42 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:18 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1823": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:23 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1833": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:33 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1838": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:38 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1848": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:12 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:48 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1853": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:53 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1908": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:08 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1923": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:23 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1938": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:38 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1953": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:53 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2014": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:14 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2034": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:34 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2054": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:54 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2114": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:14 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2134": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:34 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2154": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:54 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2214": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:14 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2234": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:34 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2254": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:54 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2314": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:14 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2334": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:34 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2354": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:17 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:54 PM",
+        "origin": "19TH"
+      }
+    ],
+    "0018": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:42 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:18 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0038": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:05 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:38 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0438": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:01 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:38 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0453": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:16 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:53 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0508": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:31 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:08 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0523": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:46 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:23 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0538": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:01 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:38 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0553": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:16 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:53 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0608": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:31 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:08 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0623": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:46 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:23 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0638": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:01 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:38 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0653": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:16 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:53 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0705": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:26 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:05 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0708": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:31 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:08 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0720": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:41 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:20 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0723": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:46 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:23 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0735": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:56 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:35 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0738": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:01 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:38 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0750": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:11 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:50 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0753": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:16 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:53 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0805": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:26 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:05 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0808": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:31 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:08 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0820": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:41 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:20 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0823": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:46 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:23 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0838": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:01 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:38 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0853": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:16 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:53 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0908": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:31 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:08 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0923": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:46 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:23 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0938": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:01 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:38 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0953": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:16 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:53 AM",
+        "origin": "19TH"
+      }
+    ]
+  },
+  "WED": {
+    "1008": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:31 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:08 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1023": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:46 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:23 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1038": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:01 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:38 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1053": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:16 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:53 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1108": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:31 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:08 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1123": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:46 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:23 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1138": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:38 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1153": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:53 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1208": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:08 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1223": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:23 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1238": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:38 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1253": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:53 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1308": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:08 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1323": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:23 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1338": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:38 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1353": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:53 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1408": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:08 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1423": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:23 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1438": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:38 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1453": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:53 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1508": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:08 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1523": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:23 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1538": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:38 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1553": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:53 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1558": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:22 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:58 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1608": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:08 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1613": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:13 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1623": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:23 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1628": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:52 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:28 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1638": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:38 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1643": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:07 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:43 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1653": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:53 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1658": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:22 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:58 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1708": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:08 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1717": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:41 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:17 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1723": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:23 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1728": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:51 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:28 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1733": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:33 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1738": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:38 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1743": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:06 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:43 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1748": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:12 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:48 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1753": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:53 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1803": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:27 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:03 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1808": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:08 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1818": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:42 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:18 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1823": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:23 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1833": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:33 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1838": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:38 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1848": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:12 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:48 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1853": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:53 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1908": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:08 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1923": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:23 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1938": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:38 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1953": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:53 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2014": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:14 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2034": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:34 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2054": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:54 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2114": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:14 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2134": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:34 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2154": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:54 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2214": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:14 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2234": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:34 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2254": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:54 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2314": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:14 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2334": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:34 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2354": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:17 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:54 PM",
+        "origin": "19TH"
+      }
+    ],
+    "0019": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:42 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:19 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0038": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:05 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:38 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0438": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:01 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:38 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0453": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:16 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:53 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0508": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:31 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:08 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0523": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:46 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:23 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0538": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:01 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:38 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0553": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:16 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:53 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0608": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:31 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:08 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0623": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:46 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:23 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0638": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:01 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:38 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0653": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:16 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:53 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0705": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:26 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:05 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0708": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:31 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:08 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0720": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:41 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:20 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0723": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:46 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:23 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0735": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:56 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:35 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0738": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:01 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:38 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0750": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:11 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:50 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0753": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:16 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:53 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0805": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:26 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:05 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0808": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:31 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:08 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0820": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:41 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:20 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0823": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:46 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:23 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0838": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:01 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:38 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0853": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:16 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:53 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0908": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:31 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:08 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0923": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:46 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:23 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0938": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:01 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:38 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0953": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:16 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:53 AM",
+        "origin": "19TH"
+      }
+    ]
+  }
+}

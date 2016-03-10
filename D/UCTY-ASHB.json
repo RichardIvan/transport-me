@@ -1,0 +1,5340 @@
+{
+  "FRI": {
+    "1005": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:45 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:05 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "1020": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:00 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:20 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "1035": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:15 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:35 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "1050": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:30 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:50 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "1105": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:45 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:05 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "1120": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:20 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "1135": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:15 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:35 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "1150": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:30 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:50 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "1205": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:45 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:05 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1220": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:20 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1235": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:15 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:35 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1250": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:30 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:50 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1305": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:45 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:05 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1320": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:20 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1335": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:15 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:35 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1350": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:30 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:50 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1405": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:45 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:05 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1420": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:20 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1435": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:15 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:35 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1450": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:30 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:50 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1505": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:45 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:05 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1520": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:20 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1535": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:15 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:35 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1550": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:30 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:50 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1605": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:45 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:05 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1620": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:20 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1635": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:15 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:35 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1650": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:30 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:50 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1705": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:45 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:05 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1720": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:20 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1735": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:15 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:35 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1750": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:30 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:50 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1805": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:45 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:05 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1820": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:20 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1835": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:15 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:35 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1850": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:30 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:50 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1905": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:45 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:05 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1920": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:20 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1939": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:20 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:39 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1959": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:40 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:59 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2019": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:19 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2039": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:20 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:39 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2059": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:40 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:59 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2119": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:19 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2139": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:20 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:39 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2159": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:40 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:59 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2219": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:19 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2239": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:20 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:39 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2259": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:40 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:59 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2319": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:00 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:19 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2344": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:25 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:44 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "0004": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "12:48 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/11/2016",
+        "origTimeMin": "12:04 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0405": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:45 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:05 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0420": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:00 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:20 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0435": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:15 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:35 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0450": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:30 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:50 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0505": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:45 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:05 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0520": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:00 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:20 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0535": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:15 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:35 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0550": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:30 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:50 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0605": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:45 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:05 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0620": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:00 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:20 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0635": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:15 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:35 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0650": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:30 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:50 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0705": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:45 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:05 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0720": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:00 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:20 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0735": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:15 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:35 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0750": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:30 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:50 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0805": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:45 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:05 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0820": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:00 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:20 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0835": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:15 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:35 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0850": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:30 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:50 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0905": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:45 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:05 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0920": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:00 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:20 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0935": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:15 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:35 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0950": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:30 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:50 AM",
+        "origin": "UCTY"
+      }
+    ]
+  },
+  "MON": {
+    "1005": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:45 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:05 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "1020": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:00 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:20 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "1035": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:15 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:35 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "1050": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:30 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:50 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "1105": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:45 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:05 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "1120": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:20 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "1135": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:15 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:35 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "1150": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:30 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:50 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "1205": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:45 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:05 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1220": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:20 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1235": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:15 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:35 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1250": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:30 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:50 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1305": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:45 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:05 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1320": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:20 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1335": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:15 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:35 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1350": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:30 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:50 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1405": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:45 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:05 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1420": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:20 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1435": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:15 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:35 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1450": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:30 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:50 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1505": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:45 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:05 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1520": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:20 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1535": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:15 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:35 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1550": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:30 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:50 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1605": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:45 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:05 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1620": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:20 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1635": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:15 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:35 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1650": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:30 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:50 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1705": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:45 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:05 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1720": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:20 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1735": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:15 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:35 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1750": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:30 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:50 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1805": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:45 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:05 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1820": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:20 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1835": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:15 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:35 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1850": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:30 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:50 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1905": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:45 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:05 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1920": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:20 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1939": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:20 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:39 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1959": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:40 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:59 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2019": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:19 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2039": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:20 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:39 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2059": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:40 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:59 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2119": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:19 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2139": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:20 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:39 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2159": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:40 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:59 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2219": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:19 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2239": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:20 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:39 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2259": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:40 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:59 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2319": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:00 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:19 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2344": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:25 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:44 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "0004": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:48 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:04 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0405": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:45 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:05 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0420": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:00 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:20 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0435": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:15 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:35 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0450": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:30 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:50 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0505": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:45 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:05 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0520": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:00 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:20 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0535": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:15 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:35 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0550": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:30 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:50 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0605": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:45 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:05 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0620": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:00 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:20 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0635": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:15 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:35 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0650": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:30 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:50 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0705": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:45 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:05 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0720": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:00 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:20 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0735": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:15 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:35 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0750": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:30 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:50 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0805": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:45 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:05 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0820": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:00 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:20 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0835": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:15 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:35 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0850": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:30 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:50 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0905": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:45 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:05 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0920": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:00 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:20 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0935": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:15 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:35 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0950": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:30 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:50 AM",
+        "origin": "UCTY"
+      }
+    ]
+  },
+  "SAT": {
+    "1019": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:00 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:19 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "1039": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:20 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:39 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "1059": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:40 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:59 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "1119": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:19 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "1139": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:20 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:39 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "1159": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:40 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:59 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "1219": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:19 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1239": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:20 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:39 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1259": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:40 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:59 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1319": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:19 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1339": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:20 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:39 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1359": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:40 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:59 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1419": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:19 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1439": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:20 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:39 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1459": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:40 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:59 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1519": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:19 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1539": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:20 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:39 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1559": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:40 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:59 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1619": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:19 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1639": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:20 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:39 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1659": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:40 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:59 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1719": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:19 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1739": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:20 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:39 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1759": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:40 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:59 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1819": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:19 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1839": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:20 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:39 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1859": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:40 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:59 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1919": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:19 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1939": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:20 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:39 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1959": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:40 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:59 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2019": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:19 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2039": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:20 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:39 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2059": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:40 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:59 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2119": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:19 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2139": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:20 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:39 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2159": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:40 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:59 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2219": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:19 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2239": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:20 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:39 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2259": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:40 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:59 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2319": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:00 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:19 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2344": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:25 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:44 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "0004": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:48 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:04 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0559": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:40 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:59 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0619": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:00 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:19 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0639": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:20 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:39 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0659": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:40 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:59 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0719": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:00 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:19 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0739": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:20 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:39 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0759": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:40 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:59 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0819": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:00 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:19 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0839": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:20 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:39 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0859": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:40 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:59 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0919": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:00 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:19 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0939": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:20 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:39 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0959": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:40 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:59 AM",
+        "origin": "UCTY"
+      }
+    ]
+  },
+  "SUN": {
+    "1019": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:00 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:19 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "1039": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:20 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:39 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "1059": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:40 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:59 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "1119": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:19 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "1139": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:20 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:39 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "1159": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:40 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:59 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "1219": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:19 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1239": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:20 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:39 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1259": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:40 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:59 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1319": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:19 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1339": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:20 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:39 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1359": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:40 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:59 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1419": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:19 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1439": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:20 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:39 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1459": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:40 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:59 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1519": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:19 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1539": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:20 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:39 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1559": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:40 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:59 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1619": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:19 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1639": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:20 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:39 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1659": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:40 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:59 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1719": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:19 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1739": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:20 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:39 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1759": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:40 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:59 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1819": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:19 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1839": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:20 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:39 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1859": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:40 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:59 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1919": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:19 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1939": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:20 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:39 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1959": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:40 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:59 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2019": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:19 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2039": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:20 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:39 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2059": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:40 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:59 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2119": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:19 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2139": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:20 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:39 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2159": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:40 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:59 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2219": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:19 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2239": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:20 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:39 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2259": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:40 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:59 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2319": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:00 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:19 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2344": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:25 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:44 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "0004": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:48 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:04 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0759": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:40 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:59 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0819": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:00 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:19 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0839": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:20 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:39 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0859": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:40 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:59 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0919": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:00 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:19 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0939": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:20 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:39 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0959": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:40 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:59 AM",
+        "origin": "UCTY"
+      }
+    ]
+  },
+  "THU": {
+    "1005": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:45 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:05 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "1020": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:00 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:20 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "1035": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:15 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:35 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "1050": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:30 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:50 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "1105": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:45 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:05 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "1120": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:20 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "1135": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:15 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:35 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "1150": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:30 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:50 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "1205": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:45 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:05 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1220": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:20 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1235": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:15 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:35 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1250": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:30 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:50 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1305": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:45 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:05 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1320": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:20 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1335": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:15 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:35 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1350": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:30 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:50 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1405": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:45 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:05 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1420": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:20 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1435": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:15 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:35 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1450": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:30 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:50 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1505": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:45 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:05 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1520": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:20 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1535": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:15 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:35 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1550": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:30 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:50 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1605": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:45 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:05 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1620": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:20 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1635": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:15 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:35 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1650": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:30 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:50 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1705": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:45 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:05 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1720": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:20 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1735": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:15 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:35 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1750": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:30 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:50 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1805": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:45 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:05 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1820": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:20 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1835": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:15 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:35 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1850": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:30 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:50 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1905": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:45 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:05 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1920": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:20 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1939": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:20 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:39 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1959": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:40 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:59 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2019": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:19 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2039": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:20 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:39 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2059": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:40 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:59 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2119": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:19 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2139": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:20 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:39 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2159": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:40 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:59 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2219": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:19 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2239": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:20 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:39 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2259": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:40 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:59 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2319": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:00 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:19 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2344": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "12:25 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:44 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "0004": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:48 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:04 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0405": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:45 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:05 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0420": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:00 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:20 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0435": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:15 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:35 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0450": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:30 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:50 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0505": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:45 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:05 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0520": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:00 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:20 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0535": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:15 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:35 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0550": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:30 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:50 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0605": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:45 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:05 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0620": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:00 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:20 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0635": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:15 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:35 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0650": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:30 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:50 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0705": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:45 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:05 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0720": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:00 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:20 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0735": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:15 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:35 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0750": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:30 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:50 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0805": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:45 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:05 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0820": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:00 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:20 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0835": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:15 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:35 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0850": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:30 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:50 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0905": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:45 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:05 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0920": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:00 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:20 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0935": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:15 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:35 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0950": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:30 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:50 AM",
+        "origin": "UCTY"
+      }
+    ]
+  },
+  "TUE": {
+    "1005": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:45 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:05 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "1020": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:00 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:20 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "1035": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:15 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:35 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "1050": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:30 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:50 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "1105": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:45 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:05 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "1120": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:20 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "1135": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:15 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:35 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "1150": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:30 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:50 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "1205": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:45 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:05 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1220": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:20 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1235": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:15 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:35 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1250": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:30 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:50 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1305": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:45 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:05 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1320": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:20 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1335": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:15 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:35 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1350": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:30 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:50 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1405": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:45 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:05 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1420": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:20 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1435": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:15 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:35 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1450": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:30 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:50 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1505": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:45 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:05 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1520": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:20 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1535": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:15 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:35 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1550": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:30 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:50 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1605": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:45 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:05 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1620": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:20 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1635": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:15 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:35 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1650": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:30 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:50 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1705": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:45 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:05 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1720": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:20 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1735": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:15 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:35 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1750": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:30 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:50 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1805": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:45 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:05 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1820": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:20 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1835": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:15 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:35 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1850": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:30 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:50 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1905": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:45 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:05 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1920": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:20 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1939": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:20 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:39 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1959": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:40 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:59 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2019": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:19 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2039": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:20 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:39 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2059": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:40 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:59 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2119": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:19 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2139": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:20 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:39 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2159": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:40 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:59 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2219": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:19 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2239": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:20 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:39 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2259": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:40 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:59 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2319": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:00 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:19 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2344": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:25 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:44 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "0004": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:48 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:04 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0405": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:45 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:05 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0420": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:00 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:20 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0435": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:15 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:35 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0450": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:30 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:50 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0505": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:45 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:05 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0520": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:00 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:20 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0535": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:15 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:35 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0550": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:30 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:50 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0605": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:45 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:05 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0620": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:00 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:20 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0635": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:15 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:35 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0650": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:30 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:50 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0705": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:45 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:05 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0720": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:00 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:20 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0735": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:15 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:35 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0750": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:30 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:50 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0805": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:45 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:05 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0820": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:00 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:20 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0835": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:15 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:35 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0850": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:30 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:50 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0905": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:45 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:05 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0920": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:00 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:20 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0935": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:15 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:35 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0950": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:30 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:50 AM",
+        "origin": "UCTY"
+      }
+    ]
+  },
+  "WED": {
+    "1005": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:45 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:05 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "1020": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:00 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:20 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "1035": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:15 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:35 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "1050": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:30 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:50 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "1105": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:45 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:05 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "1120": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:20 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "1135": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:15 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:35 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "1150": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:30 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:50 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "1205": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:45 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:05 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1220": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:20 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1235": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:15 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:35 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1250": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:30 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:50 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1305": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:45 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:05 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1320": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:20 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1335": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:15 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:35 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1350": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:30 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:50 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1405": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:45 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:05 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1420": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:20 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1435": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:15 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:35 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1450": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:30 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:50 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1505": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:45 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:05 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1520": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:20 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1535": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:15 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:35 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1550": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:30 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:50 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1605": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:45 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:05 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1620": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:20 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1635": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:15 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:35 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1650": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:30 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:50 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1705": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:45 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:05 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1720": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:20 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1735": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:15 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:35 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1750": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:30 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:50 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1805": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:45 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:05 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1820": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:20 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1835": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:15 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:35 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1850": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:30 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:50 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1905": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:45 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:05 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1920": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:20 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1939": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:20 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:39 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "1959": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:40 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:59 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2019": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:19 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2039": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:20 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:39 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2059": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:40 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:59 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2119": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:19 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2139": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:20 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:39 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2159": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:40 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:59 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2219": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:00 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:19 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2239": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:20 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:39 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2259": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:40 PM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:59 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2319": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:00 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:19 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "2344": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:25 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:44 PM",
+        "origin": "UCTY"
+      }
+    ],
+    "0004": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:48 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:04 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0405": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:45 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:05 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0420": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:00 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:20 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0435": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:15 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:35 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0450": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:30 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:50 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0505": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:45 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:05 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0520": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:00 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:20 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0535": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:15 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:35 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0550": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:30 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:50 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0605": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:45 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:05 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0620": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:00 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:20 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0635": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:15 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:35 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0650": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:30 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:50 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0705": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:45 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:05 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0720": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:00 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:20 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0735": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:15 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:35 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0750": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:30 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:50 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0805": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:45 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:05 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0820": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:00 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:20 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0835": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:15 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:35 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0850": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:30 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:50 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0905": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:45 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:05 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0920": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:00 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:20 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0935": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:15 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:35 AM",
+        "origin": "UCTY"
+      }
+    ],
+    "0950": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:30 AM",
+        "destination": "ASHB",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:50 AM",
+        "origin": "UCTY"
+      }
+    ]
+  }
+}

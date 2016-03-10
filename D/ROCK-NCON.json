@@ -1,0 +1,5802 @@
+{
+  "FRI": {
+    "1014": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:40 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:14 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "1029": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:55 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:29 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "1044": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:10 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:44 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "1059": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:25 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:59 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "1114": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:40 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:14 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "1129": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:55 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:29 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "1144": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:10 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:44 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "1159": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:25 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:59 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "1214": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:40 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:14 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1229": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:55 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:29 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1244": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:10 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:44 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1259": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:25 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:59 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1314": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:40 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:14 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1329": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:55 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:29 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1344": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:10 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:44 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1359": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:25 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:59 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1414": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:40 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:14 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1429": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:55 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:29 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1444": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:10 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:44 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1459": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:25 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:59 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1514": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:40 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:14 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1529": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:55 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:29 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1544": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:10 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:44 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1559": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:25 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:59 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1614": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:40 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:14 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1629": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:55 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:29 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1644": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:10 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:44 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1659": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:25 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:59 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1714": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:40 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:14 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1729": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:55 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:29 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1734": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:00 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:34 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1739": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:05 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:39 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1744": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:10 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:44 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1749": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:15 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:49 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1754": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:20 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:54 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1759": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:25 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:59 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1809": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:35 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:09 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1814": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:40 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:14 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1824": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:50 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:24 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1829": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:55 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:29 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1839": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:05 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:39 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1844": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:10 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:44 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1854": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:20 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:54 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1859": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:25 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:59 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1914": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:40 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:14 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1929": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:55 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:29 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1944": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:10 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:44 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1959": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:25 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:59 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2020": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:46 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:20 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2040": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:06 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:40 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2100": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:26 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:00 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2120": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:46 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:20 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2140": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:06 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:40 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2200": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:26 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:00 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2220": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:46 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:20 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2240": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:06 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:40 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2300": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:26 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:00 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2320": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:46 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:20 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2340": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:06 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:40 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "0000": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:26 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:00 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0025": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "12:51 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/11/2016",
+        "origTimeMin": "12:25 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0048": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "1:13 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/11/2016",
+        "origTimeMin": "12:48 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0444": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:10 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:44 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0459": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:25 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:59 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0514": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:40 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:14 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0529": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:55 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:29 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0544": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:10 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:44 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0559": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:25 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:59 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0614": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:40 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:14 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0629": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:55 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:29 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0644": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:10 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:44 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0659": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:25 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:59 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0714": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:40 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:14 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0729": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:55 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:29 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0744": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:10 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:44 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0759": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:25 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:59 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0814": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:40 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:14 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0829": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:55 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:29 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0844": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:10 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:44 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0859": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:25 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:59 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0914": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:40 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:14 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0929": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:55 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:29 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0944": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:10 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:44 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0959": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:25 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:59 AM",
+        "origin": "ROCK"
+      }
+    ]
+  },
+  "MON": {
+    "1014": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:40 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:14 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "1029": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:55 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:29 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "1044": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:10 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:44 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "1059": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:25 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:59 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "1114": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:40 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:14 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "1129": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:55 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:29 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "1144": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:10 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:44 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "1159": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:25 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:59 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "1214": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:40 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:14 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1229": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:55 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:29 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1244": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:10 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:44 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1259": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:25 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:59 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1314": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:40 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:14 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1329": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:55 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:29 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1344": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:10 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:44 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1359": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:25 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:59 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1414": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:40 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:14 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1429": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:55 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:29 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1444": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:10 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:44 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1459": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:25 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:59 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1514": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:40 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:14 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1529": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:55 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:29 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1544": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:10 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:44 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1559": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:25 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:59 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1614": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:40 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:14 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1629": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:55 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:29 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1644": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:10 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:44 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1659": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:25 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:59 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1714": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:40 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:14 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1729": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:55 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:29 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1734": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:00 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:34 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1739": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:05 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:39 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1744": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:10 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:44 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1749": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:15 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:49 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1754": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:20 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:54 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1759": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:25 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:59 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1809": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:35 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:09 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1814": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:40 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:14 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1824": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:50 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:24 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1829": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:55 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:29 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1839": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:05 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:39 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1844": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:10 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:44 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1854": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:20 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:54 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1859": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:25 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:59 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1914": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:40 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:14 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1929": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:55 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:29 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1944": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:10 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:44 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1959": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:25 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:59 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2020": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:46 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:20 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2040": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:06 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:40 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2100": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:26 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:00 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2120": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:46 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:20 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2140": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:06 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:40 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2200": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:26 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:00 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2220": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:46 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:20 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2240": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:06 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:40 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2300": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:26 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:00 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2320": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:46 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:20 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2340": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:06 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:40 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "0000": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:26 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:00 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0025": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:51 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:25 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0047": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:13 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:47 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0444": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:10 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:44 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0459": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:25 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:59 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0514": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:40 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:14 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0529": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:55 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:29 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0544": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:10 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:44 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0559": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:25 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:59 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0614": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:40 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:14 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0629": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:55 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:29 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0644": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:10 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:44 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0659": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:25 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:59 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0714": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:40 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:14 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0729": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:55 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:29 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0744": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:10 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:44 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0759": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:25 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:59 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0814": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:40 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:14 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0829": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:55 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:29 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0844": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:10 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:44 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0859": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:25 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:59 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0914": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:40 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:14 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0929": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:55 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:29 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0944": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:10 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:44 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0959": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:25 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:59 AM",
+        "origin": "ROCK"
+      }
+    ]
+  },
+  "SAT": {
+    "1000": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:26 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:00 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "1020": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:46 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:20 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "1040": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:06 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:40 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "1100": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:26 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:00 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "1120": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:46 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:20 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "1140": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:06 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:40 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "1200": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:26 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:00 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1220": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:46 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:20 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1240": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:06 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:40 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1300": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:26 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:00 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1320": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:46 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:20 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1340": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:06 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:40 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1400": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:26 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:00 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1420": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:46 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:20 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1440": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:06 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:40 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1500": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:26 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:00 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1520": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:46 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:20 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1540": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:06 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:40 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1600": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:26 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:00 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1620": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:46 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:20 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1640": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:06 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:40 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1700": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:26 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:00 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1720": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:46 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:20 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1740": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:06 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:40 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1800": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:26 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:00 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1820": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:46 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:20 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1840": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:06 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:40 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1900": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:26 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:00 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1920": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:46 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:20 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1940": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:06 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:40 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2000": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:26 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:00 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2020": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:46 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:20 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2040": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:06 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:40 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2100": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:26 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:00 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2120": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:46 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:20 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2140": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:06 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:40 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2200": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:26 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:00 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2220": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:46 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:20 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2240": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:06 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:40 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2300": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:26 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:00 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2320": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:46 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:20 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2340": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:06 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:40 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "0000": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:26 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:00 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0025": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:51 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:25 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0048": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:13 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:48 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0620": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:46 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:20 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0640": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:06 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:40 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0700": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:26 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:00 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0720": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:46 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:20 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0740": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:06 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:40 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0800": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:26 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:00 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0820": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:46 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:20 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0840": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:06 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:40 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0900": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:26 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:00 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0920": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:46 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:20 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0940": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:06 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:40 AM",
+        "origin": "ROCK"
+      }
+    ]
+  },
+  "SUN": {
+    "1000": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:26 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:00 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "1020": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:46 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:20 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "1040": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:06 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:40 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "1100": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:26 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:00 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "1120": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:46 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:20 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "1140": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:06 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:40 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "1200": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:26 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:00 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1220": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:46 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:20 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1240": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:06 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:40 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1300": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:26 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:00 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1320": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:46 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:20 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1340": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:06 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:40 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1400": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:26 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:00 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1420": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:46 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:20 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1440": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:06 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:40 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1500": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:26 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:00 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1520": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:46 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:20 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1540": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:06 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:40 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1600": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:26 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:00 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1620": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:46 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:20 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1640": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:06 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:40 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1700": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:26 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:00 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1720": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:46 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:20 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1740": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:06 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:40 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1800": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:26 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:00 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1820": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:46 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:20 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1840": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:06 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:40 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1900": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:26 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:00 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1920": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:46 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:20 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1940": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:06 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:40 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2000": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:26 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:00 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2020": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:46 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:20 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2040": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:06 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:40 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2100": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:26 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:00 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2120": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:46 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:20 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2140": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:06 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:40 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2200": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:26 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:00 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2220": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:46 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:20 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2240": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:06 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:40 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2300": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:26 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:00 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2320": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:46 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:20 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2340": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:06 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:40 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "0000": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:26 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:00 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0025": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:51 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:25 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0048": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:13 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:48 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0820": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:46 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:20 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0840": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:06 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:40 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0900": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:26 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:00 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0920": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:46 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:20 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0940": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:06 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:40 AM",
+        "origin": "ROCK"
+      }
+    ]
+  },
+  "THU": {
+    "1014": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:40 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:14 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "1029": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:55 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:29 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "1044": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:10 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:44 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "1059": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:25 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:59 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "1114": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:40 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:14 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "1129": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:55 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:29 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "1144": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:10 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:44 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "1159": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:25 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:59 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "1214": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:40 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:14 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1229": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:55 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:29 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1244": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:10 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:44 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1259": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:25 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:59 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1314": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:40 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:14 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1329": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:55 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:29 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1344": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:10 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:44 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1359": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:25 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:59 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1414": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:40 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:14 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1429": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:55 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:29 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1444": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:10 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:44 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1459": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:25 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:59 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1514": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:40 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:14 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1529": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:55 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:29 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1544": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:10 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:44 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1559": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:25 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:59 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1614": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:40 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:14 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1629": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:55 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:29 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1644": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:10 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:44 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1659": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:25 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:59 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1714": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:40 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:14 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1729": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:55 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:29 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1734": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:00 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:34 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1739": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:05 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:39 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1744": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:10 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:44 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1749": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:15 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:49 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1754": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:20 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:54 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1759": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:25 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:59 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1809": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:35 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:09 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1814": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:40 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:14 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1824": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:50 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:24 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1829": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:55 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:29 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1839": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:05 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:39 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1844": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:10 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:44 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1854": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:20 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:54 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1859": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:25 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:59 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1914": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:40 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:14 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1929": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:55 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:29 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1944": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:10 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:44 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1959": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:25 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:59 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2020": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:46 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:20 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2040": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:06 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:40 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2100": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:26 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:00 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2120": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:46 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:20 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2140": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:06 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:40 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2200": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:26 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:00 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2220": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:46 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:20 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2240": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:06 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:40 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2300": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:26 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:00 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2320": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:46 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:20 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2340": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "12:06 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:40 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "0000": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "12:26 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:00 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0025": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:51 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:25 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0048": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:13 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:48 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0444": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:10 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:44 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0459": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:25 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:59 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0514": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:40 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:14 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0529": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:55 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:29 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0544": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:10 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:44 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0559": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:25 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:59 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0614": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:40 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:14 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0629": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:55 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:29 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0644": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:10 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:44 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0659": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:25 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:59 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0714": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:40 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:14 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0729": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:55 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:29 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0744": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:10 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:44 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0759": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:25 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:59 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0814": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:40 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:14 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0829": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:55 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:29 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0844": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:10 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:44 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0859": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:25 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:59 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0914": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:40 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:14 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0929": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:55 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:29 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0944": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:10 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:44 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0959": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:25 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:59 AM",
+        "origin": "ROCK"
+      }
+    ]
+  },
+  "TUE": {
+    "1014": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:40 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:14 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "1029": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:55 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:29 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "1044": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:10 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:44 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "1059": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:25 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:59 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "1114": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:40 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:14 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "1129": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:55 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:29 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "1144": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:10 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:44 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "1159": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:25 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:59 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "1214": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:40 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:14 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1229": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:55 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:29 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1244": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:10 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:44 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1259": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:25 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:59 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1314": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:40 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:14 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1329": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:55 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:29 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1344": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:10 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:44 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1359": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:25 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:59 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1414": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:40 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:14 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1429": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:55 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:29 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1444": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:10 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:44 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1459": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:25 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:59 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1514": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:40 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:14 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1529": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:55 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:29 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1544": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:10 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:44 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1559": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:25 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:59 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1614": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:40 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:14 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1629": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:55 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:29 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1644": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:10 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:44 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1659": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:25 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:59 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1714": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:40 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:14 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1729": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:55 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:29 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1734": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:00 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:34 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1739": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:05 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:39 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1744": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:10 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:44 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1749": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:15 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:49 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1754": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:20 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:54 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1759": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:25 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:59 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1809": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:35 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:09 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1814": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:40 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:14 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1824": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:50 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:24 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1829": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:55 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:29 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1839": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:05 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:39 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1844": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:10 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:44 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1854": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:20 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:54 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1859": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:25 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:59 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1914": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:40 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:14 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1929": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:55 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:29 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1944": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:10 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:44 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1959": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:25 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:59 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2020": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:46 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:20 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2040": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:06 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:40 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2100": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:26 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:00 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2120": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:46 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:20 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2140": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:06 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:40 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2200": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:26 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:00 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2220": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:46 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:20 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2240": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:06 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:40 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2300": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:26 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:00 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2320": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:46 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:20 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2340": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:06 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:40 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "0000": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:26 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:00 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0025": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:51 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:25 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0047": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:13 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:47 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0444": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:10 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:44 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0459": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:25 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:59 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0514": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:40 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:14 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0529": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:55 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:29 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0544": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:10 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:44 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0559": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:25 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:59 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0614": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:40 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:14 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0629": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:55 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:29 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0644": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:10 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:44 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0659": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:25 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:59 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0714": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:40 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:14 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0729": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:55 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:29 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0744": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:10 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:44 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0759": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:25 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:59 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0814": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:40 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:14 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0829": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:55 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:29 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0844": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:10 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:44 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0859": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:25 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:59 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0914": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:40 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:14 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0929": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:55 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:29 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0944": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:10 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:44 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0959": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:25 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:59 AM",
+        "origin": "ROCK"
+      }
+    ]
+  },
+  "WED": {
+    "1014": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:40 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:14 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "1029": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:55 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:29 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "1044": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:10 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:44 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "1059": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:25 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:59 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "1114": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:40 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:14 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "1129": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:55 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:29 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "1144": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:10 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:44 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "1159": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:25 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:59 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "1214": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:40 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:14 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1229": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:55 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:29 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1244": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:10 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:44 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1259": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:25 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:59 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1314": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:40 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:14 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1329": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:55 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:29 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1344": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:10 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:44 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1359": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:25 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:59 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1414": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:40 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:14 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1429": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:55 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:29 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1444": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:10 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:44 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1459": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:25 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:59 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1514": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:40 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:14 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1529": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:55 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:29 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1544": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:10 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:44 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1559": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:25 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:59 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1614": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:40 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:14 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1629": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:55 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:29 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1644": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:10 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:44 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1659": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:25 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:59 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1714": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:40 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:14 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1729": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:55 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:29 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1734": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:00 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:34 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1739": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:05 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:39 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1744": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:10 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:44 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1749": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:15 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:49 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1754": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:20 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:54 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1759": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:25 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:59 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1809": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:35 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:09 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1814": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:40 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:14 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1824": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:50 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:24 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1829": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:55 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:29 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1839": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:05 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:39 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1844": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:10 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:44 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1854": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:20 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:54 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1859": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:25 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:59 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1914": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:40 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:14 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1929": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:55 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:29 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1944": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:10 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:44 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "1959": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:25 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:59 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2020": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:46 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:20 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2040": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:06 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:40 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2100": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:26 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:00 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2120": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:46 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:20 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2140": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:06 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:40 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2200": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:26 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:00 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2220": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:46 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:20 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2240": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:06 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:40 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2300": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:26 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:00 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2320": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:46 PM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:20 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "2340": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:06 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:40 PM",
+        "origin": "ROCK"
+      }
+    ],
+    "0000": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:26 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:00 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0025": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:51 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:25 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0048": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:13 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:48 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0444": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:10 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:44 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0459": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:25 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:59 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0514": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:40 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:14 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0529": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:55 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:29 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0544": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:10 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:44 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0559": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:25 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:59 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0614": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:40 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:14 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0629": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:55 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:29 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0644": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:10 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:44 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0659": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:25 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:59 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0714": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:40 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:14 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0729": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:55 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:29 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0744": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:10 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:44 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0759": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:25 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:59 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0814": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:40 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:14 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0829": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:55 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:29 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0844": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:10 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:44 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0859": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:25 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:59 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0914": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:40 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:14 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0929": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:55 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:29 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0944": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:10 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:44 AM",
+        "origin": "ROCK"
+      }
+    ],
+    "0959": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:25 AM",
+        "destination": "NCON",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:59 AM",
+        "origin": "ROCK"
+      }
+    ]
+  }
+}

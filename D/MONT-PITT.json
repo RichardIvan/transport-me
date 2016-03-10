@@ -1,0 +1,5692 @@
+{
+  "FRI": {
+    "1009": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:02 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:09 AM",
+        "origin": "MONT"
+      }
+    ],
+    "1024": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:17 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:24 AM",
+        "origin": "MONT"
+      }
+    ],
+    "1039": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:39 AM",
+        "origin": "MONT"
+      }
+    ],
+    "1054": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:47 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:54 AM",
+        "origin": "MONT"
+      }
+    ],
+    "1109": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:09 AM",
+        "origin": "MONT"
+      }
+    ],
+    "1124": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:24 AM",
+        "origin": "MONT"
+      }
+    ],
+    "1139": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:39 AM",
+        "origin": "MONT"
+      }
+    ],
+    "1154": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:54 AM",
+        "origin": "MONT"
+      }
+    ],
+    "1209": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:09 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1224": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:24 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1239": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:39 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1254": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:54 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1309": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:09 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1324": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:24 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1339": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:39 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1354": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:54 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1409": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:09 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1424": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:24 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1439": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:39 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1454": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:54 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1509": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:09 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1524": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:24 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1539": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:39 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1554": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:54 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1609": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:09 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1624": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:24 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1639": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:39 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1654": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:54 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1709": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:09 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1720": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:20 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1724": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:24 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1735": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:27 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:35 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1739": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:39 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1750": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:42 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:50 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1754": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:54 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1805": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:57 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:05 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1809": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:09 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1820": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:20 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1824": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:24 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1835": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:27 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:35 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1839": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:39 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1854": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:54 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1909": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:09 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1924": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:24 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1939": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:39 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1958": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:58 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2018": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:18 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2038": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:38 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2058": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:58 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2118": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:18 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2138": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:38 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2158": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:58 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2218": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:18 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2238": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:38 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2258": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:58 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2318": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:12 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:18 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2338": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:38 PM",
+        "origin": "MONT"
+      }
+    ],
+    "0003": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "12:57 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/11/2016",
+        "origTimeMin": "12:03 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0024": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "1:20 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/11/2016",
+        "origTimeMin": "12:24 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0424": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:17 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:24 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0439": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:39 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0454": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:47 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:54 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0509": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:02 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:09 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0524": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:17 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:24 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0539": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:39 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0554": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:47 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:54 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0609": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:02 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:09 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0624": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:17 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:24 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0639": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:39 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0654": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:47 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:54 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0709": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:02 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:09 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0724": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:17 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:24 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0739": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:39 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0754": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:47 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:54 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0809": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:02 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:09 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0824": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:17 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:24 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0839": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:39 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0854": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:47 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:54 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0909": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:02 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:09 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0924": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:17 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:24 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0939": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:39 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0954": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:47 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:54 AM",
+        "origin": "MONT"
+      }
+    ]
+  },
+  "MON": {
+    "1009": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:02 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:09 AM",
+        "origin": "MONT"
+      }
+    ],
+    "1024": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:17 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:24 AM",
+        "origin": "MONT"
+      }
+    ],
+    "1039": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:39 AM",
+        "origin": "MONT"
+      }
+    ],
+    "1054": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:47 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:54 AM",
+        "origin": "MONT"
+      }
+    ],
+    "1109": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:09 AM",
+        "origin": "MONT"
+      }
+    ],
+    "1124": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:24 AM",
+        "origin": "MONT"
+      }
+    ],
+    "1139": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:39 AM",
+        "origin": "MONT"
+      }
+    ],
+    "1154": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:54 AM",
+        "origin": "MONT"
+      }
+    ],
+    "1209": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:09 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1224": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:24 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1239": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:39 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1254": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:54 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1309": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:09 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1324": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:24 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1339": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:39 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1354": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:54 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1409": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:09 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1424": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:24 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1439": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:39 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1454": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:54 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1509": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:09 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1524": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:24 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1539": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:39 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1554": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:54 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1609": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:09 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1624": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:24 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1639": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:39 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1654": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:54 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1709": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:09 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1720": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:20 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1724": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:24 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1735": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:27 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:35 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1739": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:39 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1750": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:42 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:50 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1754": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:54 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1805": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:57 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:05 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1809": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:09 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1820": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:20 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1824": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:24 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1835": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:27 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:35 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1839": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:39 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1854": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:54 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1909": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:09 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1924": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:24 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1939": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:39 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1958": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:58 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2018": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:18 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2038": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:38 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2058": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:58 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2118": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:18 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2138": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:38 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2158": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:58 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2218": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:18 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2238": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:38 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2258": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:58 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2318": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:12 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:18 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2338": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:38 PM",
+        "origin": "MONT"
+      }
+    ],
+    "0003": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:57 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:03 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0024": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:20 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:24 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0424": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:17 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:24 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0439": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:39 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0454": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:47 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:54 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0509": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:02 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:09 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0524": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:17 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:24 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0539": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:39 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0554": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:47 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:54 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0609": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:02 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:09 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0624": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:17 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:24 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0639": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:39 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0654": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:47 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:54 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0709": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:02 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:09 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0724": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:17 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:24 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0739": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:39 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0754": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:47 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:54 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0809": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:02 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:09 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0824": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:17 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:24 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0839": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:39 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0854": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:47 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:54 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0909": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:02 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:09 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0924": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:17 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:24 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0939": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:39 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0954": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:47 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:54 AM",
+        "origin": "MONT"
+      }
+    ]
+  },
+  "SAT": {
+    "1018": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:12 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:18 AM",
+        "origin": "MONT"
+      }
+    ],
+    "1038": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:38 AM",
+        "origin": "MONT"
+      }
+    ],
+    "1058": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:52 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:58 AM",
+        "origin": "MONT"
+      }
+    ],
+    "1118": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:18 AM",
+        "origin": "MONT"
+      }
+    ],
+    "1138": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:38 AM",
+        "origin": "MONT"
+      }
+    ],
+    "1158": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:58 AM",
+        "origin": "MONT"
+      }
+    ],
+    "1218": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:18 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1238": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:38 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1258": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:58 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1318": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:18 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1338": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:38 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1358": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:58 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1418": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:18 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1438": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:38 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1458": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:58 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1518": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:18 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1538": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:38 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1558": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:58 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1618": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:18 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1638": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:38 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1658": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:58 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1718": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:18 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1738": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:38 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1758": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:58 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1818": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:18 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1838": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:38 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1858": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:58 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1918": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:18 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1938": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:38 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1958": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:58 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2018": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:18 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2038": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:38 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2058": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:58 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2118": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:18 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2138": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:38 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2158": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:58 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2218": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:18 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2238": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:38 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2258": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:58 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2318": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:12 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:18 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2338": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:38 PM",
+        "origin": "MONT"
+      }
+    ],
+    "0003": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:57 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:03 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0024": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:20 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:24 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0558": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:52 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:58 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0618": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:12 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:18 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0638": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:38 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0658": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:52 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:58 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0718": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:12 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:18 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0738": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:38 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0758": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:52 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:58 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0818": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:12 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:18 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0838": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:38 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0858": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:52 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:58 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0918": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:12 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:18 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0938": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:38 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0958": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:52 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:58 AM",
+        "origin": "MONT"
+      }
+    ]
+  },
+  "SUN": {
+    "1018": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:12 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:18 AM",
+        "origin": "MONT"
+      }
+    ],
+    "1038": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:38 AM",
+        "origin": "MONT"
+      }
+    ],
+    "1058": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:52 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:58 AM",
+        "origin": "MONT"
+      }
+    ],
+    "1118": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:18 AM",
+        "origin": "MONT"
+      }
+    ],
+    "1138": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:38 AM",
+        "origin": "MONT"
+      }
+    ],
+    "1158": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:58 AM",
+        "origin": "MONT"
+      }
+    ],
+    "1218": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:18 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1238": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:38 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1258": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:58 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1318": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:18 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1338": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:38 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1358": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:58 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1418": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:18 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1438": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:38 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1458": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:58 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1518": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:18 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1538": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:38 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1558": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:58 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1618": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:18 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1638": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:38 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1658": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:58 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1718": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:18 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1738": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:38 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1758": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:58 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1818": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:18 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1838": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:38 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1858": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:58 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1918": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:18 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1938": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:38 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1958": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:58 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2018": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:18 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2038": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:38 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2058": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:58 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2118": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:18 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2138": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:38 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2158": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:58 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2218": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:18 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2238": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:38 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2258": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:58 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2318": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:12 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:18 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2338": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:38 PM",
+        "origin": "MONT"
+      }
+    ],
+    "0003": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:57 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:03 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0024": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:20 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:24 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0758": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:52 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:58 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0818": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:12 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:18 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0838": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:38 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0858": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:52 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:58 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0918": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:12 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:18 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0938": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:38 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0958": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:52 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:58 AM",
+        "origin": "MONT"
+      }
+    ]
+  },
+  "THU": {
+    "1009": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:02 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:09 AM",
+        "origin": "MONT"
+      }
+    ],
+    "1024": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:17 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:24 AM",
+        "origin": "MONT"
+      }
+    ],
+    "1039": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:39 AM",
+        "origin": "MONT"
+      }
+    ],
+    "1054": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:47 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:54 AM",
+        "origin": "MONT"
+      }
+    ],
+    "1109": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:09 AM",
+        "origin": "MONT"
+      }
+    ],
+    "1124": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:24 AM",
+        "origin": "MONT"
+      }
+    ],
+    "1139": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:39 AM",
+        "origin": "MONT"
+      }
+    ],
+    "1154": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:54 AM",
+        "origin": "MONT"
+      }
+    ],
+    "1209": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:09 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1224": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:24 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1239": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:39 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1254": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:54 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1309": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:09 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1324": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:24 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1339": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:39 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1354": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:54 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1409": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:09 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1424": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:24 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1439": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:39 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1454": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:54 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1509": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:09 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1524": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:24 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1539": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:39 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1554": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:54 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1609": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:09 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1624": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:24 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1639": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:39 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1654": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:54 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1709": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:09 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1720": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:20 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1724": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:24 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1735": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:27 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:35 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1739": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:39 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1750": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:42 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:50 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1754": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:54 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1805": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:57 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:05 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1809": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:09 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1820": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:20 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1824": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:24 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1835": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:27 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:35 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1839": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:39 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1854": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:54 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1909": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:09 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1924": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:24 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1939": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:39 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1958": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:58 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2018": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:18 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2038": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:38 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2058": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:58 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2118": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:18 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2138": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:38 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2158": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:58 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2218": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:18 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2238": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:38 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2258": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:58 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2318": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "12:12 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:18 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2338": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "12:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:38 PM",
+        "origin": "MONT"
+      }
+    ],
+    "0003": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:57 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:03 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0024": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:20 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:24 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0424": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:17 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:24 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0439": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:39 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0454": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:47 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:54 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0509": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:02 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:09 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0524": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:17 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:24 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0539": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:39 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0554": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:47 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:54 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0609": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:02 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:09 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0624": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:17 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:24 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0639": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:39 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0654": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:47 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:54 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0709": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:02 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:09 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0724": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:17 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:24 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0739": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:39 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0754": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:47 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:54 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0809": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:02 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:09 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0824": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:17 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:24 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0839": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:39 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0854": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:47 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:54 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0909": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:02 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:09 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0924": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:17 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:24 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0939": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:39 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0954": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:47 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:54 AM",
+        "origin": "MONT"
+      }
+    ]
+  },
+  "TUE": {
+    "1009": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:02 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:09 AM",
+        "origin": "MONT"
+      }
+    ],
+    "1024": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:17 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:24 AM",
+        "origin": "MONT"
+      }
+    ],
+    "1039": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:39 AM",
+        "origin": "MONT"
+      }
+    ],
+    "1054": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:47 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:54 AM",
+        "origin": "MONT"
+      }
+    ],
+    "1109": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:09 AM",
+        "origin": "MONT"
+      }
+    ],
+    "1124": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:24 AM",
+        "origin": "MONT"
+      }
+    ],
+    "1139": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:39 AM",
+        "origin": "MONT"
+      }
+    ],
+    "1154": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:54 AM",
+        "origin": "MONT"
+      }
+    ],
+    "1209": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:09 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1224": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:24 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1239": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:39 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1254": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:54 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1309": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:09 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1324": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:24 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1339": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:39 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1354": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:54 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1409": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:09 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1424": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:24 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1439": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:39 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1454": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:54 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1509": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:09 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1524": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:24 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1539": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:39 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1554": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:54 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1609": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:09 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1624": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:24 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1639": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:39 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1654": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:54 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1709": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:09 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1720": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:20 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1724": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:24 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1735": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:27 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:35 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1739": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:39 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1750": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:42 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:50 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1754": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:54 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1805": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:57 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:05 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1809": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:09 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1820": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:20 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1824": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:24 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1835": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:27 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:35 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1839": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:39 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1854": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:54 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1909": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:09 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1924": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:24 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1939": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:39 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1958": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:58 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2018": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:18 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2038": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:38 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2058": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:58 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2118": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:18 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2138": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:38 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2158": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:58 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2218": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:18 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2238": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:38 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2258": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:58 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2318": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:12 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:18 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2338": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:38 PM",
+        "origin": "MONT"
+      }
+    ],
+    "0003": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:57 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:03 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0024": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:20 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:24 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0424": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:17 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:24 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0439": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:39 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0454": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:47 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:54 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0509": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:02 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:09 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0524": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:17 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:24 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0539": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:39 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0554": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:47 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:54 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0609": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:02 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:09 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0624": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:17 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:24 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0639": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:39 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0654": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:47 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:54 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0709": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:02 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:09 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0724": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:17 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:24 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0739": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:39 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0754": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:47 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:54 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0809": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:02 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:09 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0824": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:17 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:24 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0839": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:39 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0854": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:47 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:54 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0909": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:02 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:09 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0924": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:17 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:24 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0939": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:39 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0954": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:47 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:54 AM",
+        "origin": "MONT"
+      }
+    ]
+  },
+  "WED": {
+    "1009": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:02 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:09 AM",
+        "origin": "MONT"
+      }
+    ],
+    "1024": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:17 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:24 AM",
+        "origin": "MONT"
+      }
+    ],
+    "1039": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:39 AM",
+        "origin": "MONT"
+      }
+    ],
+    "1054": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:47 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:54 AM",
+        "origin": "MONT"
+      }
+    ],
+    "1109": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:09 AM",
+        "origin": "MONT"
+      }
+    ],
+    "1124": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:24 AM",
+        "origin": "MONT"
+      }
+    ],
+    "1139": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:39 AM",
+        "origin": "MONT"
+      }
+    ],
+    "1154": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:54 AM",
+        "origin": "MONT"
+      }
+    ],
+    "1209": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:09 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1224": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:24 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1239": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:39 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1254": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:54 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1309": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:09 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1324": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:24 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1339": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:39 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1354": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:54 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1409": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:09 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1424": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:24 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1439": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:39 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1454": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:54 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1509": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:09 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1524": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:24 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1539": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:39 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1554": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:54 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1609": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:09 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1624": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:24 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1639": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:39 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1654": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:54 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1709": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:09 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1720": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:20 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1724": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:24 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1735": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:27 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:35 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1739": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:39 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1750": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:42 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:50 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1754": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:54 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1805": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:57 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:05 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1809": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:09 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1820": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:20 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1824": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:24 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1835": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:27 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:35 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1839": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:39 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1854": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:54 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1909": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:09 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1924": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:24 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1939": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:39 PM",
+        "origin": "MONT"
+      }
+    ],
+    "1958": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:58 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2018": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:18 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2038": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:38 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2058": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:58 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2118": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:18 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2138": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:38 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2158": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:58 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2218": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:18 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2238": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:38 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2258": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:58 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2318": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:12 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:18 PM",
+        "origin": "MONT"
+      }
+    ],
+    "2338": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:38 PM",
+        "origin": "MONT"
+      }
+    ],
+    "0003": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:57 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:03 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0024": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:20 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:24 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0424": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:17 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:24 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0439": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:39 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0454": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:47 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:54 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0509": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:02 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:09 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0524": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:17 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:24 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0539": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:39 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0554": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:47 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:54 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0609": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:02 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:09 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0624": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:17 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:24 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0639": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:39 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0654": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:47 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:54 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0709": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:02 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:09 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0724": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:17 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:24 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0739": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:39 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0754": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:47 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:54 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0809": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:02 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:09 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0824": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:17 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:24 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0839": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:39 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0854": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:47 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:54 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0909": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:02 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:09 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0924": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:17 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:24 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0939": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:39 AM",
+        "origin": "MONT"
+      }
+    ],
+    "0954": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:47 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:54 AM",
+        "origin": "MONT"
+      }
+    ]
+  }
+}

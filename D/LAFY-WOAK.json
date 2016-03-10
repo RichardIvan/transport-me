@@ -1,0 +1,6462 @@
+{
+  "FRI": {
+    "1010": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:33 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:10 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1025": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:48 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1040": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:03 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1055": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:18 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:55 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1110": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:33 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:10 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1125": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:48 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1140": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:03 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1155": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:18 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:55 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1210": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:33 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1225": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:48 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1240": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:03 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1255": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:18 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:55 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1310": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:33 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1325": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:48 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1340": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:03 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1355": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:18 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:55 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1410": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:33 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1425": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:48 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1440": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:03 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1455": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:18 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:55 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1510": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:33 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1525": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:48 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1540": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:03 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1555": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:18 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:55 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1610": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:33 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1625": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:48 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1633": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:56 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:33 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1640": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:03 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1648": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:11 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:48 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1655": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:18 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:55 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1703": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:26 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:03 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1710": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:33 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1718": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:41 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:18 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1725": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:48 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1733": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:56 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:33 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1740": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:03 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1748": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:11 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:48 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1755": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:18 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:55 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1810": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:33 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1825": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:48 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1840": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:03 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1855": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:18 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:55 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1910": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:33 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1925": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:48 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1940": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:03 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2000": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:25 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2020": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:45 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2040": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:05 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2100": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:25 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2120": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:45 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2140": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:05 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2200": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:25 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2220": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:45 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2240": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:05 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2300": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:25 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2320": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:45 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2340": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:05 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "0000": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:25 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:00 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0022": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "12:55 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/11/2016",
+        "origTimeMin": "12:22 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0425": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:48 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0440": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:03 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0455": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:18 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:55 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0510": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:33 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:10 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0525": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:48 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0540": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:03 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0555": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:18 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:55 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0610": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:33 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:10 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0619": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:42 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:19 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0625": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:48 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0634": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:57 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:34 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0640": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:03 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0649": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:12 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:49 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0655": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:18 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:55 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0704": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:27 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:04 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0710": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:33 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:10 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0715": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:38 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:15 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0719": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:42 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:19 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0725": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:48 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0730": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:53 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:30 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0734": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:57 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:34 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0740": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:03 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0745": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:08 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:45 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0749": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:12 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:49 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0755": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:18 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:55 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0804": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:27 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:04 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0810": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:33 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:10 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0819": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:42 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:19 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0825": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:48 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0834": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:57 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:34 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0840": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:03 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0849": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:12 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:49 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0855": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:18 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:55 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0910": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:33 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:10 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0925": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:48 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0940": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:03 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0955": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:18 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:55 AM",
+        "origin": "LAFY"
+      }
+    ]
+  },
+  "MON": {
+    "1010": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:33 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:10 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1025": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:48 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1040": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:03 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1055": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:18 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:55 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1110": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:33 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:10 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1125": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:48 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1140": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:03 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1155": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:18 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:55 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1210": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:33 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1225": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:48 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1240": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:03 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1255": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:18 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:55 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1310": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:33 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1325": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:48 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1340": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:03 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1355": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:18 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:55 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1410": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:33 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1425": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:48 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1440": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:03 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1455": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:18 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:55 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1510": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:33 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1525": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:48 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1540": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:03 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1555": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:18 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:55 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1610": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:33 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1625": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:48 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1633": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:56 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:33 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1640": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:03 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1648": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:11 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:48 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1655": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:18 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:55 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1703": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:26 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:03 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1710": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:33 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1718": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:41 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:18 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1725": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:48 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1733": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:56 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:33 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1740": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:03 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1748": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:11 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:48 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1755": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:18 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:55 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1810": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:33 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1825": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:48 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1840": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:03 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1855": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:18 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:55 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1910": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:33 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1925": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:48 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1940": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:03 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2000": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:25 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2020": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:45 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2040": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:05 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2100": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:25 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2120": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:45 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2140": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:05 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2200": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:25 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2220": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:45 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2240": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:05 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2300": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:25 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2320": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:45 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2340": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:05 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "0000": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:25 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:00 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0022": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:55 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:22 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0425": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:48 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0440": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:03 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0455": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:18 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:55 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0510": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:33 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:10 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0525": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:48 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0540": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:03 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0555": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:18 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:55 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0610": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:33 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:10 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0619": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:42 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:19 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0625": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:48 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0634": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:57 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:34 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0640": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:03 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0649": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:12 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:49 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0655": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:18 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:55 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0704": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:27 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:04 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0710": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:33 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:10 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0715": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:38 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:15 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0719": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:42 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:19 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0725": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:48 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0730": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:53 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:30 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0734": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:57 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:34 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0740": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:03 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0745": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:08 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:45 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0749": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:12 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:49 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0755": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:18 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:55 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0804": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:27 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:04 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0810": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:33 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:10 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0819": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:42 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:19 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0825": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:48 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0834": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:57 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:34 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0840": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:03 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0849": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:12 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:49 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0855": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:18 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:55 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0910": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:33 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:10 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0925": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:48 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0940": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:03 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0955": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:18 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:55 AM",
+        "origin": "LAFY"
+      }
+    ]
+  },
+  "SAT": {
+    "1000": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:25 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:00 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1020": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:45 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:20 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1040": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:05 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1100": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:25 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:00 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1120": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:45 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:20 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1140": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:05 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1200": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:25 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1220": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:45 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1240": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:05 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1300": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:25 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1320": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:45 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1340": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:05 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1400": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:25 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1420": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:45 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1440": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:05 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1500": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:25 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1520": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:45 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1540": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:05 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1600": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:25 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1620": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:45 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1640": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:05 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1700": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:25 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1720": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:45 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1740": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:05 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1800": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:25 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1820": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:45 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1840": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:05 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1900": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:25 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1920": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:45 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1940": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:05 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2000": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:25 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2020": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:45 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2040": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:05 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2100": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:25 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2120": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:45 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2140": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:05 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2200": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:25 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2220": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:45 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2240": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:05 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2300": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:25 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2320": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:45 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2340": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:05 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "0000": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:25 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:00 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0022": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:55 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:22 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0600": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:25 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:00 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0620": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:45 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:20 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0640": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:05 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0700": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:25 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:00 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0720": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:45 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:20 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0740": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:05 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0800": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:25 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:00 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0820": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:45 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:20 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0840": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:05 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0900": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:25 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:00 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0920": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:45 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:20 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0940": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:05 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:40 AM",
+        "origin": "LAFY"
+      }
+    ]
+  },
+  "SUN": {
+    "1000": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:25 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:00 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1020": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:45 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:20 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1040": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:05 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1100": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:25 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:00 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1120": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:45 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:20 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1140": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:05 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1200": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:25 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1220": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:45 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1240": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:05 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1300": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:25 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1320": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:45 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1340": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:05 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1400": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:25 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1420": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:45 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1440": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:05 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1500": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:25 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1520": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:45 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1540": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:05 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1600": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:25 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1620": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:45 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1640": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:05 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1700": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:25 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1720": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:45 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1740": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:05 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1800": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:25 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1820": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:45 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1840": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:05 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1900": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:25 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1920": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:45 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1940": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:05 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2000": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:25 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2020": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:45 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2040": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:05 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2100": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:25 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2120": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:45 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2140": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:05 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2200": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:25 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2220": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:45 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2240": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:05 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2300": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:25 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2320": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:45 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2340": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:05 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "0000": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:25 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:00 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0022": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:55 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:22 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0800": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:25 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:00 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0820": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:45 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:20 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0840": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:05 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0900": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:25 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:00 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0920": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:45 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:20 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0940": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:05 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:40 AM",
+        "origin": "LAFY"
+      }
+    ]
+  },
+  "THU": {
+    "1010": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:33 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:10 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1025": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:48 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1040": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:03 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1055": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:18 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:55 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1110": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:33 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:10 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1125": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:48 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1140": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:03 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1155": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:18 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:55 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1210": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:33 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1225": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:48 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1240": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:03 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1255": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:18 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:55 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1310": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:33 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1325": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:48 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1340": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:03 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1355": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:18 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:55 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1410": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:33 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1425": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:48 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1440": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:03 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1455": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:18 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:55 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1510": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:33 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1525": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:48 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1540": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:03 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1555": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:18 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:55 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1610": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:33 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1625": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:48 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1633": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:56 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:33 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1640": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:03 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1648": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:11 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:48 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1655": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:18 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:55 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1703": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:26 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:03 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1710": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:33 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1718": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:41 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:18 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1725": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:48 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1733": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:56 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:33 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1740": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:03 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1748": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:11 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:48 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1755": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:18 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:55 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1810": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:33 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1825": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:48 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1840": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:03 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1855": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:18 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:55 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1910": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:33 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1925": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:48 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1940": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:03 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2000": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:25 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2020": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:45 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2040": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:05 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2100": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:25 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2120": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:45 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2140": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:05 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2200": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:25 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2220": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:45 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2240": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:05 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2300": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:25 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2320": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:45 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2340": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "12:05 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "0000": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "12:25 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:00 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0022": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:55 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:22 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0425": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:48 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0440": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:03 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0455": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:18 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:55 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0510": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:33 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:10 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0525": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:48 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0540": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:03 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0555": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:18 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:55 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0610": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:33 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:10 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0619": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:42 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:19 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0625": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:48 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0634": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:57 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:34 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0640": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:03 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0649": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:12 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:49 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0655": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:18 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:55 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0704": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:27 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:04 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0710": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:33 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:10 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0715": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:38 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:15 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0719": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:42 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:19 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0725": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:48 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0730": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:53 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:30 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0734": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:57 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:34 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0740": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:03 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0745": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:08 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:45 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0749": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:12 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:49 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0755": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:18 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:55 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0804": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:27 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:04 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0810": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:33 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:10 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0819": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:42 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:19 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0825": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:48 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0834": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:57 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:34 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0840": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:03 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0849": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:12 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:49 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0855": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:18 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:55 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0910": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:33 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:10 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0925": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:48 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0940": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:03 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0955": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:18 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:55 AM",
+        "origin": "LAFY"
+      }
+    ]
+  },
+  "TUE": {
+    "1010": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:33 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:10 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1025": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:48 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1040": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:03 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1055": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:18 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:55 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1110": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:33 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:10 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1125": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:48 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1140": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:03 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1155": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:18 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:55 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1210": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:33 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1225": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:48 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1240": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:03 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1255": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:18 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:55 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1310": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:33 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1325": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:48 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1340": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:03 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1355": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:18 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:55 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1410": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:33 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1425": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:48 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1440": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:03 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1455": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:18 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:55 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1510": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:33 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1525": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:48 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1540": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:03 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1555": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:18 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:55 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1610": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:33 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1625": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:48 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1633": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:56 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:33 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1640": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:03 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1648": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:11 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:48 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1655": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:18 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:55 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1703": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:26 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:03 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1710": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:33 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1718": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:41 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:18 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1725": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:48 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1733": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:56 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:33 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1740": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:03 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1748": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:11 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:48 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1755": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:18 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:55 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1810": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:33 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1825": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:48 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1840": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:03 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1855": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:18 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:55 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1910": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:33 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1925": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:48 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1940": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:03 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2000": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:25 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2020": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:45 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2040": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:05 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2100": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:25 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2120": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:45 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2140": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:05 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2200": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:25 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2220": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:45 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2240": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:05 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2300": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:25 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2320": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:45 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2340": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:05 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "0000": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:25 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:00 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0022": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:55 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:22 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0425": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:48 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0440": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:03 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0455": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:18 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:55 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0510": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:33 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:10 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0525": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:48 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0540": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:03 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0555": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:18 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:55 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0610": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:33 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:10 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0619": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:42 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:19 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0625": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:48 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0634": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:57 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:34 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0640": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:03 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0649": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:12 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:49 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0655": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:18 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:55 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0704": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:27 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:04 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0710": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:33 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:10 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0715": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:38 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:15 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0719": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:42 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:19 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0725": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:48 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0730": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:53 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:30 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0734": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:57 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:34 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0740": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:03 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0745": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:08 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:45 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0749": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:12 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:49 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0755": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:18 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:55 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0804": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:27 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:04 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0810": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:33 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:10 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0819": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:42 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:19 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0825": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:48 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0834": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:57 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:34 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0840": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:03 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0849": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:12 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:49 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0855": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:18 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:55 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0910": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:33 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:10 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0925": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:48 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0940": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:03 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0955": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:18 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:55 AM",
+        "origin": "LAFY"
+      }
+    ]
+  },
+  "WED": {
+    "1010": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:33 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:10 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1025": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:48 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1040": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:03 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1055": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:18 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:55 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1110": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:33 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:10 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1125": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:48 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1140": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:03 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1155": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:18 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:55 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1210": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:33 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1225": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:48 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1240": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:03 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1255": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:18 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:55 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1310": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:33 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1325": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:48 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1340": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:03 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1355": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:18 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:55 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1410": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:33 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1425": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:48 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1440": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:03 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1455": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:18 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:55 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1510": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:33 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1525": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:48 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1540": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:03 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1555": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:18 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:55 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1610": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:33 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1625": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:48 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1633": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:56 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:33 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1640": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:03 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1648": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:11 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:48 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1655": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:18 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:55 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1703": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:26 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:03 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1710": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:33 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1718": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:41 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:18 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1725": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:48 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1733": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:56 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:33 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1740": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:03 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1748": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:11 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:48 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1755": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:18 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:55 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1810": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:33 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1825": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:48 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1840": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:03 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1855": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:18 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:55 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1910": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:33 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1925": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:48 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1940": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:03 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2000": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:25 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2020": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:45 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2040": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:05 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2100": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:25 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2120": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:45 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2140": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:05 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2200": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:25 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2220": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:45 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2240": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:05 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2300": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:25 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2320": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:45 PM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2340": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:05 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "0000": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:25 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:00 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0022": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:55 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:22 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0425": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:48 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0440": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:03 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0455": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:18 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:55 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0510": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:33 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:10 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0525": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:48 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0540": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:03 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0555": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:18 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:55 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0610": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:33 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:10 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0619": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:42 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:19 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0625": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:48 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0634": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:57 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:34 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0640": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:03 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0649": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:12 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:49 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0655": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:18 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:55 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0704": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:27 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:04 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0710": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:33 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:10 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0715": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:38 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:15 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0719": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:42 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:19 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0725": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:48 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0730": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:53 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:30 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0734": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:57 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:34 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0740": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:03 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0745": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:08 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:45 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0749": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:12 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:49 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0755": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:18 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:55 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0804": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:27 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:04 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0810": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:33 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:10 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0819": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:42 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:19 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0825": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:48 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0834": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:57 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:34 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0840": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:03 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0849": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:12 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:49 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0855": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:18 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:55 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0910": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:33 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:10 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0925": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:48 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0940": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:03 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0955": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:18 AM",
+        "destination": "WOAK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:55 AM",
+        "origin": "LAFY"
+      }
+    ]
+  }
+}

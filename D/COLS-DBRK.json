@@ -1,0 +1,5362 @@
+{
+  "FRI": {
+    "1011": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:32 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:11 AM",
+        "origin": "COLS"
+      }
+    ],
+    "1026": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:47 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:26 AM",
+        "origin": "COLS"
+      }
+    ],
+    "1041": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:02 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:41 AM",
+        "origin": "COLS"
+      }
+    ],
+    "1056": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:17 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:56 AM",
+        "origin": "COLS"
+      }
+    ],
+    "1111": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:32 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:11 AM",
+        "origin": "COLS"
+      }
+    ],
+    "1126": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:47 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:26 AM",
+        "origin": "COLS"
+      }
+    ],
+    "1141": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:02 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:41 AM",
+        "origin": "COLS"
+      }
+    ],
+    "1156": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:17 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:56 AM",
+        "origin": "COLS"
+      }
+    ],
+    "1211": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:32 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:11 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1226": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:47 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:26 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1241": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:02 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:41 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1256": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:17 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:56 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1311": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:32 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:11 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1326": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:47 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:26 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1341": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:02 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:41 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1356": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:17 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:56 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1411": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:32 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:11 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1426": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:47 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:26 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1441": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:02 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:41 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1456": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:17 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:56 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1511": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:32 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:11 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1526": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:47 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:26 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1541": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:02 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:41 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1556": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:17 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:56 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1611": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:32 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:11 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1626": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:47 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:26 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1641": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:02 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:41 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1656": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:17 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:56 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1711": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:32 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:11 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1726": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:47 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:26 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1741": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:02 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:41 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1756": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:17 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:56 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1811": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:32 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:11 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1826": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:47 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:26 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1841": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:02 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:41 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1856": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:17 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:56 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1911": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:32 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:11 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1926": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:47 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:26 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1941": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:02 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:41 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2000": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:23 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:00 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2020": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:43 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:20 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2040": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:03 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:40 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2100": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:23 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:00 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2120": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:43 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:20 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2140": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:03 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:40 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2200": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:23 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:00 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2220": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:43 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:20 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2240": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:03 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:40 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2300": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:23 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:00 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2320": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:43 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:20 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2340": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:03 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:40 PM",
+        "origin": "COLS"
+      }
+    ],
+    "0005": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "12:28 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/11/2016",
+        "origTimeMin": "12:05 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0025": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "12:50 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/11/2016",
+        "origTimeMin": "12:25 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0426": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:47 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:26 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0441": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:02 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:41 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0456": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:17 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:56 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0511": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:32 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:11 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0526": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:47 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:26 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0541": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:02 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:41 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0556": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:17 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:56 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0611": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:32 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:11 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0626": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:47 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:26 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0641": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:02 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:41 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0656": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:17 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:56 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0711": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:32 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:11 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0726": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:47 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:26 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0741": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:02 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:41 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0756": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:17 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:56 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0811": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:32 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:11 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0826": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:47 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:26 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0841": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:02 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:41 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0856": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:17 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:56 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0911": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:32 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:11 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0926": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:47 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:26 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0941": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:02 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:41 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0956": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:17 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:56 AM",
+        "origin": "COLS"
+      }
+    ]
+  },
+  "MON": {
+    "1011": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:32 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:11 AM",
+        "origin": "COLS"
+      }
+    ],
+    "1026": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:47 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:26 AM",
+        "origin": "COLS"
+      }
+    ],
+    "1041": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:02 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:41 AM",
+        "origin": "COLS"
+      }
+    ],
+    "1056": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:17 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:56 AM",
+        "origin": "COLS"
+      }
+    ],
+    "1111": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:32 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:11 AM",
+        "origin": "COLS"
+      }
+    ],
+    "1126": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:47 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:26 AM",
+        "origin": "COLS"
+      }
+    ],
+    "1141": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:02 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:41 AM",
+        "origin": "COLS"
+      }
+    ],
+    "1156": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:17 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:56 AM",
+        "origin": "COLS"
+      }
+    ],
+    "1211": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:32 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:11 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1226": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:47 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:26 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1241": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:02 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:41 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1256": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:17 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:56 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1311": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:32 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:11 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1326": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:47 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:26 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1341": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:02 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:41 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1356": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:17 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:56 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1411": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:32 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:11 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1426": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:47 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:26 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1441": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:02 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:41 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1456": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:17 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:56 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1511": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:32 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:11 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1526": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:47 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:26 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1541": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:02 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:41 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1556": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:17 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:56 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1611": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:32 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:11 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1626": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:47 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:26 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1641": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:02 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:41 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1656": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:17 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:56 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1711": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:32 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:11 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1726": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:47 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:26 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1741": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:02 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:41 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1756": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:17 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:56 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1811": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:32 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:11 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1826": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:47 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:26 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1841": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:02 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:41 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1856": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:17 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:56 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1911": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:32 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:11 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1926": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:47 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:26 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1941": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:02 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:41 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2000": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:23 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:00 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2020": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:43 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:20 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2040": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:03 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:40 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2100": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:23 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:00 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2120": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:43 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:20 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2140": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:03 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:40 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2200": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:23 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:00 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2220": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:43 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:20 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2240": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:03 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:40 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2300": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:23 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:00 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2320": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:43 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:20 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2340": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:03 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:40 PM",
+        "origin": "COLS"
+      }
+    ],
+    "0005": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:28 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:05 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0025": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:50 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:25 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0426": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:47 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:26 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0441": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:02 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:41 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0456": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:17 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:56 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0511": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:32 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:11 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0526": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:47 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:26 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0541": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:02 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:41 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0556": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:17 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:56 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0611": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:32 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:11 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0626": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:47 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:26 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0641": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:02 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:41 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0656": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:17 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:56 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0711": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:32 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:11 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0726": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:47 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:26 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0741": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:02 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:41 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0756": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:17 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:56 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0811": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:32 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:11 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0826": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:47 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:26 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0841": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:02 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:41 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0856": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:17 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:56 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0911": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:32 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:11 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0926": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:47 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:26 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0941": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:02 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:41 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0956": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:17 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:56 AM",
+        "origin": "COLS"
+      }
+    ]
+  },
+  "SAT": {
+    "1000": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:23 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:00 AM",
+        "origin": "COLS"
+      }
+    ],
+    "1020": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:43 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:20 AM",
+        "origin": "COLS"
+      }
+    ],
+    "1040": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:03 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:40 AM",
+        "origin": "COLS"
+      }
+    ],
+    "1100": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:23 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:00 AM",
+        "origin": "COLS"
+      }
+    ],
+    "1120": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:43 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:20 AM",
+        "origin": "COLS"
+      }
+    ],
+    "1140": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:03 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:40 AM",
+        "origin": "COLS"
+      }
+    ],
+    "1200": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:23 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:00 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1220": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:43 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:20 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1240": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:03 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:40 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1300": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:23 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:00 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1320": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:43 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:20 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1340": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:03 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:40 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1400": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:23 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:00 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1420": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:43 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:20 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1440": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:03 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:40 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1500": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:23 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:00 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1520": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:43 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:20 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1540": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:03 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:40 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1600": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:23 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:00 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1620": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:43 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:20 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1640": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:03 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:40 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1700": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:23 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:00 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1720": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:43 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:20 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1740": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:03 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:40 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1800": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:23 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:00 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1820": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:43 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:20 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1840": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:03 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:40 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1900": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:23 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:00 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1920": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:43 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:20 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1940": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:03 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:40 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2000": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:23 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:00 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2020": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:43 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:20 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2040": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:03 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:40 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2100": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:23 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:00 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2120": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:43 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:20 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2140": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:03 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:40 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2200": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:23 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:00 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2220": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:43 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:20 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2240": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:03 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:40 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2300": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:23 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:00 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2320": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:43 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:20 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2340": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:03 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:40 PM",
+        "origin": "COLS"
+      }
+    ],
+    "0005": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:28 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:05 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0025": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:50 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:25 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0600": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:23 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:00 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0620": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:43 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:20 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0640": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:03 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:40 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0700": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:23 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:00 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0720": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:43 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:20 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0740": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:03 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:40 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0800": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:23 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:00 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0820": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:43 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:20 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0840": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:03 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:40 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0900": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:23 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:00 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0920": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:43 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:20 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0940": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:03 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:40 AM",
+        "origin": "COLS"
+      }
+    ]
+  },
+  "SUN": {
+    "1000": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:23 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:00 AM",
+        "origin": "COLS"
+      }
+    ],
+    "1020": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:43 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:20 AM",
+        "origin": "COLS"
+      }
+    ],
+    "1040": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:03 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:40 AM",
+        "origin": "COLS"
+      }
+    ],
+    "1100": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:23 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:00 AM",
+        "origin": "COLS"
+      }
+    ],
+    "1120": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:43 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:20 AM",
+        "origin": "COLS"
+      }
+    ],
+    "1140": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:03 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:40 AM",
+        "origin": "COLS"
+      }
+    ],
+    "1200": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:23 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:00 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1220": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:43 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:20 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1240": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:03 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:40 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1300": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:23 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:00 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1320": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:43 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:20 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1340": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:03 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:40 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1400": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:23 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:00 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1420": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:43 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:20 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1440": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:03 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:40 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1500": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:23 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:00 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1520": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:43 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:20 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1540": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:03 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:40 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1600": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:23 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:00 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1620": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:43 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:20 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1640": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:03 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:40 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1700": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:23 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:00 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1720": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:43 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:20 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1740": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:03 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:40 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1800": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:23 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:00 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1820": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:43 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:20 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1840": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:03 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:40 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1900": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:23 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:00 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1920": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:43 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:20 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1940": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:03 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:40 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2000": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:23 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:00 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2020": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:43 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:20 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2040": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:03 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:40 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2100": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:23 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:00 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2120": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:43 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:20 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2140": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:03 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:40 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2200": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:23 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:00 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2220": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:43 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:20 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2240": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:03 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:40 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2300": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:23 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:00 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2320": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:43 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:20 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2340": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:03 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:40 PM",
+        "origin": "COLS"
+      }
+    ],
+    "0005": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:28 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:05 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0025": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:50 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:25 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0800": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:23 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:00 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0820": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:43 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:20 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0840": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:03 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:40 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0900": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:23 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:00 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0920": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:43 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:20 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0940": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:03 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:40 AM",
+        "origin": "COLS"
+      }
+    ]
+  },
+  "THU": {
+    "1011": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:32 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:11 AM",
+        "origin": "COLS"
+      }
+    ],
+    "1026": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:47 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:26 AM",
+        "origin": "COLS"
+      }
+    ],
+    "1041": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:02 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:41 AM",
+        "origin": "COLS"
+      }
+    ],
+    "1056": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:17 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:56 AM",
+        "origin": "COLS"
+      }
+    ],
+    "1111": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:32 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:11 AM",
+        "origin": "COLS"
+      }
+    ],
+    "1126": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:47 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:26 AM",
+        "origin": "COLS"
+      }
+    ],
+    "1141": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:02 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:41 AM",
+        "origin": "COLS"
+      }
+    ],
+    "1156": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:17 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:56 AM",
+        "origin": "COLS"
+      }
+    ],
+    "1211": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:32 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:11 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1226": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:47 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:26 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1241": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:02 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:41 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1256": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:17 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:56 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1311": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:32 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:11 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1326": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:47 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:26 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1341": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:02 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:41 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1356": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:17 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:56 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1411": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:32 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:11 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1426": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:47 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:26 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1441": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:02 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:41 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1456": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:17 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:56 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1511": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:32 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:11 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1526": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:47 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:26 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1541": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:02 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:41 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1556": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:17 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:56 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1611": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:32 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:11 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1626": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:47 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:26 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1641": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:02 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:41 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1656": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:17 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:56 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1711": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:32 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:11 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1726": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:47 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:26 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1741": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:02 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:41 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1756": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:17 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:56 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1811": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:32 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:11 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1826": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:47 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:26 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1841": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:02 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:41 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1856": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:17 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:56 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1911": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:32 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:11 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1926": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:47 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:26 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1941": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:02 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:41 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2000": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:23 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:00 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2020": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:43 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:20 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2040": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:03 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:40 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2100": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:23 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:00 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2120": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:43 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:20 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2140": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:03 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:40 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2200": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:23 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:00 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2220": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:43 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:20 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2240": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:03 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:40 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2300": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:23 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:00 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2320": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:43 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:20 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2340": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "12:03 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:40 PM",
+        "origin": "COLS"
+      }
+    ],
+    "0005": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:28 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:05 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0025": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:50 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:25 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0426": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:47 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:26 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0441": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:02 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:41 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0456": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:17 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:56 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0511": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:32 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:11 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0526": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:47 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:26 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0541": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:02 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:41 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0556": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:17 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:56 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0611": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:32 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:11 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0626": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:47 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:26 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0641": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:02 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:41 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0656": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:17 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:56 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0711": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:32 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:11 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0726": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:47 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:26 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0741": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:02 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:41 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0756": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:17 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:56 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0811": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:32 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:11 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0826": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:47 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:26 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0841": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:02 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:41 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0856": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:17 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:56 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0911": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:32 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:11 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0926": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:47 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:26 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0941": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:02 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:41 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0956": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:17 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:56 AM",
+        "origin": "COLS"
+      }
+    ]
+  },
+  "TUE": {
+    "1011": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:32 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:11 AM",
+        "origin": "COLS"
+      }
+    ],
+    "1026": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:47 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:26 AM",
+        "origin": "COLS"
+      }
+    ],
+    "1041": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:02 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:41 AM",
+        "origin": "COLS"
+      }
+    ],
+    "1056": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:17 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:56 AM",
+        "origin": "COLS"
+      }
+    ],
+    "1111": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:32 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:11 AM",
+        "origin": "COLS"
+      }
+    ],
+    "1126": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:47 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:26 AM",
+        "origin": "COLS"
+      }
+    ],
+    "1141": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:02 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:41 AM",
+        "origin": "COLS"
+      }
+    ],
+    "1156": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:17 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:56 AM",
+        "origin": "COLS"
+      }
+    ],
+    "1211": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:32 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:11 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1226": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:47 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:26 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1241": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:02 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:41 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1256": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:17 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:56 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1311": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:32 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:11 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1326": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:47 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:26 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1341": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:02 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:41 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1356": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:17 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:56 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1411": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:32 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:11 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1426": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:47 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:26 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1441": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:02 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:41 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1456": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:17 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:56 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1511": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:32 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:11 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1526": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:47 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:26 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1541": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:02 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:41 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1556": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:17 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:56 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1611": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:32 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:11 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1626": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:47 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:26 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1641": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:02 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:41 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1656": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:17 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:56 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1711": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:32 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:11 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1726": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:47 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:26 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1741": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:02 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:41 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1756": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:17 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:56 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1811": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:32 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:11 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1826": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:47 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:26 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1841": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:02 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:41 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1856": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:17 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:56 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1911": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:32 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:11 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1926": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:47 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:26 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1941": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:02 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:41 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2000": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:23 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:00 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2020": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:43 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:20 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2040": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:03 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:40 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2100": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:23 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:00 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2120": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:43 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:20 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2140": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:03 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:40 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2200": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:23 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:00 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2220": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:43 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:20 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2240": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:03 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:40 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2300": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:23 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:00 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2320": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:43 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:20 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2340": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:03 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:40 PM",
+        "origin": "COLS"
+      }
+    ],
+    "0005": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:28 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:05 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0025": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:50 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:25 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0426": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:47 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:26 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0441": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:02 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:41 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0456": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:17 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:56 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0511": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:32 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:11 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0526": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:47 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:26 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0541": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:02 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:41 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0556": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:17 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:56 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0611": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:32 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:11 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0626": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:47 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:26 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0641": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:02 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:41 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0656": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:17 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:56 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0711": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:32 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:11 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0726": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:47 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:26 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0741": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:02 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:41 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0756": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:17 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:56 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0811": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:32 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:11 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0826": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:47 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:26 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0841": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:02 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:41 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0856": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:17 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:56 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0911": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:32 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:11 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0926": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:47 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:26 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0941": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:02 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:41 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0956": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:17 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:56 AM",
+        "origin": "COLS"
+      }
+    ]
+  },
+  "WED": {
+    "1011": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:32 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:11 AM",
+        "origin": "COLS"
+      }
+    ],
+    "1026": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:47 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:26 AM",
+        "origin": "COLS"
+      }
+    ],
+    "1041": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:02 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:41 AM",
+        "origin": "COLS"
+      }
+    ],
+    "1056": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:17 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:56 AM",
+        "origin": "COLS"
+      }
+    ],
+    "1111": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:32 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:11 AM",
+        "origin": "COLS"
+      }
+    ],
+    "1126": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:47 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:26 AM",
+        "origin": "COLS"
+      }
+    ],
+    "1141": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:02 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:41 AM",
+        "origin": "COLS"
+      }
+    ],
+    "1156": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:17 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:56 AM",
+        "origin": "COLS"
+      }
+    ],
+    "1211": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:32 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:11 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1226": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:47 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:26 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1241": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:02 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:41 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1256": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:17 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:56 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1311": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:32 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:11 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1326": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:47 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:26 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1341": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:02 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:41 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1356": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:17 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:56 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1411": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:32 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:11 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1426": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:47 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:26 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1441": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:02 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:41 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1456": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:17 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:56 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1511": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:32 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:11 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1526": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:47 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:26 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1541": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:02 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:41 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1556": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:17 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:56 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1611": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:32 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:11 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1626": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:47 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:26 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1641": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:02 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:41 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1656": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:17 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:56 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1711": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:32 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:11 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1726": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:47 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:26 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1741": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:02 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:41 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1756": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:17 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:56 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1811": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:32 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:11 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1826": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:47 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:26 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1841": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:02 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:41 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1856": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:17 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:56 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1911": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:32 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:11 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1926": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:47 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:26 PM",
+        "origin": "COLS"
+      }
+    ],
+    "1941": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:02 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:41 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2000": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:23 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:00 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2020": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:43 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:20 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2040": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:03 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:40 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2100": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:23 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:00 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2120": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:43 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:20 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2140": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:03 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:40 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2200": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:23 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:00 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2220": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:43 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:20 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2240": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:03 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:40 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2300": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:23 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:00 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2320": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:43 PM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:20 PM",
+        "origin": "COLS"
+      }
+    ],
+    "2340": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:03 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:40 PM",
+        "origin": "COLS"
+      }
+    ],
+    "0005": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:28 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:05 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0025": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:50 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:25 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0426": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:47 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:26 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0441": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:02 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:41 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0456": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:17 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:56 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0511": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:32 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:11 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0526": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:47 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:26 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0541": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:02 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:41 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0556": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:17 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:56 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0611": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:32 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:11 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0626": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:47 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:26 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0641": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:02 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:41 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0656": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:17 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:56 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0711": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:32 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:11 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0726": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:47 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:26 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0741": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:02 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:41 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0756": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:17 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:56 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0811": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:32 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:11 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0826": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:47 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:26 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0841": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:02 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:41 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0856": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:17 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:56 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0911": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:32 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:11 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0926": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:47 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:26 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0941": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:02 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:41 AM",
+        "origin": "COLS"
+      }
+    ],
+    "0956": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:17 AM",
+        "destination": "DBRK",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:56 AM",
+        "origin": "COLS"
+      }
+    ]
+  }
+}

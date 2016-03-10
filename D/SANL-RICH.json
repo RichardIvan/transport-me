@@ -1,0 +1,5340 @@
+{
+  "FRI": {
+    "1007": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:45 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:07 AM",
+        "origin": "SANL"
+      }
+    ],
+    "1022": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:00 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:22 AM",
+        "origin": "SANL"
+      }
+    ],
+    "1037": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:15 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:37 AM",
+        "origin": "SANL"
+      }
+    ],
+    "1052": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:30 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:52 AM",
+        "origin": "SANL"
+      }
+    ],
+    "1107": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:45 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:07 AM",
+        "origin": "SANL"
+      }
+    ],
+    "1122": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:00 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:22 AM",
+        "origin": "SANL"
+      }
+    ],
+    "1137": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:15 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:37 AM",
+        "origin": "SANL"
+      }
+    ],
+    "1152": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:30 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:52 AM",
+        "origin": "SANL"
+      }
+    ],
+    "1207": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:45 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:07 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1222": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:00 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:22 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1237": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:15 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:37 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1252": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:30 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:52 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1307": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:45 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:07 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1322": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:00 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:22 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1337": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:15 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:37 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1352": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:30 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:52 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1407": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:45 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:07 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1422": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:00 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:22 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1437": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:15 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:37 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1452": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:30 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:52 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1507": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:45 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:07 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1522": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:00 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:22 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1537": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:15 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:37 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1552": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:30 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:52 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1607": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:45 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:07 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1622": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:00 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:22 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1637": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:15 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:37 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1652": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:30 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:52 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1707": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:45 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:07 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1722": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:00 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:22 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1737": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:15 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:37 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1752": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:30 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:52 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1807": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:45 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:07 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1822": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:00 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:22 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1837": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:15 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:37 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1852": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:30 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:52 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1907": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:45 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:07 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1922": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:00 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:22 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1937": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:15 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:37 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1956": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:36 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:56 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2016": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:56 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:16 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2036": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:16 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:36 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2056": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:36 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:56 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2116": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:56 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:16 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2136": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:16 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:36 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2156": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:36 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:56 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2216": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:56 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:16 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2236": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:16 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:36 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2256": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:36 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:56 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2316": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:56 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:16 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2336": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:16 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:36 PM",
+        "origin": "SANL"
+      }
+    ],
+    "0001": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "12:41 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/11/2016",
+        "origTimeMin": "12:01 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0021": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "1:04 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/11/2016",
+        "origTimeMin": "12:21 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0422": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:00 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:22 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0437": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:15 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:37 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0452": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:30 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:52 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0507": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:45 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:07 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0522": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:00 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:22 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0537": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:15 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:37 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0552": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:30 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:52 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0607": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:45 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:07 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0622": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:00 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:22 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0637": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:15 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:37 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0652": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:30 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:52 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0707": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:45 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:07 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0722": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:00 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:22 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0737": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:15 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:37 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0752": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:30 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:52 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0807": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:45 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:07 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0822": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:00 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:22 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0837": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:15 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:37 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0852": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:30 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:52 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0907": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:45 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:07 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0922": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:00 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:22 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0937": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:15 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:37 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0952": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:30 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:52 AM",
+        "origin": "SANL"
+      }
+    ]
+  },
+  "MON": {
+    "1007": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:45 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:07 AM",
+        "origin": "SANL"
+      }
+    ],
+    "1022": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:00 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:22 AM",
+        "origin": "SANL"
+      }
+    ],
+    "1037": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:15 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:37 AM",
+        "origin": "SANL"
+      }
+    ],
+    "1052": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:30 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:52 AM",
+        "origin": "SANL"
+      }
+    ],
+    "1107": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:45 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:07 AM",
+        "origin": "SANL"
+      }
+    ],
+    "1122": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:00 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:22 AM",
+        "origin": "SANL"
+      }
+    ],
+    "1137": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:15 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:37 AM",
+        "origin": "SANL"
+      }
+    ],
+    "1152": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:30 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:52 AM",
+        "origin": "SANL"
+      }
+    ],
+    "1207": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:45 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:07 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1222": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:00 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:22 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1237": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:15 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:37 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1252": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:30 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:52 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1307": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:45 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:07 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1322": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:00 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:22 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1337": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:15 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:37 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1352": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:30 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:52 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1407": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:45 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:07 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1422": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:00 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:22 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1437": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:15 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:37 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1452": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:30 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:52 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1507": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:45 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:07 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1522": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:00 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:22 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1537": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:15 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:37 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1552": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:30 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:52 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1607": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:45 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:07 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1622": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:00 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:22 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1637": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:15 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:37 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1652": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:30 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:52 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1707": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:45 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:07 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1722": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:00 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:22 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1737": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:15 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:37 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1752": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:30 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:52 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1807": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:45 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:07 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1822": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:00 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:22 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1837": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:15 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:37 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1852": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:30 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:52 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1907": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:45 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:07 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1922": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:00 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:22 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1937": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:15 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:37 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1956": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:36 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:56 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2016": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:56 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:16 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2036": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:16 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:36 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2056": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:36 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:56 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2116": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:56 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:16 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2136": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:16 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:36 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2156": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:36 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:56 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2216": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:56 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:16 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2236": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:16 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:36 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2256": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:36 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:56 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2316": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:56 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:16 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2336": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:16 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:36 PM",
+        "origin": "SANL"
+      }
+    ],
+    "0001": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:41 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:01 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0021": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:04 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:21 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0422": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:00 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:22 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0437": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:15 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:37 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0452": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:30 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:52 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0507": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:45 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:07 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0522": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:00 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:22 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0537": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:15 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:37 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0552": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:30 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:52 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0607": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:45 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:07 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0622": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:00 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:22 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0637": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:15 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:37 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0652": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:30 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:52 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0707": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:45 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:07 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0722": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:00 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:22 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0737": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:15 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:37 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0752": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:30 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:52 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0807": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:45 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:07 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0822": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:00 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:22 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0837": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:15 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:37 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0852": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:30 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:52 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0907": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:45 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:07 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0922": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:00 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:22 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0937": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:15 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:37 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0952": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:30 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:52 AM",
+        "origin": "SANL"
+      }
+    ]
+  },
+  "SAT": {
+    "1016": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:56 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:16 AM",
+        "origin": "SANL"
+      }
+    ],
+    "1036": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:16 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:36 AM",
+        "origin": "SANL"
+      }
+    ],
+    "1056": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:36 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:56 AM",
+        "origin": "SANL"
+      }
+    ],
+    "1116": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:56 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:16 AM",
+        "origin": "SANL"
+      }
+    ],
+    "1136": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:16 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:36 AM",
+        "origin": "SANL"
+      }
+    ],
+    "1156": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:36 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:56 AM",
+        "origin": "SANL"
+      }
+    ],
+    "1216": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:56 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:16 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1236": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:16 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:36 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1256": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:36 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:56 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1316": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:56 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:16 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1336": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:16 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:36 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1356": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:36 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:56 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1416": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:56 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:16 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1436": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:16 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:36 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1456": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:36 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:56 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1516": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:56 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:16 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1536": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:16 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:36 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1556": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:36 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:56 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1616": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:56 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:16 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1636": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:16 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:36 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1656": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:36 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:56 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1716": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:56 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:16 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1736": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:16 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:36 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1756": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:36 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:56 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1816": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:56 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:16 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1836": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:16 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:36 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1856": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:36 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:56 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1916": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:56 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:16 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1936": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:16 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:36 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1956": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:36 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:56 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2016": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:56 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:16 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2036": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:16 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:36 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2056": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:36 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:56 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2116": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:56 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:16 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2136": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:16 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:36 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2156": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:36 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:56 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2216": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:56 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:16 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2236": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:16 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:36 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2256": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:36 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:56 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2316": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:56 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:16 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2336": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:16 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:36 PM",
+        "origin": "SANL"
+      }
+    ],
+    "0001": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:41 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:01 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0021": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:04 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:21 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0616": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:56 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:16 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0636": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:16 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:36 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0656": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:36 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:56 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0716": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:56 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:16 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0736": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:16 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:36 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0756": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:36 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:56 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0816": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:56 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:16 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0836": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:16 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:36 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0856": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:36 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:56 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0916": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:56 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:16 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0936": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:16 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:36 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0956": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:36 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:56 AM",
+        "origin": "SANL"
+      }
+    ]
+  },
+  "SUN": {
+    "1016": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:56 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:16 AM",
+        "origin": "SANL"
+      }
+    ],
+    "1036": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:16 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:36 AM",
+        "origin": "SANL"
+      }
+    ],
+    "1056": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:36 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:56 AM",
+        "origin": "SANL"
+      }
+    ],
+    "1116": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:56 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:16 AM",
+        "origin": "SANL"
+      }
+    ],
+    "1136": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:16 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:36 AM",
+        "origin": "SANL"
+      }
+    ],
+    "1156": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:36 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:56 AM",
+        "origin": "SANL"
+      }
+    ],
+    "1216": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:56 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:16 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1236": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:16 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:36 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1256": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:36 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:56 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1316": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:56 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:16 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1336": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:16 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:36 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1356": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:36 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:56 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1416": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:56 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:16 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1436": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:16 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:36 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1456": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:36 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:56 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1516": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:56 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:16 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1536": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:16 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:36 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1556": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:36 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:56 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1616": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:56 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:16 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1636": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:16 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:36 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1656": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:36 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:56 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1716": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:56 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:16 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1736": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:16 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:36 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1756": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:36 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:56 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1816": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:56 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:16 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1836": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:16 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:36 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1856": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:36 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:56 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1916": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:56 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:16 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1936": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:16 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:36 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1956": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:36 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:56 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2016": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:56 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:16 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2036": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:16 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:36 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2056": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:36 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:56 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2116": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:56 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:16 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2136": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:16 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:36 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2156": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:36 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:56 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2216": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:56 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:16 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2236": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:16 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:36 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2256": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:36 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:56 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2316": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:56 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:16 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2336": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:16 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:36 PM",
+        "origin": "SANL"
+      }
+    ],
+    "0001": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:41 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:01 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0021": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:04 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:21 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0816": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:56 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:16 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0836": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:16 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:36 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0856": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:36 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:56 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0916": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:56 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:16 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0936": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:16 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:36 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0956": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:36 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:56 AM",
+        "origin": "SANL"
+      }
+    ]
+  },
+  "THU": {
+    "1007": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:45 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:07 AM",
+        "origin": "SANL"
+      }
+    ],
+    "1022": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:00 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:22 AM",
+        "origin": "SANL"
+      }
+    ],
+    "1037": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:15 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:37 AM",
+        "origin": "SANL"
+      }
+    ],
+    "1052": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:30 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:52 AM",
+        "origin": "SANL"
+      }
+    ],
+    "1107": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:45 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:07 AM",
+        "origin": "SANL"
+      }
+    ],
+    "1122": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:00 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:22 AM",
+        "origin": "SANL"
+      }
+    ],
+    "1137": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:15 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:37 AM",
+        "origin": "SANL"
+      }
+    ],
+    "1152": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:30 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:52 AM",
+        "origin": "SANL"
+      }
+    ],
+    "1207": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:45 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:07 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1222": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:00 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:22 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1237": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:15 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:37 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1252": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:30 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:52 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1307": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:45 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:07 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1322": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:00 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:22 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1337": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:15 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:37 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1352": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:30 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:52 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1407": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:45 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:07 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1422": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:00 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:22 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1437": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:15 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:37 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1452": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:30 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:52 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1507": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:45 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:07 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1522": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:00 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:22 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1537": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:15 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:37 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1552": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:30 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:52 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1607": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:45 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:07 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1622": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:00 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:22 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1637": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:15 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:37 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1652": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:30 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:52 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1707": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:45 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:07 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1722": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:00 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:22 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1737": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:15 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:37 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1752": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:30 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:52 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1807": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:45 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:07 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1822": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:00 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:22 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1837": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:15 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:37 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1852": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:30 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:52 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1907": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:45 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:07 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1922": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:00 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:22 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1937": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:15 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:37 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1956": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:36 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:56 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2016": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:56 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:16 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2036": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:16 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:36 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2056": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:36 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:56 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2116": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:56 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:16 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2136": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:16 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:36 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2156": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:36 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:56 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2216": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:56 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:16 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2236": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:16 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:36 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2256": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:36 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:56 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2316": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:56 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:16 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2336": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "12:16 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:36 PM",
+        "origin": "SANL"
+      }
+    ],
+    "0001": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:41 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:01 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0021": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:04 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:21 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0422": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:00 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:22 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0437": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:15 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:37 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0452": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:30 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:52 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0507": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:45 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:07 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0522": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:00 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:22 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0537": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:15 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:37 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0552": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:30 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:52 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0607": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:45 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:07 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0622": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:00 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:22 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0637": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:15 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:37 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0652": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:30 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:52 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0707": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:45 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:07 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0722": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:00 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:22 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0737": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:15 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:37 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0752": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:30 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:52 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0807": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:45 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:07 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0822": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:00 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:22 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0837": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:15 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:37 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0852": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:30 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:52 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0907": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:45 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:07 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0922": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:00 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:22 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0937": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:15 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:37 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0952": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:30 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:52 AM",
+        "origin": "SANL"
+      }
+    ]
+  },
+  "TUE": {
+    "1007": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:45 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:07 AM",
+        "origin": "SANL"
+      }
+    ],
+    "1022": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:00 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:22 AM",
+        "origin": "SANL"
+      }
+    ],
+    "1037": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:15 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:37 AM",
+        "origin": "SANL"
+      }
+    ],
+    "1052": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:30 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:52 AM",
+        "origin": "SANL"
+      }
+    ],
+    "1107": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:45 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:07 AM",
+        "origin": "SANL"
+      }
+    ],
+    "1122": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:00 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:22 AM",
+        "origin": "SANL"
+      }
+    ],
+    "1137": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:15 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:37 AM",
+        "origin": "SANL"
+      }
+    ],
+    "1152": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:30 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:52 AM",
+        "origin": "SANL"
+      }
+    ],
+    "1207": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:45 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:07 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1222": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:00 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:22 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1237": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:15 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:37 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1252": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:30 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:52 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1307": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:45 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:07 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1322": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:00 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:22 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1337": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:15 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:37 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1352": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:30 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:52 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1407": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:45 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:07 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1422": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:00 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:22 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1437": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:15 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:37 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1452": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:30 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:52 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1507": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:45 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:07 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1522": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:00 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:22 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1537": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:15 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:37 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1552": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:30 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:52 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1607": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:45 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:07 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1622": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:00 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:22 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1637": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:15 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:37 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1652": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:30 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:52 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1707": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:45 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:07 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1722": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:00 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:22 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1737": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:15 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:37 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1752": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:30 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:52 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1807": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:45 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:07 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1822": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:00 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:22 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1837": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:15 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:37 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1852": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:30 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:52 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1907": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:45 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:07 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1922": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:00 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:22 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1937": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:15 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:37 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1956": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:36 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:56 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2016": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:56 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:16 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2036": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:16 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:36 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2056": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:36 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:56 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2116": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:56 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:16 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2136": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:16 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:36 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2156": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:36 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:56 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2216": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:56 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:16 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2236": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:16 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:36 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2256": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:36 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:56 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2316": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:56 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:16 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2336": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:16 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:36 PM",
+        "origin": "SANL"
+      }
+    ],
+    "0001": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:41 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:01 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0021": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:04 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:21 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0422": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:00 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:22 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0437": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:15 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:37 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0452": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:30 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:52 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0507": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:45 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:07 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0522": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:00 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:22 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0537": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:15 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:37 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0552": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:30 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:52 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0607": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:45 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:07 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0622": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:00 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:22 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0637": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:15 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:37 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0652": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:30 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:52 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0707": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:45 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:07 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0722": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:00 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:22 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0737": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:15 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:37 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0752": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:30 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:52 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0807": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:45 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:07 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0822": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:00 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:22 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0837": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:15 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:37 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0852": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:30 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:52 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0907": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:45 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:07 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0922": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:00 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:22 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0937": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:15 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:37 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0952": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:30 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:52 AM",
+        "origin": "SANL"
+      }
+    ]
+  },
+  "WED": {
+    "1007": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:45 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:07 AM",
+        "origin": "SANL"
+      }
+    ],
+    "1022": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:00 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:22 AM",
+        "origin": "SANL"
+      }
+    ],
+    "1037": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:15 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:37 AM",
+        "origin": "SANL"
+      }
+    ],
+    "1052": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:30 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:52 AM",
+        "origin": "SANL"
+      }
+    ],
+    "1107": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:45 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:07 AM",
+        "origin": "SANL"
+      }
+    ],
+    "1122": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:00 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:22 AM",
+        "origin": "SANL"
+      }
+    ],
+    "1137": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:15 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:37 AM",
+        "origin": "SANL"
+      }
+    ],
+    "1152": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:30 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:52 AM",
+        "origin": "SANL"
+      }
+    ],
+    "1207": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:45 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:07 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1222": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:00 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:22 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1237": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:15 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:37 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1252": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:30 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:52 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1307": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:45 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:07 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1322": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:00 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:22 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1337": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:15 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:37 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1352": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:30 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:52 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1407": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:45 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:07 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1422": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:00 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:22 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1437": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:15 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:37 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1452": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:30 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:52 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1507": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:45 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:07 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1522": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:00 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:22 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1537": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:15 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:37 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1552": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:30 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:52 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1607": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:45 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:07 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1622": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:00 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:22 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1637": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:15 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:37 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1652": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:30 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:52 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1707": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:45 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:07 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1722": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:00 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:22 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1737": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:15 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:37 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1752": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:30 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:52 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1807": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:45 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:07 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1822": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:00 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:22 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1837": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:15 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:37 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1852": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:30 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:52 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1907": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:45 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:07 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1922": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:00 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:22 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1937": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:15 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:37 PM",
+        "origin": "SANL"
+      }
+    ],
+    "1956": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:36 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:56 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2016": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:56 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:16 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2036": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:16 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:36 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2056": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:36 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:56 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2116": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:56 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:16 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2136": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:16 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:36 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2156": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:36 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:56 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2216": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:56 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:16 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2236": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:16 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:36 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2256": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:36 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:56 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2316": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:56 PM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:16 PM",
+        "origin": "SANL"
+      }
+    ],
+    "2336": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:16 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:36 PM",
+        "origin": "SANL"
+      }
+    ],
+    "0001": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:41 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:01 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0021": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:04 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:21 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0422": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:00 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:22 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0437": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:15 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:37 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0452": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:30 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:52 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0507": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:45 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:07 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0522": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:00 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:22 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0537": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:15 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:37 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0552": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:30 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:52 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0607": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:45 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:07 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0622": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:00 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:22 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0637": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:15 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:37 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0652": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:30 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:52 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0707": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:45 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:07 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0722": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:00 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:22 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0737": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:15 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:37 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0752": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:30 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:52 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0807": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:45 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:07 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0822": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:00 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:22 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0837": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:15 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:37 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0852": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:30 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:52 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0907": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:45 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:07 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0922": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:00 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:22 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0937": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:15 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:37 AM",
+        "origin": "SANL"
+      }
+    ],
+    "0952": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:30 AM",
+        "destination": "RICH",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:52 AM",
+        "origin": "SANL"
+      }
+    ]
+  }
+}

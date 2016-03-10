@@ -1,0 +1,5362 @@
+{
+  "FRI": {
+    "1006": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:28 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:06 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "1021": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:43 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:21 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "1036": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:58 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:36 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "1051": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:13 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:51 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "1106": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:28 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:06 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "1121": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:43 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:21 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "1136": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:58 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:36 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "1151": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:51 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "1206": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:06 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1221": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:21 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1236": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:36 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1251": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:51 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1306": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:06 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1321": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:21 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1336": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:36 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1351": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:51 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1406": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:06 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1421": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:21 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1436": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:36 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1451": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:51 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1506": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:06 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1521": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:21 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1536": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:36 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1551": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:51 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1606": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:06 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1621": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:21 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1636": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:36 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1651": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:51 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1706": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:06 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1721": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:21 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1736": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:36 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1751": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:51 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1806": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:06 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1821": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:21 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1836": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:36 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1851": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:51 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1906": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:06 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1921": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:21 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1936": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:36 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1951": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:51 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2006": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:06 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2021": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:21 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2043": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:43 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2103": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:03 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2123": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:23 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2143": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:43 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2203": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:03 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2223": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:23 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2243": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:43 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2303": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:03 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2323": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:23 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2343": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:05 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:43 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "0003": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "12:25 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/11/2016",
+        "origTimeMin": "12:03 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0023": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "12:45 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/11/2016",
+        "origTimeMin": "12:23 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0043": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "1:05 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/11/2016",
+        "origTimeMin": "12:43 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0114": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "1:35 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/11/2016",
+        "origTimeMin": "1:14 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0506": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:28 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:06 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0521": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:43 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:21 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0536": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:58 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:36 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0551": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:13 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:51 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0606": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:28 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:06 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0621": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:43 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:21 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0636": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:58 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:36 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0651": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:13 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:51 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0706": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:28 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:06 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0721": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:43 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:21 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0736": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:58 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:36 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0751": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:13 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:51 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0806": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:28 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:06 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0821": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:43 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:21 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0836": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:58 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:36 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0851": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:13 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:51 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0906": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:28 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:06 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0921": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:43 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:21 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0936": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:58 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:36 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0951": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:13 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:51 AM",
+        "origin": "GLEN"
+      }
+    ]
+  },
+  "MON": {
+    "1006": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:28 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:06 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "1021": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:43 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:21 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "1036": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:58 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:36 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "1051": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:13 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:51 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "1106": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:28 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:06 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "1121": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:43 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:21 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "1136": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:58 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:36 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "1151": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:51 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "1206": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:06 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1221": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:21 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1236": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:36 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1251": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:51 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1306": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:06 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1321": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:21 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1336": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:36 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1351": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:51 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1406": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:06 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1421": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:21 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1436": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:36 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1451": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:51 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1506": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:06 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1521": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:21 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1536": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:36 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1551": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:51 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1606": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:06 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1621": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:21 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1636": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:36 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1651": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:51 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1706": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:06 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1721": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:21 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1736": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:36 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1751": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:51 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1806": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:06 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1821": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:21 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1836": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:36 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1851": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:51 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1906": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:06 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1921": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:21 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1936": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:36 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1951": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:51 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2006": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:06 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2021": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:21 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2043": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:43 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2103": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:03 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2123": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:23 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2143": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:43 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2203": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:03 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2223": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:23 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2243": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:43 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2303": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:03 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2323": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:23 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2343": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:05 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:43 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "0003": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:25 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:03 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0023": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:45 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:23 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0043": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:05 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:43 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0114": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:35 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:14 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0506": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:28 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:06 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0521": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:43 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:21 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0536": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:58 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:36 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0551": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:13 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:51 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0606": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:28 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:06 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0621": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:43 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:21 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0636": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:58 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:36 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0651": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:13 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:51 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0706": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:28 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:06 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0721": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:43 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:21 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0736": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:58 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:36 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0751": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:13 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:51 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0806": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:28 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:06 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0821": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:43 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:21 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0836": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:58 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:36 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0851": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:13 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:51 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0906": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:28 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:06 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0921": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:43 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:21 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0936": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:58 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:36 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0951": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:13 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:51 AM",
+        "origin": "GLEN"
+      }
+    ]
+  },
+  "SAT": {
+    "1003": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:25 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:03 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "1023": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:45 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:23 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "1043": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:05 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:43 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "1103": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:25 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:03 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "1123": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:45 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:23 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "1143": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:43 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "1203": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:03 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1223": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:23 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1243": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:43 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1303": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:03 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1323": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:23 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1343": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:43 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1403": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:03 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1423": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:23 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1443": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:43 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1503": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:03 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1523": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:23 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1543": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:43 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1603": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:03 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1623": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:23 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1643": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:43 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1703": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:03 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1723": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:23 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1743": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:43 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1803": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:03 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1823": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:23 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1843": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:43 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1903": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:03 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1923": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:23 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1943": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:43 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2003": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:03 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2023": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:23 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2043": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:43 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2103": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:03 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2123": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:23 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2143": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:43 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2203": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:03 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2223": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:23 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2243": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:43 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2303": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:03 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2323": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:23 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2343": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:05 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:43 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "0003": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:25 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:03 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0023": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:45 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:23 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0043": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:05 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:43 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0114": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:35 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:14 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0643": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:05 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:43 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0703": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:25 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:03 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0723": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:45 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:23 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0743": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:05 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:43 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0803": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:25 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:03 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0823": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:45 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:23 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0843": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:05 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:43 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0903": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:25 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:03 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0923": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:45 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:23 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0943": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:05 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:43 AM",
+        "origin": "GLEN"
+      }
+    ]
+  },
+  "SUN": {
+    "1003": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:25 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:03 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "1023": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:45 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:23 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "1043": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:05 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:43 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "1103": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:25 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:03 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "1123": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:45 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:23 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "1143": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:43 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "1203": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:03 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1223": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:23 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1243": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:43 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1303": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:03 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1323": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:23 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1343": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:43 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1403": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:03 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1423": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:23 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1443": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:43 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1503": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:03 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1523": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:23 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1543": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:43 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1603": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:03 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1623": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:23 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1643": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:43 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1703": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:03 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1723": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:23 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1743": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:43 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1803": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:03 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1823": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:23 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1843": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:43 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1903": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:03 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1923": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:23 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1943": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:43 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2003": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:03 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2023": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:23 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2043": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:43 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2103": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:03 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2123": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:23 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2143": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:43 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2203": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:03 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2223": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:23 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2243": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:43 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2303": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:03 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2323": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:23 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2343": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:05 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:43 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "0003": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:25 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:03 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0023": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:45 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:23 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0043": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:05 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:43 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0114": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:35 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:14 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0843": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:05 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:43 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0903": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:25 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:03 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0923": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:45 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:23 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0943": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:05 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:43 AM",
+        "origin": "GLEN"
+      }
+    ]
+  },
+  "THU": {
+    "1006": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:28 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:06 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "1021": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:43 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:21 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "1036": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:58 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:36 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "1051": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:13 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:51 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "1106": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:28 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:06 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "1121": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:43 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:21 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "1136": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:58 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:36 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "1151": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:51 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "1206": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:06 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1221": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:21 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1236": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:36 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1251": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:51 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1306": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:06 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1321": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:21 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1336": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:36 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1351": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:51 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1406": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:06 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1421": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:21 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1436": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:36 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1451": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:51 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1506": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:06 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1521": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:21 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1536": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:36 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1551": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:51 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1606": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:06 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1621": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:21 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1636": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:36 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1651": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:51 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1706": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:06 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1721": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:21 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1736": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:36 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1751": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:51 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1806": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:06 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1821": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:21 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1836": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:36 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1851": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:51 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1906": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:06 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1921": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:21 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1936": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:36 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1951": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:51 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2006": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:06 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2021": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:21 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2043": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:43 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2103": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:03 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2123": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:23 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2143": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:43 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2203": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:03 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2223": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:23 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2243": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:43 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2303": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:03 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2323": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:23 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2343": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "12:05 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:43 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "0003": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:25 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:03 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0023": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:45 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:23 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0043": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:05 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:43 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0114": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:35 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:14 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0506": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:28 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:06 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0521": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:43 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:21 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0536": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:58 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:36 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0551": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:13 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:51 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0606": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:28 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:06 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0621": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:43 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:21 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0636": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:58 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:36 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0651": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:13 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:51 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0706": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:28 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:06 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0721": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:43 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:21 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0736": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:58 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:36 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0751": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:13 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:51 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0806": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:28 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:06 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0821": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:43 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:21 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0836": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:58 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:36 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0851": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:13 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:51 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0906": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:28 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:06 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0921": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:43 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:21 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0936": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:58 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:36 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0951": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:13 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:51 AM",
+        "origin": "GLEN"
+      }
+    ]
+  },
+  "TUE": {
+    "1006": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:28 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:06 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "1021": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:43 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:21 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "1036": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:58 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:36 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "1051": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:13 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:51 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "1106": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:28 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:06 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "1121": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:43 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:21 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "1136": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:58 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:36 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "1151": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:51 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "1206": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:06 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1221": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:21 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1236": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:36 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1251": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:51 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1306": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:06 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1321": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:21 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1336": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:36 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1351": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:51 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1406": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:06 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1421": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:21 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1436": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:36 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1451": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:51 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1506": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:06 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1521": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:21 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1536": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:36 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1551": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:51 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1606": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:06 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1621": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:21 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1636": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:36 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1651": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:51 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1706": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:06 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1721": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:21 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1736": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:36 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1751": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:51 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1806": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:06 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1821": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:21 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1836": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:36 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1851": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:51 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1906": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:06 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1921": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:21 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1936": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:36 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1951": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:51 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2006": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:06 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2021": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:21 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2043": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:43 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2103": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:03 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2123": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:23 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2143": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:43 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2203": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:03 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2223": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:23 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2243": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:43 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2303": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:03 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2323": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:23 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2343": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:05 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:43 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "0003": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:25 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:03 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0023": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:45 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:23 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0043": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:05 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:43 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0114": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:35 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:14 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0506": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:28 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:06 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0521": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:43 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:21 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0536": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:58 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:36 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0551": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:13 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:51 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0606": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:28 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:06 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0621": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:43 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:21 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0636": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:58 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:36 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0651": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:13 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:51 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0706": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:28 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:06 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0721": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:43 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:21 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0736": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:58 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:36 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0751": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:13 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:51 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0806": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:28 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:06 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0821": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:43 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:21 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0836": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:58 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:36 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0851": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:13 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:51 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0906": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:28 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:06 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0921": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:43 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:21 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0936": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:58 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:36 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0951": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:13 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:51 AM",
+        "origin": "GLEN"
+      }
+    ]
+  },
+  "WED": {
+    "1006": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:28 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:06 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "1021": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:43 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:21 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "1036": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:58 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:36 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "1051": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:13 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:51 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "1106": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:28 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:06 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "1121": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:43 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:21 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "1136": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:58 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:36 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "1151": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:51 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "1206": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:06 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1221": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:21 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1236": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:36 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1251": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:51 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1306": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:06 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1321": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:21 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1336": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:36 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1351": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:51 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1406": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:06 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1421": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:21 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1436": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:36 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1451": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:51 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1506": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:06 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1521": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:21 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1536": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:36 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1551": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:51 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1606": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:06 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1621": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:21 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1636": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:36 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1651": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:51 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1706": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:06 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1721": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:21 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1736": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:36 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1751": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:51 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1806": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:06 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1821": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:21 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1836": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:36 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1851": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:51 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1906": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:06 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1921": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:21 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1936": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:58 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:36 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "1951": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:13 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:51 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2006": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:28 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:06 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2021": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:43 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:21 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2043": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:43 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2103": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:03 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2123": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:23 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2143": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:43 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2203": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:03 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2223": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:23 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2243": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:05 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:43 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2303": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:25 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:03 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2323": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:45 PM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:23 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "2343": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:05 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:43 PM",
+        "origin": "GLEN"
+      }
+    ],
+    "0003": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:25 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:03 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0023": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:45 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:23 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0043": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:05 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:43 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0114": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:35 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:14 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0506": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:28 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:06 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0521": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:43 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:21 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0536": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:58 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:36 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0551": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:13 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:51 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0606": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:28 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:06 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0621": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:43 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:21 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0636": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:58 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:36 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0651": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:13 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:51 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0706": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:28 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:06 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0721": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:43 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:21 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0736": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:58 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:36 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0751": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:13 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:51 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0806": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:28 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:06 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0821": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:43 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:21 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0836": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:58 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:36 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0851": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:13 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:51 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0906": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:28 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:06 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0921": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:43 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:21 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0936": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:58 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:36 AM",
+        "origin": "GLEN"
+      }
+    ],
+    "0951": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:13 AM",
+        "destination": "SFIA",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:51 AM",
+        "origin": "GLEN"
+      }
+    ]
+  }
+}

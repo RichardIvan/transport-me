@@ -1,0 +1,5692 @@
+{
+  "FRI": {
+    "1008": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:02 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:08 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1023": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:17 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:23 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1038": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:38 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1053": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:47 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:53 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1108": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:08 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1123": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:23 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1138": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:38 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1153": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:53 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1208": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:08 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1223": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:23 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1238": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:38 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1253": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:53 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1308": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:08 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1323": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:23 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1338": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:38 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1353": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:53 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1408": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:08 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1423": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:23 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1438": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:38 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1453": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:53 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1508": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:08 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1523": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:23 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1538": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:38 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1553": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:53 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1608": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:08 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1623": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:23 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1638": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:38 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1653": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:53 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1708": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:08 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1718": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:18 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1723": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:23 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1733": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:27 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:33 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1738": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:38 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1748": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:42 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:48 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1753": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:53 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1803": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:57 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:03 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1808": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:08 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1818": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:18 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1823": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:23 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1833": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:27 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:33 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1838": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:38 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1853": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:53 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1908": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:08 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1923": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:23 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1938": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:38 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1957": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:57 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2017": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:17 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2037": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:37 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2057": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:57 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2117": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:17 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2137": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:37 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2157": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:57 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2217": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:17 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2237": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:37 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2257": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:57 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2317": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:12 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:17 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2337": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:37 PM",
+        "origin": "POWL"
+      }
+    ],
+    "0002": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "12:57 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/11/2016",
+        "origTimeMin": "12:02 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0023": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "1:20 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/11/2016",
+        "origTimeMin": "12:23 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0423": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:17 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:23 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0438": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:38 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0453": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:47 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:53 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0508": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:02 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:08 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0523": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:17 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:23 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0538": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:38 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0553": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:47 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:53 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0608": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:02 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:08 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0623": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:17 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:23 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0638": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:38 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0653": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:47 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:53 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0708": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:02 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:08 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0723": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:17 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:23 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0738": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:38 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0753": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:47 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:53 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0808": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:02 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:08 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0823": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:17 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:23 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0838": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:38 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0853": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:47 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:53 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0908": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:02 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:08 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0923": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:17 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:23 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0938": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:38 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0953": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:47 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:53 AM",
+        "origin": "POWL"
+      }
+    ]
+  },
+  "MON": {
+    "1008": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:02 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:08 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1023": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:17 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:23 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1038": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:38 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1053": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:47 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:53 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1108": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:08 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1123": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:23 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1138": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:38 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1153": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:53 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1208": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:08 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1223": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:23 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1238": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:38 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1253": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:53 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1308": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:08 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1323": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:23 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1338": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:38 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1353": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:53 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1408": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:08 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1423": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:23 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1438": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:38 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1453": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:53 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1508": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:08 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1523": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:23 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1538": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:38 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1553": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:53 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1608": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:08 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1623": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:23 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1638": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:38 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1653": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:53 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1708": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:08 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1718": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:18 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1723": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:23 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1733": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:27 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:33 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1738": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:38 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1748": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:42 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:48 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1753": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:53 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1803": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:57 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:03 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1808": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:08 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1818": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:18 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1823": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:23 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1833": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:27 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:33 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1838": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:38 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1853": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:53 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1908": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:08 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1923": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:23 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1938": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:38 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1957": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:57 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2017": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:17 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2037": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:37 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2057": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:57 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2117": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:17 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2137": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:37 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2157": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:57 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2217": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:17 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2237": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:37 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2257": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:57 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2317": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:12 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:17 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2337": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:37 PM",
+        "origin": "POWL"
+      }
+    ],
+    "0002": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:57 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:02 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0023": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:20 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:23 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0423": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:17 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:23 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0438": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:38 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0453": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:47 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:53 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0508": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:02 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:08 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0523": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:17 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:23 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0538": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:38 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0553": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:47 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:53 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0608": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:02 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:08 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0623": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:17 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:23 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0638": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:38 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0653": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:47 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:53 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0708": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:02 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:08 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0723": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:17 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:23 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0738": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:38 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0753": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:47 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:53 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0808": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:02 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:08 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0823": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:17 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:23 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0838": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:38 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0853": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:47 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:53 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0908": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:02 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:08 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0923": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:17 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:23 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0938": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:38 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0953": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:47 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:53 AM",
+        "origin": "POWL"
+      }
+    ]
+  },
+  "SAT": {
+    "1017": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:12 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:17 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1037": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:37 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1057": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:52 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:57 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1117": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:17 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1137": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:37 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1157": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:57 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1217": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:17 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1237": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:37 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1257": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:57 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1317": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:17 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1337": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:37 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1357": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:57 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1417": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:17 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1437": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:37 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1457": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:57 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1517": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:17 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1537": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:37 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1557": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:57 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1617": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:17 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1637": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:37 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1657": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:57 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1717": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:17 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1737": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:37 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1757": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:57 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1817": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:17 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1837": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:37 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1857": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:57 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1917": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:17 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1937": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:37 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1957": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:57 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2017": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:17 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2037": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:37 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2057": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:57 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2117": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:17 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2137": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:37 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2157": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:57 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2217": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:17 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2237": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:37 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2257": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:57 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2317": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:12 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:17 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2337": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:37 PM",
+        "origin": "POWL"
+      }
+    ],
+    "0002": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:57 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:02 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0023": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:20 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:23 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0557": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:52 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:57 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0617": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:12 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:17 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0637": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:37 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0657": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:52 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:57 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0717": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:12 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:17 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0737": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:37 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0757": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:52 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:57 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0817": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:12 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:17 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0837": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:37 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0857": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:52 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:57 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0917": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:12 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:17 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0937": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:37 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0957": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:52 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:57 AM",
+        "origin": "POWL"
+      }
+    ]
+  },
+  "SUN": {
+    "1017": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:12 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:17 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1037": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:37 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1057": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:52 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:57 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1117": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:17 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1137": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:37 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1157": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:57 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1217": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:17 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1237": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:37 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1257": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:57 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1317": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:17 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1337": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:37 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1357": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:57 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1417": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:17 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1437": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:37 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1457": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:57 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1517": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:17 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1537": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:37 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1557": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:57 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1617": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:17 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1637": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:37 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1657": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:57 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1717": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:17 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1737": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:37 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1757": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:57 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1817": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:17 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1837": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:37 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1857": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:57 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1917": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:17 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1937": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:37 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1957": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:57 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2017": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:17 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2037": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:37 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2057": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:57 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2117": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:17 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2137": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:37 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2157": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:57 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2217": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:17 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2237": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:37 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2257": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:57 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2317": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:12 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:17 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2337": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:37 PM",
+        "origin": "POWL"
+      }
+    ],
+    "0002": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:57 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:02 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0023": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:20 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:23 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0757": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:52 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:57 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0817": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:12 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:17 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0837": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:37 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0857": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:52 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:57 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0917": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:12 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:17 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0937": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:37 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0957": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:52 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:57 AM",
+        "origin": "POWL"
+      }
+    ]
+  },
+  "THU": {
+    "1008": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:02 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:08 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1023": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:17 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:23 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1038": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:38 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1053": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:47 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:53 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1108": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:08 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1123": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:23 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1138": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:38 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1153": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:53 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1208": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:08 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1223": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:23 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1238": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:38 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1253": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:53 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1308": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:08 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1323": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:23 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1338": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:38 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1353": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:53 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1408": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:08 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1423": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:23 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1438": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:38 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1453": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:53 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1508": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:08 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1523": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:23 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1538": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:38 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1553": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:53 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1608": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:08 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1623": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:23 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1638": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:38 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1653": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:53 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1708": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:08 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1718": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:18 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1723": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:23 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1733": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:27 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:33 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1738": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:38 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1748": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:42 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:48 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1753": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:53 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1803": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:57 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:03 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1808": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:08 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1818": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:18 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1823": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:23 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1833": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:27 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:33 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1838": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:38 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1853": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:53 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1908": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:08 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1923": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:23 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1938": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:38 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1957": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:57 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2017": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:17 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2037": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:37 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2057": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:57 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2117": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:17 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2137": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:37 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2157": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:57 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2217": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:17 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2237": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:37 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2257": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:57 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2317": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "12:12 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:17 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2337": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "12:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:37 PM",
+        "origin": "POWL"
+      }
+    ],
+    "0002": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:57 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:02 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0023": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:20 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:23 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0423": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:17 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:23 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0438": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:38 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0453": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:47 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:53 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0508": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:02 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:08 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0523": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:17 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:23 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0538": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:38 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0553": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:47 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:53 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0608": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:02 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:08 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0623": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:17 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:23 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0638": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:38 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0653": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:47 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:53 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0708": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:02 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:08 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0723": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:17 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:23 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0738": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:38 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0753": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:47 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:53 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0808": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:02 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:08 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0823": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:17 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:23 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0838": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:38 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0853": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:47 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:53 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0908": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:02 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:08 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0923": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:17 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:23 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0938": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:38 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0953": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:47 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:53 AM",
+        "origin": "POWL"
+      }
+    ]
+  },
+  "TUE": {
+    "1008": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:02 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:08 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1023": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:17 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:23 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1038": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:38 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1053": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:47 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:53 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1108": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:08 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1123": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:23 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1138": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:38 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1153": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:53 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1208": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:08 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1223": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:23 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1238": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:38 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1253": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:53 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1308": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:08 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1323": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:23 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1338": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:38 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1353": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:53 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1408": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:08 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1423": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:23 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1438": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:38 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1453": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:53 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1508": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:08 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1523": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:23 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1538": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:38 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1553": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:53 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1608": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:08 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1623": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:23 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1638": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:38 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1653": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:53 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1708": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:08 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1718": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:18 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1723": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:23 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1733": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:27 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:33 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1738": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:38 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1748": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:42 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:48 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1753": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:53 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1803": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:57 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:03 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1808": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:08 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1818": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:18 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1823": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:23 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1833": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:27 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:33 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1838": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:38 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1853": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:53 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1908": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:08 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1923": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:23 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1938": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:38 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1957": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:57 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2017": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:17 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2037": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:37 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2057": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:57 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2117": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:17 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2137": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:37 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2157": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:57 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2217": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:17 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2237": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:37 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2257": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:57 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2317": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:12 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:17 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2337": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:37 PM",
+        "origin": "POWL"
+      }
+    ],
+    "0002": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:57 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:02 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0023": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:20 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:23 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0423": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:17 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:23 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0438": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:38 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0453": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:47 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:53 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0508": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:02 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:08 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0523": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:17 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:23 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0538": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:38 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0553": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:47 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:53 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0608": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:02 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:08 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0623": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:17 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:23 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0638": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:38 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0653": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:47 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:53 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0708": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:02 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:08 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0723": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:17 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:23 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0738": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:38 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0753": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:47 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:53 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0808": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:02 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:08 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0823": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:17 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:23 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0838": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:38 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0853": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:47 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:53 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0908": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:02 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:08 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0923": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:17 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:23 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0938": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:38 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0953": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:47 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:53 AM",
+        "origin": "POWL"
+      }
+    ]
+  },
+  "WED": {
+    "1008": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:02 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:08 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1023": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:17 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:23 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1038": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:38 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1053": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:47 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:53 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1108": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:08 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1123": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:23 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1138": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:38 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1153": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:53 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1208": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:08 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1223": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:23 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1238": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:38 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1253": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:53 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1308": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:08 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1323": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:23 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1338": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:38 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1353": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:53 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1408": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:08 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1423": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:23 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1438": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:38 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1453": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:53 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1508": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:08 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1523": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:23 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1538": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:38 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1553": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:53 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1608": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:08 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1623": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:23 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1638": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:38 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1653": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:53 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1708": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:08 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1718": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:18 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1723": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:23 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1733": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:27 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:33 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1738": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:38 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1748": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:42 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:48 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1753": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:53 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1803": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:57 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:03 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1808": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:08 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1818": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:18 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1823": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:23 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1833": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:27 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:33 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1838": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:38 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1853": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:47 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:53 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1908": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:02 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:08 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1923": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:17 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:23 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1938": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:38 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1957": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:57 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2017": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:17 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2037": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:37 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2057": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:57 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2117": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:17 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2137": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:37 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2157": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:57 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2217": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:12 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:17 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2237": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:32 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:37 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2257": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:52 PM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:57 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2317": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:12 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:17 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2337": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:37 PM",
+        "origin": "POWL"
+      }
+    ],
+    "0002": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:57 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:02 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0023": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:20 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:23 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0423": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:17 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:23 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0438": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:38 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0453": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:47 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:53 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0508": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:02 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:08 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0523": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:17 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:23 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0538": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:38 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0553": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:47 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:53 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0608": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:02 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:08 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0623": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:17 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:23 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0638": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:38 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0653": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:47 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:53 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0708": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:02 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:08 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0723": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:17 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:23 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0738": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:38 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0753": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:47 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:53 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0808": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:02 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:08 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0823": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:17 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:23 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0838": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:38 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0853": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:47 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:53 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0908": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:02 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:08 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0923": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:17 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:23 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0938": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:32 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:38 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0953": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:47 AM",
+        "destination": "PITT",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:53 AM",
+        "origin": "POWL"
+      }
+    ]
+  }
+}

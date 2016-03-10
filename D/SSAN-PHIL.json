@@ -1,0 +1,6563 @@
+{
+  "FRI": {
+    "1002": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:01 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:02 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "1017": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:16 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:17 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "1032": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:31 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:32 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "1047": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:46 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:47 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "1102": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:02 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "1117": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:17 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "1132": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:32 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "1147": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:47 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "1202": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:02 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1217": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:17 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1232": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:32 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1247": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:47 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1302": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:02 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1317": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:17 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1332": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:32 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1347": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:47 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1402": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:02 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1417": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:17 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1432": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:32 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1447": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:47 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1502": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:02 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1517": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:17 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1532": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:32 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1547": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:47 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1602": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:02 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1617": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:17 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1632": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:32 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1639": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:49 PM",
+        "destination": "BALB",
+        "line": "08",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:39 PM",
+        "origin": "SSAN"
+      },
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:41 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:51 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1647": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:47 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1654": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:30 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:54 PM",
+        "origin": "SSAN"
+      },
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:33 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1702": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:02 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1709": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:45 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:09 PM",
+        "origin": "SSAN"
+      },
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:12 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:48 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1717": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:17 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1724": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:00 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:24 PM",
+        "origin": "SSAN"
+      },
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:27 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:03 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1732": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:32 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1739": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:15 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:39 PM",
+        "origin": "SSAN"
+      },
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:42 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:18 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1747": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:47 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1754": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:30 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:54 PM",
+        "origin": "SSAN"
+      },
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:33 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1802": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:02 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1809": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:45 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:09 PM",
+        "origin": "SSAN"
+      },
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:12 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:48 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1817": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:17 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1832": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:32 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1847": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:47 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1902": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:02 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1917": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:17 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1936": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:36 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1956": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:56 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2016": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:16 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2036": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:36 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2056": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:56 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2116": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:16 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2136": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:36 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2156": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:56 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2216": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:16 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2236": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:36 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2256": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:56 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2316": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:17 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:16 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2341": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:42 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:41 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "0002": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "1:05 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/11/2016",
+        "origTimeMin": "12:02 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0417": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:16 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:17 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0432": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:31 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:32 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0447": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:46 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:47 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0502": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:01 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:02 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0517": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:16 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:17 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0532": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:31 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:32 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0547": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:46 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:47 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0602": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:01 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:02 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0617": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:16 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:17 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0624": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:00 AM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:24 AM",
+        "origin": "SSAN"
+      },
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:26 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:05 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0632": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:31 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:32 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0639": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:15 AM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:39 AM",
+        "origin": "SSAN"
+      },
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:41 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:20 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0647": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:46 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:47 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0654": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:30 AM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:54 AM",
+        "origin": "SSAN"
+      },
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:56 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:35 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0702": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:01 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:02 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0709": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:45 AM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:09 AM",
+        "origin": "SSAN"
+      },
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:11 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:50 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0717": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:16 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:17 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0724": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:00 AM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:24 AM",
+        "origin": "SSAN"
+      },
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:26 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:05 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0732": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:31 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:32 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0739": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:15 AM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:39 AM",
+        "origin": "SSAN"
+      },
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:41 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:20 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0747": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:46 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:47 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0802": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:01 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:02 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0817": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:16 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:17 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0832": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:31 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:32 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0847": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:46 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:47 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0902": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:01 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:02 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0917": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:16 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:17 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0932": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:31 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:32 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0947": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:46 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:47 AM",
+        "origin": "SSAN"
+      }
+    ]
+  },
+  "MON": {
+    "1002": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:01 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:02 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "1017": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:16 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:17 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "1032": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:31 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:32 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "1047": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:46 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:47 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "1102": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:02 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "1117": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:17 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "1132": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:32 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "1147": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:47 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "1202": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:02 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1217": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:17 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1232": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:32 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1247": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:47 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1302": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:02 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1317": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:17 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1332": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:32 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1347": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:47 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1402": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:02 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1417": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:17 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1432": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:32 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1447": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:47 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1502": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:02 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1517": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:17 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1532": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:32 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1547": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:47 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1602": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:02 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1617": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:17 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1632": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:32 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1639": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:49 PM",
+        "destination": "BALB",
+        "line": "08",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:39 PM",
+        "origin": "SSAN"
+      },
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:41 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:51 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1647": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:47 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1654": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:30 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:54 PM",
+        "origin": "SSAN"
+      },
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:33 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1702": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:02 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1709": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:45 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:09 PM",
+        "origin": "SSAN"
+      },
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:12 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:48 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1717": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:17 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1724": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:00 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:24 PM",
+        "origin": "SSAN"
+      },
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:27 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:03 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1732": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:32 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1739": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:15 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:39 PM",
+        "origin": "SSAN"
+      },
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:42 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:18 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1747": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:47 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1754": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:30 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:54 PM",
+        "origin": "SSAN"
+      },
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:33 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1802": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:02 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1809": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:45 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:09 PM",
+        "origin": "SSAN"
+      },
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:12 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:48 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1817": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:17 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1832": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:32 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1847": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:47 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1902": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:02 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1917": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:17 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1936": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:36 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1956": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:56 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2016": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:16 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2036": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:36 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2056": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:56 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2116": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:16 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2136": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:36 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2156": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:56 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2216": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:16 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2236": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:36 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2256": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:56 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2316": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:17 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:16 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2341": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:42 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:41 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "0002": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:05 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:02 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0417": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:16 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:17 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0432": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:31 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:32 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0447": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:46 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:47 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0502": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:01 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:02 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0517": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:16 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:17 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0532": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:31 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:32 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0547": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:46 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:47 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0602": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:01 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:02 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0617": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:16 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:17 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0624": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:00 AM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:24 AM",
+        "origin": "SSAN"
+      },
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:26 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:05 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0632": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:31 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:32 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0639": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:15 AM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:39 AM",
+        "origin": "SSAN"
+      },
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:41 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:20 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0647": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:46 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:47 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0654": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:30 AM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:54 AM",
+        "origin": "SSAN"
+      },
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:56 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:35 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0702": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:01 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:02 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0709": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:45 AM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:09 AM",
+        "origin": "SSAN"
+      },
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:11 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:50 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0717": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:16 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:17 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0724": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:00 AM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:24 AM",
+        "origin": "SSAN"
+      },
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:26 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:05 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0732": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:31 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:32 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0739": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:15 AM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:39 AM",
+        "origin": "SSAN"
+      },
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:41 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:20 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0747": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:46 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:47 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0802": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:01 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:02 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0817": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:16 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:17 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0832": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:31 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:32 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0847": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:46 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:47 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0902": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:01 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:02 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0917": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:16 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:17 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0932": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:31 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:32 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0947": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:46 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:47 AM",
+        "origin": "SSAN"
+      }
+    ]
+  },
+  "SAT": {
+    "1016": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:17 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:16 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "1036": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:37 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:36 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "1056": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:57 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:56 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "1116": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:16 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "1136": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:36 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "1156": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:56 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "1216": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:16 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1236": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:36 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1256": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:56 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1316": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:16 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1336": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:36 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1356": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:56 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1416": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:16 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1436": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:36 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1456": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:56 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1516": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:16 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1536": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:36 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1556": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:56 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1616": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:16 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1636": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:36 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1656": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:56 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1716": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:16 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1736": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:36 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1756": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:56 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1816": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:16 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1836": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:36 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1856": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:56 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1916": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:16 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1936": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:36 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1956": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:56 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2016": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:16 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2036": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:36 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2056": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:56 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2116": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:16 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2136": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:36 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2156": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:56 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2216": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:16 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2236": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:36 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2256": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:56 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2316": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:17 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:16 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2341": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:42 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:41 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "0002": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:05 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:02 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0616": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:17 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:16 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0636": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:37 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:36 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0656": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:57 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:56 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0716": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:17 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:16 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0736": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:37 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:36 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0756": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:57 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:56 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0816": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:17 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:16 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0836": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:37 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:36 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0856": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:57 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:56 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0916": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:17 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:16 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0936": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:37 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:36 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0956": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:57 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:56 AM",
+        "origin": "SSAN"
+      }
+    ]
+  },
+  "SUN": {
+    "1016": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:17 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:16 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "1036": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:37 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:36 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "1056": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:57 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:56 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "1116": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:16 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "1136": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:36 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "1156": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:56 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "1216": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:16 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1236": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:36 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1256": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:56 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1316": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:16 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1336": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:36 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1356": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:56 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1416": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:16 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1436": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:36 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1456": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:56 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1516": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:16 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1536": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:36 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1556": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:56 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1616": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:16 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1636": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:36 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1656": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:56 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1716": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:16 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1736": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:36 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1756": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:56 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1816": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:16 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1836": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:36 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1856": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:56 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1916": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:16 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1936": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:36 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1956": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:56 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2016": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:16 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2036": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:36 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2056": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:56 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2116": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:16 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2136": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:36 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2156": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:56 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2216": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:16 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2236": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:36 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2256": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:56 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2316": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:17 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:16 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2341": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:42 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:41 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "0002": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:05 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:02 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0816": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:17 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:16 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0836": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:37 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:36 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0856": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:57 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:56 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0916": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:17 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:16 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0936": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:37 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:36 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0956": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:57 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:56 AM",
+        "origin": "SSAN"
+      }
+    ]
+  },
+  "THU": {
+    "1002": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:01 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:02 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "1017": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:16 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:17 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "1032": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:31 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:32 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "1047": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:46 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:47 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "1102": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:02 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "1117": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:17 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "1132": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:32 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "1147": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:47 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "1202": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:02 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1217": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:17 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1232": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:32 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1247": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:47 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1302": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:02 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1317": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:17 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1332": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:32 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1347": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:47 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1402": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:02 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1417": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:17 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1432": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:32 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1447": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:47 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1502": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:02 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1517": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:17 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1532": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:32 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1547": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:47 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1602": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:02 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1617": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:17 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1632": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:32 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1639": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:49 PM",
+        "destination": "BALB",
+        "line": "08",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:39 PM",
+        "origin": "SSAN"
+      },
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:41 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:51 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1647": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:47 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1654": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:30 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:54 PM",
+        "origin": "SSAN"
+      },
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:33 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1702": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:02 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1709": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:45 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:09 PM",
+        "origin": "SSAN"
+      },
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:12 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:48 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1717": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:17 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1724": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:00 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:24 PM",
+        "origin": "SSAN"
+      },
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:27 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:03 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1732": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:32 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1739": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:15 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:39 PM",
+        "origin": "SSAN"
+      },
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:42 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:18 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1747": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:47 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1754": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:30 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:54 PM",
+        "origin": "SSAN"
+      },
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:33 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1802": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:02 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1809": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:45 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:09 PM",
+        "origin": "SSAN"
+      },
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:12 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:48 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1817": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:17 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1832": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:32 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1847": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:47 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1902": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:02 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1917": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:17 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1936": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:36 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1956": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:56 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2016": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:16 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2036": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:36 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2056": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:56 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2116": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:16 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2136": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:36 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2156": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:56 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2216": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:16 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2236": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:36 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2256": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:56 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2316": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "12:17 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:16 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2341": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "12:42 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:41 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "0002": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:05 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:02 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0417": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:16 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:17 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0432": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:31 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:32 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0447": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:46 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:47 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0502": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:01 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:02 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0517": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:16 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:17 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0532": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:31 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:32 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0547": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:46 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:47 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0602": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:01 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:02 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0617": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:16 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:17 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0624": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:00 AM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:24 AM",
+        "origin": "SSAN"
+      },
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:26 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:05 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0632": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:31 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:32 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0639": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:15 AM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:39 AM",
+        "origin": "SSAN"
+      },
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:41 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:20 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0647": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:46 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:47 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0654": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:30 AM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:54 AM",
+        "origin": "SSAN"
+      },
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:56 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:35 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0702": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:01 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:02 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0709": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:45 AM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:09 AM",
+        "origin": "SSAN"
+      },
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:11 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:50 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0717": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:16 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:17 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0724": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:00 AM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:24 AM",
+        "origin": "SSAN"
+      },
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:26 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:05 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0732": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:31 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:32 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0739": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:15 AM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:39 AM",
+        "origin": "SSAN"
+      },
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:41 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:20 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0747": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:46 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:47 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0802": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:01 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:02 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0817": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:16 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:17 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0832": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:31 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:32 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0847": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:46 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:47 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0902": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:01 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:02 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0917": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:16 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:17 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0932": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:31 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:32 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0947": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:46 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:47 AM",
+        "origin": "SSAN"
+      }
+    ]
+  },
+  "TUE": {
+    "1002": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:01 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:02 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "1017": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:16 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:17 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "1032": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:31 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:32 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "1047": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:46 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:47 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "1102": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:02 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "1117": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:17 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "1132": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:32 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "1147": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:47 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "1202": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:02 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1217": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:17 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1232": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:32 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1247": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:47 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1302": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:02 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1317": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:17 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1332": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:32 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1347": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:47 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1402": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:02 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1417": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:17 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1432": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:32 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1447": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:47 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1502": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:02 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1517": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:17 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1532": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:32 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1547": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:47 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1602": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:02 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1617": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:17 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1632": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:32 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1639": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:49 PM",
+        "destination": "BALB",
+        "line": "08",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:39 PM",
+        "origin": "SSAN"
+      },
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:41 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:51 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1647": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:47 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1654": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:30 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:54 PM",
+        "origin": "SSAN"
+      },
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:33 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1702": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:02 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1709": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:45 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:09 PM",
+        "origin": "SSAN"
+      },
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:12 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:48 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1717": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:17 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1724": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:00 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:24 PM",
+        "origin": "SSAN"
+      },
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:27 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:03 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1732": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:32 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1739": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:15 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:39 PM",
+        "origin": "SSAN"
+      },
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:42 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:18 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1747": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:47 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1754": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:30 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:54 PM",
+        "origin": "SSAN"
+      },
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:33 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1802": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:02 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1809": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:45 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:09 PM",
+        "origin": "SSAN"
+      },
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:12 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:48 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1817": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:17 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1832": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:32 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1847": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:47 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1902": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:02 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1917": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:17 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1936": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:36 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1956": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:56 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2016": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:16 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2036": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:36 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2056": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:56 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2116": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:16 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2136": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:36 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2156": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:56 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2216": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:16 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2236": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:36 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2256": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:56 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2316": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:17 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:16 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2341": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:42 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:41 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "0002": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:05 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:02 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0417": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:16 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:17 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0432": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:31 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:32 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0447": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:46 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:47 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0502": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:01 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:02 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0517": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:16 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:17 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0532": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:31 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:32 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0547": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:46 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:47 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0602": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:01 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:02 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0617": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:16 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:17 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0624": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:00 AM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:24 AM",
+        "origin": "SSAN"
+      },
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:26 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:05 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0632": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:31 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:32 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0639": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:15 AM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:39 AM",
+        "origin": "SSAN"
+      },
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:41 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:20 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0647": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:46 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:47 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0654": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:30 AM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:54 AM",
+        "origin": "SSAN"
+      },
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:56 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:35 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0702": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:01 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:02 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0709": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:45 AM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:09 AM",
+        "origin": "SSAN"
+      },
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:11 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:50 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0717": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:16 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:17 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0724": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:00 AM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:24 AM",
+        "origin": "SSAN"
+      },
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:26 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:05 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0732": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:31 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:32 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0739": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:15 AM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:39 AM",
+        "origin": "SSAN"
+      },
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:41 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:20 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0747": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:46 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:47 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0802": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:01 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:02 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0817": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:16 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:17 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0832": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:31 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:32 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0847": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:46 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:47 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0902": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:01 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:02 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0917": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:16 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:17 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0932": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:31 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:32 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0947": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:46 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:47 AM",
+        "origin": "SSAN"
+      }
+    ]
+  },
+  "WED": {
+    "1002": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:01 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:02 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "1017": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:16 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:17 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "1032": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:31 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:32 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "1047": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:46 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:47 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "1102": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:02 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "1117": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:17 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "1132": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:32 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "1147": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:47 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "1202": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:02 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1217": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:17 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1232": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:32 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1247": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:47 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1302": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:02 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1317": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:17 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1332": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:32 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1347": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:47 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1402": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:02 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1417": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:17 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1432": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:32 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1447": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:47 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1502": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:02 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1517": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:17 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1532": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:32 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1547": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:47 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1602": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:02 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1617": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:17 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1632": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:32 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1639": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:49 PM",
+        "destination": "BALB",
+        "line": "08",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:39 PM",
+        "origin": "SSAN"
+      },
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:41 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:51 PM",
+        "origin": "BALB"
+      }
+    ],
+    "1647": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:47 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1654": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:30 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:54 PM",
+        "origin": "SSAN"
+      },
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:33 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1702": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:02 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1709": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:45 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:09 PM",
+        "origin": "SSAN"
+      },
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:12 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:48 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1717": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:17 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1724": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:00 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:24 PM",
+        "origin": "SSAN"
+      },
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:27 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:03 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1732": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:32 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1739": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:15 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:39 PM",
+        "origin": "SSAN"
+      },
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:42 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:18 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1747": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:47 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1754": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:30 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:54 PM",
+        "origin": "SSAN"
+      },
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:33 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1802": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:02 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1809": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:45 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:09 PM",
+        "origin": "SSAN"
+      },
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:12 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:48 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1817": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:17 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1832": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:31 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:32 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1847": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:46 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:47 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1902": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:01 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:02 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1917": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:16 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:17 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1936": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:36 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "1956": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:56 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2016": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:16 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2036": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:36 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2056": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:56 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2116": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:16 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2136": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:36 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2156": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:56 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2216": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:17 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:16 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2236": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:37 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:36 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2256": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:57 PM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:56 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2316": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:17 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:16 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "2341": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:42 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:41 PM",
+        "origin": "SSAN"
+      }
+    ],
+    "0002": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:05 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:02 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0417": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:16 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:17 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0432": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:31 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:32 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0447": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:46 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:47 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0502": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:01 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:02 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0517": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:16 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:17 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0532": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:31 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:32 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0547": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:46 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:47 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0602": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:01 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:02 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0617": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:16 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:17 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0624": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:00 AM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:24 AM",
+        "origin": "SSAN"
+      },
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:26 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:05 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0632": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:31 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:32 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0639": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:15 AM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:39 AM",
+        "origin": "SSAN"
+      },
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:41 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:20 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0647": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:46 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:47 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0654": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:30 AM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:54 AM",
+        "origin": "SSAN"
+      },
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:56 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:35 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0702": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:01 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:02 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0709": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:45 AM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:09 AM",
+        "origin": "SSAN"
+      },
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:11 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:50 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0717": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:16 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:17 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0724": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:00 AM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:24 AM",
+        "origin": "SSAN"
+      },
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:26 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:05 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0732": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:31 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:32 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0739": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:15 AM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:39 AM",
+        "origin": "SSAN"
+      },
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:41 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:20 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0747": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:46 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:47 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0802": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:01 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:02 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0817": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:16 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:17 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0832": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:31 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:32 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0847": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:46 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:47 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0902": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:01 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:02 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0917": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:16 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:17 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0932": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:31 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:32 AM",
+        "origin": "SSAN"
+      }
+    ],
+    "0947": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:46 AM",
+        "destination": "PHIL",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:47 AM",
+        "origin": "SSAN"
+      }
+    ]
+  }
+}

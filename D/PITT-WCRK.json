@@ -1,0 +1,5450 @@
+{
+  "FRI": {
+    "1002": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:20 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:02 AM",
+        "origin": "PITT"
+      }
+    ],
+    "1017": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:35 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:17 AM",
+        "origin": "PITT"
+      }
+    ],
+    "1032": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:50 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:32 AM",
+        "origin": "PITT"
+      }
+    ],
+    "1047": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:05 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:47 AM",
+        "origin": "PITT"
+      }
+    ],
+    "1102": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:20 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:02 AM",
+        "origin": "PITT"
+      }
+    ],
+    "1117": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:35 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:17 AM",
+        "origin": "PITT"
+      }
+    ],
+    "1132": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:50 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:32 AM",
+        "origin": "PITT"
+      }
+    ],
+    "1147": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:05 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:47 AM",
+        "origin": "PITT"
+      }
+    ],
+    "1202": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:20 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:02 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1217": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:35 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1232": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:50 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:32 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1247": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:05 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:47 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1302": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:20 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:02 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1317": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:35 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1332": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:50 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:32 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1347": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:05 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:47 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1402": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:20 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:02 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1417": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:35 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1432": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:50 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:32 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1447": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:05 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:47 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1502": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:20 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:02 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1517": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:35 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1532": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:50 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:32 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1547": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:05 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:47 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1602": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:20 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:02 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1617": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:35 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1632": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:50 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:32 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1647": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:05 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:47 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1702": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:20 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:02 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1717": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:35 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1732": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:50 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:32 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1747": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:05 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:47 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1802": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:20 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:02 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1817": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:35 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1832": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:50 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:32 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1847": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:05 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:47 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1902": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:20 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:02 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1917": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:36 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1937": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:56 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:37 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1957": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:16 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:57 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2017": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:36 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2037": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:56 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:37 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2057": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:16 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:57 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2117": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:36 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2137": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:56 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:37 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2157": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:16 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:57 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2217": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:36 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2237": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:56 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:37 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2257": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:16 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:57 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2317": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:36 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2337": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:56 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:37 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2359": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:17 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:59 PM",
+        "origin": "PITT"
+      }
+    ],
+    "0402": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:20 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:02 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0417": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:35 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:17 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0432": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:50 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:32 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0447": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:05 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:47 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0502": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:20 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:02 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0517": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:35 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:17 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0532": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:50 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:32 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0547": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:05 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:47 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0602": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:20 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:02 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0617": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:35 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:17 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0632": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:50 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:32 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0641": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:59 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:41 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0647": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:05 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:47 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0656": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:14 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:56 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0702": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:20 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:02 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0717": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:35 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:17 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0732": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:50 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:32 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0747": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:05 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:47 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0802": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:20 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:02 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0817": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:35 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:17 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0832": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:50 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:32 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0847": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:05 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:47 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0902": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:20 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:02 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0917": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:35 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:17 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0932": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:50 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:32 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0947": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:05 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:47 AM",
+        "origin": "PITT"
+      }
+    ]
+  },
+  "MON": {
+    "1002": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:20 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:02 AM",
+        "origin": "PITT"
+      }
+    ],
+    "1017": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:35 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:17 AM",
+        "origin": "PITT"
+      }
+    ],
+    "1032": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:50 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:32 AM",
+        "origin": "PITT"
+      }
+    ],
+    "1047": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:05 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:47 AM",
+        "origin": "PITT"
+      }
+    ],
+    "1102": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:20 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:02 AM",
+        "origin": "PITT"
+      }
+    ],
+    "1117": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:35 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:17 AM",
+        "origin": "PITT"
+      }
+    ],
+    "1132": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:50 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:32 AM",
+        "origin": "PITT"
+      }
+    ],
+    "1147": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:05 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:47 AM",
+        "origin": "PITT"
+      }
+    ],
+    "1202": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:20 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:02 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1217": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:35 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1232": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:50 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:32 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1247": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:05 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:47 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1302": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:20 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:02 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1317": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:35 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1332": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:50 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:32 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1347": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:05 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:47 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1402": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:20 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:02 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1417": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:35 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1432": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:50 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:32 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1447": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:05 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:47 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1502": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:20 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:02 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1517": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:35 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1532": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:50 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:32 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1547": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:05 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:47 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1602": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:20 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:02 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1617": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:35 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1632": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:50 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:32 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1647": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:05 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:47 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1702": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:20 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:02 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1717": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:35 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1732": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:50 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:32 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1747": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:05 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:47 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1802": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:20 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:02 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1817": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:35 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1832": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:50 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:32 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1847": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:05 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:47 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1902": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:20 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:02 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1917": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:36 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1937": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:56 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:37 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1957": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:16 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:57 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2017": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:36 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2037": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:56 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:37 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2057": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:16 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:57 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2117": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:36 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2137": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:56 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:37 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2157": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:16 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:57 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2217": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:36 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2237": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:56 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:37 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2257": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:16 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:57 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2317": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:36 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2337": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:56 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:37 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2359": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:17 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:59 PM",
+        "origin": "PITT"
+      }
+    ],
+    "0402": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:20 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:02 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0417": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:35 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:17 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0432": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:50 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:32 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0447": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:05 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:47 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0502": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:20 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:02 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0517": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:35 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:17 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0532": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:50 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:32 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0547": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:05 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:47 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0602": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:20 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:02 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0617": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:35 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:17 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0632": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:50 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:32 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0641": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:59 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:41 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0647": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:05 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:47 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0656": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:14 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:56 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0702": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:20 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:02 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0717": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:35 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:17 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0732": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:50 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:32 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0747": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:05 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:47 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0802": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:20 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:02 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0817": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:35 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:17 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0832": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:50 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:32 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0847": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:05 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:47 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0902": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:20 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:02 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0917": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:35 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:17 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0932": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:50 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:32 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0947": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:05 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:47 AM",
+        "origin": "PITT"
+      }
+    ]
+  },
+  "SAT": {
+    "1017": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:36 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:17 AM",
+        "origin": "PITT"
+      }
+    ],
+    "1037": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:56 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:37 AM",
+        "origin": "PITT"
+      }
+    ],
+    "1057": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:16 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:57 AM",
+        "origin": "PITT"
+      }
+    ],
+    "1117": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:36 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:17 AM",
+        "origin": "PITT"
+      }
+    ],
+    "1137": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:56 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:37 AM",
+        "origin": "PITT"
+      }
+    ],
+    "1157": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:16 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:57 AM",
+        "origin": "PITT"
+      }
+    ],
+    "1217": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:36 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1237": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:56 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:37 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1257": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:16 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:57 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1317": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:36 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1337": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:56 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:37 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1357": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:16 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:57 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1417": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:36 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1437": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:56 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:37 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1457": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:16 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:57 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1517": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:36 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1537": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:56 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:37 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1557": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:16 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:57 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1617": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:36 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1637": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:56 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:37 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1657": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:16 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:57 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1717": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:36 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1737": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:56 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:37 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1757": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:16 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:57 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1817": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:36 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1837": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:56 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:37 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1857": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:16 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:57 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1917": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:36 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1937": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:56 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:37 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1957": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:16 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:57 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2017": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:36 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2037": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:56 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:37 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2057": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:16 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:57 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2117": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:36 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2137": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:56 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:37 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2157": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:16 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:57 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2217": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:36 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2237": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:56 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:37 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2257": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:16 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:57 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2317": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:36 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2337": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:56 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:37 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2359": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:17 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:59 PM",
+        "origin": "PITT"
+      }
+    ],
+    "0557": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:16 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:57 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0617": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:36 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:17 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0637": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:56 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:37 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0657": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:16 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:57 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0717": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:36 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:17 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0737": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:56 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:37 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0757": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:16 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:57 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0817": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:36 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:17 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0837": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:56 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:37 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0857": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:16 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:57 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0917": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:36 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:17 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0937": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:56 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:37 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0957": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:16 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:57 AM",
+        "origin": "PITT"
+      }
+    ]
+  },
+  "SUN": {
+    "1017": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:36 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:17 AM",
+        "origin": "PITT"
+      }
+    ],
+    "1037": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:56 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:37 AM",
+        "origin": "PITT"
+      }
+    ],
+    "1057": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:16 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:57 AM",
+        "origin": "PITT"
+      }
+    ],
+    "1117": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:36 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:17 AM",
+        "origin": "PITT"
+      }
+    ],
+    "1137": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:56 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:37 AM",
+        "origin": "PITT"
+      }
+    ],
+    "1157": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:16 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:57 AM",
+        "origin": "PITT"
+      }
+    ],
+    "1217": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:36 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1237": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:56 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:37 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1257": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:16 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:57 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1317": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:36 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1337": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:56 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:37 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1357": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:16 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:57 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1417": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:36 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1437": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:56 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:37 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1457": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:16 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:57 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1517": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:36 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1537": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:56 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:37 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1557": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:16 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:57 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1617": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:36 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1637": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:56 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:37 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1657": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:16 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:57 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1717": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:36 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1737": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:56 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:37 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1757": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:16 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:57 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1817": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:36 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1837": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:56 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:37 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1857": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:16 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:57 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1917": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:36 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1937": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:56 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:37 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1957": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:16 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:57 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2017": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:36 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2037": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:56 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:37 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2057": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:16 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:57 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2117": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:36 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2137": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:56 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:37 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2157": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:16 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:57 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2217": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:36 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2237": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:56 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:37 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2257": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:16 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:57 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2317": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:36 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2337": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:56 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:37 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2359": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:17 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:59 PM",
+        "origin": "PITT"
+      }
+    ],
+    "0757": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:16 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:57 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0817": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:36 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:17 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0837": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:56 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:37 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0857": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:16 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:57 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0917": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:36 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:17 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0937": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:56 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:37 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0957": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:16 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:57 AM",
+        "origin": "PITT"
+      }
+    ]
+  },
+  "THU": {
+    "1002": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:20 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:02 AM",
+        "origin": "PITT"
+      }
+    ],
+    "1017": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:35 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:17 AM",
+        "origin": "PITT"
+      }
+    ],
+    "1032": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:50 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:32 AM",
+        "origin": "PITT"
+      }
+    ],
+    "1047": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:05 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:47 AM",
+        "origin": "PITT"
+      }
+    ],
+    "1102": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:20 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:02 AM",
+        "origin": "PITT"
+      }
+    ],
+    "1117": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:35 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:17 AM",
+        "origin": "PITT"
+      }
+    ],
+    "1132": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:50 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:32 AM",
+        "origin": "PITT"
+      }
+    ],
+    "1147": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:05 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:47 AM",
+        "origin": "PITT"
+      }
+    ],
+    "1202": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:20 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:02 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1217": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:35 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1232": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:50 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:32 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1247": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:05 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:47 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1302": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:20 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:02 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1317": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:35 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1332": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:50 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:32 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1347": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:05 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:47 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1402": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:20 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:02 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1417": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:35 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1432": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:50 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:32 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1447": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:05 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:47 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1502": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:20 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:02 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1517": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:35 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1532": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:50 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:32 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1547": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:05 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:47 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1602": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:20 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:02 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1617": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:35 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1632": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:50 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:32 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1647": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:05 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:47 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1702": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:20 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:02 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1717": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:35 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1732": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:50 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:32 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1747": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:05 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:47 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1802": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:20 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:02 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1817": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:35 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1832": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:50 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:32 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1847": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:05 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:47 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1902": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:20 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:02 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1917": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:36 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1937": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:56 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:37 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1957": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:16 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:57 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2017": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:36 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2037": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:56 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:37 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2057": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:16 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:57 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2117": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:36 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2137": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:56 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:37 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2157": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:16 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:57 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2217": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:36 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2237": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:56 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:37 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2257": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:16 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:57 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2317": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:36 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2337": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:56 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:37 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2359": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "12:17 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:59 PM",
+        "origin": "PITT"
+      }
+    ],
+    "0402": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:20 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:02 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0417": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:35 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:17 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0432": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:50 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:32 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0447": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:05 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:47 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0502": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:20 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:02 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0517": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:35 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:17 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0532": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:50 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:32 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0547": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:05 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:47 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0602": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:20 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:02 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0617": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:35 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:17 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0632": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:50 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:32 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0641": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:59 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:41 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0647": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:05 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:47 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0656": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:14 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:56 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0702": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:20 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:02 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0717": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:35 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:17 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0732": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:50 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:32 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0747": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:05 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:47 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0802": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:20 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:02 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0817": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:35 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:17 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0832": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:50 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:32 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0847": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:05 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:47 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0902": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:20 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:02 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0917": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:35 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:17 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0932": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:50 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:32 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0947": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:05 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:47 AM",
+        "origin": "PITT"
+      }
+    ]
+  },
+  "TUE": {
+    "1002": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:20 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:02 AM",
+        "origin": "PITT"
+      }
+    ],
+    "1017": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:35 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:17 AM",
+        "origin": "PITT"
+      }
+    ],
+    "1032": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:50 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:32 AM",
+        "origin": "PITT"
+      }
+    ],
+    "1047": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:05 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:47 AM",
+        "origin": "PITT"
+      }
+    ],
+    "1102": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:20 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:02 AM",
+        "origin": "PITT"
+      }
+    ],
+    "1117": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:35 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:17 AM",
+        "origin": "PITT"
+      }
+    ],
+    "1132": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:50 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:32 AM",
+        "origin": "PITT"
+      }
+    ],
+    "1147": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:05 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:47 AM",
+        "origin": "PITT"
+      }
+    ],
+    "1202": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:20 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:02 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1217": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:35 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1232": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:50 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:32 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1247": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:05 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:47 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1302": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:20 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:02 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1317": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:35 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1332": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:50 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:32 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1347": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:05 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:47 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1402": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:20 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:02 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1417": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:35 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1432": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:50 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:32 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1447": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:05 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:47 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1502": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:20 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:02 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1517": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:35 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1532": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:50 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:32 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1547": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:05 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:47 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1602": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:20 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:02 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1617": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:35 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1632": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:50 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:32 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1647": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:05 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:47 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1702": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:20 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:02 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1717": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:35 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1732": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:50 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:32 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1747": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:05 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:47 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1802": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:20 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:02 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1817": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:35 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1832": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:50 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:32 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1847": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:05 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:47 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1902": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:20 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:02 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1917": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:36 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1937": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:56 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:37 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1957": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:16 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:57 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2017": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:36 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2037": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:56 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:37 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2057": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:16 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:57 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2117": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:36 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2137": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:56 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:37 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2157": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:16 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:57 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2217": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:36 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2237": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:56 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:37 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2257": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:16 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:57 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2317": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:36 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2337": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:56 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:37 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2359": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:17 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:59 PM",
+        "origin": "PITT"
+      }
+    ],
+    "0402": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:20 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:02 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0417": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:35 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:17 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0432": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:50 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:32 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0447": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:05 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:47 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0502": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:20 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:02 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0517": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:35 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:17 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0532": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:50 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:32 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0547": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:05 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:47 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0602": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:20 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:02 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0617": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:35 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:17 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0632": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:50 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:32 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0641": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:59 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:41 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0647": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:05 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:47 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0656": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:14 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:56 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0702": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:20 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:02 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0717": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:35 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:17 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0732": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:50 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:32 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0747": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:05 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:47 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0802": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:20 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:02 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0817": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:35 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:17 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0832": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:50 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:32 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0847": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:05 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:47 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0902": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:20 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:02 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0917": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:35 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:17 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0932": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:50 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:32 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0947": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:05 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:47 AM",
+        "origin": "PITT"
+      }
+    ]
+  },
+  "WED": {
+    "1002": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:20 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:02 AM",
+        "origin": "PITT"
+      }
+    ],
+    "1017": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:35 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:17 AM",
+        "origin": "PITT"
+      }
+    ],
+    "1032": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:50 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:32 AM",
+        "origin": "PITT"
+      }
+    ],
+    "1047": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:05 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:47 AM",
+        "origin": "PITT"
+      }
+    ],
+    "1102": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:20 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:02 AM",
+        "origin": "PITT"
+      }
+    ],
+    "1117": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:35 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:17 AM",
+        "origin": "PITT"
+      }
+    ],
+    "1132": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:50 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:32 AM",
+        "origin": "PITT"
+      }
+    ],
+    "1147": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:05 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:47 AM",
+        "origin": "PITT"
+      }
+    ],
+    "1202": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:20 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:02 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1217": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:35 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1232": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:50 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:32 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1247": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:05 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:47 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1302": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:20 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:02 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1317": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:35 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1332": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:50 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:32 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1347": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:05 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:47 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1402": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:20 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:02 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1417": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:35 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1432": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:50 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:32 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1447": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:05 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:47 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1502": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:20 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:02 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1517": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:35 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1532": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:50 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:32 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1547": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:05 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:47 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1602": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:20 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:02 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1617": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:35 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1632": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:50 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:32 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1647": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:05 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:47 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1702": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:20 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:02 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1717": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:35 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1732": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:50 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:32 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1747": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:05 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:47 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1802": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:20 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:02 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1817": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:35 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1832": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:50 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:32 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1847": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:05 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:47 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1902": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:20 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:02 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1917": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:36 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1937": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:56 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:37 PM",
+        "origin": "PITT"
+      }
+    ],
+    "1957": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:16 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:57 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2017": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:36 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2037": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:56 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:37 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2057": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:16 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:57 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2117": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:36 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2137": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:56 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:37 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2157": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:16 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:57 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2217": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:36 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2237": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:56 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:37 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2257": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:16 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:57 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2317": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:36 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:17 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2337": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:56 PM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:37 PM",
+        "origin": "PITT"
+      }
+    ],
+    "2359": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:17 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:59 PM",
+        "origin": "PITT"
+      }
+    ],
+    "0402": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:20 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:02 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0417": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:35 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:17 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0432": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:50 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:32 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0447": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:05 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:47 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0502": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:20 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:02 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0517": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:35 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:17 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0532": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:50 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:32 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0547": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:05 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:47 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0602": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:20 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:02 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0617": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:35 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:17 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0632": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:50 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:32 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0641": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:59 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:41 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0647": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:05 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:47 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0656": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:14 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:56 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0702": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:20 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:02 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0717": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:35 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:17 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0732": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:50 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:32 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0747": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:05 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:47 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0802": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:20 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:02 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0817": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:35 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:17 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0832": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:50 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:32 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0847": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:05 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:47 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0902": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:20 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:02 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0917": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:35 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:17 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0932": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:50 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:32 AM",
+        "origin": "PITT"
+      }
+    ],
+    "0947": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:05 AM",
+        "destination": "WCRK",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:47 AM",
+        "origin": "PITT"
+      }
+    ]
+  }
+}

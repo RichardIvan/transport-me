@@ -1,0 +1,5285 @@
+{
+  "FRI": {
+    "1005": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:50 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:05 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1020": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:05 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:20 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1035": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:20 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:35 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1050": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:35 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:50 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1105": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:50 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:05 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1120": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:20 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1135": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:35 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1150": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:50 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1205": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:05 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1220": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:20 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1235": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:35 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1250": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:50 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1305": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:05 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1320": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:20 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1335": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:35 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1350": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:50 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1405": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:05 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1420": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:20 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1435": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:35 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1450": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:50 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1505": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:05 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1520": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:20 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1535": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:35 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1550": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:50 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1605": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:05 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1620": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:20 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1635": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:35 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1650": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:50 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1705": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:05 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1720": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:20 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1735": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:35 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1750": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:50 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1805": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:05 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1820": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:20 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1835": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:35 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1850": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:50 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1905": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:05 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1924": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:24 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1944": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:44 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2004": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:04 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2024": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:24 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2044": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:44 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2104": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:04 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2124": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:24 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2144": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:44 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2204": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:04 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2224": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:24 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2244": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:44 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2304": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:04 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2324": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:08 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:24 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2344": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:28 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:44 PM",
+        "origin": "POWL"
+      }
+    ],
+    "0013": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "12:57 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/11/2016",
+        "origTimeMin": "12:13 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0420": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:05 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:20 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0435": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:20 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:35 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0450": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:35 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:50 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0505": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:50 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:05 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0520": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:05 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:20 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0535": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:20 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:35 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0550": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:35 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:50 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0605": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:50 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:05 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0620": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:05 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:20 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0635": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:20 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:35 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0652": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:36 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:52 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0707": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:51 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:07 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0722": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:06 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:22 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0737": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:21 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:37 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0752": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:36 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:52 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0807": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:51 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:07 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0820": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:05 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:20 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0835": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:20 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:35 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0850": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:35 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:50 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0905": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:50 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:05 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0920": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:05 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:20 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0935": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:20 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:35 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0950": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:35 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:50 AM",
+        "origin": "POWL"
+      }
+    ]
+  },
+  "MON": {
+    "1005": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:50 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:05 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1020": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:05 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:20 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1035": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:20 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:35 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1050": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:35 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:50 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1105": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:50 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:05 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1120": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:20 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1135": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:35 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1150": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:50 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1205": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:05 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1220": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:20 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1235": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:35 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1250": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:50 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1305": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:05 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1320": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:20 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1335": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:35 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1350": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:50 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1405": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:05 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1420": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:20 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1435": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:35 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1450": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:50 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1505": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:05 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1520": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:20 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1535": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:35 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1550": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:50 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1605": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:05 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1620": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:20 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1635": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:35 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1650": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:50 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1705": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:05 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1720": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:20 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1735": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:35 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1750": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:50 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1805": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:05 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1820": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:20 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1835": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:35 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1850": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:50 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1905": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:05 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1924": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:24 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1944": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:44 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2004": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:04 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2024": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:24 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2044": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:44 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2104": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:04 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2124": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:24 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2144": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:44 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2204": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:04 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2224": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:24 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2244": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:44 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2304": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:04 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2324": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:08 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:24 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2344": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:28 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:44 PM",
+        "origin": "POWL"
+      }
+    ],
+    "0013": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:57 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:13 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0420": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:05 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:20 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0435": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:20 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:35 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0450": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:35 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:50 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0505": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:50 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:05 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0520": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:05 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:20 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0535": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:20 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:35 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0550": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:35 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:50 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0605": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:50 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:05 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0620": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:05 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:20 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0635": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:20 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:35 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0652": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:36 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:52 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0707": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:51 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:07 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0722": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:06 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:22 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0737": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:21 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:37 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0752": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:36 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:52 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0807": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:51 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:07 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0820": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:05 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:20 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0835": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:20 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:35 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0850": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:35 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:50 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0905": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:50 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:05 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0920": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:05 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:20 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0935": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:20 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:35 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0950": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:35 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:50 AM",
+        "origin": "POWL"
+      }
+    ]
+  },
+  "SAT": {
+    "1004": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:48 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:04 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1024": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:08 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:24 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1044": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:28 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:44 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1104": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:48 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:04 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1124": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:24 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1144": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:44 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1204": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:04 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1224": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:24 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1244": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:44 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1304": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:04 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1324": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:24 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1344": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:44 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1404": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:04 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1424": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:24 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1444": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:44 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1504": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:04 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1524": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:24 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1544": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:44 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1604": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:04 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1624": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:24 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1644": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:44 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1704": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:04 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1724": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:24 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1744": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:44 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1804": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:04 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1824": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:24 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1844": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:44 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1904": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:04 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1924": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:24 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1944": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:44 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2004": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:04 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2024": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:24 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2044": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:44 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2104": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:04 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2124": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:24 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2144": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:44 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2204": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:04 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2224": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:24 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2244": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:44 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2304": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:04 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2324": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:08 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:24 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2344": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:28 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:44 PM",
+        "origin": "POWL"
+      }
+    ],
+    "0013": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:57 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:13 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0604": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:48 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:04 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0624": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:08 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:24 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0644": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:28 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:44 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0704": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:48 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:04 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0724": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:08 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:24 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0744": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:28 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:44 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0804": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:48 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:04 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0824": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:08 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:24 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0844": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:28 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:44 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0904": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:48 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:04 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0924": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:08 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:24 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0944": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:28 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:44 AM",
+        "origin": "POWL"
+      }
+    ]
+  },
+  "SUN": {
+    "1004": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:48 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:04 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1024": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:08 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:24 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1044": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:28 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:44 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1104": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:48 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:04 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1124": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:24 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1144": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:44 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1204": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:04 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1224": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:24 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1244": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:44 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1304": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:04 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1324": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:24 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1344": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:44 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1404": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:04 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1424": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:24 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1444": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:44 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1504": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:04 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1524": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:24 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1544": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:44 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1604": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:04 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1624": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:24 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1644": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:44 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1704": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:04 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1724": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:24 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1744": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:44 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1804": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:04 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1824": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:24 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1844": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:44 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1904": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:04 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1924": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:24 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1944": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:44 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2004": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:04 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2024": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:24 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2044": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:44 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2104": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:04 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2124": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:24 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2144": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:44 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2204": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:04 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2224": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:24 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2244": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:44 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2304": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:04 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2324": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:08 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:24 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2344": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:28 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:44 PM",
+        "origin": "POWL"
+      }
+    ],
+    "0013": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:57 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:13 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0804": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:48 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:04 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0824": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:08 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:24 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0844": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:28 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:44 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0904": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:48 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:04 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0924": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:08 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:24 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0944": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:28 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:44 AM",
+        "origin": "POWL"
+      }
+    ]
+  },
+  "THU": {
+    "1005": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:50 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:05 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1020": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:05 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:20 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1035": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:20 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:35 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1050": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:35 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:50 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1105": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:50 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:05 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1120": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:20 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1135": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:35 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1150": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:50 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1205": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:05 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1220": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:20 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1235": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:35 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1250": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:50 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1305": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:05 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1320": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:20 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1335": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:35 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1350": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:50 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1405": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:05 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1420": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:20 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1435": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:35 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1450": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:50 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1505": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:05 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1520": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:20 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1535": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:35 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1550": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:50 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1605": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:05 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1620": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:20 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1635": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:35 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1650": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:50 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1705": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:05 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1720": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:20 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1735": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:35 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1750": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:50 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1805": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:05 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1820": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:20 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1835": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:35 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1850": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:50 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1905": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:05 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1924": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:24 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1944": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:44 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2004": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:04 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2024": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:24 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2044": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:44 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2104": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:04 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2124": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:24 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2144": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:44 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2204": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:04 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2224": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:24 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2244": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:44 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2304": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:04 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2324": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "12:08 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:24 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2344": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "12:28 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:44 PM",
+        "origin": "POWL"
+      }
+    ],
+    "0013": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:57 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:13 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0420": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:05 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:20 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0435": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:20 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:35 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0450": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:35 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:50 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0505": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:50 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:05 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0520": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:05 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:20 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0535": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:20 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:35 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0550": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:35 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:50 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0605": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:50 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:05 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0620": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:05 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:20 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0635": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:20 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:35 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0652": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:36 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:52 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0707": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:51 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:07 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0722": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:06 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:22 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0737": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:21 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:37 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0752": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:36 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:52 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0807": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:51 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:07 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0820": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:05 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:20 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0835": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:20 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:35 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0850": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:35 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:50 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0905": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:50 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:05 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0920": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:05 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:20 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0935": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:20 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:35 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0950": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:35 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:50 AM",
+        "origin": "POWL"
+      }
+    ]
+  },
+  "TUE": {
+    "1005": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:50 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:05 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1020": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:05 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:20 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1035": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:20 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:35 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1050": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:35 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:50 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1105": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:50 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:05 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1120": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:20 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1135": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:35 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1150": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:50 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1205": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:05 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1220": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:20 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1235": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:35 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1250": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:50 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1305": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:05 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1320": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:20 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1335": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:35 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1350": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:50 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1405": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:05 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1420": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:20 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1435": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:35 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1450": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:50 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1505": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:05 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1520": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:20 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1535": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:35 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1550": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:50 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1605": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:05 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1620": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:20 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1635": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:35 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1650": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:50 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1705": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:05 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1720": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:20 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1735": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:35 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1750": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:50 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1805": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:05 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1820": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:20 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1835": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:35 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1850": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:50 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1905": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:05 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1924": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:24 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1944": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:44 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2004": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:04 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2024": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:24 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2044": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:44 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2104": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:04 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2124": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:24 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2144": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:44 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2204": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:04 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2224": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:24 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2244": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:44 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2304": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:04 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2324": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:08 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:24 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2344": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:28 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:44 PM",
+        "origin": "POWL"
+      }
+    ],
+    "0013": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:57 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:13 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0420": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:05 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:20 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0435": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:20 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:35 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0450": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:35 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:50 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0505": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:50 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:05 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0520": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:05 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:20 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0535": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:20 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:35 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0550": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:35 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:50 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0605": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:50 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:05 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0620": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:05 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:20 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0635": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:20 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:35 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0652": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:36 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:52 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0707": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:51 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:07 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0722": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:06 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:22 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0737": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:21 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:37 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0752": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:36 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:52 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0807": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:51 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:07 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0820": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:05 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:20 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0835": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:20 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:35 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0850": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:35 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:50 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0905": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:50 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:05 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0920": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:05 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:20 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0935": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:20 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:35 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0950": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:35 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:50 AM",
+        "origin": "POWL"
+      }
+    ]
+  },
+  "WED": {
+    "1005": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:50 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:05 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1020": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:05 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:20 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1035": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:20 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:35 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1050": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:35 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:50 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1105": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:50 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:05 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1120": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:20 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1135": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:35 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1150": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:50 AM",
+        "origin": "POWL"
+      }
+    ],
+    "1205": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:05 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1220": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:20 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1235": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:35 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1250": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:50 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1305": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:05 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1320": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:20 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1335": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:35 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1350": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:50 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1405": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:05 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1420": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:20 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1435": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:35 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1450": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:50 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1505": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:05 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1520": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:20 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1535": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:35 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1550": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:50 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1605": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:05 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1620": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:20 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1635": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:35 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1650": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:50 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1705": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:05 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1720": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:20 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1735": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:35 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1750": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:50 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1805": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:05 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1820": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:05 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:20 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1835": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:20 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:35 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1850": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:35 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:50 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1905": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:50 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:05 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1924": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:24 PM",
+        "origin": "POWL"
+      }
+    ],
+    "1944": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:44 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2004": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:04 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2024": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:24 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2044": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:44 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2104": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:04 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2124": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:24 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2144": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:44 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2204": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:04 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2224": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:08 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:24 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2244": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:28 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:44 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2304": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:48 PM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:04 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2324": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:08 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:24 PM",
+        "origin": "POWL"
+      }
+    ],
+    "2344": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:28 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:44 PM",
+        "origin": "POWL"
+      }
+    ],
+    "0013": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:57 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:13 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0420": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:05 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:20 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0435": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:20 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:35 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0450": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:35 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:50 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0505": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:50 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:05 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0520": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:05 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:20 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0535": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:20 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:35 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0550": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:35 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:50 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0605": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:50 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:05 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0620": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:05 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:20 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0635": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:20 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:35 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0652": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:36 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:52 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0707": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:51 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:07 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0722": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:06 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:22 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0737": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:21 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:37 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0752": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:36 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:52 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0807": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:51 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:07 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0820": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:05 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:20 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0835": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:20 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:35 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0850": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:35 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:50 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0905": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:50 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:05 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0920": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:05 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:20 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0935": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:20 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:35 AM",
+        "origin": "POWL"
+      }
+    ],
+    "0950": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:35 AM",
+        "destination": "WDUB",
+        "line": "12",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:50 AM",
+        "origin": "POWL"
+      }
+    ]
+  }
+}

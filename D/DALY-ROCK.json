@@ -1,0 +1,6391 @@
+{
+  "FRI": {
+    "1009": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:09 AM",
+        "origin": "DALY"
+      }
+    ],
+    "1024": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:24 AM",
+        "origin": "DALY"
+      }
+    ],
+    "1039": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:14 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:39 AM",
+        "origin": "DALY"
+      }
+    ],
+    "1054": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:29 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:54 AM",
+        "origin": "DALY"
+      }
+    ],
+    "1109": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:09 AM",
+        "origin": "DALY"
+      }
+    ],
+    "1124": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:24 AM",
+        "origin": "DALY"
+      }
+    ],
+    "1139": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:39 AM",
+        "origin": "DALY"
+      }
+    ],
+    "1154": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:54 AM",
+        "origin": "DALY"
+      }
+    ],
+    "1209": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:09 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1224": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:24 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1239": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:39 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1254": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:54 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1309": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:09 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1324": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:24 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1339": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:39 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1354": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:54 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1409": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:09 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1424": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:24 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1439": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:39 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1454": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:54 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1509": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:09 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1524": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:24 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1528": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:04 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:28 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1539": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:39 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1543": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:19 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:43 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1554": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:54 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1558": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:34 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:58 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1609": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:09 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1613": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:49 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:13 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1624": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:24 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1628": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:04 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:28 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1639": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:39 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1647": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:23 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:47 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1654": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:54 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1658": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:34 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:58 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1701": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:30 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:01 PM",
+        "origin": "DALY"
+      },
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:39 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:33 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1709": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:09 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1713": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:49 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:13 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1716": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:45 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:16 PM",
+        "origin": "DALY"
+      },
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:54 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:48 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1724": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:24 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1731": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:00 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:31 PM",
+        "origin": "DALY"
+      },
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:09 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:03 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1739": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:39 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1746": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:15 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:46 PM",
+        "origin": "DALY"
+      },
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:24 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:18 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1754": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:54 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1801": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:30 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:01 PM",
+        "origin": "DALY"
+      },
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:39 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:33 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1809": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:09 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1816": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:45 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:16 PM",
+        "origin": "DALY"
+      },
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:54 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:48 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1824": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:24 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1839": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:39 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1854": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:54 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1909": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:09 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1924": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:24 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1943": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:43 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2003": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:03 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2023": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:23 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2043": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:43 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2103": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:03 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2123": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:23 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2143": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:43 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2203": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:03 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2223": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:23 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2243": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:43 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2303": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:03 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2323": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:00 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:23 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2348": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:25 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:48 PM",
+        "origin": "DALY"
+      }
+    ],
+    "0008": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "12:48 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/11/2016",
+        "origTimeMin": "12:08 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0409": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:09 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0424": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:24 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0439": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:14 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:39 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0454": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:29 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:54 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0509": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:09 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0524": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:24 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0539": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:14 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:39 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0554": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:29 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:54 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0609": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:09 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0624": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:24 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0639": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:14 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:39 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0654": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:29 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:54 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0709": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:09 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0724": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:24 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0739": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:14 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:39 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0754": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:29 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:54 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0809": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:09 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0824": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:24 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0839": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:14 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:39 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0854": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:29 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:54 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0909": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:09 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0924": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:24 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0939": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:14 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:39 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0954": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:29 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:54 AM",
+        "origin": "DALY"
+      }
+    ]
+  },
+  "MON": {
+    "1009": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:09 AM",
+        "origin": "DALY"
+      }
+    ],
+    "1024": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:24 AM",
+        "origin": "DALY"
+      }
+    ],
+    "1039": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:14 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:39 AM",
+        "origin": "DALY"
+      }
+    ],
+    "1054": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:29 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:54 AM",
+        "origin": "DALY"
+      }
+    ],
+    "1109": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:09 AM",
+        "origin": "DALY"
+      }
+    ],
+    "1124": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:24 AM",
+        "origin": "DALY"
+      }
+    ],
+    "1139": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:39 AM",
+        "origin": "DALY"
+      }
+    ],
+    "1154": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:54 AM",
+        "origin": "DALY"
+      }
+    ],
+    "1209": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:09 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1224": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:24 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1239": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:39 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1254": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:54 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1309": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:09 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1324": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:24 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1339": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:39 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1354": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:54 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1409": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:09 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1424": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:24 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1439": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:39 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1454": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:54 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1509": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:09 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1524": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:24 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1528": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:04 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:28 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1539": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:39 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1543": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:19 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:43 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1554": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:54 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1558": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:34 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:58 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1609": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:09 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1613": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:49 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:13 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1624": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:24 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1628": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:04 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:28 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1639": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:39 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1647": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:23 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:47 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1654": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:54 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1658": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:34 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:58 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1701": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:30 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:01 PM",
+        "origin": "DALY"
+      },
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:39 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:33 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1709": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:09 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1713": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:49 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:13 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1716": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:45 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:16 PM",
+        "origin": "DALY"
+      },
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:54 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:48 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1724": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:24 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1731": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:00 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:31 PM",
+        "origin": "DALY"
+      },
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:09 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:03 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1739": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:39 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1746": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:15 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:46 PM",
+        "origin": "DALY"
+      },
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:24 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:18 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1754": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:54 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1801": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:30 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:01 PM",
+        "origin": "DALY"
+      },
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:39 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:33 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1809": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:09 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1816": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:45 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:16 PM",
+        "origin": "DALY"
+      },
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:54 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:48 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1824": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:24 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1839": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:39 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1854": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:54 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1909": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:09 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1924": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:24 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1943": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:43 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2003": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:03 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2023": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:23 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2043": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:43 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2103": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:03 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2123": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:23 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2143": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:43 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2203": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:03 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2223": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:23 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2242": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:42 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2302": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:02 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2322": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:00 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:22 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2347": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:25 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:47 PM",
+        "origin": "DALY"
+      }
+    ],
+    "0008": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:47 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:08 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0409": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:09 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0424": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:24 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0439": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:14 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:39 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0454": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:29 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:54 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0509": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:09 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0524": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:24 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0539": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:14 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:39 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0554": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:29 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:54 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0609": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:09 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0624": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:24 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0639": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:14 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:39 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0654": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:29 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:54 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0709": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:09 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0724": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:24 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0739": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:14 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:39 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0754": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:29 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:54 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0809": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:09 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0824": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:24 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0839": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:14 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:39 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0854": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:29 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:54 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0909": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:09 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0924": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:24 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0939": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:14 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:39 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0954": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:29 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:54 AM",
+        "origin": "DALY"
+      }
+    ]
+  },
+  "SAT": {
+    "1002": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:40 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:02 AM",
+        "origin": "DALY"
+      }
+    ],
+    "1022": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:00 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:22 AM",
+        "origin": "DALY"
+      }
+    ],
+    "1042": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:20 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:42 AM",
+        "origin": "DALY"
+      }
+    ],
+    "1102": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:40 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:02 AM",
+        "origin": "DALY"
+      }
+    ],
+    "1122": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:22 AM",
+        "origin": "DALY"
+      }
+    ],
+    "1142": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:42 AM",
+        "origin": "DALY"
+      }
+    ],
+    "1202": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:02 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1222": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:22 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1242": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:42 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1302": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:02 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1322": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:22 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1342": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:42 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1402": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:02 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1422": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:22 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1442": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:42 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1502": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:02 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1522": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:22 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1542": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:42 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1602": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:02 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1622": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:22 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1642": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:42 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1702": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:02 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1722": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:22 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1742": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:42 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1802": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:02 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1822": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:22 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1842": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:42 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1902": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:02 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1922": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:22 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1942": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:42 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2002": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:02 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2022": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:22 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2042": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:42 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2102": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:02 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2122": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:22 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2142": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:42 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2202": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:02 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2222": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:22 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2242": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:42 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2243": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:43 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2303": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:03 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2323": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:00 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:23 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2348": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:25 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:48 PM",
+        "origin": "DALY"
+      }
+    ],
+    "0008": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:48 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:08 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0602": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:40 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:02 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0622": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:00 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:22 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0642": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:20 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:42 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0702": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:40 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:02 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0722": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:00 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:22 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0742": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:20 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:42 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0802": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:40 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:02 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0822": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:00 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:22 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0842": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:20 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:42 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0902": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:40 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:02 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0922": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:00 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:22 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0942": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:20 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:42 AM",
+        "origin": "DALY"
+      }
+    ]
+  },
+  "SUN": {
+    "1002": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:40 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:02 AM",
+        "origin": "DALY"
+      }
+    ],
+    "1022": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:00 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:22 AM",
+        "origin": "DALY"
+      }
+    ],
+    "1042": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:20 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:42 AM",
+        "origin": "DALY"
+      }
+    ],
+    "1102": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:40 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:02 AM",
+        "origin": "DALY"
+      }
+    ],
+    "1122": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:22 AM",
+        "origin": "DALY"
+      }
+    ],
+    "1142": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:42 AM",
+        "origin": "DALY"
+      }
+    ],
+    "1202": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:02 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1222": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:22 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1242": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:42 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1302": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:02 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1322": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:22 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1342": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:42 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1402": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:02 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1422": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:22 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1442": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:42 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1502": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:02 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1522": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:22 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1542": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:42 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1602": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:02 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1622": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:22 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1642": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:42 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1702": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:02 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1722": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:22 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1742": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:42 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1802": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:02 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1822": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:22 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1842": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:42 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1902": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:02 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1922": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:22 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1942": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:42 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2002": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:02 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2022": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:22 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2042": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:42 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2102": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:02 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2122": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:22 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2142": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:42 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2202": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:02 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2222": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:22 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2242": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:42 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2302": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:02 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2322": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:00 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:22 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2347": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:25 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:47 PM",
+        "origin": "DALY"
+      }
+    ],
+    "0008": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:48 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:08 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0802": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:40 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:02 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0822": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:00 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:22 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0842": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:20 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:42 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0902": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:40 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:02 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0922": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:00 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:22 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0942": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:20 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:42 AM",
+        "origin": "DALY"
+      }
+    ]
+  },
+  "THU": {
+    "1009": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:09 AM",
+        "origin": "DALY"
+      }
+    ],
+    "1024": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:24 AM",
+        "origin": "DALY"
+      }
+    ],
+    "1039": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:14 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:39 AM",
+        "origin": "DALY"
+      }
+    ],
+    "1054": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:29 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:54 AM",
+        "origin": "DALY"
+      }
+    ],
+    "1109": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:09 AM",
+        "origin": "DALY"
+      }
+    ],
+    "1124": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:24 AM",
+        "origin": "DALY"
+      }
+    ],
+    "1139": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:39 AM",
+        "origin": "DALY"
+      }
+    ],
+    "1154": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:54 AM",
+        "origin": "DALY"
+      }
+    ],
+    "1209": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:09 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1224": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:24 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1239": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:39 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1254": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:54 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1309": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:09 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1324": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:24 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1339": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:39 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1354": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:54 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1409": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:09 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1424": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:24 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1439": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:39 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1454": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:54 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1509": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:09 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1524": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:24 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1528": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:04 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:28 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1539": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:39 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1543": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:19 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:43 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1554": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:54 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1558": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:34 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:58 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1609": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:09 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1613": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:49 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:13 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1624": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:24 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1628": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:04 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:28 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1639": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:39 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1647": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:23 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:47 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1654": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:54 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1658": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:34 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:58 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1701": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:30 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:01 PM",
+        "origin": "DALY"
+      },
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:39 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:33 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1709": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:09 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1713": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:49 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:13 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1716": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:45 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:16 PM",
+        "origin": "DALY"
+      },
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:54 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:48 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1724": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:24 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1731": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:00 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:31 PM",
+        "origin": "DALY"
+      },
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:09 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:03 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1739": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:39 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1746": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:15 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:46 PM",
+        "origin": "DALY"
+      },
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:24 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:18 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1754": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:54 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1801": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:30 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:01 PM",
+        "origin": "DALY"
+      },
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:39 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:33 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1809": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:09 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1816": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:45 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:16 PM",
+        "origin": "DALY"
+      },
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:54 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:48 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1824": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:24 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1839": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:39 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1854": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:54 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1909": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:09 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1924": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:24 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1943": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:43 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2003": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:03 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2023": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:23 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2043": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:43 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2103": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:03 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2123": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:23 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2143": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:43 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2203": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:03 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2223": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:23 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2243": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:43 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2303": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:03 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2323": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:00 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:23 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2348": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "12:25 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:48 PM",
+        "origin": "DALY"
+      }
+    ],
+    "0008": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:48 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:08 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0409": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:09 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0424": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:24 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0439": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:14 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:39 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0454": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:29 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:54 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0509": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:09 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0524": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:24 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0539": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:14 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:39 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0554": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:29 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:54 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0609": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:09 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0624": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:24 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0639": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:14 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:39 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0654": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:29 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:54 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0709": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:09 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0724": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:24 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0739": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:14 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:39 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0754": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:29 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:54 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0809": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:09 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0824": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:24 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0839": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:14 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:39 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0854": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:29 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:54 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0909": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:09 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0924": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:24 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0939": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:14 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:39 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0954": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:29 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:54 AM",
+        "origin": "DALY"
+      }
+    ]
+  },
+  "TUE": {
+    "1009": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:09 AM",
+        "origin": "DALY"
+      }
+    ],
+    "1024": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:24 AM",
+        "origin": "DALY"
+      }
+    ],
+    "1039": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:14 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:39 AM",
+        "origin": "DALY"
+      }
+    ],
+    "1054": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:29 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:54 AM",
+        "origin": "DALY"
+      }
+    ],
+    "1109": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:09 AM",
+        "origin": "DALY"
+      }
+    ],
+    "1124": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:24 AM",
+        "origin": "DALY"
+      }
+    ],
+    "1139": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:39 AM",
+        "origin": "DALY"
+      }
+    ],
+    "1154": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:54 AM",
+        "origin": "DALY"
+      }
+    ],
+    "1209": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:09 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1224": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:24 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1239": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:39 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1254": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:54 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1309": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:09 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1324": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:24 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1339": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:39 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1354": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:54 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1409": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:09 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1424": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:24 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1439": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:39 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1454": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:54 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1509": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:09 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1524": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:24 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1528": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:04 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:28 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1539": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:39 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1543": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:19 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:43 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1554": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:54 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1558": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:34 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:58 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1609": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:09 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1613": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:49 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:13 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1624": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:24 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1628": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:04 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:28 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1639": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:39 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1647": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:23 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:47 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1654": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:54 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1658": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:34 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:58 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1701": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:30 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:01 PM",
+        "origin": "DALY"
+      },
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:39 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:33 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1709": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:09 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1713": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:49 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:13 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1716": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:45 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:16 PM",
+        "origin": "DALY"
+      },
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:54 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:48 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1724": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:24 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1731": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:00 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:31 PM",
+        "origin": "DALY"
+      },
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:09 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:03 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1739": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:39 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1746": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:15 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:46 PM",
+        "origin": "DALY"
+      },
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:24 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:18 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1754": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:54 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1801": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:30 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:01 PM",
+        "origin": "DALY"
+      },
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:39 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:33 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1809": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:09 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1816": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:45 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:16 PM",
+        "origin": "DALY"
+      },
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:54 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:48 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1824": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:24 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1839": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:39 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1854": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:54 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1909": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:09 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1924": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:24 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1943": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:43 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2003": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:03 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2023": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:23 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2043": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:43 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2103": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:03 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2123": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:23 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2143": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:43 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2203": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:03 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2223": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:23 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2243": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:43 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2303": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:03 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2323": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:00 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:23 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2348": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:25 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:48 PM",
+        "origin": "DALY"
+      }
+    ],
+    "0008": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:47 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:08 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0409": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:09 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0424": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:24 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0439": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:14 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:39 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0454": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:29 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:54 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0509": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:09 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0524": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:24 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0539": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:14 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:39 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0554": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:29 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:54 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0609": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:09 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0624": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:24 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0639": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:14 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:39 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0654": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:29 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:54 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0709": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:09 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0724": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:24 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0739": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:14 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:39 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0754": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:29 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:54 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0809": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:09 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0824": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:24 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0839": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:14 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:39 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0854": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:29 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:54 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0909": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:09 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0924": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:24 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0939": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:14 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:39 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0954": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:29 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:54 AM",
+        "origin": "DALY"
+      }
+    ]
+  },
+  "WED": {
+    "1009": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:09 AM",
+        "origin": "DALY"
+      }
+    ],
+    "1024": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:24 AM",
+        "origin": "DALY"
+      }
+    ],
+    "1039": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:14 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:39 AM",
+        "origin": "DALY"
+      }
+    ],
+    "1054": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:29 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:54 AM",
+        "origin": "DALY"
+      }
+    ],
+    "1109": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:09 AM",
+        "origin": "DALY"
+      }
+    ],
+    "1124": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:24 AM",
+        "origin": "DALY"
+      }
+    ],
+    "1139": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:39 AM",
+        "origin": "DALY"
+      }
+    ],
+    "1154": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:54 AM",
+        "origin": "DALY"
+      }
+    ],
+    "1209": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:09 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1224": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:24 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1239": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:39 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1254": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:54 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1309": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:09 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1324": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:24 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1339": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:39 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1354": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:54 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1409": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:09 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1424": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:24 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1439": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:39 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1454": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:54 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1509": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:09 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1524": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:24 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1528": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:04 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:28 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1539": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:39 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1543": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:19 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:43 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1554": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:54 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1558": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:34 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:58 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1609": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:09 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1613": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:49 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:13 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1624": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:24 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1628": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:04 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:28 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1639": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:39 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1647": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:23 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:47 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1654": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:54 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1658": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:34 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:58 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1701": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:30 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:01 PM",
+        "origin": "DALY"
+      },
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:39 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:33 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1709": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:09 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1713": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:49 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:13 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1716": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:45 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:16 PM",
+        "origin": "DALY"
+      },
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:54 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:48 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1724": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:24 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1731": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:00 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:31 PM",
+        "origin": "DALY"
+      },
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:09 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:03 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1739": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:39 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1746": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:15 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:46 PM",
+        "origin": "DALY"
+      },
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:24 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:18 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1754": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:54 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1801": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:30 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:01 PM",
+        "origin": "DALY"
+      },
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:39 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:33 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1809": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:09 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1816": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:45 PM",
+        "destination": "19TH",
+        "line": "08",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:16 PM",
+        "origin": "DALY"
+      },
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:54 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:48 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1824": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:24 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1839": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:14 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:39 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1854": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:29 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:54 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1909": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:44 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:09 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1924": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:59 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:24 PM",
+        "origin": "DALY"
+      }
+    ],
+    "1943": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:43 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2003": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:03 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2023": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:23 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2043": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:43 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2103": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:03 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2123": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:23 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2143": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:43 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2203": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:03 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2223": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:00 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:23 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2243": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:20 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:43 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2303": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:40 PM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:03 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2323": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:00 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:23 PM",
+        "origin": "DALY"
+      }
+    ],
+    "2348": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:25 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:48 PM",
+        "origin": "DALY"
+      }
+    ],
+    "0008": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:48 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:08 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0409": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:09 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0424": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:24 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0439": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:14 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:39 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0454": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:29 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:54 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0509": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:09 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0524": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:24 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0539": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:14 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:39 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0554": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:29 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:54 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0609": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:09 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0624": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:24 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0639": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:14 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:39 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0654": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:29 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:54 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0709": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:09 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0724": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:24 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0739": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:14 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:39 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0754": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:29 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:54 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0809": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:09 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0824": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:24 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0839": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:14 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:39 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0854": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:29 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:54 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0909": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:44 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:09 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0924": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:59 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:24 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0939": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:14 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:39 AM",
+        "origin": "DALY"
+      }
+    ],
+    "0954": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:29 AM",
+        "destination": "ROCK",
+        "line": "02",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:54 AM",
+        "origin": "DALY"
+      }
+    ]
+  }
+}

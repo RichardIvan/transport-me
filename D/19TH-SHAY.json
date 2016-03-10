@@ -1,0 +1,5362 @@
+{
+  "FRI": {
+    "1014": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:41 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:14 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1029": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:56 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:29 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1044": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:11 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:44 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1059": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:26 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:59 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1114": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:41 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:14 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1129": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:56 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:29 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1144": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:11 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:44 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1159": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:26 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:59 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1214": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:41 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:14 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1229": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:56 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:29 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1244": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:11 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:44 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1259": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:26 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:59 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1314": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:41 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:14 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1329": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:56 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:29 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1344": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:11 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:44 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1359": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:26 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:59 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1414": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:41 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:14 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1429": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:56 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:29 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1444": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:11 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:44 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1459": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:26 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:59 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1514": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:41 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:14 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1529": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:56 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:29 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1544": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:11 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:44 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1559": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:26 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:59 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1614": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:41 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:14 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1629": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:56 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:29 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1644": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:11 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:44 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1659": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:26 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:59 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1714": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:41 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:14 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1729": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:56 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:29 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1744": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:11 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:44 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1759": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:26 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:59 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1814": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:41 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:14 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1829": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:56 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:29 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1844": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:11 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:44 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1859": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:26 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:59 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1914": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:41 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:14 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1929": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:56 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:29 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1944": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:11 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:44 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2001": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:28 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:01 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2021": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:48 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:21 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2041": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:08 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:41 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2101": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:28 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:01 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2121": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:48 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:21 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2141": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:08 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:41 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2201": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:28 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:01 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2221": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:48 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:21 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2241": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:08 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:41 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2301": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:28 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:01 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2321": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:48 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:21 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2341": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:08 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:41 PM",
+        "origin": "19TH"
+      }
+    ],
+    "0001": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "12:28 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/11/2016",
+        "origTimeMin": "12:01 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0021": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "12:48 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/11/2016",
+        "origTimeMin": "12:21 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0051": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "1:18 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/11/2016",
+        "origTimeMin": "12:51 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0444": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:11 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:44 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0459": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:26 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:59 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0514": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:41 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:14 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0529": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:56 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:29 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0544": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:11 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:44 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0559": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:26 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:59 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0614": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:41 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:14 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0629": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:56 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:29 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0644": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:11 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:44 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0659": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:26 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:59 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0714": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:41 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:14 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0729": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:56 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:29 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0744": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:11 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:44 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0759": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:26 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:59 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0814": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:41 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:14 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0829": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:56 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:29 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0844": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:11 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:44 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0859": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:26 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:59 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0914": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:41 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:14 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0929": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:56 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:29 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0944": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:11 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:44 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0959": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:26 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:59 AM",
+        "origin": "19TH"
+      }
+    ]
+  },
+  "MON": {
+    "1014": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:41 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:14 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1029": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:56 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:29 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1044": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:11 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:44 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1059": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:26 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:59 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1114": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:41 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:14 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1129": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:56 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:29 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1144": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:11 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:44 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1159": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:26 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:59 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1214": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:41 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:14 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1229": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:56 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:29 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1244": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:11 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:44 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1259": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:26 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:59 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1314": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:41 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:14 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1329": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:56 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:29 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1344": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:11 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:44 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1359": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:26 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:59 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1414": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:41 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:14 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1429": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:56 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:29 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1444": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:11 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:44 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1459": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:26 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:59 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1514": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:41 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:14 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1529": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:56 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:29 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1544": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:11 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:44 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1559": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:26 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:59 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1614": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:41 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:14 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1629": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:56 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:29 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1644": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:11 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:44 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1659": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:26 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:59 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1714": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:41 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:14 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1729": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:56 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:29 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1744": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:11 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:44 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1759": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:26 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:59 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1814": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:41 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:14 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1829": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:56 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:29 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1844": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:11 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:44 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1859": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:26 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:59 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1914": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:41 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:14 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1929": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:56 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:29 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1944": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:11 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:44 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2001": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:28 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:01 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2021": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:48 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:21 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2041": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:08 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:41 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2101": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:28 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:01 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2121": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:48 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:21 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2141": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:08 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:41 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2201": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:28 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:01 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2221": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:48 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:21 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2241": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:08 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:41 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2301": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:28 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:01 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2321": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:48 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:21 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2341": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:08 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:41 PM",
+        "origin": "19TH"
+      }
+    ],
+    "0001": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:28 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:01 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0021": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:48 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:21 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0051": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:18 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:51 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0444": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:11 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:44 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0459": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:26 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:59 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0514": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:41 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:14 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0529": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:56 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:29 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0544": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:11 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:44 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0559": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:26 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:59 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0614": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:41 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:14 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0629": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:56 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:29 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0644": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:11 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:44 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0659": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:26 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:59 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0714": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:41 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:14 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0729": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:56 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:29 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0744": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:11 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:44 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0759": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:26 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:59 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0814": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:41 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:14 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0829": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:56 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:29 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0844": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:11 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:44 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0859": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:26 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:59 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0914": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:41 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:14 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0929": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:56 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:29 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0944": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:11 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:44 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0959": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:26 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:59 AM",
+        "origin": "19TH"
+      }
+    ]
+  },
+  "SAT": {
+    "1001": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:28 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:01 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1021": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:48 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:21 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1041": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:08 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:41 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1101": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:28 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:01 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1121": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:48 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:21 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1141": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:08 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:41 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1201": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:28 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:01 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1221": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:48 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:21 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1241": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:08 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:41 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1301": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:28 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:01 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1321": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:48 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:21 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1341": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:08 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:41 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1401": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:28 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:01 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1421": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:48 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:21 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1441": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:08 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:41 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1501": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:28 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:01 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1521": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:48 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:21 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1541": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:08 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:41 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1601": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:28 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:01 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1621": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:48 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:21 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1641": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:08 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:41 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1701": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:28 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:01 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1721": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:48 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:21 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1741": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:08 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:41 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1801": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:28 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:01 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1821": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:48 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:21 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1841": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:08 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:41 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1901": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:28 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:01 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1921": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:48 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:21 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1941": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:08 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:41 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2001": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:28 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:01 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2021": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:48 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:21 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2041": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:08 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:41 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2101": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:28 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:01 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2121": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:48 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:21 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2141": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:08 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:41 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2201": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:28 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:01 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2221": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:48 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:21 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2241": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:08 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:41 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2301": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:28 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:01 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2321": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:48 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:21 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2341": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:08 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:41 PM",
+        "origin": "19TH"
+      }
+    ],
+    "0001": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:28 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:01 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0021": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:48 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:21 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0051": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:18 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:51 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0621": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:48 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:21 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0641": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:08 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:41 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0701": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:28 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:01 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0721": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:48 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:21 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0741": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:08 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:41 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0801": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:28 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:01 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0821": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:48 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:21 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0841": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:08 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:41 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0901": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:28 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:01 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0921": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:48 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:21 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0941": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:08 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:41 AM",
+        "origin": "19TH"
+      }
+    ]
+  },
+  "SUN": {
+    "1001": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:28 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:01 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1021": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:48 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:21 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1041": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:08 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:41 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1101": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:28 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:01 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1121": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:48 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:21 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1141": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:08 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:41 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1201": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:28 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:01 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1221": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:48 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:21 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1241": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:08 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:41 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1301": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:28 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:01 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1321": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:48 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:21 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1341": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:08 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:41 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1401": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:28 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:01 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1421": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:48 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:21 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1441": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:08 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:41 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1501": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:28 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:01 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1521": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:48 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:21 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1541": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:08 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:41 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1601": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:28 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:01 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1621": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:48 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:21 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1641": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:08 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:41 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1701": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:28 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:01 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1721": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:48 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:21 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1741": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:08 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:41 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1801": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:28 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:01 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1821": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:48 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:21 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1841": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:08 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:41 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1901": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:28 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:01 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1921": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:48 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:21 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1941": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:08 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:41 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2001": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:28 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:01 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2021": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:48 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:21 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2041": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:08 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:41 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2101": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:28 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:01 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2121": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:48 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:21 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2141": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:08 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:41 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2201": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:28 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:01 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2221": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:48 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:21 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2241": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:08 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:41 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2301": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:28 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:01 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2321": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:48 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:21 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2341": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:08 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:41 PM",
+        "origin": "19TH"
+      }
+    ],
+    "0001": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:28 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:01 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0021": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:48 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:21 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0051": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:18 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:51 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0821": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:48 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:21 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0841": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:08 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:41 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0901": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:28 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:01 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0921": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:48 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:21 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0941": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:08 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:41 AM",
+        "origin": "19TH"
+      }
+    ]
+  },
+  "THU": {
+    "1014": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:41 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:14 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1029": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:56 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:29 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1044": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:11 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:44 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1059": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:26 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:59 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1114": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:41 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:14 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1129": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:56 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:29 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1144": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:11 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:44 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1159": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:26 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:59 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1214": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:41 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:14 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1229": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:56 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:29 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1244": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:11 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:44 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1259": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:26 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:59 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1314": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:41 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:14 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1329": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:56 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:29 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1344": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:11 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:44 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1359": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:26 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:59 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1414": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:41 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:14 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1429": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:56 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:29 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1444": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:11 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:44 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1459": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:26 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:59 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1514": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:41 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:14 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1529": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:56 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:29 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1544": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:11 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:44 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1559": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:26 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:59 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1614": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:41 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:14 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1629": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:56 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:29 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1644": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:11 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:44 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1659": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:26 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:59 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1714": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:41 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:14 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1729": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:56 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:29 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1744": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:11 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:44 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1759": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:26 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:59 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1814": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:41 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:14 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1829": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:56 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:29 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1844": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:11 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:44 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1859": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:26 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:59 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1914": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:41 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:14 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1929": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:56 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:29 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1944": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:11 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:44 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2001": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:28 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:01 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2021": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:48 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:21 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2041": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:08 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:41 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2101": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:28 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:01 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2121": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:48 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:21 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2141": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:08 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:41 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2201": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:28 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:01 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2221": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:48 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:21 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2241": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:08 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:41 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2301": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:28 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:01 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2321": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:48 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:21 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2341": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "12:08 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:41 PM",
+        "origin": "19TH"
+      }
+    ],
+    "0001": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:28 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:01 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0021": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:48 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:21 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0051": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:18 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:51 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0444": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:11 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:44 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0459": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:26 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:59 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0514": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:41 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:14 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0529": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:56 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:29 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0544": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:11 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:44 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0559": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:26 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:59 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0614": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:41 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:14 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0629": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:56 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:29 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0644": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:11 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:44 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0659": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:26 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:59 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0714": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:41 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:14 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0729": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:56 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:29 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0744": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:11 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:44 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0759": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:26 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:59 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0814": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:41 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:14 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0829": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:56 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:29 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0844": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:11 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:44 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0859": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:26 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:59 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0914": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:41 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:14 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0929": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:56 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:29 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0944": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:11 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:44 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0959": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:26 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:59 AM",
+        "origin": "19TH"
+      }
+    ]
+  },
+  "TUE": {
+    "1014": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:41 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:14 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1029": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:56 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:29 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1044": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:11 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:44 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1059": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:26 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:59 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1114": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:41 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:14 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1129": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:56 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:29 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1144": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:11 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:44 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1159": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:26 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:59 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1214": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:41 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:14 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1229": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:56 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:29 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1244": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:11 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:44 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1259": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:26 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:59 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1314": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:41 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:14 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1329": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:56 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:29 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1344": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:11 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:44 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1359": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:26 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:59 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1414": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:41 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:14 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1429": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:56 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:29 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1444": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:11 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:44 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1459": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:26 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:59 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1514": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:41 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:14 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1529": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:56 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:29 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1544": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:11 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:44 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1559": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:26 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:59 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1614": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:41 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:14 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1629": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:56 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:29 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1644": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:11 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:44 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1659": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:26 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:59 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1714": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:41 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:14 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1729": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:56 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:29 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1744": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:11 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:44 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1759": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:26 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:59 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1814": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:41 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:14 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1829": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:56 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:29 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1844": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:11 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:44 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1859": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:26 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:59 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1914": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:41 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:14 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1929": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:56 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:29 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1944": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:11 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:44 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2001": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:28 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:01 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2021": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:48 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:21 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2041": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:08 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:41 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2101": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:28 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:01 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2121": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:48 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:21 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2141": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:08 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:41 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2201": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:28 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:01 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2221": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:48 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:21 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2241": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:08 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:41 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2301": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:28 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:01 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2321": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:48 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:21 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2341": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:08 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:41 PM",
+        "origin": "19TH"
+      }
+    ],
+    "0001": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:28 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:01 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0021": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:48 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:21 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0051": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:18 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:51 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0444": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:11 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:44 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0459": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:26 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:59 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0514": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:41 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:14 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0529": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:56 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:29 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0544": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:11 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:44 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0559": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:26 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:59 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0614": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:41 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:14 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0629": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:56 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:29 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0644": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:11 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:44 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0659": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:26 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:59 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0714": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:41 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:14 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0729": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:56 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:29 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0744": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:11 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:44 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0759": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:26 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:59 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0814": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:41 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:14 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0829": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:56 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:29 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0844": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:11 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:44 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0859": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:26 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:59 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0914": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:41 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:14 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0929": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:56 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:29 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0944": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:11 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:44 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0959": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:26 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:59 AM",
+        "origin": "19TH"
+      }
+    ]
+  },
+  "WED": {
+    "1014": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:41 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:14 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1029": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:56 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:29 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1044": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:11 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:44 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1059": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:26 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:59 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1114": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:41 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:14 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1129": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:56 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:29 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1144": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:11 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:44 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1159": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:26 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:59 AM",
+        "origin": "19TH"
+      }
+    ],
+    "1214": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:41 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:14 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1229": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:56 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:29 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1244": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:11 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:44 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1259": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:26 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:59 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1314": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:41 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:14 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1329": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:56 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:29 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1344": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:11 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:44 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1359": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:26 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:59 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1414": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:41 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:14 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1429": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:56 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:29 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1444": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:11 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:44 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1459": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:26 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:59 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1514": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:41 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:14 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1529": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:56 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:29 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1544": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:11 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:44 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1559": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:26 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:59 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1614": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:41 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:14 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1629": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:56 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:29 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1644": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:11 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:44 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1659": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:26 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:59 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1714": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:41 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:14 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1729": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:56 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:29 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1744": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:11 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:44 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1759": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:26 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:59 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1814": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:41 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:14 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1829": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:56 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:29 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1844": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:11 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:44 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1859": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:26 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:59 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1914": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:41 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:14 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1929": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:56 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:29 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1944": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:11 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:44 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2001": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:28 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:01 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2021": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:48 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:21 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2041": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:08 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:41 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2101": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:28 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:01 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2121": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:48 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:21 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2141": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:08 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:41 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2201": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:28 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:01 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2221": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:48 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:21 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2241": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:08 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:41 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2301": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:28 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:01 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2321": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:48 PM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:21 PM",
+        "origin": "19TH"
+      }
+    ],
+    "2341": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:08 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:41 PM",
+        "origin": "19TH"
+      }
+    ],
+    "0001": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:28 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:01 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0021": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:48 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:21 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0051": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:18 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:51 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0444": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:11 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:44 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0459": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:26 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:59 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0514": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:41 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:14 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0529": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:56 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:29 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0544": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:11 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:44 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0559": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:26 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:59 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0614": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:41 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:14 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0629": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:56 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:29 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0644": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:11 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:44 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0659": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:26 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:59 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0714": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:41 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:14 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0729": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:56 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:29 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0744": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:11 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:44 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0759": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:26 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:59 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0814": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:41 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:14 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0829": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:56 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:29 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0844": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:11 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:44 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0859": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:26 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:59 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0914": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:41 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:14 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0929": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:56 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:29 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0944": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:11 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:44 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0959": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:26 AM",
+        "destination": "SHAY",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:59 AM",
+        "origin": "19TH"
+      }
+    ]
+  }
+}

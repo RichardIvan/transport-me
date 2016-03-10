@@ -1,0 +1,5862 @@
+{
+  "FRI": {
+    "1010": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:08 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:10 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1025": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:23 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1040": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:38 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1055": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:53 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:55 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1110": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:08 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:10 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1125": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:23 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1140": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:38 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1155": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:53 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:55 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1210": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:08 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1225": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:23 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1240": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:38 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1255": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:53 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:55 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1310": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:08 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1325": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:23 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1340": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:38 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1355": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:53 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:55 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1410": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:08 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1425": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:23 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1440": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:38 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1455": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:53 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:55 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1510": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:08 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1525": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:23 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1540": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:38 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1555": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:53 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:55 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1610": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:08 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1625": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:23 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1640": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:38 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1655": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:53 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:55 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1710": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:08 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1718": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:35 PM",
+        "destination": "19TH",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:18 PM",
+        "origin": "LAFY"
+      },
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:17 PM",
+        "destination": "SBRN",
+        "line": "07",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:36 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1725": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:23 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1733": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:50 PM",
+        "destination": "19TH",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:33 PM",
+        "origin": "LAFY"
+      },
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:32 PM",
+        "destination": "SBRN",
+        "line": "07",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:51 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1740": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:38 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1755": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:53 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:55 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1810": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:08 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1825": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:23 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1840": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:38 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1855": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:53 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:55 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1910": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:08 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1925": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:23 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1940": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:38 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2000": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:00 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2020": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:20 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2040": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:40 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2100": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:00 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2120": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:20 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2140": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:40 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2200": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:00 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2220": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:20 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2240": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:40 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2300": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:00 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2320": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:20 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2340": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:40 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "0000": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:00 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:00 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0022": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "1:30 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/11/2016",
+        "origTimeMin": "12:22 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0425": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:23 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0440": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:38 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0455": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:53 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:55 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0510": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:08 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:10 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0525": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:23 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0540": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:38 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0555": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:53 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:55 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0610": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:08 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:10 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0625": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:23 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0640": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:38 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0655": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:53 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:55 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0710": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:08 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:10 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0715": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:32 AM",
+        "destination": "19TH",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:15 AM",
+        "origin": "LAFY"
+      },
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:15 AM",
+        "destination": "SBRN",
+        "line": "07",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:34 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0725": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:23 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0730": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:47 AM",
+        "destination": "19TH",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:30 AM",
+        "origin": "LAFY"
+      },
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:30 AM",
+        "destination": "SBRN",
+        "line": "07",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:49 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0740": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:38 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0745": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:02 AM",
+        "destination": "19TH",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:45 AM",
+        "origin": "LAFY"
+      },
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:45 AM",
+        "destination": "SBRN",
+        "line": "07",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:04 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0755": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:53 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:55 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0810": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:08 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:10 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0825": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:23 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0840": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:38 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0855": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:53 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:55 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0910": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:08 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:10 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0925": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:23 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0940": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:38 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0955": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:53 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:55 AM",
+        "origin": "LAFY"
+      }
+    ]
+  },
+  "MON": {
+    "1010": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:08 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:10 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1025": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:23 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1040": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:38 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1055": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:53 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:55 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1110": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:08 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:10 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1125": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:23 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1140": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:38 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1155": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:53 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:55 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1210": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:08 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1225": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:23 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1240": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:38 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1255": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:53 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:55 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1310": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:08 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1325": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:23 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1340": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:38 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1355": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:53 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:55 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1410": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:08 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1425": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:23 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1440": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:38 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1455": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:53 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:55 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1510": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:08 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1525": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:23 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1540": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:38 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1555": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:53 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:55 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1610": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:08 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1625": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:23 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1640": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:38 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1655": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:53 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:55 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1710": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:08 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1718": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:35 PM",
+        "destination": "19TH",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:18 PM",
+        "origin": "LAFY"
+      },
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:17 PM",
+        "destination": "SBRN",
+        "line": "07",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:36 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1725": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:23 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1733": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:50 PM",
+        "destination": "19TH",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:33 PM",
+        "origin": "LAFY"
+      },
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:32 PM",
+        "destination": "SBRN",
+        "line": "07",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:51 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1740": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:38 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1755": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:53 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:55 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1810": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:08 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1825": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:23 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1840": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:38 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1855": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:53 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:55 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1910": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:08 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1925": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:23 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1940": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:38 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2000": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:00 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2020": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:20 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2040": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:40 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2100": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:00 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2120": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:20 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2140": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:40 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2200": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:00 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2220": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:20 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2240": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:40 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2300": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:00 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2320": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:20 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2340": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:40 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "0000": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:00 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:00 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0022": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:30 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:22 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0425": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:23 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0440": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:38 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0455": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:53 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:55 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0510": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:08 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:10 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0525": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:23 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0540": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:38 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0555": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:53 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:55 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0610": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:08 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:10 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0625": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:23 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0640": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:38 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0655": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:53 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:55 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0710": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:08 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:10 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0715": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:32 AM",
+        "destination": "19TH",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:15 AM",
+        "origin": "LAFY"
+      },
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:15 AM",
+        "destination": "SBRN",
+        "line": "07",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:34 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0725": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:23 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0730": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:47 AM",
+        "destination": "19TH",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:30 AM",
+        "origin": "LAFY"
+      },
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:30 AM",
+        "destination": "SBRN",
+        "line": "07",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:49 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0740": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:38 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0745": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:02 AM",
+        "destination": "19TH",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:45 AM",
+        "origin": "LAFY"
+      },
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:45 AM",
+        "destination": "SBRN",
+        "line": "07",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:04 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0755": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:53 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:55 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0810": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:08 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:10 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0825": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:23 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0840": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:38 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0855": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:53 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:55 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0910": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:08 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:10 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0925": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:23 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0940": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:38 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0955": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:53 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:55 AM",
+        "origin": "LAFY"
+      }
+    ]
+  },
+  "SAT": {
+    "1000": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:00 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:00 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1020": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:20 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:20 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1040": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:40 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1100": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:00 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:00 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1120": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:20 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:20 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1140": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:40 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1200": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:00 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1220": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:20 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1240": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:40 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1300": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:00 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1320": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:20 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1340": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:40 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1400": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:00 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1420": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:20 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1440": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:40 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1500": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:00 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1520": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:20 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1540": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:40 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1600": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:00 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1620": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:20 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1640": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:40 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1700": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:00 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1720": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:20 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1740": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:40 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1800": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:00 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1820": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:20 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1840": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:40 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1900": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:00 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1920": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:20 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1940": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:40 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2000": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:00 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2020": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:20 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2040": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:40 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2100": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:00 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2120": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:20 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2140": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:40 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2200": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:00 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2220": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:20 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2240": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:40 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2300": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:00 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2320": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:20 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2340": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:40 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "0000": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:00 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:00 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0022": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:30 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:22 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0600": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:00 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:00 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0620": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:20 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:20 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0640": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:40 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0700": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:00 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:00 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0720": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:20 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:20 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0740": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:40 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0800": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:00 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:00 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0820": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:20 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:20 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0840": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:40 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0900": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:00 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:00 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0920": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:20 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:20 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0940": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:40 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:40 AM",
+        "origin": "LAFY"
+      }
+    ]
+  },
+  "SUN": {
+    "1000": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:00 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:00 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1020": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:20 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:20 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1040": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:40 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1100": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:00 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:00 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1120": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:20 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:20 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1140": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:40 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1200": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:00 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1220": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:20 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1240": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:40 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1300": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:00 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1320": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:20 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1340": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:40 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1400": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:00 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1420": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:20 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1440": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:40 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1500": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:00 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1520": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:20 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1540": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:40 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1600": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:00 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1620": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:20 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1640": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:40 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1700": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:00 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1720": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:20 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1740": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:40 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1800": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:00 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1820": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:20 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1840": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:40 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1900": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:00 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1920": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:20 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1940": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:40 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2000": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:00 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2020": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:20 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2040": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:40 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2100": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:00 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2120": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:20 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2140": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:40 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2200": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:00 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2220": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:20 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2240": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:40 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2300": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:00 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2320": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:20 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2340": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:40 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "0000": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:00 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:00 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0022": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:30 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:22 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0800": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:00 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:00 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0820": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:20 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:20 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0840": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:40 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0900": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:00 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:00 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0920": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:20 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:20 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0940": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:40 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:40 AM",
+        "origin": "LAFY"
+      }
+    ]
+  },
+  "THU": {
+    "1010": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:08 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:10 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1025": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:23 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1040": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:38 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1055": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:53 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:55 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1110": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:08 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:10 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1125": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:23 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1140": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:38 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1155": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:53 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:55 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1210": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:08 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1225": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:23 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1240": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:38 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1255": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:53 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:55 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1310": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:08 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1325": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:23 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1340": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:38 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1355": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:53 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:55 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1410": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:08 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1425": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:23 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1440": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:38 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1455": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:53 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:55 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1510": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:08 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1525": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:23 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1540": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:38 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1555": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:53 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:55 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1610": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:08 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1625": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:23 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1640": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:38 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1655": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:53 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:55 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1710": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:08 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1718": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:35 PM",
+        "destination": "19TH",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:18 PM",
+        "origin": "LAFY"
+      },
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:17 PM",
+        "destination": "SBRN",
+        "line": "07",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:36 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1725": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:23 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1733": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:50 PM",
+        "destination": "19TH",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:33 PM",
+        "origin": "LAFY"
+      },
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:32 PM",
+        "destination": "SBRN",
+        "line": "07",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:51 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1740": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:38 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1755": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:53 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:55 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1810": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:08 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1825": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:23 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1840": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:38 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1855": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:53 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:55 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1910": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:08 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1925": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:23 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1940": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:38 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2000": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:00 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2020": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:20 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2040": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:40 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2100": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:00 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2120": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:20 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2140": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:40 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2200": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:00 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2220": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:20 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2240": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:40 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2300": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:00 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2320": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "12:20 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2340": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "12:40 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "0000": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "1:00 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:00 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0022": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:30 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:22 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0425": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:23 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0440": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:38 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0455": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:53 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:55 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0510": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:08 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:10 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0525": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:23 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0540": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:38 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0555": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:53 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:55 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0610": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:08 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:10 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0625": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:23 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0640": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:38 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0655": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:53 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:55 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0710": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:08 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:10 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0715": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:32 AM",
+        "destination": "19TH",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:15 AM",
+        "origin": "LAFY"
+      },
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:15 AM",
+        "destination": "SBRN",
+        "line": "07",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:34 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0725": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:23 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0730": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:47 AM",
+        "destination": "19TH",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:30 AM",
+        "origin": "LAFY"
+      },
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:30 AM",
+        "destination": "SBRN",
+        "line": "07",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:49 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0740": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:38 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0745": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:02 AM",
+        "destination": "19TH",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:45 AM",
+        "origin": "LAFY"
+      },
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:45 AM",
+        "destination": "SBRN",
+        "line": "07",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:04 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0755": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:53 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:55 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0810": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:08 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:10 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0825": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:23 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0840": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:38 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0855": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:53 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:55 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0910": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:08 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:10 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0925": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:23 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0940": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:38 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0955": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:53 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:55 AM",
+        "origin": "LAFY"
+      }
+    ]
+  },
+  "TUE": {
+    "1010": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:08 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:10 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1025": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:23 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1040": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:38 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1055": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:53 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:55 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1110": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:08 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:10 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1125": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:23 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1140": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:38 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1155": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:53 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:55 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1210": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:08 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1225": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:23 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1240": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:38 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1255": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:53 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:55 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1310": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:08 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1325": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:23 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1340": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:38 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1355": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:53 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:55 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1410": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:08 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1425": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:23 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1440": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:38 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1455": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:53 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:55 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1510": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:08 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1525": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:23 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1540": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:38 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1555": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:53 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:55 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1610": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:08 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1625": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:23 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1640": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:38 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1655": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:53 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:55 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1710": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:08 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1718": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:35 PM",
+        "destination": "19TH",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:18 PM",
+        "origin": "LAFY"
+      },
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:17 PM",
+        "destination": "SBRN",
+        "line": "07",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:36 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1725": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:23 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1733": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:50 PM",
+        "destination": "19TH",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:33 PM",
+        "origin": "LAFY"
+      },
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:32 PM",
+        "destination": "SBRN",
+        "line": "07",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:51 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1740": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:38 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1755": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:53 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:55 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1810": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:08 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1825": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:23 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1840": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:38 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1855": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:53 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:55 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1910": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:08 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1925": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:23 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1940": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:38 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2000": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:00 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2020": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:20 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2040": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:40 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2100": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:00 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2120": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:20 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2140": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:40 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2200": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:00 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2220": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:20 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2240": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:40 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2300": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:00 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2320": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:20 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2340": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:40 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "0000": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:00 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:00 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0022": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:30 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:22 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0425": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:23 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0440": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:38 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0455": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:53 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:55 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0510": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:08 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:10 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0525": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:23 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0540": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:38 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0555": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:53 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:55 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0610": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:08 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:10 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0625": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:23 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0640": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:38 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0655": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:53 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:55 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0710": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:08 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:10 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0715": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:32 AM",
+        "destination": "19TH",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:15 AM",
+        "origin": "LAFY"
+      },
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:15 AM",
+        "destination": "SBRN",
+        "line": "07",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:34 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0725": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:23 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0730": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:47 AM",
+        "destination": "19TH",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:30 AM",
+        "origin": "LAFY"
+      },
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:30 AM",
+        "destination": "SBRN",
+        "line": "07",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:49 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0740": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:38 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0745": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:02 AM",
+        "destination": "19TH",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:45 AM",
+        "origin": "LAFY"
+      },
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:45 AM",
+        "destination": "SBRN",
+        "line": "07",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:04 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0755": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:53 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:55 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0810": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:08 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:10 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0825": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:23 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0840": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:38 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0855": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:53 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:55 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0910": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:08 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:10 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0925": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:23 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0940": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:38 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0955": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:53 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:55 AM",
+        "origin": "LAFY"
+      }
+    ]
+  },
+  "WED": {
+    "1010": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:08 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:10 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1025": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:23 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1040": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:38 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1055": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:53 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:55 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1110": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:08 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:10 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1125": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:23 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1140": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:38 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1155": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:53 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:55 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "1210": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:08 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1225": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:23 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1240": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:38 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1255": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:53 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:55 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1310": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:08 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1325": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:23 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1340": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:38 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1355": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:53 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:55 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1410": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:08 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1425": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:23 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1440": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:38 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1455": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:53 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:55 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1510": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:08 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1525": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:23 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1540": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:38 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1555": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:53 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:55 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1610": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:08 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1625": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:23 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1640": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:38 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1655": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:53 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:55 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1710": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:08 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1718": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:35 PM",
+        "destination": "19TH",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:18 PM",
+        "origin": "LAFY"
+      },
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:17 PM",
+        "destination": "SBRN",
+        "line": "07",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:36 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1725": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:23 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1733": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:50 PM",
+        "destination": "19TH",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:33 PM",
+        "origin": "LAFY"
+      },
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:32 PM",
+        "destination": "SBRN",
+        "line": "07",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:51 PM",
+        "origin": "19TH"
+      }
+    ],
+    "1740": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:38 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1755": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:53 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:55 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1810": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:08 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1825": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:23 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1840": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:38 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1855": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:53 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:55 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1910": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:08 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:10 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1925": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:23 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:25 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "1940": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:38 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2000": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:00 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2020": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:20 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2040": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:40 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2100": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:00 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2120": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:20 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2140": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:40 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2200": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:00 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2220": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:20 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2240": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:40 PM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2300": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:00 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:00 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2320": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:20 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:20 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "2340": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:40 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:40 PM",
+        "origin": "LAFY"
+      }
+    ],
+    "0000": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:00 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:00 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0022": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:30 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:22 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0425": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:23 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0440": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:38 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0455": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:53 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:55 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0510": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:08 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:10 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0525": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:23 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0540": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:38 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0555": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:53 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:55 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0610": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:08 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:10 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0625": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:23 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0640": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:38 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0655": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:53 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:55 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0710": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:08 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:10 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0715": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:32 AM",
+        "destination": "19TH",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:15 AM",
+        "origin": "LAFY"
+      },
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:15 AM",
+        "destination": "SBRN",
+        "line": "07",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:34 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0725": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:23 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0730": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:47 AM",
+        "destination": "19TH",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:30 AM",
+        "origin": "LAFY"
+      },
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:30 AM",
+        "destination": "SBRN",
+        "line": "07",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:49 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0740": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:38 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0745": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:02 AM",
+        "destination": "19TH",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:45 AM",
+        "origin": "LAFY"
+      },
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:45 AM",
+        "destination": "SBRN",
+        "line": "07",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:04 AM",
+        "origin": "19TH"
+      }
+    ],
+    "0755": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:53 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:55 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0810": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:08 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:10 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0825": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:23 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0840": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:38 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0855": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:53 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:55 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0910": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:08 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:10 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0925": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:23 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:25 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0940": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:38 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:40 AM",
+        "origin": "LAFY"
+      }
+    ],
+    "0955": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:53 AM",
+        "destination": "SBRN",
+        "line": "01",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:55 AM",
+        "origin": "LAFY"
+      }
+    ]
+  }
+}

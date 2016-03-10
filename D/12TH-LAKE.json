@@ -1,0 +1,5362 @@
+{
+  "FRI": {
+    "1000": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:03 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:00 AM",
+        "origin": "12TH"
+      }
+    ],
+    "1015": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:18 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:15 AM",
+        "origin": "12TH"
+      }
+    ],
+    "1030": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:33 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:30 AM",
+        "origin": "12TH"
+      }
+    ],
+    "1045": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:48 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:45 AM",
+        "origin": "12TH"
+      }
+    ],
+    "1100": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:03 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:00 AM",
+        "origin": "12TH"
+      }
+    ],
+    "1115": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:18 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:15 AM",
+        "origin": "12TH"
+      }
+    ],
+    "1130": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:33 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:30 AM",
+        "origin": "12TH"
+      }
+    ],
+    "1145": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:48 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:45 AM",
+        "origin": "12TH"
+      }
+    ],
+    "1200": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:03 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:00 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1215": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:18 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:15 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1230": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:33 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:30 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1245": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:48 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:45 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1300": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:03 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:00 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1315": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:18 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:15 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1330": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:33 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:30 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1345": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:48 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:45 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1400": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:03 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:00 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1415": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:18 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:15 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1430": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:33 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:30 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1445": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:48 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:45 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1500": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:03 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:00 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1515": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:18 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:15 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1530": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:33 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:30 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1545": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:48 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:45 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1600": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:03 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:00 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1615": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:18 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:15 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1630": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:33 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:30 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1645": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:48 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:45 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1700": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:03 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:00 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1715": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:18 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:15 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1730": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:33 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:30 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1745": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:48 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:45 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1800": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:03 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:00 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1815": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:18 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:15 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1830": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:33 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:30 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1845": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:48 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:45 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1900": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:03 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:00 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1915": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:18 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:15 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1930": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:33 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:30 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1945": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:48 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:45 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2002": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:05 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:02 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2022": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:25 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:22 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2042": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:45 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:42 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2102": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:05 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:02 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2122": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:25 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:22 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2142": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:45 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:42 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2202": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:05 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:02 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2222": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:25 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:22 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2242": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:45 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:42 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2302": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:05 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:02 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2322": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:25 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:22 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2342": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:45 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:42 PM",
+        "origin": "12TH"
+      }
+    ],
+    "0002": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "12:05 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/11/2016",
+        "origTimeMin": "12:02 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0022": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "12:25 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/11/2016",
+        "origTimeMin": "12:22 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0053": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "12:56 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/11/2016",
+        "origTimeMin": "12:53 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0445": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:48 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:45 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0500": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:03 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:00 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0515": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:18 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:15 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0530": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:33 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:30 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0545": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:48 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:45 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0600": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:03 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:00 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0615": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:18 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:15 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0630": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:33 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:30 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0645": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:48 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:45 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0700": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:03 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:00 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0715": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:18 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:15 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0730": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:33 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:30 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0745": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:48 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:45 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0800": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:03 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:00 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0815": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:18 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:15 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0830": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:33 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:30 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0845": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:48 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:45 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0900": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:03 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:00 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0915": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:18 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:15 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0930": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:33 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:30 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0945": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:48 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:45 AM",
+        "origin": "12TH"
+      }
+    ]
+  },
+  "MON": {
+    "1000": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:03 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:00 AM",
+        "origin": "12TH"
+      }
+    ],
+    "1015": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:18 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:15 AM",
+        "origin": "12TH"
+      }
+    ],
+    "1030": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:33 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:30 AM",
+        "origin": "12TH"
+      }
+    ],
+    "1045": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:48 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:45 AM",
+        "origin": "12TH"
+      }
+    ],
+    "1100": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:03 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:00 AM",
+        "origin": "12TH"
+      }
+    ],
+    "1115": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:18 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:15 AM",
+        "origin": "12TH"
+      }
+    ],
+    "1130": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:33 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:30 AM",
+        "origin": "12TH"
+      }
+    ],
+    "1145": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:48 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:45 AM",
+        "origin": "12TH"
+      }
+    ],
+    "1200": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:03 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:00 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1215": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:18 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:15 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1230": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:33 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:30 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1245": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:48 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:45 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1300": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:03 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:00 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1315": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:18 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:15 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1330": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:33 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:30 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1345": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:48 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:45 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1400": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:03 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:00 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1415": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:18 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:15 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1430": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:33 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:30 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1445": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:48 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:45 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1500": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:03 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:00 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1515": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:18 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:15 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1530": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:33 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:30 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1545": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:48 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:45 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1600": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:03 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:00 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1615": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:18 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:15 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1630": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:33 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:30 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1645": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:48 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:45 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1700": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:03 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:00 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1715": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:18 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:15 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1730": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:33 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:30 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1745": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:48 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:45 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1800": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:03 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:00 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1815": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:18 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:15 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1830": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:33 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:30 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1845": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:48 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:45 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1900": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:03 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:00 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1915": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:18 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:15 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1930": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:33 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:30 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1945": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:48 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:45 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2002": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:05 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:02 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2022": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:25 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:22 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2042": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:45 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:42 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2102": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:05 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:02 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2122": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:25 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:22 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2142": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:45 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:42 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2202": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:05 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:02 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2222": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:25 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:22 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2242": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:45 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:42 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2302": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:05 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:02 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2322": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:25 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:22 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2342": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:45 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:42 PM",
+        "origin": "12TH"
+      }
+    ],
+    "0002": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:05 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:02 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0022": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:25 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:22 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0053": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:56 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:53 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0445": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:48 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:45 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0500": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:03 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:00 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0515": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:18 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:15 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0530": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:33 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:30 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0545": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:48 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:45 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0600": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:03 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:00 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0615": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:18 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:15 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0630": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:33 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:30 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0645": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:48 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:45 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0700": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:03 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:00 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0715": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:18 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:15 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0730": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:33 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:30 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0745": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:48 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:45 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0800": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:03 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:00 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0815": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:18 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:15 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0830": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:33 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:30 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0845": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:48 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:45 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0900": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:03 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:00 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0915": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:18 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:15 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0930": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:33 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:30 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0945": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:48 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:45 AM",
+        "origin": "12TH"
+      }
+    ]
+  },
+  "SAT": {
+    "1002": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:05 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:02 AM",
+        "origin": "12TH"
+      }
+    ],
+    "1022": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:25 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:22 AM",
+        "origin": "12TH"
+      }
+    ],
+    "1042": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:45 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:42 AM",
+        "origin": "12TH"
+      }
+    ],
+    "1102": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:05 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:02 AM",
+        "origin": "12TH"
+      }
+    ],
+    "1122": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:25 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:22 AM",
+        "origin": "12TH"
+      }
+    ],
+    "1142": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:45 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:42 AM",
+        "origin": "12TH"
+      }
+    ],
+    "1202": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:05 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:02 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1222": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:25 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:22 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1242": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:45 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:42 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1302": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:05 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:02 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1322": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:25 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:22 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1342": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:45 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:42 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1402": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:05 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:02 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1422": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:25 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:22 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1442": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:45 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:42 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1502": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:05 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:02 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1522": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:25 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:22 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1542": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:45 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:42 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1602": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:05 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:02 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1622": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:25 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:22 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1642": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:45 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:42 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1702": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:05 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:02 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1722": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:25 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:22 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1742": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:45 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:42 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1802": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:05 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:02 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1822": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:25 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:22 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1842": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:45 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:42 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1902": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:05 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:02 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1922": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:25 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:22 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1942": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:45 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:42 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2002": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:05 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:02 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2022": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:25 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:22 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2042": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:45 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:42 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2102": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:05 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:02 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2122": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:25 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:22 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2142": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:45 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:42 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2202": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:05 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:02 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2222": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:25 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:22 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2242": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:45 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:42 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2302": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:05 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:02 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2322": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:25 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:22 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2342": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:45 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:42 PM",
+        "origin": "12TH"
+      }
+    ],
+    "0002": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:05 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:02 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0022": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:25 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:22 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0053": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:56 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:53 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0622": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:25 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:22 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0642": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:45 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:42 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0702": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:05 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:02 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0722": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:25 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:22 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0742": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:45 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:42 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0802": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:05 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:02 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0822": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:25 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:22 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0842": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:45 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:42 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0902": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:05 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:02 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0922": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:25 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:22 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0942": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:45 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:42 AM",
+        "origin": "12TH"
+      }
+    ]
+  },
+  "SUN": {
+    "1002": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:05 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:02 AM",
+        "origin": "12TH"
+      }
+    ],
+    "1022": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:25 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:22 AM",
+        "origin": "12TH"
+      }
+    ],
+    "1042": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:45 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:42 AM",
+        "origin": "12TH"
+      }
+    ],
+    "1102": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:05 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:02 AM",
+        "origin": "12TH"
+      }
+    ],
+    "1122": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:25 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:22 AM",
+        "origin": "12TH"
+      }
+    ],
+    "1142": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:45 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:42 AM",
+        "origin": "12TH"
+      }
+    ],
+    "1202": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:05 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:02 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1222": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:25 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:22 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1242": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:45 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:42 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1302": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:05 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:02 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1322": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:25 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:22 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1342": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:45 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:42 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1402": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:05 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:02 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1422": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:25 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:22 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1442": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:45 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:42 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1502": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:05 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:02 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1522": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:25 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:22 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1542": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:45 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:42 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1602": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:05 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:02 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1622": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:25 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:22 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1642": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:45 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:42 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1702": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:05 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:02 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1722": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:25 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:22 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1742": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:45 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:42 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1802": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:05 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:02 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1822": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:25 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:22 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1842": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:45 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:42 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1902": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:05 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:02 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1922": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:25 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:22 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1942": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:45 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:42 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2002": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:05 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:02 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2022": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:25 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:22 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2042": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:45 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:42 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2102": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:05 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:02 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2122": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:25 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:22 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2142": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:45 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:42 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2202": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:05 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:02 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2222": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:25 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:22 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2242": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:45 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:42 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2302": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:05 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:02 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2322": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:25 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:22 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2342": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:45 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:42 PM",
+        "origin": "12TH"
+      }
+    ],
+    "0002": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:05 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:02 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0022": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:25 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:22 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0053": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:56 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:53 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0822": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:25 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:22 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0842": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:45 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:42 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0902": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:05 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:02 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0922": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:25 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:22 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0942": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:45 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:42 AM",
+        "origin": "12TH"
+      }
+    ]
+  },
+  "THU": {
+    "1000": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:03 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:00 AM",
+        "origin": "12TH"
+      }
+    ],
+    "1015": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:18 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:15 AM",
+        "origin": "12TH"
+      }
+    ],
+    "1030": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:33 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:30 AM",
+        "origin": "12TH"
+      }
+    ],
+    "1045": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:48 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:45 AM",
+        "origin": "12TH"
+      }
+    ],
+    "1100": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:03 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:00 AM",
+        "origin": "12TH"
+      }
+    ],
+    "1115": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:18 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:15 AM",
+        "origin": "12TH"
+      }
+    ],
+    "1130": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:33 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:30 AM",
+        "origin": "12TH"
+      }
+    ],
+    "1145": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:48 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:45 AM",
+        "origin": "12TH"
+      }
+    ],
+    "1200": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:03 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:00 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1215": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:18 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:15 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1230": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:33 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:30 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1245": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:48 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:45 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1300": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:03 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:00 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1315": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:18 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:15 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1330": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:33 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:30 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1345": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:48 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:45 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1400": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:03 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:00 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1415": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:18 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:15 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1430": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:33 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:30 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1445": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:48 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:45 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1500": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:03 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:00 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1515": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:18 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:15 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1530": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:33 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:30 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1545": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:48 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:45 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1600": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:03 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:00 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1615": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:18 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:15 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1630": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:33 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:30 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1645": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:48 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:45 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1700": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:03 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:00 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1715": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:18 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:15 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1730": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:33 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:30 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1745": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:48 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:45 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1800": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:03 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:00 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1815": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:18 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:15 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1830": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:33 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:30 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1845": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:48 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:45 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1900": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:03 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:00 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1915": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:18 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:15 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1930": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:33 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:30 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1945": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:48 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:45 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2002": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:05 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:02 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2022": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:25 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:22 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2042": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:45 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:42 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2102": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:05 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:02 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2122": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:25 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:22 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2142": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:45 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:42 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2202": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:05 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:02 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2222": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:25 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:22 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2242": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:45 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:42 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2302": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:05 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:02 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2322": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:25 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:22 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2342": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:45 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:42 PM",
+        "origin": "12TH"
+      }
+    ],
+    "0002": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:05 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:02 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0022": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:25 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:22 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0053": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:56 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:53 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0445": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:48 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:45 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0500": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:03 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:00 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0515": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:18 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:15 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0530": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:33 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:30 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0545": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:48 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:45 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0600": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:03 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:00 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0615": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:18 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:15 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0630": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:33 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:30 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0645": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:48 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:45 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0700": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:03 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:00 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0715": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:18 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:15 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0730": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:33 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:30 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0745": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:48 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:45 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0800": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:03 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:00 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0815": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:18 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:15 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0830": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:33 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:30 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0845": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:48 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:45 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0900": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:03 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:00 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0915": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:18 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:15 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0930": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:33 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:30 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0945": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:48 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:45 AM",
+        "origin": "12TH"
+      }
+    ]
+  },
+  "TUE": {
+    "1000": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:03 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:00 AM",
+        "origin": "12TH"
+      }
+    ],
+    "1015": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:18 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:15 AM",
+        "origin": "12TH"
+      }
+    ],
+    "1030": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:33 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:30 AM",
+        "origin": "12TH"
+      }
+    ],
+    "1045": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:48 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:45 AM",
+        "origin": "12TH"
+      }
+    ],
+    "1100": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:03 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:00 AM",
+        "origin": "12TH"
+      }
+    ],
+    "1115": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:18 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:15 AM",
+        "origin": "12TH"
+      }
+    ],
+    "1130": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:33 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:30 AM",
+        "origin": "12TH"
+      }
+    ],
+    "1145": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:48 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:45 AM",
+        "origin": "12TH"
+      }
+    ],
+    "1200": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:03 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:00 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1215": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:18 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:15 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1230": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:33 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:30 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1245": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:48 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:45 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1300": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:03 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:00 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1315": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:18 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:15 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1330": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:33 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:30 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1345": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:48 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:45 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1400": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:03 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:00 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1415": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:18 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:15 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1430": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:33 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:30 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1445": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:48 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:45 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1500": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:03 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:00 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1515": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:18 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:15 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1530": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:33 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:30 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1545": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:48 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:45 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1600": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:03 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:00 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1615": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:18 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:15 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1630": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:33 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:30 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1645": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:48 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:45 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1700": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:03 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:00 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1715": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:18 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:15 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1730": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:33 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:30 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1745": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:48 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:45 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1800": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:03 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:00 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1815": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:18 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:15 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1830": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:33 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:30 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1845": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:48 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:45 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1900": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:03 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:00 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1915": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:18 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:15 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1930": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:33 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:30 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1945": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:48 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:45 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2002": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:05 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:02 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2022": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:25 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:22 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2042": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:45 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:42 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2102": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:05 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:02 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2122": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:25 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:22 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2142": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:45 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:42 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2202": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:05 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:02 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2222": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:25 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:22 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2242": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:45 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:42 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2302": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:05 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:02 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2322": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:25 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:22 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2342": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:45 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:42 PM",
+        "origin": "12TH"
+      }
+    ],
+    "0002": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:05 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:02 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0022": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:25 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:22 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0053": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:56 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:53 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0445": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:48 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:45 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0500": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:03 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:00 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0515": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:18 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:15 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0530": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:33 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:30 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0545": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:48 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:45 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0600": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:03 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:00 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0615": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:18 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:15 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0630": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:33 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:30 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0645": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:48 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:45 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0700": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:03 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:00 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0715": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:18 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:15 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0730": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:33 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:30 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0745": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:48 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:45 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0800": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:03 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:00 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0815": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:18 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:15 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0830": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:33 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:30 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0845": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:48 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:45 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0900": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:03 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:00 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0915": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:18 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:15 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0930": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:33 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:30 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0945": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:48 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:45 AM",
+        "origin": "12TH"
+      }
+    ]
+  },
+  "WED": {
+    "1000": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:03 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:00 AM",
+        "origin": "12TH"
+      }
+    ],
+    "1015": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:18 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:15 AM",
+        "origin": "12TH"
+      }
+    ],
+    "1030": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:33 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:30 AM",
+        "origin": "12TH"
+      }
+    ],
+    "1045": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:48 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:45 AM",
+        "origin": "12TH"
+      }
+    ],
+    "1100": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:03 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:00 AM",
+        "origin": "12TH"
+      }
+    ],
+    "1115": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:18 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:15 AM",
+        "origin": "12TH"
+      }
+    ],
+    "1130": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:33 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:30 AM",
+        "origin": "12TH"
+      }
+    ],
+    "1145": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:48 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:45 AM",
+        "origin": "12TH"
+      }
+    ],
+    "1200": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:03 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:00 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1215": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:18 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:15 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1230": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:33 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:30 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1245": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:48 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:45 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1300": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:03 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:00 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1315": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:18 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:15 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1330": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:33 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:30 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1345": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:48 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:45 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1400": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:03 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:00 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1415": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:18 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:15 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1430": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:33 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:30 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1445": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:48 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:45 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1500": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:03 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:00 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1515": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:18 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:15 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1530": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:33 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:30 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1545": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:48 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:45 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1600": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:03 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:00 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1615": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:18 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:15 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1630": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:33 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:30 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1645": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:48 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:45 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1700": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:03 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:00 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1715": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:18 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:15 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1730": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:33 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:30 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1745": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:48 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:45 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1800": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:03 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:00 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1815": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:18 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:15 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1830": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:33 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:30 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1845": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:48 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:45 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1900": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:03 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:00 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1915": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:18 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:15 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1930": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:33 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:30 PM",
+        "origin": "12TH"
+      }
+    ],
+    "1945": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:48 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:45 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2002": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:05 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:02 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2022": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:25 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:22 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2042": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:45 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:42 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2102": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:05 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:02 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2122": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:25 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:22 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2142": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:45 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:42 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2202": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:05 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:02 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2222": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:25 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:22 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2242": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:45 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:42 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2302": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:05 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:02 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2322": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:25 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:22 PM",
+        "origin": "12TH"
+      }
+    ],
+    "2342": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:45 PM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:42 PM",
+        "origin": "12TH"
+      }
+    ],
+    "0002": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:05 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:02 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0022": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:25 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:22 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0053": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:56 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:53 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0445": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:48 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:45 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0500": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:03 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:00 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0515": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:18 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:15 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0530": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:33 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:30 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0545": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:48 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:45 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0600": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:03 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:00 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0615": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:18 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:15 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0630": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:33 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:30 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0645": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:48 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:45 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0700": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:03 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:00 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0715": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:18 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:15 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0730": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:33 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:30 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0745": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:48 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:45 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0800": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:03 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:00 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0815": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:18 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:15 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0830": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:33 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:30 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0845": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:48 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:45 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0900": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:03 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:00 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0915": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:18 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:15 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0930": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:33 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:30 AM",
+        "origin": "12TH"
+      }
+    ],
+    "0945": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:48 AM",
+        "destination": "LAKE",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:45 AM",
+        "origin": "12TH"
+      }
+    ]
+  }
+}

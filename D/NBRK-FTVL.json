@@ -1,0 +1,5362 @@
+{
+  "FRI": {
+    "1000": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:22 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:00 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "1015": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:37 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:15 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "1030": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:52 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:30 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "1045": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:07 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:45 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "1100": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:22 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:00 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "1115": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:37 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:15 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "1130": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:52 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:30 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "1145": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:07 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:45 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "1200": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:22 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:00 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1215": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:37 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:15 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1230": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:52 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:30 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1245": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:07 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:45 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1300": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:22 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:00 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1315": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:37 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:15 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1330": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:52 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:30 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1345": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:07 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:45 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1400": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:22 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:00 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1415": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:37 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:15 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1430": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:52 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:30 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1445": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:07 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:45 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1500": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:22 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:00 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1515": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:37 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:15 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1530": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:52 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:30 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1545": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:07 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:45 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1600": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:22 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:00 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1615": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:37 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:15 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1630": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:52 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:30 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1645": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:07 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:45 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1700": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:22 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:00 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1715": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:37 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:15 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1730": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:52 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:30 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1745": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:07 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:45 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1800": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:22 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:00 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1815": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:37 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:15 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1830": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:52 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:30 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1845": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:07 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:45 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1900": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:22 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:00 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1915": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:37 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:15 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1930": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:52 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:30 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1946": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:09 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:46 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2006": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:29 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:06 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2026": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:49 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:26 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2046": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:09 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:46 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2106": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:29 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:06 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2126": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:49 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:26 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2146": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:09 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:46 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2206": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:29 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:06 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2226": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:49 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:26 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2246": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:09 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:46 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2306": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:29 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:06 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2326": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:49 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:26 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2346": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:09 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:46 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "0006": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "12:29 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/11/2016",
+        "origTimeMin": "12:06 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0027": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "1:00 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/11/2016",
+        "origTimeMin": "12:27 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0430": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:52 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:30 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0445": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:07 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:45 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0500": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:22 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:00 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0515": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:37 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:15 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0530": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:52 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:30 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0545": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:07 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:45 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0600": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:22 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:00 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0615": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:37 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:15 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0630": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:52 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:30 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0645": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:07 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:45 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0700": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:22 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:00 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0715": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:37 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:15 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0730": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:52 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:30 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0745": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:07 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:45 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0800": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:22 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:00 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0815": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:37 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:15 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0830": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:52 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:30 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0845": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:07 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:45 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0900": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:22 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:00 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0915": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:37 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:15 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0930": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:52 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:30 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0945": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:07 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:45 AM",
+        "origin": "NBRK"
+      }
+    ]
+  },
+  "MON": {
+    "1000": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:22 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:00 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "1015": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:37 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:15 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "1030": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:52 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:30 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "1045": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:07 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:45 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "1100": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:22 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:00 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "1115": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:37 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:15 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "1130": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:52 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:30 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "1145": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:07 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:45 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "1200": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:22 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:00 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1215": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:37 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:15 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1230": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:52 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:30 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1245": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:07 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:45 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1300": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:22 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:00 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1315": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:37 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:15 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1330": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:52 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:30 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1345": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:07 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:45 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1400": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:22 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:00 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1415": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:37 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:15 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1430": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:52 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:30 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1445": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:07 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:45 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1500": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:22 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:00 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1515": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:37 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:15 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1530": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:52 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:30 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1545": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:07 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:45 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1600": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:22 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:00 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1615": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:37 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:15 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1630": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:52 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:30 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1645": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:07 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:45 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1700": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:22 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:00 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1715": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:37 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:15 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1730": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:52 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:30 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1745": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:07 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:45 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1800": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:22 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:00 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1815": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:37 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:15 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1830": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:52 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:30 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1845": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:07 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:45 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1900": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:22 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:00 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1915": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:37 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:15 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1930": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:52 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:30 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1946": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:09 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:46 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2006": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:29 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:06 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2026": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:49 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:26 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2046": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:09 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:46 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2106": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:29 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:06 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2126": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:49 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:26 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2146": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:09 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:46 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2206": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:29 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:06 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2226": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:49 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:26 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2246": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:09 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:46 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2306": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:29 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:06 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2326": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:49 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:26 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2346": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:09 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:46 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "0006": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:29 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:06 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0027": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:00 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:27 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0430": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:52 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:30 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0445": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:07 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:45 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0500": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:22 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:00 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0515": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:37 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:15 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0530": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:52 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:30 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0545": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:07 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:45 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0600": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:22 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:00 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0615": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:37 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:15 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0630": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:52 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:30 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0645": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:07 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:45 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0700": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:22 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:00 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0715": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:37 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:15 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0730": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:52 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:30 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0745": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:07 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:45 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0800": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:22 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:00 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0815": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:37 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:15 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0830": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:52 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:30 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0845": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:07 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:45 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0900": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:22 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:00 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0915": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:37 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:15 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0930": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:52 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:30 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0945": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:07 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:45 AM",
+        "origin": "NBRK"
+      }
+    ]
+  },
+  "SAT": {
+    "1006": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:29 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:06 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "1026": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:49 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:26 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "1046": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:09 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:46 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "1106": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:29 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:06 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "1126": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:49 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:26 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "1146": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:09 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:46 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "1206": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:29 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:06 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1226": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:49 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:26 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1246": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:09 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:46 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1306": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:29 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:06 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1326": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:49 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:26 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1346": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:09 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:46 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1406": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:29 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:06 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1426": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:49 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:26 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1446": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:09 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:46 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1506": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:29 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:06 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1526": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:49 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:26 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1546": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:09 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:46 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1606": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:29 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:06 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1626": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:49 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:26 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1646": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:09 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:46 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1706": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:29 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:06 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1726": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:49 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:26 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1746": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:09 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:46 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1806": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:29 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:06 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1826": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:49 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:26 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1846": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:09 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:46 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1906": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:29 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:06 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1926": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:49 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:26 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1946": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:09 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:46 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2006": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:29 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:06 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2026": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:49 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:26 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2046": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:09 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:46 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2106": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:29 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:06 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2126": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:49 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:26 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2146": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:09 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:46 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2206": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:29 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:06 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2226": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:49 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:26 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2246": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:09 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:46 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2306": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:29 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:06 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2326": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:49 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:26 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2346": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:09 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:46 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "0006": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:29 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:06 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0027": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:00 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:27 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0606": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:29 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:06 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0626": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:49 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:26 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0646": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:09 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:46 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0706": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:29 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:06 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0726": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:49 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:26 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0746": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:09 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:46 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0806": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:29 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:06 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0826": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:49 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:26 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0846": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:09 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:46 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0906": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:29 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:06 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0926": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:49 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:26 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0946": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:09 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:46 AM",
+        "origin": "NBRK"
+      }
+    ]
+  },
+  "SUN": {
+    "1006": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:29 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:06 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "1026": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:49 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:26 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "1046": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:09 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:46 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "1106": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:29 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:06 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "1126": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:49 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:26 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "1146": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:09 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:46 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "1206": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:29 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:06 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1226": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:49 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:26 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1246": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:09 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:46 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1306": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:29 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:06 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1326": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:49 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:26 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1346": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:09 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:46 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1406": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:29 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:06 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1426": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:49 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:26 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1446": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:09 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:46 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1506": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:29 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:06 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1526": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:49 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:26 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1546": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:09 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:46 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1606": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:29 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:06 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1626": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:49 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:26 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1646": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:09 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:46 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1706": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:29 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:06 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1726": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:49 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:26 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1746": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:09 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:46 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1806": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:29 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:06 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1826": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:49 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:26 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1846": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:09 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:46 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1906": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:29 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:06 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1926": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:49 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:26 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1946": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:09 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:46 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2006": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:29 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:06 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2026": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:49 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:26 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2046": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:09 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:46 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2106": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:29 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:06 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2126": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:49 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:26 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2146": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:09 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:46 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2206": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:29 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:06 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2226": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:49 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:26 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2246": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:09 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:46 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2306": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:29 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:06 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2326": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:49 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:26 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2346": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:09 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:46 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "0006": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:29 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:06 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0027": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:00 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:27 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0806": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:29 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:06 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0826": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:49 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:26 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0846": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:09 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:46 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0906": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:29 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:06 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0926": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:49 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:26 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0946": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:09 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:46 AM",
+        "origin": "NBRK"
+      }
+    ]
+  },
+  "THU": {
+    "1000": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:22 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:00 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "1015": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:37 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:15 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "1030": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:52 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:30 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "1045": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:07 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:45 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "1100": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:22 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:00 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "1115": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:37 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:15 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "1130": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:52 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:30 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "1145": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:07 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:45 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "1200": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:22 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:00 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1215": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:37 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:15 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1230": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:52 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:30 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1245": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:07 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:45 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1300": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:22 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:00 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1315": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:37 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:15 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1330": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:52 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:30 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1345": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:07 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:45 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1400": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:22 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:00 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1415": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:37 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:15 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1430": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:52 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:30 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1445": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:07 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:45 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1500": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:22 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:00 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1515": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:37 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:15 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1530": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:52 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:30 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1545": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:07 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:45 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1600": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:22 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:00 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1615": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:37 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:15 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1630": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:52 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:30 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1645": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:07 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:45 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1700": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:22 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:00 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1715": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:37 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:15 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1730": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:52 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:30 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1745": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:07 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:45 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1800": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:22 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:00 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1815": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:37 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:15 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1830": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:52 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:30 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1845": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:07 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:45 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1900": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:22 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:00 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1915": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:37 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:15 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1930": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:52 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:30 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1946": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:09 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:46 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2006": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:29 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:06 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2026": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:49 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:26 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2046": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:09 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:46 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2106": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:29 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:06 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2126": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:49 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:26 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2146": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:09 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:46 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2206": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:29 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:06 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2226": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:49 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:26 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2246": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:09 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:46 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2306": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:29 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:06 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2326": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:49 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:26 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2346": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "12:09 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:46 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "0006": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:29 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:06 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0027": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:00 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:27 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0430": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:52 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:30 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0445": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:07 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:45 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0500": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:22 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:00 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0515": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:37 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:15 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0530": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:52 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:30 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0545": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:07 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:45 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0600": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:22 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:00 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0615": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:37 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:15 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0630": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:52 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:30 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0645": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:07 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:45 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0700": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:22 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:00 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0715": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:37 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:15 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0730": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:52 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:30 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0745": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:07 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:45 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0800": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:22 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:00 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0815": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:37 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:15 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0830": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:52 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:30 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0845": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:07 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:45 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0900": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:22 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:00 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0915": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:37 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:15 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0930": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:52 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:30 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0945": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:07 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:45 AM",
+        "origin": "NBRK"
+      }
+    ]
+  },
+  "TUE": {
+    "1000": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:22 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:00 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "1015": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:37 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:15 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "1030": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:52 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:30 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "1045": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:07 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:45 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "1100": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:22 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:00 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "1115": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:37 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:15 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "1130": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:52 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:30 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "1145": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:07 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:45 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "1200": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:22 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:00 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1215": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:37 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:15 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1230": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:52 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:30 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1245": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:07 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:45 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1300": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:22 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:00 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1315": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:37 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:15 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1330": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:52 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:30 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1345": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:07 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:45 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1400": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:22 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:00 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1415": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:37 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:15 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1430": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:52 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:30 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1445": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:07 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:45 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1500": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:22 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:00 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1515": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:37 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:15 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1530": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:52 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:30 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1545": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:07 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:45 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1600": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:22 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:00 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1615": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:37 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:15 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1630": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:52 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:30 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1645": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:07 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:45 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1700": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:22 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:00 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1715": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:37 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:15 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1730": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:52 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:30 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1745": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:07 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:45 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1800": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:22 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:00 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1815": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:37 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:15 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1830": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:52 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:30 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1845": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:07 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:45 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1900": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:22 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:00 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1915": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:37 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:15 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1930": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:52 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:30 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1946": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:09 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:46 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2006": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:29 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:06 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2026": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:49 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:26 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2046": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:09 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:46 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2106": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:29 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:06 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2126": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:49 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:26 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2146": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:09 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:46 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2206": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:29 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:06 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2226": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:49 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:26 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2246": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:09 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:46 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2306": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:29 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:06 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2326": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:49 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:26 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2346": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:09 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:46 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "0006": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:29 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:06 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0027": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:00 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:27 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0430": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:52 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:30 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0445": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:07 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:45 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0500": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:22 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:00 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0515": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:37 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:15 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0530": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:52 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:30 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0545": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:07 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:45 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0600": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:22 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:00 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0615": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:37 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:15 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0630": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:52 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:30 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0645": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:07 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:45 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0700": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:22 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:00 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0715": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:37 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:15 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0730": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:52 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:30 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0745": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:07 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:45 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0800": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:22 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:00 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0815": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:37 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:15 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0830": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:52 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:30 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0845": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:07 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:45 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0900": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:22 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:00 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0915": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:37 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:15 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0930": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:52 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:30 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0945": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:07 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:45 AM",
+        "origin": "NBRK"
+      }
+    ]
+  },
+  "WED": {
+    "1000": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:22 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:00 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "1015": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:37 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:15 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "1030": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:52 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:30 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "1045": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:07 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:45 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "1100": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:22 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:00 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "1115": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:37 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:15 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "1130": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:52 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:30 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "1145": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:07 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:45 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "1200": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:22 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:00 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1215": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:37 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:15 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1230": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:52 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:30 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1245": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:07 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:45 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1300": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:22 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:00 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1315": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:37 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:15 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1330": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:52 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:30 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1345": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:07 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:45 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1400": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:22 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:00 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1415": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:37 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:15 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1430": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:52 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:30 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1445": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:07 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:45 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1500": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:22 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:00 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1515": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:37 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:15 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1530": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:52 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:30 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1545": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:07 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:45 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1600": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:22 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:00 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1615": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:37 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:15 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1630": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:52 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:30 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1645": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:07 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:45 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1700": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:22 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:00 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1715": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:37 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:15 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1730": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:52 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:30 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1745": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:07 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:45 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1800": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:22 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:00 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1815": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:37 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:15 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1830": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:52 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:30 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1845": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:07 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:45 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1900": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:22 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:00 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1915": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:37 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:15 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1930": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:52 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:30 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "1946": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:09 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:46 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2006": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:29 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:06 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2026": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:49 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:26 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2046": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:09 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:46 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2106": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:29 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:06 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2126": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:49 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:26 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2146": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:09 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:46 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2206": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:29 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:06 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2226": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:49 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:26 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2246": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:09 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:46 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2306": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:29 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:06 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2326": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:49 PM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:26 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "2346": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:09 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:46 PM",
+        "origin": "NBRK"
+      }
+    ],
+    "0006": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:29 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:06 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0027": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:00 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:27 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0430": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:52 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:30 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0445": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:07 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:45 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0500": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:22 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:00 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0515": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:37 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:15 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0530": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:52 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:30 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0545": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:07 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:45 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0600": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:22 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:00 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0615": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:37 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:15 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0630": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:52 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:30 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0645": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:07 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:45 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0700": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:22 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:00 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0715": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:37 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:15 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0730": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:52 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:30 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0745": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:07 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:45 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0800": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:22 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:00 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0815": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:37 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:15 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0830": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:52 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:30 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0845": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:07 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:45 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0900": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:22 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:00 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0915": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:37 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:15 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0930": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:52 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:30 AM",
+        "origin": "NBRK"
+      }
+    ],
+    "0945": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:07 AM",
+        "destination": "FTVL",
+        "line": "04",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:45 AM",
+        "origin": "NBRK"
+      }
+    ]
+  }
+}

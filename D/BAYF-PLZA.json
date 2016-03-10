@@ -1,0 +1,5340 @@
+{
+  "FRI": {
+    "1003": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:38 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:03 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1018": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:53 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:18 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1033": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:08 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:33 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1048": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:23 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:48 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1103": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:38 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:03 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1118": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:53 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:18 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1133": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:33 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1148": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:23 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:48 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1203": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:38 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:03 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1218": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "12:53 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:18 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1233": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:33 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1248": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:23 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "12:48 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1303": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:38 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:03 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1318": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "1:53 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:18 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1333": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:33 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1348": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:23 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "1:48 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1403": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:38 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:03 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1418": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "2:53 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:18 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1433": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:33 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1448": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:23 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "2:48 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1503": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:38 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:03 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1518": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "3:53 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:18 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1533": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:33 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1548": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:23 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "3:48 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1603": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:38 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:03 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1618": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:53 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:18 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1633": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:33 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1648": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:23 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:48 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1703": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:38 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:03 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1718": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:53 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:18 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1733": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:33 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1748": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:23 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:48 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1803": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:38 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:03 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1818": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:53 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:18 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1833": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:33 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1848": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:23 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:48 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1903": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:38 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:03 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1918": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:53 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:18 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1933": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:33 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1952": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:28 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:52 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2012": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:48 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:12 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2032": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:32 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2052": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:28 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:52 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2112": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:48 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:12 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2132": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:32 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2152": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:28 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:52 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2212": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:48 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:12 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2232": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:32 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2252": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:28 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "10:52 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2312": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "11:48 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:12 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2332": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:08 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:32 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2357": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:33 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "11:57 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "0018": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "12:56 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/11/2016",
+        "origTimeMin": "12:18 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0418": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "4:53 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:18 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0433": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:08 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:33 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0448": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:23 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "4:48 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0503": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:38 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:03 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0518": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "5:53 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:18 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0533": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:08 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:33 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0548": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:23 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "5:48 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0603": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:38 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:03 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0618": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "6:53 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:18 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0633": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:08 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:33 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0648": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:23 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "6:48 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0703": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:38 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:03 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0718": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "7:53 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:18 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0733": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:08 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:33 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0748": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:23 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "7:48 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0803": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:38 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:03 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0818": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "8:53 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:18 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0833": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:08 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:33 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0848": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:23 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "8:48 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0903": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:38 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:03 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0918": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "9:53 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:18 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0933": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:08 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:33 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0948": [
+      {
+        "destTimeDate": "03/04/2016",
+        "destTimeMin": "10:23 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/04/2016",
+        "origTimeMin": "9:48 AM",
+        "origin": "BAYF"
+      }
+    ]
+  },
+  "MON": {
+    "1003": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:38 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:03 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1018": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:53 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:18 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1033": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:08 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:33 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1048": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:23 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:48 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1103": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:38 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:03 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1118": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:53 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:18 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1133": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:33 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1148": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:23 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:48 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1203": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:38 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:03 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1218": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:53 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:18 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1233": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:33 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1248": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:23 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:48 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1303": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:38 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:03 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1318": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "1:53 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:18 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1333": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:33 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1348": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:23 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "1:48 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1403": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:38 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:03 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1418": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "2:53 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:18 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1433": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:33 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1448": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:23 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "2:48 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1503": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:38 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:03 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1518": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "3:53 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:18 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1533": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:33 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1548": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:23 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "3:48 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1603": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:38 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:03 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1618": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:53 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:18 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1633": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:33 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1648": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:23 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:48 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1703": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:38 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:03 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1718": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:53 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:18 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1733": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:33 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1748": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:23 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:48 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1803": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:38 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:03 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1818": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:53 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:18 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1833": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:33 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1848": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:23 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:48 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1903": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:38 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:03 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1918": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:53 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:18 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1933": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:33 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1952": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:28 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:52 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2012": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:48 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:12 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2032": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:32 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2052": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:28 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:52 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2112": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:48 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:12 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2132": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:32 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2152": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:28 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:52 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2212": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:48 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:12 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2232": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:32 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2252": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:28 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "10:52 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2312": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "11:48 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:12 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2332": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:08 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:32 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2357": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:33 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "11:57 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "0018": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:56 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "12:18 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0418": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "4:53 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:18 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0433": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:08 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:33 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0448": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:23 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "4:48 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0503": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:38 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:03 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0518": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "5:53 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:18 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0533": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:08 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:33 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0548": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:23 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "5:48 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0603": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:38 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:03 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0618": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "6:53 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:18 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0633": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:08 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:33 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0648": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:23 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "6:48 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0703": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:38 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:03 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0718": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "7:53 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:18 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0733": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:08 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:33 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0748": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:23 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "7:48 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0803": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:38 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:03 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0818": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "8:53 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:18 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0833": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:08 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:33 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0848": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:23 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "8:48 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0903": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:38 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:03 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0918": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "9:53 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:18 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0933": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:08 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:33 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0948": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "10:23 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/07/2016",
+        "origTimeMin": "9:48 AM",
+        "origin": "BAYF"
+      }
+    ]
+  },
+  "SAT": {
+    "1012": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:48 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:12 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1032": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:08 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:32 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1052": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:28 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:52 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1112": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:48 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:12 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1132": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:32 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1152": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:28 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:52 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1212": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:48 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:12 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1232": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:32 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1252": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:28 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:52 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1312": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "1:48 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:12 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1332": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:32 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1352": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:28 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "1:52 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1412": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "2:48 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:12 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1432": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:32 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1452": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:28 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "2:52 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1512": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "3:48 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:12 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1532": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:32 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1552": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:28 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "3:52 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1612": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "4:48 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:12 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1632": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:32 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1652": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:28 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "4:52 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1712": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "5:48 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:12 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1732": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:32 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1752": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:28 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "5:52 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1812": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:48 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:12 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1832": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:32 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1852": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:28 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:52 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1912": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:48 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:12 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1932": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:32 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1952": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:28 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:52 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2012": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:48 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:12 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2032": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:32 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2052": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:28 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:52 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2112": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:48 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:12 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2132": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:32 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2152": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:28 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:52 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2212": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:48 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:12 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2232": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:32 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2252": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:28 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "10:52 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2312": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "11:48 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:12 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2332": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:08 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:32 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2357": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:33 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "11:57 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "0018": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "12:56 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "12:18 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0612": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "6:48 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:12 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0632": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:08 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:32 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0652": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:28 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "6:52 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0712": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "7:48 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:12 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0732": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:08 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:32 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0752": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:28 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "7:52 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0812": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "8:48 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:12 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0832": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:08 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:32 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0852": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:28 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "8:52 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0912": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "9:48 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:12 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0932": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:08 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:32 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0952": [
+      {
+        "destTimeDate": "03/05/2016",
+        "destTimeMin": "10:28 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/05/2016",
+        "origTimeMin": "9:52 AM",
+        "origin": "BAYF"
+      }
+    ]
+  },
+  "SUN": {
+    "1012": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:48 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:12 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1032": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:08 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:32 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1052": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:28 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:52 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1112": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:48 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:12 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1132": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:32 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1152": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:28 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:52 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1212": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:48 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:12 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1232": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:32 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1252": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:28 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:52 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1312": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "1:48 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:12 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1332": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:32 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1352": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:28 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "1:52 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1412": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "2:48 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:12 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1432": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:32 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1452": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:28 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "2:52 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1512": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "3:48 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:12 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1532": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:32 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1552": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:28 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "3:52 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1612": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "4:48 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:12 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1632": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:32 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1652": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:28 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "4:52 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1712": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "5:48 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:12 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1732": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:32 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1752": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:28 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "5:52 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1812": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "6:48 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:12 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1832": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:32 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1852": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:28 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "6:52 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1912": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "7:48 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:12 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1932": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:32 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1952": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:28 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "7:52 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2012": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:48 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:12 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2032": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:32 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2052": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:28 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:52 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2112": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:48 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:12 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2132": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:32 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2152": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:28 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:52 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2212": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:48 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:12 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2232": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:32 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2252": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:28 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "10:52 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2312": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "11:48 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:12 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2332": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:08 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:32 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2357": [
+      {
+        "destTimeDate": "03/07/2016",
+        "destTimeMin": "12:33 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "11:57 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "0018": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "12:56 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "12:18 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0812": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "8:48 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:12 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0832": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:08 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:32 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0852": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:28 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "8:52 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0912": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "9:48 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:12 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0932": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:08 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:32 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0952": [
+      {
+        "destTimeDate": "03/06/2016",
+        "destTimeMin": "10:28 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/06/2016",
+        "origTimeMin": "9:52 AM",
+        "origin": "BAYF"
+      }
+    ]
+  },
+  "THU": {
+    "1003": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:38 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:03 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1018": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:53 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:18 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1033": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:08 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:33 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1048": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:23 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:48 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1103": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:38 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:03 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1118": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:53 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:18 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1133": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:33 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1148": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:23 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:48 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1203": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:38 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:03 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1218": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:53 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:18 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1233": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:33 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1248": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:23 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:48 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1303": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:38 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:03 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1318": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "1:53 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:18 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1333": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:33 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1348": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:23 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "1:48 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1403": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:38 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:03 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1418": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "2:53 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:18 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1433": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:33 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1448": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:23 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "2:48 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1503": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:38 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:03 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1518": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "3:53 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:18 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1533": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:33 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1548": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:23 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "3:48 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1603": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:38 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:03 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1618": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:53 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:18 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1633": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:33 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1648": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:23 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:48 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1703": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:38 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:03 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1718": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:53 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:18 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1733": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:33 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1748": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:23 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:48 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1803": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:38 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:03 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1818": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:53 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:18 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1833": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:33 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1848": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:23 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:48 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1903": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:38 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:03 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1918": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:53 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:18 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1933": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:33 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1952": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:28 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:52 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2012": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:48 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:12 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2032": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:32 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2052": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:28 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:52 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2112": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:48 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:12 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2132": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:32 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2152": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:28 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:52 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2212": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:48 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:12 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2232": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:32 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2252": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:28 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "10:52 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2312": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "11:48 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:12 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2332": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "12:08 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:32 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2357": [
+      {
+        "destTimeDate": "03/11/2016",
+        "destTimeMin": "12:33 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "11:57 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "0018": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:56 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "12:18 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0418": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "4:53 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:18 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0433": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:08 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:33 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0448": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:23 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "4:48 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0503": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:38 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:03 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0518": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "5:53 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:18 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0533": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:08 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:33 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0548": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:23 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "5:48 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0603": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:38 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:03 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0618": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "6:53 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:18 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0633": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:08 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:33 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0648": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:23 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "6:48 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0703": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:38 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:03 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0718": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "7:53 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:18 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0733": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:08 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:33 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0748": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:23 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "7:48 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0803": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:38 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:03 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0818": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "8:53 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:18 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0833": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:08 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:33 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0848": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:23 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "8:48 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0903": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:38 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:03 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0918": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "9:53 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:18 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0933": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:08 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:33 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0948": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "10:23 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/10/2016",
+        "origTimeMin": "9:48 AM",
+        "origin": "BAYF"
+      }
+    ]
+  },
+  "TUE": {
+    "1003": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:38 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:03 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1018": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:53 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:18 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1033": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:08 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:33 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1048": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:23 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:48 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1103": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:38 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:03 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1118": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:53 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:18 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1133": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:33 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1148": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:23 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:48 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1203": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:38 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:03 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1218": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:53 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:18 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1233": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:33 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1248": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:23 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:48 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1303": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:38 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:03 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1318": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "1:53 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:18 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1333": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:33 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1348": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:23 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "1:48 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1403": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:38 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:03 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1418": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "2:53 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:18 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1433": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:33 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1448": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:23 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "2:48 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1503": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:38 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:03 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1518": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "3:53 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:18 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1533": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:33 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1548": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:23 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "3:48 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1603": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:38 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:03 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1618": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:53 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:18 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1633": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:33 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1648": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:23 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:48 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1703": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:38 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:03 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1718": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:53 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:18 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1733": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:33 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1748": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:23 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:48 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1803": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:38 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:03 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1818": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:53 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:18 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1833": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:33 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1848": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:23 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:48 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1903": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:38 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:03 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1918": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:53 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:18 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1933": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:33 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1952": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:28 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:52 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2012": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:48 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:12 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2032": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:32 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2052": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:28 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:52 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2112": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:48 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:12 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2132": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:32 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2152": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:28 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:52 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2212": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:48 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:12 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2232": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:32 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2252": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:28 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "10:52 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2312": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "11:48 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:12 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2332": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:08 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:32 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2357": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:33 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "11:57 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "0018": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "12:56 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "12:18 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0418": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "4:53 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:18 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0433": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:08 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:33 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0448": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:23 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "4:48 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0503": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:38 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:03 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0518": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "5:53 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:18 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0533": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:08 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:33 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0548": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:23 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "5:48 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0603": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:38 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:03 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0618": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "6:53 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:18 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0633": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:08 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:33 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0648": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:23 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "6:48 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0703": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:38 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:03 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0718": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "7:53 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:18 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0733": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:08 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:33 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0748": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:23 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "7:48 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0803": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:38 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:03 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0818": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "8:53 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:18 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0833": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:08 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:33 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0848": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:23 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "8:48 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0903": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:38 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:03 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0918": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "9:53 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:18 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0933": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:08 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:33 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0948": [
+      {
+        "destTimeDate": "03/08/2016",
+        "destTimeMin": "10:23 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/08/2016",
+        "origTimeMin": "9:48 AM",
+        "origin": "BAYF"
+      }
+    ]
+  },
+  "WED": {
+    "1003": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:38 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:03 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1018": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:53 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:18 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1033": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:08 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:33 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1048": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:23 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:48 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1103": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:38 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:03 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1118": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:53 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:18 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1133": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:33 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1148": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:23 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:48 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "1203": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:38 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:03 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1218": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:53 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:18 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1233": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:33 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1248": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:23 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:48 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1303": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:38 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:03 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1318": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "1:53 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:18 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1333": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:33 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1348": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:23 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "1:48 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1403": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:38 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:03 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1418": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "2:53 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:18 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1433": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:33 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1448": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:23 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "2:48 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1503": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:38 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:03 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1518": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "3:53 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:18 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1533": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:33 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1548": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:23 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "3:48 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1603": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:38 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:03 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1618": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:53 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:18 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1633": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:33 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1648": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:23 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:48 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1703": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:38 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:03 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1718": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:53 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:18 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1733": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:33 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1748": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:23 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:48 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1803": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:38 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:03 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1818": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:53 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:18 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1833": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:33 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1848": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:23 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:48 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1903": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:38 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:03 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1918": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:53 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:18 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1933": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:33 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "1952": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:28 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:52 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2012": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:48 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:12 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2032": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:32 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2052": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:28 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:52 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2112": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:48 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:12 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2132": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:32 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2152": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:28 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:52 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2212": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:48 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:12 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2232": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:08 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:32 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2252": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:28 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "10:52 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2312": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "11:48 PM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:12 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2332": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:08 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:32 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "2357": [
+      {
+        "destTimeDate": "03/10/2016",
+        "destTimeMin": "12:33 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "11:57 PM",
+        "origin": "BAYF"
+      }
+    ],
+    "0018": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "12:56 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "12:18 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0418": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "4:53 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:18 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0433": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:08 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:33 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0448": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:23 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "4:48 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0503": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:38 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:03 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0518": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "5:53 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:18 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0533": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:08 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:33 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0548": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:23 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "5:48 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0603": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:38 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:03 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0618": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "6:53 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:18 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0633": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:08 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:33 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0648": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:23 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "6:48 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0703": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:38 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:03 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0718": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "7:53 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:18 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0733": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:08 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:33 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0748": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:23 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "7:48 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0803": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:38 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:03 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0818": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "8:53 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:18 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0833": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:08 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:33 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0848": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:23 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "8:48 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0903": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:38 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:03 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0918": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "9:53 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:18 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0933": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:08 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:33 AM",
+        "origin": "BAYF"
+      }
+    ],
+    "0948": [
+      {
+        "destTimeDate": "03/09/2016",
+        "destTimeMin": "10:23 AM",
+        "destination": "PLZA",
+        "line": "03",
+        "origTimeDate": "03/09/2016",
+        "origTimeMin": "9:48 AM",
+        "origin": "BAYF"
+      }
+    ]
+  }
+}

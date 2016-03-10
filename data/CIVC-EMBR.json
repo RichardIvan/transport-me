@@ -1,0 +1,78 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "CIVC",
+        "line": "12",
+        "destination": "EMBR"
+      }
+    ],
+    [
+      {
+        "origin": "CIVC",
+        "line": "02",
+        "destination": "EMBR"
+      }
+    ],
+    [
+      {
+        "origin": "CIVC",
+        "line": "06",
+        "destination": "EMBR"
+      }
+    ],
+    [
+      {
+        "origin": "CIVC",
+        "line": "08",
+        "destination": "EMBR"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "CIVC",
+        "line": "12",
+        "destination": "EMBR"
+      }
+    ],
+    [
+      {
+        "origin": "CIVC",
+        "line": "08",
+        "destination": "EMBR"
+      }
+    ],
+    [
+      {
+        "origin": "CIVC",
+        "line": "06",
+        "destination": "EMBR"
+      }
+    ],
+    [
+      {
+        "origin": "CIVC",
+        "line": "02",
+        "destination": "EMBR"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "CIVC",
+        "line": "12",
+        "destination": "EMBR"
+      }
+    ],
+    [
+      {
+        "origin": "CIVC",
+        "line": "02",
+        "destination": "EMBR"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "BALB",
+        "line": "06",
+        "destination": "MONT"
+      }
+    ],
+    [
+      {
+        "origin": "BALB",
+        "line": "08",
+        "destination": "MONT"
+      }
+    ],
+    [
+      {
+        "origin": "BALB",
+        "line": "12",
+        "destination": "MONT"
+      }
+    ],
+    [
+      {
+        "origin": "BALB",
+        "line": "02",
+        "destination": "MONT"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "BALB",
+        "line": "06",
+        "destination": "MONT"
+      }
+    ],
+    [
+      {
+        "origin": "BALB",
+        "line": "02",
+        "destination": "MONT"
+      }
+    ],
+    [
+      {
+        "origin": "BALB",
+        "line": "12",
+        "destination": "MONT"
+      }
+    ],
+    [
+      {
+        "origin": "BALB",
+        "line": "08",
+        "destination": "MONT"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "BALB",
+        "line": "02",
+        "destination": "MONT"
+      }
+    ],
+    [
+      {
+        "origin": "BALB",
+        "line": "12",
+        "destination": "MONT"
+      }
+    ]
+  ]
+}

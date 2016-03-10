@@ -1,0 +1,36 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "CIVC",
+        "line": "07",
+        "destination": "COLM"
+      }
+    ],
+    [
+      {
+        "origin": "CIVC",
+        "line": "01",
+        "destination": "COLM"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "CIVC",
+        "line": "01",
+        "destination": "COLM"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "CIVC",
+        "line": "01",
+        "destination": "COLM"
+      }
+    ]
+  ]
+}

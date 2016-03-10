@@ -1,0 +1,65 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "FTVL",
+        "line": "12",
+        "destination": "CAST"
+      }
+    ],
+    [
+      {
+        "origin": "FTVL",
+        "line": "04",
+        "destination": "BAYF"
+      },
+      {
+        "origin": "BAYF",
+        "line": "12",
+        "destination": "CAST"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "FTVL",
+        "line": "12",
+        "destination": "CAST"
+      }
+    ],
+    [
+      {
+        "origin": "FTVL",
+        "line": "04",
+        "destination": "BAYF"
+      },
+      {
+        "origin": "BAYF",
+        "line": "12",
+        "destination": "CAST"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "FTVL",
+        "line": "12",
+        "destination": "CAST"
+      }
+    ],
+    [
+      {
+        "origin": "FTVL",
+        "line": "04",
+        "destination": "BAYF"
+      },
+      {
+        "origin": "BAYF",
+        "line": "12",
+        "destination": "CAST"
+      }
+    ]
+  ]
+}

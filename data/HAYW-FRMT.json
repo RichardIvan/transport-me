@@ -1,0 +1,43 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "HAYW",
+        "line": "06",
+        "destination": "FRMT"
+      }
+    ],
+    [
+      {
+        "origin": "HAYW",
+        "line": "04",
+        "destination": "FRMT"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "HAYW",
+        "line": "04",
+        "destination": "FRMT"
+      }
+    ],
+    [
+      {
+        "origin": "HAYW",
+        "line": "06",
+        "destination": "FRMT"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "HAYW",
+        "line": "04",
+        "destination": "FRMT"
+      }
+    ]
+  ]
+}

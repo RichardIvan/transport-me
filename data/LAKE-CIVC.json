@@ -1,0 +1,43 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "LAKE",
+        "line": "11",
+        "destination": "CIVC"
+      }
+    ],
+    [
+      {
+        "origin": "LAKE",
+        "line": "05",
+        "destination": "CIVC"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "LAKE",
+        "line": "05",
+        "destination": "CIVC"
+      }
+    ],
+    [
+      {
+        "origin": "LAKE",
+        "line": "11",
+        "destination": "CIVC"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "LAKE",
+        "line": "11",
+        "destination": "CIVC"
+      }
+    ]
+  ]
+}

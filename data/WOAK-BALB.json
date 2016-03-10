@@ -1,0 +1,78 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "WOAK",
+        "line": "01",
+        "destination": "BALB"
+      }
+    ],
+    [
+      {
+        "origin": "WOAK",
+        "line": "11",
+        "destination": "BALB"
+      }
+    ],
+    [
+      {
+        "origin": "WOAK",
+        "line": "07",
+        "destination": "BALB"
+      }
+    ],
+    [
+      {
+        "origin": "WOAK",
+        "line": "05",
+        "destination": "BALB"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "WOAK",
+        "line": "01",
+        "destination": "BALB"
+      }
+    ],
+    [
+      {
+        "origin": "WOAK",
+        "line": "05",
+        "destination": "BALB"
+      }
+    ],
+    [
+      {
+        "origin": "WOAK",
+        "line": "07",
+        "destination": "BALB"
+      }
+    ],
+    [
+      {
+        "origin": "WOAK",
+        "line": "11",
+        "destination": "BALB"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "WOAK",
+        "line": "01",
+        "destination": "BALB"
+      }
+    ],
+    [
+      {
+        "origin": "WOAK",
+        "line": "11",
+        "destination": "BALB"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "NCON",
+        "line": "01",
+        "destination": "MONT"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "NCON",
+        "line": "01",
+        "destination": "MONT"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "NCON",
+        "line": "01",
+        "destination": "MONT"
+      }
+    ]
+  ]
+}

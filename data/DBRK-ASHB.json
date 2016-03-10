@@ -1,0 +1,43 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "DBRK",
+        "line": "04",
+        "destination": "ASHB"
+      }
+    ],
+    [
+      {
+        "origin": "DBRK",
+        "line": "07",
+        "destination": "ASHB"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "DBRK",
+        "line": "04",
+        "destination": "ASHB"
+      }
+    ],
+    [
+      {
+        "origin": "DBRK",
+        "line": "07",
+        "destination": "ASHB"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "DBRK",
+        "line": "04",
+        "destination": "ASHB"
+      }
+    ]
+  ]
+}

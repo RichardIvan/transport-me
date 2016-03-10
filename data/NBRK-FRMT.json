@@ -1,0 +1,29 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "NBRK",
+        "line": "04",
+        "destination": "FRMT"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "NBRK",
+        "line": "04",
+        "destination": "FRMT"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "NBRK",
+        "line": "04",
+        "destination": "FRMT"
+      }
+    ]
+  ]
+}

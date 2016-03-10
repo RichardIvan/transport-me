@@ -1,0 +1,78 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "MONT",
+        "line": "07",
+        "destination": "POWL"
+      }
+    ],
+    [
+      {
+        "origin": "MONT",
+        "line": "05",
+        "destination": "POWL"
+      }
+    ],
+    [
+      {
+        "origin": "MONT",
+        "line": "01",
+        "destination": "POWL"
+      }
+    ],
+    [
+      {
+        "origin": "MONT",
+        "line": "11",
+        "destination": "POWL"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "MONT",
+        "line": "07",
+        "destination": "POWL"
+      }
+    ],
+    [
+      {
+        "origin": "MONT",
+        "line": "11",
+        "destination": "POWL"
+      }
+    ],
+    [
+      {
+        "origin": "MONT",
+        "line": "01",
+        "destination": "POWL"
+      }
+    ],
+    [
+      {
+        "origin": "MONT",
+        "line": "05",
+        "destination": "POWL"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "MONT",
+        "line": "11",
+        "destination": "POWL"
+      }
+    ],
+    [
+      {
+        "origin": "MONT",
+        "line": "01",
+        "destination": "POWL"
+      }
+    ]
+  ]
+}

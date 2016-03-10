@@ -1,0 +1,80 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "SHAY",
+        "line": "03",
+        "destination": "19TH"
+      },
+      {
+        "origin": "19TH",
+        "line": "02",
+        "destination": "PITT"
+      }
+    ],
+    [
+      {
+        "origin": "SHAY",
+        "line": "03",
+        "destination": "MCAR"
+      },
+      {
+        "origin": "MCAR",
+        "line": "02",
+        "destination": "PITT"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "SHAY",
+        "line": "03",
+        "destination": "19TH"
+      },
+      {
+        "origin": "19TH",
+        "line": "02",
+        "destination": "PITT"
+      }
+    ],
+    [
+      {
+        "origin": "SHAY",
+        "line": "03",
+        "destination": "MCAR"
+      },
+      {
+        "origin": "MCAR",
+        "line": "02",
+        "destination": "PITT"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "SHAY",
+        "line": "03",
+        "destination": "19TH"
+      },
+      {
+        "origin": "19TH",
+        "line": "02",
+        "destination": "PITT"
+      }
+    ],
+    [
+      {
+        "origin": "SHAY",
+        "line": "03",
+        "destination": "MCAR"
+      },
+      {
+        "origin": "MCAR",
+        "line": "02",
+        "destination": "PITT"
+      }
+    ]
+  ]
+}

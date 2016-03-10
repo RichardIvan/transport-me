@@ -1,0 +1,68 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "FRMT",
+        "line": "03",
+        "destination": "BAYF"
+      },
+      {
+        "origin": "BAYF",
+        "line": "12",
+        "destination": "WDUB"
+      }
+    ],
+    [
+      {
+        "origin": "FRMT",
+        "line": "05",
+        "destination": "BAYF"
+      },
+      {
+        "origin": "BAYF",
+        "line": "12",
+        "destination": "WDUB"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "FRMT",
+        "line": "05",
+        "destination": "BAYF"
+      },
+      {
+        "origin": "BAYF",
+        "line": "12",
+        "destination": "WDUB"
+      }
+    ],
+    [
+      {
+        "origin": "FRMT",
+        "line": "03",
+        "destination": "BAYF"
+      },
+      {
+        "origin": "BAYF",
+        "line": "12",
+        "destination": "WDUB"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "FRMT",
+        "line": "03",
+        "destination": "BAYF"
+      },
+      {
+        "origin": "BAYF",
+        "line": "12",
+        "destination": "WDUB"
+      }
+    ]
+  ]
+}

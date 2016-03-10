@@ -1,0 +1,68 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "OAKL",
+        "line": "19",
+        "destination": "COLS"
+      },
+      {
+        "origin": "COLS",
+        "line": "06",
+        "destination": "UCTY"
+      }
+    ],
+    [
+      {
+        "origin": "OAKL",
+        "line": "19",
+        "destination": "COLS"
+      },
+      {
+        "origin": "COLS",
+        "line": "04",
+        "destination": "UCTY"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "OAKL",
+        "line": "19",
+        "destination": "COLS"
+      },
+      {
+        "origin": "COLS",
+        "line": "04",
+        "destination": "UCTY"
+      }
+    ],
+    [
+      {
+        "origin": "OAKL",
+        "line": "19",
+        "destination": "COLS"
+      },
+      {
+        "origin": "COLS",
+        "line": "06",
+        "destination": "UCTY"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "OAKL",
+        "line": "19",
+        "destination": "COLS"
+      },
+      {
+        "origin": "COLS",
+        "line": "04",
+        "destination": "UCTY"
+      }
+    ]
+  ]
+}

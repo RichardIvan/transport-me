@@ -1,0 +1,68 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "OAKL",
+        "line": "19",
+        "destination": "COLS"
+      },
+      {
+        "origin": "COLS",
+        "line": "06",
+        "destination": "HAYW"
+      }
+    ],
+    [
+      {
+        "origin": "OAKL",
+        "line": "19",
+        "destination": "COLS"
+      },
+      {
+        "origin": "COLS",
+        "line": "04",
+        "destination": "HAYW"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "OAKL",
+        "line": "19",
+        "destination": "COLS"
+      },
+      {
+        "origin": "COLS",
+        "line": "04",
+        "destination": "HAYW"
+      }
+    ],
+    [
+      {
+        "origin": "OAKL",
+        "line": "19",
+        "destination": "COLS"
+      },
+      {
+        "origin": "COLS",
+        "line": "06",
+        "destination": "HAYW"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "OAKL",
+        "line": "19",
+        "destination": "COLS"
+      },
+      {
+        "origin": "COLS",
+        "line": "04",
+        "destination": "HAYW"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "SSAN",
+        "line": "01",
+        "destination": "SFIA"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "SSAN",
+        "line": "01",
+        "destination": "SFIA"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "SSAN",
+        "line": "01",
+        "destination": "SFIA"
+      }
+    ]
+  ]
+}

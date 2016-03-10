@@ -1,0 +1,80 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "FTVL",
+        "line": "03",
+        "destination": "19TH"
+      },
+      {
+        "origin": "19TH",
+        "line": "02",
+        "destination": "LAFY"
+      }
+    ],
+    [
+      {
+        "origin": "FTVL",
+        "line": "03",
+        "destination": "MCAR"
+      },
+      {
+        "origin": "MCAR",
+        "line": "02",
+        "destination": "LAFY"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "FTVL",
+        "line": "03",
+        "destination": "19TH"
+      },
+      {
+        "origin": "19TH",
+        "line": "02",
+        "destination": "LAFY"
+      }
+    ],
+    [
+      {
+        "origin": "FTVL",
+        "line": "03",
+        "destination": "MCAR"
+      },
+      {
+        "origin": "MCAR",
+        "line": "02",
+        "destination": "LAFY"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "FTVL",
+        "line": "03",
+        "destination": "19TH"
+      },
+      {
+        "origin": "19TH",
+        "line": "02",
+        "destination": "LAFY"
+      }
+    ],
+    [
+      {
+        "origin": "FTVL",
+        "line": "03",
+        "destination": "MCAR"
+      },
+      {
+        "origin": "MCAR",
+        "line": "02",
+        "destination": "LAFY"
+      }
+    ]
+  ]
+}

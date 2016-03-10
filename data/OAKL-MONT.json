@@ -1,0 +1,68 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "OAKL",
+        "line": "19",
+        "destination": "COLS"
+      },
+      {
+        "origin": "COLS",
+        "line": "05",
+        "destination": "MONT"
+      }
+    ],
+    [
+      {
+        "origin": "OAKL",
+        "line": "19",
+        "destination": "COLS"
+      },
+      {
+        "origin": "COLS",
+        "line": "11",
+        "destination": "MONT"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "OAKL",
+        "line": "19",
+        "destination": "COLS"
+      },
+      {
+        "origin": "COLS",
+        "line": "05",
+        "destination": "MONT"
+      }
+    ],
+    [
+      {
+        "origin": "OAKL",
+        "line": "19",
+        "destination": "COLS"
+      },
+      {
+        "origin": "COLS",
+        "line": "11",
+        "destination": "MONT"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "OAKL",
+        "line": "19",
+        "destination": "COLS"
+      },
+      {
+        "origin": "COLS",
+        "line": "11",
+        "destination": "MONT"
+      }
+    ]
+  ]
+}

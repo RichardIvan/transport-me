@@ -1,0 +1,44 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "ORIN",
+        "line": "01",
+        "destination": "MCAR"
+      },
+      {
+        "origin": "MCAR",
+        "line": "03",
+        "destination": "PLZA"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "ORIN",
+        "line": "01",
+        "destination": "MCAR"
+      },
+      {
+        "origin": "MCAR",
+        "line": "03",
+        "destination": "PLZA"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "ORIN",
+        "line": "01",
+        "destination": "MCAR"
+      },
+      {
+        "origin": "MCAR",
+        "line": "03",
+        "destination": "PLZA"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "PLZA",
+        "line": "08",
+        "destination": "DELN"
+      }
+    ],
+    [
+      {
+        "origin": "PLZA",
+        "line": "03",
+        "destination": "DELN"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "PLZA",
+        "line": "03",
+        "destination": "DELN"
+      }
+    ],
+    [
+      {
+        "origin": "PLZA",
+        "line": "08",
+        "destination": "DELN"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "PLZA",
+        "line": "03",
+        "destination": "DELN"
+      }
+    ]
+  ]
+}

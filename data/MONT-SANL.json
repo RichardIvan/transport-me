@@ -1,0 +1,43 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "MONT",
+        "line": "12",
+        "destination": "SANL"
+      }
+    ],
+    [
+      {
+        "origin": "MONT",
+        "line": "06",
+        "destination": "SANL"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "MONT",
+        "line": "12",
+        "destination": "SANL"
+      }
+    ],
+    [
+      {
+        "origin": "MONT",
+        "line": "06",
+        "destination": "SANL"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "MONT",
+        "line": "12",
+        "destination": "SANL"
+      }
+    ]
+  ]
+}

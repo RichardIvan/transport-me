@@ -1,0 +1,58 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "ASHB",
+        "line": "07",
+        "destination": "MONT"
+      }
+    ],
+    [
+      {
+        "origin": "ASHB",
+        "line": "04",
+        "destination": "MCAR"
+      },
+      {
+        "origin": "MCAR",
+        "line": "01",
+        "destination": "MONT"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "ASHB",
+        "line": "07",
+        "destination": "MONT"
+      }
+    ],
+    [
+      {
+        "origin": "ASHB",
+        "line": "04",
+        "destination": "MCAR"
+      },
+      {
+        "origin": "MCAR",
+        "line": "01",
+        "destination": "MONT"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "ASHB",
+        "line": "04",
+        "destination": "MCAR"
+      },
+      {
+        "origin": "MCAR",
+        "line": "01",
+        "destination": "MONT"
+      }
+    ]
+  ]
+}

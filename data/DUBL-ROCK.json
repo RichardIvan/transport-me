@@ -1,0 +1,110 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "DUBL",
+        "line": "11",
+        "destination": "BAYF"
+      },
+      {
+        "origin": "BAYF",
+        "line": "03",
+        "destination": "19TH"
+      },
+      {
+        "origin": "19TH",
+        "line": "02",
+        "destination": "ROCK"
+      }
+    ],
+    [
+      {
+        "origin": "DUBL",
+        "line": "11",
+        "destination": "BAYF"
+      },
+      {
+        "origin": "BAYF",
+        "line": "03",
+        "destination": "MCAR"
+      },
+      {
+        "origin": "MCAR",
+        "line": "02",
+        "destination": "ROCK"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "DUBL",
+        "line": "11",
+        "destination": "BAYF"
+      },
+      {
+        "origin": "BAYF",
+        "line": "03",
+        "destination": "19TH"
+      },
+      {
+        "origin": "19TH",
+        "line": "02",
+        "destination": "ROCK"
+      }
+    ],
+    [
+      {
+        "origin": "DUBL",
+        "line": "11",
+        "destination": "BAYF"
+      },
+      {
+        "origin": "BAYF",
+        "line": "03",
+        "destination": "MCAR"
+      },
+      {
+        "origin": "MCAR",
+        "line": "02",
+        "destination": "ROCK"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "DUBL",
+        "line": "11",
+        "destination": "BAYF"
+      },
+      {
+        "origin": "BAYF",
+        "line": "03",
+        "destination": "19TH"
+      },
+      {
+        "origin": "19TH",
+        "line": "02",
+        "destination": "ROCK"
+      }
+    ],
+    [
+      {
+        "origin": "DUBL",
+        "line": "11",
+        "destination": "BAYF"
+      },
+      {
+        "origin": "BAYF",
+        "line": "03",
+        "destination": "MCAR"
+      },
+      {
+        "origin": "MCAR",
+        "line": "02",
+        "destination": "ROCK"
+      }
+    ]
+  ]
+}

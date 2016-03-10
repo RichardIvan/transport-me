@@ -1,0 +1,41 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "PHIL",
+        "line": "01",
+        "destination": "SSAN"
+      }
+    ],
+    [
+      {
+        "origin": "PHIL",
+        "line": "01",
+        "destination": "19TH"
+      },
+      {
+        "origin": "19TH",
+        "line": "07",
+        "destination": "SSAN"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "PHIL",
+        "line": "01",
+        "destination": "SSAN"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "PHIL",
+        "line": "01",
+        "destination": "SSAN"
+      }
+    ]
+  ]
+}

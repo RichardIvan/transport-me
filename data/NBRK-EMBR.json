@@ -1,0 +1,58 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "NBRK",
+        "line": "07",
+        "destination": "EMBR"
+      }
+    ],
+    [
+      {
+        "origin": "NBRK",
+        "line": "04",
+        "destination": "MCAR"
+      },
+      {
+        "origin": "MCAR",
+        "line": "01",
+        "destination": "EMBR"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "NBRK",
+        "line": "07",
+        "destination": "EMBR"
+      }
+    ],
+    [
+      {
+        "origin": "NBRK",
+        "line": "04",
+        "destination": "MCAR"
+      },
+      {
+        "origin": "MCAR",
+        "line": "01",
+        "destination": "EMBR"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "NBRK",
+        "line": "04",
+        "destination": "MCAR"
+      },
+      {
+        "origin": "MCAR",
+        "line": "01",
+        "destination": "EMBR"
+      }
+    ]
+  ]
+}

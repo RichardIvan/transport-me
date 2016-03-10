@@ -1,0 +1,36 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "WOAK",
+        "line": "01",
+        "destination": "SBRN"
+      }
+    ],
+    [
+      {
+        "origin": "WOAK",
+        "line": "07",
+        "destination": "SBRN"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "WOAK",
+        "line": "01",
+        "destination": "SBRN"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "WOAK",
+        "line": "01",
+        "destination": "SBRN"
+      }
+    ]
+  ]
+}

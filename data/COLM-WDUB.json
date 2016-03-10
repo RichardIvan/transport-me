@@ -1,0 +1,56 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "COLM",
+        "line": "08",
+        "destination": "BALB"
+      },
+      {
+        "origin": "BALB",
+        "line": "12",
+        "destination": "WDUB"
+      }
+    ],
+    [
+      {
+        "origin": "COLM",
+        "line": "02",
+        "destination": "BALB"
+      },
+      {
+        "origin": "BALB",
+        "line": "12",
+        "destination": "WDUB"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "COLM",
+        "line": "02",
+        "destination": "BALB"
+      },
+      {
+        "origin": "BALB",
+        "line": "12",
+        "destination": "WDUB"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "COLM",
+        "line": "02",
+        "destination": "BALB"
+      },
+      {
+        "origin": "BALB",
+        "line": "12",
+        "destination": "WDUB"
+      }
+    ]
+  ]
+}

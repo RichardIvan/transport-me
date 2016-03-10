@@ -1,0 +1,53 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "GLEN",
+        "line": "02",
+        "destination": "PITT"
+      }
+    ],
+    [
+      {
+        "origin": "GLEN",
+        "line": "02",
+        "destination": "NCON"
+      },
+      {
+        "origin": "NCON",
+        "line": "02",
+        "destination": "PITT"
+      }
+    ],
+    [
+      {
+        "origin": "GLEN",
+        "line": "08",
+        "destination": "19TH"
+      },
+      {
+        "origin": "19TH",
+        "line": "02",
+        "destination": "PITT"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "GLEN",
+        "line": "02",
+        "destination": "PITT"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "GLEN",
+        "line": "02",
+        "destination": "PITT"
+      }
+    ]
+  ]
+}

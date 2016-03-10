@@ -1,0 +1,36 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "16TH",
+        "line": "07",
+        "destination": "MLBR"
+      }
+    ],
+    [
+      {
+        "origin": "16TH",
+        "line": "01",
+        "destination": "MLBR"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "16TH",
+        "line": "01",
+        "destination": "MLBR"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "16TH",
+        "line": "01",
+        "destination": "MLBR"
+      }
+    ]
+  ]
+}

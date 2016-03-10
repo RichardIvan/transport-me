@@ -1,0 +1,43 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "RICH",
+        "line": "04",
+        "destination": "DELN"
+      }
+    ],
+    [
+      {
+        "origin": "RICH",
+        "line": "07",
+        "destination": "DELN"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "RICH",
+        "line": "07",
+        "destination": "DELN"
+      }
+    ],
+    [
+      {
+        "origin": "RICH",
+        "line": "04",
+        "destination": "DELN"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "RICH",
+        "line": "04",
+        "destination": "DELN"
+      }
+    ]
+  ]
+}

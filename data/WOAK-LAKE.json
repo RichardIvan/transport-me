@@ -1,0 +1,43 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "WOAK",
+        "line": "12",
+        "destination": "LAKE"
+      }
+    ],
+    [
+      {
+        "origin": "WOAK",
+        "line": "06",
+        "destination": "LAKE"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "WOAK",
+        "line": "12",
+        "destination": "LAKE"
+      }
+    ],
+    [
+      {
+        "origin": "WOAK",
+        "line": "06",
+        "destination": "LAKE"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "WOAK",
+        "line": "12",
+        "destination": "LAKE"
+      }
+    ]
+  ]
+}

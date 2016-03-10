@@ -1,0 +1,43 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "COLS",
+        "line": "05",
+        "destination": "MONT"
+      }
+    ],
+    [
+      {
+        "origin": "COLS",
+        "line": "11",
+        "destination": "MONT"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "COLS",
+        "line": "11",
+        "destination": "MONT"
+      }
+    ],
+    [
+      {
+        "origin": "COLS",
+        "line": "05",
+        "destination": "MONT"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "COLS",
+        "line": "11",
+        "destination": "MONT"
+      }
+    ]
+  ]
+}

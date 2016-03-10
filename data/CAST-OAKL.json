@@ -1,0 +1,44 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "CAST",
+        "line": "11",
+        "destination": "COLS"
+      },
+      {
+        "origin": "COLS",
+        "line": "20",
+        "destination": "OAKL"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "CAST",
+        "line": "11",
+        "destination": "COLS"
+      },
+      {
+        "origin": "COLS",
+        "line": "20",
+        "destination": "OAKL"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "CAST",
+        "line": "11",
+        "destination": "COLS"
+      },
+      {
+        "origin": "COLS",
+        "line": "20",
+        "destination": "OAKL"
+      }
+    ]
+  ]
+}

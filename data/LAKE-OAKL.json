@@ -1,0 +1,104 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "LAKE",
+        "line": "04",
+        "destination": "COLS"
+      },
+      {
+        "origin": "COLS",
+        "line": "20",
+        "destination": "OAKL"
+      }
+    ],
+    [
+      {
+        "origin": "LAKE",
+        "line": "12",
+        "destination": "COLS"
+      },
+      {
+        "origin": "COLS",
+        "line": "20",
+        "destination": "OAKL"
+      }
+    ],
+    [
+      {
+        "origin": "LAKE",
+        "line": "06",
+        "destination": "COLS"
+      },
+      {
+        "origin": "COLS",
+        "line": "20",
+        "destination": "OAKL"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "LAKE",
+        "line": "04",
+        "destination": "COLS"
+      },
+      {
+        "origin": "COLS",
+        "line": "20",
+        "destination": "OAKL"
+      }
+    ],
+    [
+      {
+        "origin": "LAKE",
+        "line": "12",
+        "destination": "COLS"
+      },
+      {
+        "origin": "COLS",
+        "line": "20",
+        "destination": "OAKL"
+      }
+    ],
+    [
+      {
+        "origin": "LAKE",
+        "line": "06",
+        "destination": "COLS"
+      },
+      {
+        "origin": "COLS",
+        "line": "20",
+        "destination": "OAKL"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "LAKE",
+        "line": "04",
+        "destination": "COLS"
+      },
+      {
+        "origin": "COLS",
+        "line": "20",
+        "destination": "OAKL"
+      }
+    ],
+    [
+      {
+        "origin": "LAKE",
+        "line": "12",
+        "destination": "COLS"
+      },
+      {
+        "origin": "COLS",
+        "line": "20",
+        "destination": "OAKL"
+      }
+    ]
+  ]
+}

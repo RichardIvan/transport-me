@@ -1,0 +1,43 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "FTVL",
+        "line": "05",
+        "destination": "DALY"
+      }
+    ],
+    [
+      {
+        "origin": "FTVL",
+        "line": "11",
+        "destination": "DALY"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "FTVL",
+        "line": "11",
+        "destination": "DALY"
+      }
+    ],
+    [
+      {
+        "origin": "FTVL",
+        "line": "05",
+        "destination": "DALY"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "FTVL",
+        "line": "11",
+        "destination": "DALY"
+      }
+    ]
+  ]
+}

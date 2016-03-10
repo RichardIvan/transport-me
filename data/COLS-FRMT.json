@@ -1,0 +1,43 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "COLS",
+        "line": "06",
+        "destination": "FRMT"
+      }
+    ],
+    [
+      {
+        "origin": "COLS",
+        "line": "04",
+        "destination": "FRMT"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "COLS",
+        "line": "04",
+        "destination": "FRMT"
+      }
+    ],
+    [
+      {
+        "origin": "COLS",
+        "line": "06",
+        "destination": "FRMT"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "COLS",
+        "line": "04",
+        "destination": "FRMT"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "GLEN",
+        "line": "08",
+        "destination": "MCAR"
+      }
+    ],
+    [
+      {
+        "origin": "GLEN",
+        "line": "02",
+        "destination": "MCAR"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "GLEN",
+        "line": "08",
+        "destination": "MCAR"
+      }
+    ],
+    [
+      {
+        "origin": "GLEN",
+        "line": "02",
+        "destination": "MCAR"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "GLEN",
+        "line": "02",
+        "destination": "MCAR"
+      }
+    ]
+  ]
+}

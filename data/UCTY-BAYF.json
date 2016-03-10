@@ -1,0 +1,43 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "UCTY",
+        "line": "03",
+        "destination": "BAYF"
+      }
+    ],
+    [
+      {
+        "origin": "UCTY",
+        "line": "05",
+        "destination": "BAYF"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "UCTY",
+        "line": "05",
+        "destination": "BAYF"
+      }
+    ],
+    [
+      {
+        "origin": "UCTY",
+        "line": "03",
+        "destination": "BAYF"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "UCTY",
+        "line": "03",
+        "destination": "BAYF"
+      }
+    ]
+  ]
+}

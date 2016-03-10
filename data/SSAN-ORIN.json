@@ -1,0 +1,53 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "SSAN",
+        "line": "02",
+        "destination": "ORIN"
+      }
+    ],
+    [
+      {
+        "origin": "SSAN",
+        "line": "08",
+        "destination": "BALB"
+      },
+      {
+        "origin": "BALB",
+        "line": "02",
+        "destination": "ORIN"
+      }
+    ],
+    [
+      {
+        "origin": "SSAN",
+        "line": "08",
+        "destination": "19TH"
+      },
+      {
+        "origin": "19TH",
+        "line": "02",
+        "destination": "ORIN"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "SSAN",
+        "line": "02",
+        "destination": "ORIN"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "SSAN",
+        "line": "02",
+        "destination": "ORIN"
+      }
+    ]
+  ]
+}

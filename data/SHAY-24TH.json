@@ -1,0 +1,58 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "SHAY",
+        "line": "05",
+        "destination": "24TH"
+      }
+    ],
+    [
+      {
+        "origin": "SHAY",
+        "line": "03",
+        "destination": "BAYF"
+      },
+      {
+        "origin": "BAYF",
+        "line": "11",
+        "destination": "24TH"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "SHAY",
+        "line": "05",
+        "destination": "24TH"
+      }
+    ],
+    [
+      {
+        "origin": "SHAY",
+        "line": "03",
+        "destination": "BAYF"
+      },
+      {
+        "origin": "BAYF",
+        "line": "11",
+        "destination": "24TH"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "SHAY",
+        "line": "03",
+        "destination": "BAYF"
+      },
+      {
+        "origin": "BAYF",
+        "line": "11",
+        "destination": "24TH"
+      }
+    ]
+  ]
+}

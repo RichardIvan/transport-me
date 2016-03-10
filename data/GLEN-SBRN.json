@@ -1,0 +1,36 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "GLEN",
+        "line": "01",
+        "destination": "SBRN"
+      }
+    ],
+    [
+      {
+        "origin": "GLEN",
+        "line": "07",
+        "destination": "SBRN"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "GLEN",
+        "line": "01",
+        "destination": "SBRN"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "GLEN",
+        "line": "01",
+        "destination": "SBRN"
+      }
+    ]
+  ]
+}

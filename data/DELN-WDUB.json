@@ -1,0 +1,44 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "DELN",
+        "line": "04",
+        "destination": "BAYF"
+      },
+      {
+        "origin": "BAYF",
+        "line": "12",
+        "destination": "WDUB"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "DELN",
+        "line": "04",
+        "destination": "BAYF"
+      },
+      {
+        "origin": "BAYF",
+        "line": "12",
+        "destination": "WDUB"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "DELN",
+        "line": "04",
+        "destination": "BAYF"
+      },
+      {
+        "origin": "BAYF",
+        "line": "12",
+        "destination": "WDUB"
+      }
+    ]
+  ]
+}

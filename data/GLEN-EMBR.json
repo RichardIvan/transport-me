@@ -1,0 +1,78 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "GLEN",
+        "line": "06",
+        "destination": "EMBR"
+      }
+    ],
+    [
+      {
+        "origin": "GLEN",
+        "line": "08",
+        "destination": "EMBR"
+      }
+    ],
+    [
+      {
+        "origin": "GLEN",
+        "line": "12",
+        "destination": "EMBR"
+      }
+    ],
+    [
+      {
+        "origin": "GLEN",
+        "line": "02",
+        "destination": "EMBR"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "GLEN",
+        "line": "08",
+        "destination": "EMBR"
+      }
+    ],
+    [
+      {
+        "origin": "GLEN",
+        "line": "06",
+        "destination": "EMBR"
+      }
+    ],
+    [
+      {
+        "origin": "GLEN",
+        "line": "02",
+        "destination": "EMBR"
+      }
+    ],
+    [
+      {
+        "origin": "GLEN",
+        "line": "12",
+        "destination": "EMBR"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "GLEN",
+        "line": "02",
+        "destination": "EMBR"
+      }
+    ],
+    [
+      {
+        "origin": "GLEN",
+        "line": "12",
+        "destination": "EMBR"
+      }
+    ]
+  ]
+}

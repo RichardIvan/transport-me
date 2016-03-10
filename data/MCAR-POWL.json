@@ -1,0 +1,43 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "MCAR",
+        "line": "07",
+        "destination": "POWL"
+      }
+    ],
+    [
+      {
+        "origin": "MCAR",
+        "line": "01",
+        "destination": "POWL"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "MCAR",
+        "line": "07",
+        "destination": "POWL"
+      }
+    ],
+    [
+      {
+        "origin": "MCAR",
+        "line": "01",
+        "destination": "POWL"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "MCAR",
+        "line": "01",
+        "destination": "POWL"
+      }
+    ]
+  ]
+}

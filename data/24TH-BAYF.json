@@ -1,0 +1,43 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "24TH",
+        "line": "12",
+        "destination": "BAYF"
+      }
+    ],
+    [
+      {
+        "origin": "24TH",
+        "line": "06",
+        "destination": "BAYF"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "24TH",
+        "line": "06",
+        "destination": "BAYF"
+      }
+    ],
+    [
+      {
+        "origin": "24TH",
+        "line": "12",
+        "destination": "BAYF"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "24TH",
+        "line": "12",
+        "destination": "BAYF"
+      }
+    ]
+  ]
+}

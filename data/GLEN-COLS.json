@@ -1,0 +1,43 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "GLEN",
+        "line": "06",
+        "destination": "COLS"
+      }
+    ],
+    [
+      {
+        "origin": "GLEN",
+        "line": "12",
+        "destination": "COLS"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "GLEN",
+        "line": "06",
+        "destination": "COLS"
+      }
+    ],
+    [
+      {
+        "origin": "GLEN",
+        "line": "12",
+        "destination": "COLS"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "GLEN",
+        "line": "12",
+        "destination": "COLS"
+      }
+    ]
+  ]
+}

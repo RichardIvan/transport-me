@@ -1,0 +1,44 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "PHIL",
+        "line": "01",
+        "destination": "MCAR"
+      },
+      {
+        "origin": "MCAR",
+        "line": "04",
+        "destination": "BAYF"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "PHIL",
+        "line": "01",
+        "destination": "MCAR"
+      },
+      {
+        "origin": "MCAR",
+        "line": "04",
+        "destination": "BAYF"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "PHIL",
+        "line": "01",
+        "destination": "MCAR"
+      },
+      {
+        "origin": "MCAR",
+        "line": "04",
+        "destination": "BAYF"
+      }
+    ]
+  ]
+}

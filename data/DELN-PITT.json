@@ -1,0 +1,68 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "DELN",
+        "line": "07",
+        "destination": "MCAR"
+      },
+      {
+        "origin": "MCAR",
+        "line": "02",
+        "destination": "PITT"
+      }
+    ],
+    [
+      {
+        "origin": "DELN",
+        "line": "04",
+        "destination": "MCAR"
+      },
+      {
+        "origin": "MCAR",
+        "line": "02",
+        "destination": "PITT"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "DELN",
+        "line": "07",
+        "destination": "MCAR"
+      },
+      {
+        "origin": "MCAR",
+        "line": "02",
+        "destination": "PITT"
+      }
+    ],
+    [
+      {
+        "origin": "DELN",
+        "line": "04",
+        "destination": "MCAR"
+      },
+      {
+        "origin": "MCAR",
+        "line": "02",
+        "destination": "PITT"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "DELN",
+        "line": "04",
+        "destination": "MCAR"
+      },
+      {
+        "origin": "MCAR",
+        "line": "02",
+        "destination": "PITT"
+      }
+    ]
+  ]
+}

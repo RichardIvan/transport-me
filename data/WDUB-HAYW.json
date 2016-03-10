@@ -1,0 +1,44 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "WDUB",
+        "line": "11",
+        "destination": "BAYF"
+      },
+      {
+        "origin": "BAYF",
+        "line": "04",
+        "destination": "HAYW"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "WDUB",
+        "line": "11",
+        "destination": "BAYF"
+      },
+      {
+        "origin": "BAYF",
+        "line": "04",
+        "destination": "HAYW"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "WDUB",
+        "line": "11",
+        "destination": "BAYF"
+      },
+      {
+        "origin": "BAYF",
+        "line": "04",
+        "destination": "HAYW"
+      }
+    ]
+  ]
+}

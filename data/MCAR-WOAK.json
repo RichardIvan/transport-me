@@ -1,0 +1,43 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "MCAR",
+        "line": "07",
+        "destination": "WOAK"
+      }
+    ],
+    [
+      {
+        "origin": "MCAR",
+        "line": "01",
+        "destination": "WOAK"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "MCAR",
+        "line": "07",
+        "destination": "WOAK"
+      }
+    ],
+    [
+      {
+        "origin": "MCAR",
+        "line": "01",
+        "destination": "WOAK"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "MCAR",
+        "line": "01",
+        "destination": "WOAK"
+      }
+    ]
+  ]
+}

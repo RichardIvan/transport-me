@@ -1,0 +1,43 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "BALB",
+        "line": "06",
+        "destination": "FTVL"
+      }
+    ],
+    [
+      {
+        "origin": "BALB",
+        "line": "12",
+        "destination": "FTVL"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "BALB",
+        "line": "06",
+        "destination": "FTVL"
+      }
+    ],
+    [
+      {
+        "origin": "BALB",
+        "line": "12",
+        "destination": "FTVL"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "BALB",
+        "line": "12",
+        "destination": "FTVL"
+      }
+    ]
+  ]
+}

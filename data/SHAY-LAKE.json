@@ -1,0 +1,43 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "SHAY",
+        "line": "05",
+        "destination": "LAKE"
+      }
+    ],
+    [
+      {
+        "origin": "SHAY",
+        "line": "03",
+        "destination": "LAKE"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "SHAY",
+        "line": "03",
+        "destination": "LAKE"
+      }
+    ],
+    [
+      {
+        "origin": "SHAY",
+        "line": "05",
+        "destination": "LAKE"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "SHAY",
+        "line": "03",
+        "destination": "LAKE"
+      }
+    ]
+  ]
+}

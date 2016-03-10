@@ -1,0 +1,43 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "COLS",
+        "line": "05",
+        "destination": "EMBR"
+      }
+    ],
+    [
+      {
+        "origin": "COLS",
+        "line": "11",
+        "destination": "EMBR"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "COLS",
+        "line": "11",
+        "destination": "EMBR"
+      }
+    ],
+    [
+      {
+        "origin": "COLS",
+        "line": "05",
+        "destination": "EMBR"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "COLS",
+        "line": "11",
+        "destination": "EMBR"
+      }
+    ]
+  ]
+}

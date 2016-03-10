@@ -1,0 +1,44 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "SFIA",
+        "line": "02",
+        "destination": "BALB"
+      },
+      {
+        "origin": "BALB",
+        "line": "12",
+        "destination": "WDUB"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "SFIA",
+        "line": "02",
+        "destination": "BALB"
+      },
+      {
+        "origin": "BALB",
+        "line": "12",
+        "destination": "WDUB"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "SFIA",
+        "line": "02",
+        "destination": "BALB"
+      },
+      {
+        "origin": "BALB",
+        "line": "12",
+        "destination": "WDUB"
+      }
+    ]
+  ]
+}

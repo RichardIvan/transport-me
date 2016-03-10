@@ -1,0 +1,29 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "ORIN",
+        "line": "01",
+        "destination": "ROCK"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "ORIN",
+        "line": "01",
+        "destination": "ROCK"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "ORIN",
+        "line": "01",
+        "destination": "ROCK"
+      }
+    ]
+  ]
+}

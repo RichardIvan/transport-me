@@ -1,0 +1,43 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "CIVC",
+        "line": "12",
+        "destination": "BAYF"
+      }
+    ],
+    [
+      {
+        "origin": "CIVC",
+        "line": "06",
+        "destination": "BAYF"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "CIVC",
+        "line": "12",
+        "destination": "BAYF"
+      }
+    ],
+    [
+      {
+        "origin": "CIVC",
+        "line": "06",
+        "destination": "BAYF"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "CIVC",
+        "line": "12",
+        "destination": "BAYF"
+      }
+    ]
+  ]
+}

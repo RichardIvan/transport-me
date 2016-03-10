@@ -1,0 +1,41 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "DALY",
+        "line": "02",
+        "destination": "PHIL"
+      }
+    ],
+    [
+      {
+        "origin": "DALY",
+        "line": "08",
+        "destination": "19TH"
+      },
+      {
+        "origin": "19TH",
+        "line": "02",
+        "destination": "PHIL"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "DALY",
+        "line": "02",
+        "destination": "PHIL"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "DALY",
+        "line": "02",
+        "destination": "PHIL"
+      }
+    ]
+  ]
+}

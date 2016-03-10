@@ -1,0 +1,58 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "MONT",
+        "line": "06",
+        "destination": "UCTY"
+      }
+    ],
+    [
+      {
+        "origin": "MONT",
+        "line": "12",
+        "destination": "BAYF"
+      },
+      {
+        "origin": "BAYF",
+        "line": "04",
+        "destination": "UCTY"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "MONT",
+        "line": "06",
+        "destination": "UCTY"
+      }
+    ],
+    [
+      {
+        "origin": "MONT",
+        "line": "12",
+        "destination": "BAYF"
+      },
+      {
+        "origin": "BAYF",
+        "line": "04",
+        "destination": "UCTY"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "MONT",
+        "line": "12",
+        "destination": "BAYF"
+      },
+      {
+        "origin": "BAYF",
+        "line": "04",
+        "destination": "UCTY"
+      }
+    ]
+  ]
+}

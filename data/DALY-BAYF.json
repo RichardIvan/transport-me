@@ -1,0 +1,43 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "DALY",
+        "line": "12",
+        "destination": "BAYF"
+      }
+    ],
+    [
+      {
+        "origin": "DALY",
+        "line": "06",
+        "destination": "BAYF"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "DALY",
+        "line": "12",
+        "destination": "BAYF"
+      }
+    ],
+    [
+      {
+        "origin": "DALY",
+        "line": "06",
+        "destination": "BAYF"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "DALY",
+        "line": "12",
+        "destination": "BAYF"
+      }
+    ]
+  ]
+}

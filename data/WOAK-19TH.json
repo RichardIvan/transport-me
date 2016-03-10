@@ -1,0 +1,43 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "WOAK",
+        "line": "02",
+        "destination": "19TH"
+      }
+    ],
+    [
+      {
+        "origin": "WOAK",
+        "line": "08",
+        "destination": "19TH"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "WOAK",
+        "line": "02",
+        "destination": "19TH"
+      }
+    ],
+    [
+      {
+        "origin": "WOAK",
+        "line": "08",
+        "destination": "19TH"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "WOAK",
+        "line": "02",
+        "destination": "19TH"
+      }
+    ]
+  ]
+}

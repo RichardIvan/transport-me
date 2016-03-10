@@ -1,0 +1,68 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "SHAY",
+        "line": "05",
+        "destination": "COLS"
+      },
+      {
+        "origin": "COLS",
+        "line": "20",
+        "destination": "OAKL"
+      }
+    ],
+    [
+      {
+        "origin": "SHAY",
+        "line": "03",
+        "destination": "COLS"
+      },
+      {
+        "origin": "COLS",
+        "line": "20",
+        "destination": "OAKL"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "SHAY",
+        "line": "03",
+        "destination": "COLS"
+      },
+      {
+        "origin": "COLS",
+        "line": "20",
+        "destination": "OAKL"
+      }
+    ],
+    [
+      {
+        "origin": "SHAY",
+        "line": "05",
+        "destination": "COLS"
+      },
+      {
+        "origin": "COLS",
+        "line": "20",
+        "destination": "OAKL"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "SHAY",
+        "line": "03",
+        "destination": "COLS"
+      },
+      {
+        "origin": "COLS",
+        "line": "20",
+        "destination": "OAKL"
+      }
+    ]
+  ]
+}

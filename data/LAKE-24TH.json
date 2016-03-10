@@ -1,0 +1,43 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "LAKE",
+        "line": "11",
+        "destination": "24TH"
+      }
+    ],
+    [
+      {
+        "origin": "LAKE",
+        "line": "05",
+        "destination": "24TH"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "LAKE",
+        "line": "05",
+        "destination": "24TH"
+      }
+    ],
+    [
+      {
+        "origin": "LAKE",
+        "line": "11",
+        "destination": "24TH"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "LAKE",
+        "line": "11",
+        "destination": "24TH"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "WCRK",
+        "line": "01",
+        "destination": "MCAR"
+      },
+      {
+        "origin": "MCAR",
+        "line": "03",
+        "destination": "ASHB"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "WCRK",
+        "line": "01",
+        "destination": "MCAR"
+      },
+      {
+        "origin": "MCAR",
+        "line": "03",
+        "destination": "ASHB"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "WCRK",
+        "line": "01",
+        "destination": "MCAR"
+      },
+      {
+        "origin": "MCAR",
+        "line": "03",
+        "destination": "ASHB"
+      }
+    ]
+  ]
+}

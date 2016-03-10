@@ -1,0 +1,43 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "MONT",
+        "line": "12",
+        "destination": "LAKE"
+      }
+    ],
+    [
+      {
+        "origin": "MONT",
+        "line": "06",
+        "destination": "LAKE"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "MONT",
+        "line": "12",
+        "destination": "LAKE"
+      }
+    ],
+    [
+      {
+        "origin": "MONT",
+        "line": "06",
+        "destination": "LAKE"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "MONT",
+        "line": "12",
+        "destination": "LAKE"
+      }
+    ]
+  ]
+}

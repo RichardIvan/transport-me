@@ -1,0 +1,50 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "MCAR",
+        "line": "07",
+        "destination": "12TH"
+      }
+    ],
+    [
+      {
+        "origin": "MCAR",
+        "line": "04",
+        "destination": "12TH"
+      }
+    ],
+    [
+      {
+        "origin": "MCAR",
+        "line": "01",
+        "destination": "12TH"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "MCAR",
+        "line": "07",
+        "destination": "12TH"
+      }
+    ],
+    [
+      {
+        "origin": "MCAR",
+        "line": "04",
+        "destination": "12TH"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "MCAR",
+        "line": "04",
+        "destination": "12TH"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "LAFY",
+        "line": "01",
+        "destination": "MCAR"
+      },
+      {
+        "origin": "MCAR",
+        "line": "03",
+        "destination": "ASHB"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "LAFY",
+        "line": "01",
+        "destination": "MCAR"
+      },
+      {
+        "origin": "MCAR",
+        "line": "03",
+        "destination": "ASHB"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "LAFY",
+        "line": "01",
+        "destination": "MCAR"
+      },
+      {
+        "origin": "MCAR",
+        "line": "03",
+        "destination": "ASHB"
+      }
+    ]
+  ]
+}

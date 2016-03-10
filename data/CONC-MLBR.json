@@ -1,0 +1,41 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "CONC",
+        "line": "01",
+        "destination": "MLBR"
+      }
+    ],
+    [
+      {
+        "origin": "CONC",
+        "line": "01",
+        "destination": "19TH"
+      },
+      {
+        "origin": "19TH",
+        "line": "07",
+        "destination": "MLBR"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "CONC",
+        "line": "01",
+        "destination": "MLBR"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "CONC",
+        "line": "01",
+        "destination": "MLBR"
+      }
+    ]
+  ]
+}

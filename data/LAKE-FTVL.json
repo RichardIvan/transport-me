@@ -1,0 +1,64 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "LAKE",
+        "line": "04",
+        "destination": "FTVL"
+      }
+    ],
+    [
+      {
+        "origin": "LAKE",
+        "line": "12",
+        "destination": "FTVL"
+      }
+    ],
+    [
+      {
+        "origin": "LAKE",
+        "line": "06",
+        "destination": "FTVL"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "LAKE",
+        "line": "04",
+        "destination": "FTVL"
+      }
+    ],
+    [
+      {
+        "origin": "LAKE",
+        "line": "12",
+        "destination": "FTVL"
+      }
+    ],
+    [
+      {
+        "origin": "LAKE",
+        "line": "06",
+        "destination": "FTVL"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "LAKE",
+        "line": "04",
+        "destination": "FTVL"
+      }
+    ],
+    [
+      {
+        "origin": "LAKE",
+        "line": "12",
+        "destination": "FTVL"
+      }
+    ]
+  ]
+}

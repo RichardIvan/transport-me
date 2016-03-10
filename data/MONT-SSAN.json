@@ -1,0 +1,36 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "MONT",
+        "line": "07",
+        "destination": "SSAN"
+      }
+    ],
+    [
+      {
+        "origin": "MONT",
+        "line": "01",
+        "destination": "SSAN"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "MONT",
+        "line": "01",
+        "destination": "SSAN"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "MONT",
+        "line": "01",
+        "destination": "SSAN"
+      }
+    ]
+  ]
+}

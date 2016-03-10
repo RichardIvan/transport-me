@@ -1,0 +1,104 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "SANL",
+        "line": "11",
+        "destination": "COLS"
+      },
+      {
+        "origin": "COLS",
+        "line": "20",
+        "destination": "OAKL"
+      }
+    ],
+    [
+      {
+        "origin": "SANL",
+        "line": "03",
+        "destination": "COLS"
+      },
+      {
+        "origin": "COLS",
+        "line": "20",
+        "destination": "OAKL"
+      }
+    ],
+    [
+      {
+        "origin": "SANL",
+        "line": "05",
+        "destination": "COLS"
+      },
+      {
+        "origin": "COLS",
+        "line": "20",
+        "destination": "OAKL"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "SANL",
+        "line": "11",
+        "destination": "COLS"
+      },
+      {
+        "origin": "COLS",
+        "line": "20",
+        "destination": "OAKL"
+      }
+    ],
+    [
+      {
+        "origin": "SANL",
+        "line": "05",
+        "destination": "COLS"
+      },
+      {
+        "origin": "COLS",
+        "line": "20",
+        "destination": "OAKL"
+      }
+    ],
+    [
+      {
+        "origin": "SANL",
+        "line": "03",
+        "destination": "COLS"
+      },
+      {
+        "origin": "COLS",
+        "line": "20",
+        "destination": "OAKL"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "SANL",
+        "line": "11",
+        "destination": "COLS"
+      },
+      {
+        "origin": "COLS",
+        "line": "20",
+        "destination": "OAKL"
+      }
+    ],
+    [
+      {
+        "origin": "SANL",
+        "line": "03",
+        "destination": "COLS"
+      },
+      {
+        "origin": "COLS",
+        "line": "20",
+        "destination": "OAKL"
+      }
+    ]
+  ]
+}

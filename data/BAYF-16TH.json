@@ -1,0 +1,43 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "BAYF",
+        "line": "11",
+        "destination": "16TH"
+      }
+    ],
+    [
+      {
+        "origin": "BAYF",
+        "line": "05",
+        "destination": "16TH"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "BAYF",
+        "line": "05",
+        "destination": "16TH"
+      }
+    ],
+    [
+      {
+        "origin": "BAYF",
+        "line": "11",
+        "destination": "16TH"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "BAYF",
+        "line": "11",
+        "destination": "16TH"
+      }
+    ]
+  ]
+}

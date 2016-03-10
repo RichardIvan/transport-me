@@ -1,0 +1,78 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "EMBR",
+        "line": "07",
+        "destination": "DALY"
+      }
+    ],
+    [
+      {
+        "origin": "EMBR",
+        "line": "05",
+        "destination": "DALY"
+      }
+    ],
+    [
+      {
+        "origin": "EMBR",
+        "line": "01",
+        "destination": "DALY"
+      }
+    ],
+    [
+      {
+        "origin": "EMBR",
+        "line": "11",
+        "destination": "DALY"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "EMBR",
+        "line": "07",
+        "destination": "DALY"
+      }
+    ],
+    [
+      {
+        "origin": "EMBR",
+        "line": "11",
+        "destination": "DALY"
+      }
+    ],
+    [
+      {
+        "origin": "EMBR",
+        "line": "01",
+        "destination": "DALY"
+      }
+    ],
+    [
+      {
+        "origin": "EMBR",
+        "line": "05",
+        "destination": "DALY"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "EMBR",
+        "line": "11",
+        "destination": "DALY"
+      }
+    ],
+    [
+      {
+        "origin": "EMBR",
+        "line": "01",
+        "destination": "DALY"
+      }
+    ]
+  ]
+}

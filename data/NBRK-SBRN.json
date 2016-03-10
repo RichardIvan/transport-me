@@ -1,0 +1,63 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "NBRK",
+        "line": "07",
+        "destination": "SBRN"
+      }
+    ],
+    [
+      {
+        "origin": "NBRK",
+        "line": "04",
+        "destination": "MCAR"
+      },
+      {
+        "origin": "MCAR",
+        "line": "01",
+        "destination": "SBRN"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "NBRK",
+        "line": "04",
+        "destination": "MCAR"
+      },
+      {
+        "origin": "MCAR",
+        "line": "01",
+        "destination": "SBRN"
+      }
+    ],
+    [
+      {
+        "origin": "NBRK",
+        "line": "07",
+        "destination": "MCAR"
+      },
+      {
+        "origin": "MCAR",
+        "line": "01",
+        "destination": "SBRN"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "NBRK",
+        "line": "04",
+        "destination": "MCAR"
+      },
+      {
+        "origin": "MCAR",
+        "line": "01",
+        "destination": "SBRN"
+      }
+    ]
+  ]
+}

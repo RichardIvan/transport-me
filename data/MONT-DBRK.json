@@ -1,0 +1,94 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "MONT",
+        "line": "08",
+        "destination": "DBRK"
+      }
+    ],
+    [
+      {
+        "origin": "MONT",
+        "line": "02",
+        "destination": "19TH"
+      },
+      {
+        "origin": "19TH",
+        "line": "03",
+        "destination": "DBRK"
+      }
+    ],
+    [
+      {
+        "origin": "MONT",
+        "line": "02",
+        "destination": "MCAR"
+      },
+      {
+        "origin": "MCAR",
+        "line": "03",
+        "destination": "DBRK"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "MONT",
+        "line": "08",
+        "destination": "DBRK"
+      }
+    ],
+    [
+      {
+        "origin": "MONT",
+        "line": "02",
+        "destination": "19TH"
+      },
+      {
+        "origin": "19TH",
+        "line": "03",
+        "destination": "DBRK"
+      }
+    ],
+    [
+      {
+        "origin": "MONT",
+        "line": "02",
+        "destination": "MCAR"
+      },
+      {
+        "origin": "MCAR",
+        "line": "03",
+        "destination": "DBRK"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "MONT",
+        "line": "02",
+        "destination": "19TH"
+      },
+      {
+        "origin": "19TH",
+        "line": "03",
+        "destination": "DBRK"
+      }
+    ],
+    [
+      {
+        "origin": "MONT",
+        "line": "02",
+        "destination": "MCAR"
+      },
+      {
+        "origin": "MCAR",
+        "line": "03",
+        "destination": "DBRK"
+      }
+    ]
+  ]
+}

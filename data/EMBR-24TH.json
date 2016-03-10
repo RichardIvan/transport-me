@@ -1,0 +1,78 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "EMBR",
+        "line": "07",
+        "destination": "24TH"
+      }
+    ],
+    [
+      {
+        "origin": "EMBR",
+        "line": "05",
+        "destination": "24TH"
+      }
+    ],
+    [
+      {
+        "origin": "EMBR",
+        "line": "01",
+        "destination": "24TH"
+      }
+    ],
+    [
+      {
+        "origin": "EMBR",
+        "line": "11",
+        "destination": "24TH"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "EMBR",
+        "line": "07",
+        "destination": "24TH"
+      }
+    ],
+    [
+      {
+        "origin": "EMBR",
+        "line": "11",
+        "destination": "24TH"
+      }
+    ],
+    [
+      {
+        "origin": "EMBR",
+        "line": "01",
+        "destination": "24TH"
+      }
+    ],
+    [
+      {
+        "origin": "EMBR",
+        "line": "05",
+        "destination": "24TH"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "EMBR",
+        "line": "11",
+        "destination": "24TH"
+      }
+    ],
+    [
+      {
+        "origin": "EMBR",
+        "line": "01",
+        "destination": "24TH"
+      }
+    ]
+  ]
+}

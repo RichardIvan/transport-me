@@ -1,0 +1,100 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "SBRN",
+        "line": "08",
+        "destination": "BALB"
+      },
+      {
+        "origin": "BALB",
+        "line": "06",
+        "destination": "UCTY"
+      }
+    ],
+    [
+      {
+        "origin": "SBRN",
+        "line": "02",
+        "destination": "BALB"
+      },
+      {
+        "origin": "BALB",
+        "line": "06",
+        "destination": "UCTY"
+      }
+    ],
+    [
+      {
+        "origin": "SBRN",
+        "line": "08",
+        "destination": "BALB"
+      },
+      {
+        "origin": "BALB",
+        "line": "12",
+        "destination": "BAYF"
+      },
+      {
+        "origin": "BAYF",
+        "line": "04",
+        "destination": "UCTY"
+      }
+    ],
+    [
+      {
+        "origin": "SBRN",
+        "line": "02",
+        "destination": "BALB"
+      },
+      {
+        "origin": "BALB",
+        "line": "12",
+        "destination": "BAYF"
+      },
+      {
+        "origin": "BAYF",
+        "line": "04",
+        "destination": "UCTY"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "SBRN",
+        "line": "02",
+        "destination": "BALB"
+      },
+      {
+        "origin": "BALB",
+        "line": "12",
+        "destination": "BAYF"
+      },
+      {
+        "origin": "BAYF",
+        "line": "04",
+        "destination": "UCTY"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "SBRN",
+        "line": "02",
+        "destination": "BALB"
+      },
+      {
+        "origin": "BALB",
+        "line": "12",
+        "destination": "BAYF"
+      },
+      {
+        "origin": "BAYF",
+        "line": "04",
+        "destination": "UCTY"
+      }
+    ]
+  ]
+}

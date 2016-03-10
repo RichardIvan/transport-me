@@ -12,6 +12,10 @@ var Firebase = require('firebase')
 var moment = require('moment')
 var jsonfile = require('jsonfile')
 var util = require('util')
+var uniqBy = require('lodash.uniqby');
+var uniqWith = require('lodash.uniqwith');
+_.uniqBy = uniqBy;
+_.uniqWith = uniqWith;
 
 
 var stationsUrl = 'http://api.bart.gov/api/stn.aspx?cmd=stns&key=MW9S-E7SL-26DU-VV8V'
@@ -1100,20 +1104,100 @@ exports.saveDBtoFile = function() {
   // }).catch((e) => console.log(e))
 }
 
-exports.getRoutes = function() {
+exports.getRoutesAndSaveToFile = function() {
   this.getAllPairs().then((pairs) => {
+    let days = ['FRI', 'SAT', 'SUN']
     let firstPair = pairs[0]
-    let file = `${firstPair[0]}-${firstPair[1]}.json`
-    let friday;
+    // let file = `./D/CIVC-NBRK.json`
+    // let file = `./D/${firstPair[0]}-${firstPair[1]}.json`
 
-    jsonfile.readFile(file, function(err, obj) {
-      if (err) {
-        console.log(err);
-      } else {
-        // console.log(obj);
-        friday = obj.FRI
-        console.log(friday);
-      }
+    console.log(days);
+
+    _.forEach(pairs, (pair) => {
+
+
+      let file = `./D/${pair[0]}-${pair[1]}.json`
+      let promisesForRoute = _.map(days, (d) => {
+        let day = d
+        return new Promise((resolve, reject) => {
+          console.log(d);
+          jsonfile.readFile(file, function(err, obj) {
+            if (err) {
+              console.log(err);
+              reject('file read error')
+            } else {
+              // console.log(obj);
+              let singleDay = obj[day]
+              resolve(singleDay)
+            }
+          })
+        }).then((singleDay) => {
+          let timeKeys = Object.keys(singleDay)
+          // console.log(friday);
+          // console.log(timeKeys);
+
+          let routeLines = timeKeys.map((key) => {
+            // console.log(friday[key]);
+            let routes = singleDay[key];
+            // console.log(route);
+            return routes.map((route) => {
+              // console.log(route);
+              return {
+                origin: route.origin,
+                line: route.line,
+                destination: route.destination
+              }
+            })
+          });
+
+          return routeLines
+        })
+        .then(lines => {
+
+          let uniqueRoutes = _.uniqWith(lines, _.isEqual)
+
+          return uniqueRoutes;
+        })
+        .then((uniqueRoutes) => {
+          
+          console.log(pair);
+          console.log(day);
+          console.log(uniqueRoutes);
+
+          let obj = {};
+          obj[day] = uniqueRoutes
+
+          return obj
+
+        })
+      })
+
+      Promise.all(promisesForRoute).then((data) => {
+        console.log("PRINTING DATA");
+        console.log(pair);
+        console.log(data);
+        console.log('done');
+        let file = `./data/${pair[0]}-${pair[1]}.json`
+
+        let dataObj = {}
+        _.forEach(data, (day) => {
+          let dayKey = Object.keys(day)
+          let sorted = _.sortBy(day[dayKey], (thing) => {
+            return thing.length
+          })
+          dataObj[dayKey] = sorted
+        })
+        console.log(dataObj);
+
+        jsonfile.writeFile(file, dataObj, {spaces: 2}, function(err) {
+          if (err) {
+            console.log(err);
+          }
+        })
+      })
+
     })
+
   })
+  
 }

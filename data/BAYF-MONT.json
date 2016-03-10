@@ -1,0 +1,43 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "BAYF",
+        "line": "11",
+        "destination": "MONT"
+      }
+    ],
+    [
+      {
+        "origin": "BAYF",
+        "line": "05",
+        "destination": "MONT"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "BAYF",
+        "line": "05",
+        "destination": "MONT"
+      }
+    ],
+    [
+      {
+        "origin": "BAYF",
+        "line": "11",
+        "destination": "MONT"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "BAYF",
+        "line": "11",
+        "destination": "MONT"
+      }
+    ]
+  ]
+}

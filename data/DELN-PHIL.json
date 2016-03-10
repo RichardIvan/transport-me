@@ -1,0 +1,68 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "DELN",
+        "line": "07",
+        "destination": "MCAR"
+      },
+      {
+        "origin": "MCAR",
+        "line": "02",
+        "destination": "PHIL"
+      }
+    ],
+    [
+      {
+        "origin": "DELN",
+        "line": "04",
+        "destination": "MCAR"
+      },
+      {
+        "origin": "MCAR",
+        "line": "02",
+        "destination": "PHIL"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "DELN",
+        "line": "07",
+        "destination": "MCAR"
+      },
+      {
+        "origin": "MCAR",
+        "line": "02",
+        "destination": "PHIL"
+      }
+    ],
+    [
+      {
+        "origin": "DELN",
+        "line": "04",
+        "destination": "MCAR"
+      },
+      {
+        "origin": "MCAR",
+        "line": "02",
+        "destination": "PHIL"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "DELN",
+        "line": "04",
+        "destination": "MCAR"
+      },
+      {
+        "origin": "MCAR",
+        "line": "02",
+        "destination": "PHIL"
+      }
+    ]
+  ]
+}

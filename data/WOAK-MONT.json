@@ -1,0 +1,78 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "WOAK",
+        "line": "01",
+        "destination": "MONT"
+      }
+    ],
+    [
+      {
+        "origin": "WOAK",
+        "line": "11",
+        "destination": "MONT"
+      }
+    ],
+    [
+      {
+        "origin": "WOAK",
+        "line": "07",
+        "destination": "MONT"
+      }
+    ],
+    [
+      {
+        "origin": "WOAK",
+        "line": "05",
+        "destination": "MONT"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "WOAK",
+        "line": "01",
+        "destination": "MONT"
+      }
+    ],
+    [
+      {
+        "origin": "WOAK",
+        "line": "05",
+        "destination": "MONT"
+      }
+    ],
+    [
+      {
+        "origin": "WOAK",
+        "line": "07",
+        "destination": "MONT"
+      }
+    ],
+    [
+      {
+        "origin": "WOAK",
+        "line": "11",
+        "destination": "MONT"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "WOAK",
+        "line": "01",
+        "destination": "MONT"
+      }
+    ],
+    [
+      {
+        "origin": "WOAK",
+        "line": "11",
+        "destination": "MONT"
+      }
+    ]
+  ]
+}

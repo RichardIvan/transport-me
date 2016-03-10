@@ -1,0 +1,43 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "PLZA",
+        "line": "07",
+        "destination": "ASHB"
+      }
+    ],
+    [
+      {
+        "origin": "PLZA",
+        "line": "04",
+        "destination": "ASHB"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "PLZA",
+        "line": "04",
+        "destination": "ASHB"
+      }
+    ],
+    [
+      {
+        "origin": "PLZA",
+        "line": "07",
+        "destination": "ASHB"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "PLZA",
+        "line": "04",
+        "destination": "ASHB"
+      }
+    ]
+  ]
+}

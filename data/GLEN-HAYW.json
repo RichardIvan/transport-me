@@ -1,0 +1,58 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "GLEN",
+        "line": "06",
+        "destination": "HAYW"
+      }
+    ],
+    [
+      {
+        "origin": "GLEN",
+        "line": "12",
+        "destination": "BAYF"
+      },
+      {
+        "origin": "BAYF",
+        "line": "04",
+        "destination": "HAYW"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "GLEN",
+        "line": "06",
+        "destination": "HAYW"
+      }
+    ],
+    [
+      {
+        "origin": "GLEN",
+        "line": "12",
+        "destination": "BAYF"
+      },
+      {
+        "origin": "BAYF",
+        "line": "04",
+        "destination": "HAYW"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "GLEN",
+        "line": "12",
+        "destination": "BAYF"
+      },
+      {
+        "origin": "BAYF",
+        "line": "04",
+        "destination": "HAYW"
+      }
+    ]
+  ]
+}

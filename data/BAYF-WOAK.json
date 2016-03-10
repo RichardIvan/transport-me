@@ -1,0 +1,43 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "BAYF",
+        "line": "11",
+        "destination": "WOAK"
+      }
+    ],
+    [
+      {
+        "origin": "BAYF",
+        "line": "05",
+        "destination": "WOAK"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "BAYF",
+        "line": "05",
+        "destination": "WOAK"
+      }
+    ],
+    [
+      {
+        "origin": "BAYF",
+        "line": "11",
+        "destination": "WOAK"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "BAYF",
+        "line": "11",
+        "destination": "WOAK"
+      }
+    ]
+  ]
+}

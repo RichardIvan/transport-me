@@ -1,0 +1,78 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "GLEN",
+        "line": "06",
+        "destination": "MONT"
+      }
+    ],
+    [
+      {
+        "origin": "GLEN",
+        "line": "08",
+        "destination": "MONT"
+      }
+    ],
+    [
+      {
+        "origin": "GLEN",
+        "line": "12",
+        "destination": "MONT"
+      }
+    ],
+    [
+      {
+        "origin": "GLEN",
+        "line": "02",
+        "destination": "MONT"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "GLEN",
+        "line": "08",
+        "destination": "MONT"
+      }
+    ],
+    [
+      {
+        "origin": "GLEN",
+        "line": "06",
+        "destination": "MONT"
+      }
+    ],
+    [
+      {
+        "origin": "GLEN",
+        "line": "02",
+        "destination": "MONT"
+      }
+    ],
+    [
+      {
+        "origin": "GLEN",
+        "line": "12",
+        "destination": "MONT"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "GLEN",
+        "line": "02",
+        "destination": "MONT"
+      }
+    ],
+    [
+      {
+        "origin": "GLEN",
+        "line": "12",
+        "destination": "MONT"
+      }
+    ]
+  ]
+}

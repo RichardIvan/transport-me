@@ -241,4 +241,6 @@ let newLoopIt = function( Index ) {
 // DataParser.saveRoutePairs()
 // DataParser.saveDBtoFile();
 
-DataParser.getRoutes();
+// DataParser.getRoutes();
+
+

@@ -1,0 +1,29 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "EMBR",
+        "line": "02",
+        "destination": "CONC"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "EMBR",
+        "line": "02",
+        "destination": "CONC"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "EMBR",
+        "line": "02",
+        "destination": "CONC"
+      }
+    ]
+  ]
+}

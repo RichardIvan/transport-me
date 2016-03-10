@@ -1,0 +1,44 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "WDUB",
+        "line": "11",
+        "destination": "BAYF"
+      },
+      {
+        "origin": "BAYF",
+        "line": "03",
+        "destination": "PLZA"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "WDUB",
+        "line": "11",
+        "destination": "BAYF"
+      },
+      {
+        "origin": "BAYF",
+        "line": "03",
+        "destination": "PLZA"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "WDUB",
+        "line": "11",
+        "destination": "BAYF"
+      },
+      {
+        "origin": "BAYF",
+        "line": "03",
+        "destination": "PLZA"
+      }
+    ]
+  ]
+}

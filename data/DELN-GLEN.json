@@ -1,0 +1,58 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "DELN",
+        "line": "07",
+        "destination": "GLEN"
+      }
+    ],
+    [
+      {
+        "origin": "DELN",
+        "line": "04",
+        "destination": "MCAR"
+      },
+      {
+        "origin": "MCAR",
+        "line": "01",
+        "destination": "GLEN"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "DELN",
+        "line": "07",
+        "destination": "GLEN"
+      }
+    ],
+    [
+      {
+        "origin": "DELN",
+        "line": "04",
+        "destination": "MCAR"
+      },
+      {
+        "origin": "MCAR",
+        "line": "01",
+        "destination": "GLEN"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "DELN",
+        "line": "04",
+        "destination": "MCAR"
+      },
+      {
+        "origin": "MCAR",
+        "line": "01",
+        "destination": "GLEN"
+      }
+    ]
+  ]
+}

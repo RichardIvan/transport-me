@@ -1,0 +1,78 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "GLEN",
+        "line": "05",
+        "destination": "BALB"
+      }
+    ],
+    [
+      {
+        "origin": "GLEN",
+        "line": "01",
+        "destination": "BALB"
+      }
+    ],
+    [
+      {
+        "origin": "GLEN",
+        "line": "11",
+        "destination": "BALB"
+      }
+    ],
+    [
+      {
+        "origin": "GLEN",
+        "line": "07",
+        "destination": "BALB"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "GLEN",
+        "line": "01",
+        "destination": "BALB"
+      }
+    ],
+    [
+      {
+        "origin": "GLEN",
+        "line": "05",
+        "destination": "BALB"
+      }
+    ],
+    [
+      {
+        "origin": "GLEN",
+        "line": "07",
+        "destination": "BALB"
+      }
+    ],
+    [
+      {
+        "origin": "GLEN",
+        "line": "11",
+        "destination": "BALB"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "GLEN",
+        "line": "01",
+        "destination": "BALB"
+      }
+    ],
+    [
+      {
+        "origin": "GLEN",
+        "line": "11",
+        "destination": "BALB"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "FTVL",
+        "line": "05",
+        "destination": "WOAK"
+      }
+    ],
+    [
+      {
+        "origin": "FTVL",
+        "line": "11",
+        "destination": "WOAK"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "FTVL",
+        "line": "11",
+        "destination": "WOAK"
+      }
+    ],
+    [
+      {
+        "origin": "FTVL",
+        "line": "05",
+        "destination": "WOAK"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "FTVL",
+        "line": "11",
+        "destination": "WOAK"
+      }
+    ]
+  ]
+}

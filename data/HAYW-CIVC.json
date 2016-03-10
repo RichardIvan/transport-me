@@ -1,0 +1,58 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "HAYW",
+        "line": "05",
+        "destination": "CIVC"
+      }
+    ],
+    [
+      {
+        "origin": "HAYW",
+        "line": "03",
+        "destination": "BAYF"
+      },
+      {
+        "origin": "BAYF",
+        "line": "11",
+        "destination": "CIVC"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "HAYW",
+        "line": "05",
+        "destination": "CIVC"
+      }
+    ],
+    [
+      {
+        "origin": "HAYW",
+        "line": "03",
+        "destination": "BAYF"
+      },
+      {
+        "origin": "BAYF",
+        "line": "11",
+        "destination": "CIVC"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "HAYW",
+        "line": "03",
+        "destination": "BAYF"
+      },
+      {
+        "origin": "BAYF",
+        "line": "11",
+        "destination": "CIVC"
+      }
+    ]
+  ]
+}

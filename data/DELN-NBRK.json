@@ -1,0 +1,43 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "DELN",
+        "line": "07",
+        "destination": "NBRK"
+      }
+    ],
+    [
+      {
+        "origin": "DELN",
+        "line": "04",
+        "destination": "NBRK"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "DELN",
+        "line": "07",
+        "destination": "NBRK"
+      }
+    ],
+    [
+      {
+        "origin": "DELN",
+        "line": "04",
+        "destination": "NBRK"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "DELN",
+        "line": "04",
+        "destination": "NBRK"
+      }
+    ]
+  ]
+}

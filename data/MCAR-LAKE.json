@@ -1,0 +1,29 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "MCAR",
+        "line": "04",
+        "destination": "LAKE"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "MCAR",
+        "line": "04",
+        "destination": "LAKE"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "MCAR",
+        "line": "04",
+        "destination": "LAKE"
+      }
+    ]
+  ]
+}

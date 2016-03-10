@@ -1,0 +1,43 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "EMBR",
+        "line": "08",
+        "destination": "MCAR"
+      }
+    ],
+    [
+      {
+        "origin": "EMBR",
+        "line": "02",
+        "destination": "MCAR"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "EMBR",
+        "line": "02",
+        "destination": "MCAR"
+      }
+    ],
+    [
+      {
+        "origin": "EMBR",
+        "line": "08",
+        "destination": "MCAR"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "EMBR",
+        "line": "02",
+        "destination": "MCAR"
+      }
+    ]
+  ]
+}

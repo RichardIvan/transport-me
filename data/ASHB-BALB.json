@@ -1,0 +1,58 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "ASHB",
+        "line": "07",
+        "destination": "BALB"
+      }
+    ],
+    [
+      {
+        "origin": "ASHB",
+        "line": "04",
+        "destination": "MCAR"
+      },
+      {
+        "origin": "MCAR",
+        "line": "01",
+        "destination": "BALB"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "ASHB",
+        "line": "07",
+        "destination": "BALB"
+      }
+    ],
+    [
+      {
+        "origin": "ASHB",
+        "line": "04",
+        "destination": "MCAR"
+      },
+      {
+        "origin": "MCAR",
+        "line": "01",
+        "destination": "BALB"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "ASHB",
+        "line": "04",
+        "destination": "MCAR"
+      },
+      {
+        "origin": "MCAR",
+        "line": "01",
+        "destination": "BALB"
+      }
+    ]
+  ]
+}

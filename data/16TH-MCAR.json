@@ -1,0 +1,43 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "16TH",
+        "line": "02",
+        "destination": "MCAR"
+      }
+    ],
+    [
+      {
+        "origin": "16TH",
+        "line": "08",
+        "destination": "MCAR"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "16TH",
+        "line": "08",
+        "destination": "MCAR"
+      }
+    ],
+    [
+      {
+        "origin": "16TH",
+        "line": "02",
+        "destination": "MCAR"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "16TH",
+        "line": "02",
+        "destination": "MCAR"
+      }
+    ]
+  ]
+}

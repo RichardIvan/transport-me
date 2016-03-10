@@ -1,0 +1,29 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "DELN",
+        "line": "04",
+        "destination": "FRMT"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "DELN",
+        "line": "04",
+        "destination": "FRMT"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "DELN",
+        "line": "04",
+        "destination": "FRMT"
+      }
+    ]
+  ]
+}

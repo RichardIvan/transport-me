@@ -1,0 +1,43 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "BAYF",
+        "line": "04",
+        "destination": "FRMT"
+      }
+    ],
+    [
+      {
+        "origin": "BAYF",
+        "line": "06",
+        "destination": "FRMT"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "BAYF",
+        "line": "04",
+        "destination": "FRMT"
+      }
+    ],
+    [
+      {
+        "origin": "BAYF",
+        "line": "06",
+        "destination": "FRMT"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "BAYF",
+        "line": "04",
+        "destination": "FRMT"
+      }
+    ]
+  ]
+}

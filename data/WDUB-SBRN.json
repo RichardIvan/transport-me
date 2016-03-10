@@ -1,0 +1,56 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "WDUB",
+        "line": "11",
+        "destination": "BALB"
+      },
+      {
+        "origin": "BALB",
+        "line": "07",
+        "destination": "SBRN"
+      }
+    ],
+    [
+      {
+        "origin": "WDUB",
+        "line": "11",
+        "destination": "BALB"
+      },
+      {
+        "origin": "BALB",
+        "line": "01",
+        "destination": "SBRN"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "WDUB",
+        "line": "11",
+        "destination": "BALB"
+      },
+      {
+        "origin": "BALB",
+        "line": "01",
+        "destination": "SBRN"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "WDUB",
+        "line": "11",
+        "destination": "BALB"
+      },
+      {
+        "origin": "BALB",
+        "line": "01",
+        "destination": "SBRN"
+      }
+    ]
+  ]
+}

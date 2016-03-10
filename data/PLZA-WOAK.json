@@ -1,0 +1,58 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "PLZA",
+        "line": "07",
+        "destination": "WOAK"
+      }
+    ],
+    [
+      {
+        "origin": "PLZA",
+        "line": "04",
+        "destination": "MCAR"
+      },
+      {
+        "origin": "MCAR",
+        "line": "01",
+        "destination": "WOAK"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "PLZA",
+        "line": "07",
+        "destination": "WOAK"
+      }
+    ],
+    [
+      {
+        "origin": "PLZA",
+        "line": "04",
+        "destination": "MCAR"
+      },
+      {
+        "origin": "MCAR",
+        "line": "01",
+        "destination": "WOAK"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "PLZA",
+        "line": "04",
+        "destination": "MCAR"
+      },
+      {
+        "origin": "MCAR",
+        "line": "01",
+        "destination": "WOAK"
+      }
+    ]
+  ]
+}

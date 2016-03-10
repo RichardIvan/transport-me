@@ -1,0 +1,78 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "16TH",
+        "line": "12",
+        "destination": "CIVC"
+      }
+    ],
+    [
+      {
+        "origin": "16TH",
+        "line": "02",
+        "destination": "CIVC"
+      }
+    ],
+    [
+      {
+        "origin": "16TH",
+        "line": "06",
+        "destination": "CIVC"
+      }
+    ],
+    [
+      {
+        "origin": "16TH",
+        "line": "08",
+        "destination": "CIVC"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "16TH",
+        "line": "12",
+        "destination": "CIVC"
+      }
+    ],
+    [
+      {
+        "origin": "16TH",
+        "line": "08",
+        "destination": "CIVC"
+      }
+    ],
+    [
+      {
+        "origin": "16TH",
+        "line": "06",
+        "destination": "CIVC"
+      }
+    ],
+    [
+      {
+        "origin": "16TH",
+        "line": "02",
+        "destination": "CIVC"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "16TH",
+        "line": "12",
+        "destination": "CIVC"
+      }
+    ],
+    [
+      {
+        "origin": "16TH",
+        "line": "02",
+        "destination": "CIVC"
+      }
+    ]
+  ]
+}

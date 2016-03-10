@@ -1,0 +1,43 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "EMBR",
+        "line": "08",
+        "destination": "12TH"
+      }
+    ],
+    [
+      {
+        "origin": "EMBR",
+        "line": "02",
+        "destination": "12TH"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "EMBR",
+        "line": "02",
+        "destination": "12TH"
+      }
+    ],
+    [
+      {
+        "origin": "EMBR",
+        "line": "08",
+        "destination": "12TH"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "EMBR",
+        "line": "02",
+        "destination": "12TH"
+      }
+    ]
+  ]
+}

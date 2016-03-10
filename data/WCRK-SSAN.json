@@ -1,0 +1,41 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "WCRK",
+        "line": "01",
+        "destination": "SSAN"
+      }
+    ],
+    [
+      {
+        "origin": "WCRK",
+        "line": "01",
+        "destination": "19TH"
+      },
+      {
+        "origin": "19TH",
+        "line": "07",
+        "destination": "SSAN"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "WCRK",
+        "line": "01",
+        "destination": "SSAN"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "WCRK",
+        "line": "01",
+        "destination": "SSAN"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "POWL",
+        "line": "11",
+        "destination": "BALB"
+      }
+    ],
+    [
+      {
+        "origin": "POWL",
+        "line": "07",
+        "destination": "BALB"
+      }
+    ],
+    [
+      {
+        "origin": "POWL",
+        "line": "05",
+        "destination": "BALB"
+      }
+    ],
+    [
+      {
+        "origin": "POWL",
+        "line": "01",
+        "destination": "BALB"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "POWL",
+        "line": "07",
+        "destination": "BALB"
+      }
+    ],
+    [
+      {
+        "origin": "POWL",
+        "line": "11",
+        "destination": "BALB"
+      }
+    ],
+    [
+      {
+        "origin": "POWL",
+        "line": "01",
+        "destination": "BALB"
+      }
+    ],
+    [
+      {
+        "origin": "POWL",
+        "line": "05",
+        "destination": "BALB"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "POWL",
+        "line": "11",
+        "destination": "BALB"
+      }
+    ],
+    [
+      {
+        "origin": "POWL",
+        "line": "01",
+        "destination": "BALB"
+      }
+    ]
+  ]
+}

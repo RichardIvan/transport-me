@@ -1,0 +1,36 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "24TH",
+        "line": "01",
+        "destination": "COLM"
+      }
+    ],
+    [
+      {
+        "origin": "24TH",
+        "line": "07",
+        "destination": "COLM"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "24TH",
+        "line": "01",
+        "destination": "COLM"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "24TH",
+        "line": "01",
+        "destination": "COLM"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "MLBR",
+        "line": "02",
+        "destination": "PHIL"
+      }
+    ],
+    [
+      {
+        "origin": "MLBR",
+        "line": "08",
+        "destination": "SBRN"
+      },
+      {
+        "origin": "SBRN",
+        "line": "02",
+        "destination": "PHIL"
+      }
+    ],
+    [
+      {
+        "origin": "MLBR",
+        "line": "08",
+        "destination": "BALB"
+      },
+      {
+        "origin": "BALB",
+        "line": "02",
+        "destination": "PHIL"
+      }
+    ],
+    [
+      {
+        "origin": "MLBR",
+        "line": "08",
+        "destination": "19TH"
+      },
+      {
+        "origin": "19TH",
+        "line": "02",
+        "destination": "PHIL"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "MLBR",
+        "line": "02",
+        "destination": "PHIL"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "MLBR",
+        "line": "02",
+        "destination": "PHIL"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "PLZA",
+        "line": "07",
+        "destination": "DBRK"
+      }
+    ],
+    [
+      {
+        "origin": "PLZA",
+        "line": "04",
+        "destination": "DBRK"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "PLZA",
+        "line": "04",
+        "destination": "DBRK"
+      }
+    ],
+    [
+      {
+        "origin": "PLZA",
+        "line": "07",
+        "destination": "DBRK"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "PLZA",
+        "line": "04",
+        "destination": "DBRK"
+      }
+    ]
+  ]
+}

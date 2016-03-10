@@ -1,0 +1,43 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "BALB",
+        "line": "08",
+        "destination": "MCAR"
+      }
+    ],
+    [
+      {
+        "origin": "BALB",
+        "line": "02",
+        "destination": "MCAR"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "BALB",
+        "line": "02",
+        "destination": "MCAR"
+      }
+    ],
+    [
+      {
+        "origin": "BALB",
+        "line": "08",
+        "destination": "MCAR"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "BALB",
+        "line": "02",
+        "destination": "MCAR"
+      }
+    ]
+  ]
+}

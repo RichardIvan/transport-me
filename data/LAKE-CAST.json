@@ -1,0 +1,65 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "LAKE",
+        "line": "12",
+        "destination": "CAST"
+      }
+    ],
+    [
+      {
+        "origin": "LAKE",
+        "line": "04",
+        "destination": "BAYF"
+      },
+      {
+        "origin": "BAYF",
+        "line": "12",
+        "destination": "CAST"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "LAKE",
+        "line": "12",
+        "destination": "CAST"
+      }
+    ],
+    [
+      {
+        "origin": "LAKE",
+        "line": "04",
+        "destination": "BAYF"
+      },
+      {
+        "origin": "BAYF",
+        "line": "12",
+        "destination": "CAST"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "LAKE",
+        "line": "12",
+        "destination": "CAST"
+      }
+    ],
+    [
+      {
+        "origin": "LAKE",
+        "line": "04",
+        "destination": "BAYF"
+      },
+      {
+        "origin": "BAYF",
+        "line": "12",
+        "destination": "CAST"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "EMBR",
+        "line": "06",
+        "destination": "SANL"
+      }
+    ],
+    [
+      {
+        "origin": "EMBR",
+        "line": "12",
+        "destination": "SANL"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "EMBR",
+        "line": "12",
+        "destination": "SANL"
+      }
+    ],
+    [
+      {
+        "origin": "EMBR",
+        "line": "06",
+        "destination": "SANL"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "EMBR",
+        "line": "12",
+        "destination": "SANL"
+      }
+    ]
+  ]
+}

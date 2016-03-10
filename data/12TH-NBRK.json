@@ -1,0 +1,43 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "12TH",
+        "line": "03",
+        "destination": "NBRK"
+      }
+    ],
+    [
+      {
+        "origin": "12TH",
+        "line": "08",
+        "destination": "NBRK"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "12TH",
+        "line": "03",
+        "destination": "NBRK"
+      }
+    ],
+    [
+      {
+        "origin": "12TH",
+        "line": "08",
+        "destination": "NBRK"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "12TH",
+        "line": "03",
+        "destination": "NBRK"
+      }
+    ]
+  ]
+}

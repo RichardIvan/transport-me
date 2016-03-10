@@ -1,0 +1,36 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "COLM",
+        "line": "07",
+        "destination": "MLBR"
+      }
+    ],
+    [
+      {
+        "origin": "COLM",
+        "line": "01",
+        "destination": "MLBR"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "COLM",
+        "line": "01",
+        "destination": "MLBR"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "COLM",
+        "line": "01",
+        "destination": "MLBR"
+      }
+    ]
+  ]
+}

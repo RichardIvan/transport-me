@@ -1,0 +1,58 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "WOAK",
+        "line": "06",
+        "destination": "SHAY"
+      }
+    ],
+    [
+      {
+        "origin": "WOAK",
+        "line": "12",
+        "destination": "BAYF"
+      },
+      {
+        "origin": "BAYF",
+        "line": "04",
+        "destination": "SHAY"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "WOAK",
+        "line": "06",
+        "destination": "SHAY"
+      }
+    ],
+    [
+      {
+        "origin": "WOAK",
+        "line": "12",
+        "destination": "BAYF"
+      },
+      {
+        "origin": "BAYF",
+        "line": "04",
+        "destination": "SHAY"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "WOAK",
+        "line": "12",
+        "destination": "BAYF"
+      },
+      {
+        "origin": "BAYF",
+        "line": "04",
+        "destination": "SHAY"
+      }
+    ]
+  ]
+}

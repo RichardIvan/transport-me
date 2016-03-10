@@ -1,0 +1,58 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "NBRK",
+        "line": "07",
+        "destination": "POWL"
+      }
+    ],
+    [
+      {
+        "origin": "NBRK",
+        "line": "04",
+        "destination": "MCAR"
+      },
+      {
+        "origin": "MCAR",
+        "line": "01",
+        "destination": "POWL"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "NBRK",
+        "line": "07",
+        "destination": "POWL"
+      }
+    ],
+    [
+      {
+        "origin": "NBRK",
+        "line": "04",
+        "destination": "MCAR"
+      },
+      {
+        "origin": "MCAR",
+        "line": "01",
+        "destination": "POWL"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "NBRK",
+        "line": "04",
+        "destination": "MCAR"
+      },
+      {
+        "origin": "MCAR",
+        "line": "01",
+        "destination": "POWL"
+      }
+    ]
+  ]
+}

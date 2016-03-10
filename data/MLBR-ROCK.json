@@ -1,0 +1,77 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "MLBR",
+        "line": "02",
+        "destination": "ROCK"
+      }
+    ],
+    [
+      {
+        "origin": "MLBR",
+        "line": "08",
+        "destination": "SBRN"
+      },
+      {
+        "origin": "SBRN",
+        "line": "02",
+        "destination": "ROCK"
+      }
+    ],
+    [
+      {
+        "origin": "MLBR",
+        "line": "08",
+        "destination": "BALB"
+      },
+      {
+        "origin": "BALB",
+        "line": "02",
+        "destination": "ROCK"
+      }
+    ],
+    [
+      {
+        "origin": "MLBR",
+        "line": "08",
+        "destination": "19TH"
+      },
+      {
+        "origin": "19TH",
+        "line": "02",
+        "destination": "ROCK"
+      }
+    ],
+    [
+      {
+        "origin": "MLBR",
+        "line": "08",
+        "destination": "MCAR"
+      },
+      {
+        "origin": "MCAR",
+        "line": "02",
+        "destination": "ROCK"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "MLBR",
+        "line": "02",
+        "destination": "ROCK"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "MLBR",
+        "line": "02",
+        "destination": "ROCK"
+      }
+    ]
+  ]
+}

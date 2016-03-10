@@ -1,0 +1,43 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "POWL",
+        "line": "08",
+        "destination": "12TH"
+      }
+    ],
+    [
+      {
+        "origin": "POWL",
+        "line": "02",
+        "destination": "12TH"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "POWL",
+        "line": "08",
+        "destination": "12TH"
+      }
+    ],
+    [
+      {
+        "origin": "POWL",
+        "line": "02",
+        "destination": "12TH"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "POWL",
+        "line": "02",
+        "destination": "12TH"
+      }
+    ]
+  ]
+}

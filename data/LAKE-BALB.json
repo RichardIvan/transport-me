@@ -1,0 +1,43 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "LAKE",
+        "line": "11",
+        "destination": "BALB"
+      }
+    ],
+    [
+      {
+        "origin": "LAKE",
+        "line": "05",
+        "destination": "BALB"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "LAKE",
+        "line": "05",
+        "destination": "BALB"
+      }
+    ],
+    [
+      {
+        "origin": "LAKE",
+        "line": "11",
+        "destination": "BALB"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "LAKE",
+        "line": "11",
+        "destination": "BALB"
+      }
+    ]
+  ]
+}

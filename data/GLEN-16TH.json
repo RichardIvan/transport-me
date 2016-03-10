@@ -1,0 +1,78 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "GLEN",
+        "line": "06",
+        "destination": "16TH"
+      }
+    ],
+    [
+      {
+        "origin": "GLEN",
+        "line": "08",
+        "destination": "16TH"
+      }
+    ],
+    [
+      {
+        "origin": "GLEN",
+        "line": "12",
+        "destination": "16TH"
+      }
+    ],
+    [
+      {
+        "origin": "GLEN",
+        "line": "02",
+        "destination": "16TH"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "GLEN",
+        "line": "08",
+        "destination": "16TH"
+      }
+    ],
+    [
+      {
+        "origin": "GLEN",
+        "line": "06",
+        "destination": "16TH"
+      }
+    ],
+    [
+      {
+        "origin": "GLEN",
+        "line": "02",
+        "destination": "16TH"
+      }
+    ],
+    [
+      {
+        "origin": "GLEN",
+        "line": "12",
+        "destination": "16TH"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "GLEN",
+        "line": "02",
+        "destination": "16TH"
+      }
+    ],
+    [
+      {
+        "origin": "GLEN",
+        "line": "12",
+        "destination": "16TH"
+      }
+    ]
+  ]
+}

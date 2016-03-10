@@ -1,0 +1,43 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "19TH",
+        "line": "07",
+        "destination": "GLEN"
+      }
+    ],
+    [
+      {
+        "origin": "19TH",
+        "line": "01",
+        "destination": "GLEN"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "19TH",
+        "line": "07",
+        "destination": "GLEN"
+      }
+    ],
+    [
+      {
+        "origin": "19TH",
+        "line": "01",
+        "destination": "GLEN"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "19TH",
+        "line": "01",
+        "destination": "GLEN"
+      }
+    ]
+  ]
+}

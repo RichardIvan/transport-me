@@ -1,0 +1,43 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "UCTY",
+        "line": "03",
+        "destination": "HAYW"
+      }
+    ],
+    [
+      {
+        "origin": "UCTY",
+        "line": "05",
+        "destination": "HAYW"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "UCTY",
+        "line": "05",
+        "destination": "HAYW"
+      }
+    ],
+    [
+      {
+        "origin": "UCTY",
+        "line": "03",
+        "destination": "HAYW"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "UCTY",
+        "line": "03",
+        "destination": "HAYW"
+      }
+    ]
+  ]
+}

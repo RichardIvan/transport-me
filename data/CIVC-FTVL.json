@@ -1,0 +1,43 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "CIVC",
+        "line": "12",
+        "destination": "FTVL"
+      }
+    ],
+    [
+      {
+        "origin": "CIVC",
+        "line": "06",
+        "destination": "FTVL"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "CIVC",
+        "line": "12",
+        "destination": "FTVL"
+      }
+    ],
+    [
+      {
+        "origin": "CIVC",
+        "line": "06",
+        "destination": "FTVL"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "CIVC",
+        "line": "12",
+        "destination": "FTVL"
+      }
+    ]
+  ]
+}

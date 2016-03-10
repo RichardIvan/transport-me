@@ -1,0 +1,64 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "FTVL",
+        "line": "06",
+        "destination": "COLS"
+      }
+    ],
+    [
+      {
+        "origin": "FTVL",
+        "line": "04",
+        "destination": "COLS"
+      }
+    ],
+    [
+      {
+        "origin": "FTVL",
+        "line": "12",
+        "destination": "COLS"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "FTVL",
+        "line": "12",
+        "destination": "COLS"
+      }
+    ],
+    [
+      {
+        "origin": "FTVL",
+        "line": "04",
+        "destination": "COLS"
+      }
+    ],
+    [
+      {
+        "origin": "FTVL",
+        "line": "06",
+        "destination": "COLS"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "FTVL",
+        "line": "12",
+        "destination": "COLS"
+      }
+    ],
+    [
+      {
+        "origin": "FTVL",
+        "line": "04",
+        "destination": "COLS"
+      }
+    ]
+  ]
+}

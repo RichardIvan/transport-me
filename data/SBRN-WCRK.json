@@ -1,0 +1,53 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "SBRN",
+        "line": "02",
+        "destination": "WCRK"
+      }
+    ],
+    [
+      {
+        "origin": "SBRN",
+        "line": "08",
+        "destination": "BALB"
+      },
+      {
+        "origin": "BALB",
+        "line": "02",
+        "destination": "WCRK"
+      }
+    ],
+    [
+      {
+        "origin": "SBRN",
+        "line": "08",
+        "destination": "19TH"
+      },
+      {
+        "origin": "19TH",
+        "line": "02",
+        "destination": "WCRK"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "SBRN",
+        "line": "02",
+        "destination": "WCRK"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "SBRN",
+        "line": "02",
+        "destination": "WCRK"
+      }
+    ]
+  ]
+}

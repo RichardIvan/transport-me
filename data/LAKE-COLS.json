@@ -1,0 +1,64 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "LAKE",
+        "line": "04",
+        "destination": "COLS"
+      }
+    ],
+    [
+      {
+        "origin": "LAKE",
+        "line": "12",
+        "destination": "COLS"
+      }
+    ],
+    [
+      {
+        "origin": "LAKE",
+        "line": "06",
+        "destination": "COLS"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "LAKE",
+        "line": "04",
+        "destination": "COLS"
+      }
+    ],
+    [
+      {
+        "origin": "LAKE",
+        "line": "12",
+        "destination": "COLS"
+      }
+    ],
+    [
+      {
+        "origin": "LAKE",
+        "line": "06",
+        "destination": "COLS"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "LAKE",
+        "line": "04",
+        "destination": "COLS"
+      }
+    ],
+    [
+      {
+        "origin": "LAKE",
+        "line": "12",
+        "destination": "COLS"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "MONT",
+        "line": "06",
+        "destination": "HAYW"
+      }
+    ],
+    [
+      {
+        "origin": "MONT",
+        "line": "12",
+        "destination": "BAYF"
+      },
+      {
+        "origin": "BAYF",
+        "line": "04",
+        "destination": "HAYW"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "MONT",
+        "line": "06",
+        "destination": "HAYW"
+      }
+    ],
+    [
+      {
+        "origin": "MONT",
+        "line": "12",
+        "destination": "BAYF"
+      },
+      {
+        "origin": "BAYF",
+        "line": "04",
+        "destination": "HAYW"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "MONT",
+        "line": "12",
+        "destination": "BAYF"
+      },
+      {
+        "origin": "BAYF",
+        "line": "04",
+        "destination": "HAYW"
+      }
+    ]
+  ]
+}

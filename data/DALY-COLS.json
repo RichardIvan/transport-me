@@ -1,0 +1,43 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "DALY",
+        "line": "12",
+        "destination": "COLS"
+      }
+    ],
+    [
+      {
+        "origin": "DALY",
+        "line": "06",
+        "destination": "COLS"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "DALY",
+        "line": "12",
+        "destination": "COLS"
+      }
+    ],
+    [
+      {
+        "origin": "DALY",
+        "line": "06",
+        "destination": "COLS"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "DALY",
+        "line": "12",
+        "destination": "COLS"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "EMBR",
+        "line": "08",
+        "destination": "PLZA"
+      }
+    ],
+    [
+      {
+        "origin": "EMBR",
+        "line": "02",
+        "destination": "19TH"
+      },
+      {
+        "origin": "19TH",
+        "line": "03",
+        "destination": "PLZA"
+      }
+    ],
+    [
+      {
+        "origin": "EMBR",
+        "line": "02",
+        "destination": "MCAR"
+      },
+      {
+        "origin": "MCAR",
+        "line": "03",
+        "destination": "PLZA"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "EMBR",
+        "line": "08",
+        "destination": "PLZA"
+      }
+    ],
+    [
+      {
+        "origin": "EMBR",
+        "line": "02",
+        "destination": "19TH"
+      },
+      {
+        "origin": "19TH",
+        "line": "03",
+        "destination": "PLZA"
+      }
+    ],
+    [
+      {
+        "origin": "EMBR",
+        "line": "02",
+        "destination": "MCAR"
+      },
+      {
+        "origin": "MCAR",
+        "line": "03",
+        "destination": "PLZA"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "EMBR",
+        "line": "02",
+        "destination": "19TH"
+      },
+      {
+        "origin": "19TH",
+        "line": "03",
+        "destination": "PLZA"
+      }
+    ],
+    [
+      {
+        "origin": "EMBR",
+        "line": "02",
+        "destination": "MCAR"
+      },
+      {
+        "origin": "MCAR",
+        "line": "03",
+        "destination": "PLZA"
+      }
+    ]
+  ]
+}

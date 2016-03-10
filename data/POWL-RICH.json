@@ -1,0 +1,94 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "POWL",
+        "line": "08",
+        "destination": "RICH"
+      }
+    ],
+    [
+      {
+        "origin": "POWL",
+        "line": "02",
+        "destination": "19TH"
+      },
+      {
+        "origin": "19TH",
+        "line": "03",
+        "destination": "RICH"
+      }
+    ],
+    [
+      {
+        "origin": "POWL",
+        "line": "02",
+        "destination": "MCAR"
+      },
+      {
+        "origin": "MCAR",
+        "line": "03",
+        "destination": "RICH"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "POWL",
+        "line": "08",
+        "destination": "RICH"
+      }
+    ],
+    [
+      {
+        "origin": "POWL",
+        "line": "02",
+        "destination": "19TH"
+      },
+      {
+        "origin": "19TH",
+        "line": "03",
+        "destination": "RICH"
+      }
+    ],
+    [
+      {
+        "origin": "POWL",
+        "line": "02",
+        "destination": "MCAR"
+      },
+      {
+        "origin": "MCAR",
+        "line": "03",
+        "destination": "RICH"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "POWL",
+        "line": "02",
+        "destination": "19TH"
+      },
+      {
+        "origin": "19TH",
+        "line": "03",
+        "destination": "RICH"
+      }
+    ],
+    [
+      {
+        "origin": "POWL",
+        "line": "02",
+        "destination": "MCAR"
+      },
+      {
+        "origin": "MCAR",
+        "line": "03",
+        "destination": "RICH"
+      }
+    ]
+  ]
+}

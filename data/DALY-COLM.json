@@ -1,0 +1,36 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "DALY",
+        "line": "07",
+        "destination": "COLM"
+      }
+    ],
+    [
+      {
+        "origin": "DALY",
+        "line": "01",
+        "destination": "COLM"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "DALY",
+        "line": "01",
+        "destination": "COLM"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "DALY",
+        "line": "01",
+        "destination": "COLM"
+      }
+    ]
+  ]
+}

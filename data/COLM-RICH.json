@@ -1,0 +1,87 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "COLM",
+        "line": "08",
+        "destination": "RICH"
+      }
+    ],
+    [
+      {
+        "origin": "COLM",
+        "line": "02",
+        "destination": "19TH"
+      },
+      {
+        "origin": "19TH",
+        "line": "03",
+        "destination": "RICH"
+      }
+    ],
+    [
+      {
+        "origin": "COLM",
+        "line": "02",
+        "destination": "MCAR"
+      },
+      {
+        "origin": "MCAR",
+        "line": "03",
+        "destination": "RICH"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "COLM",
+        "line": "02",
+        "destination": "19TH"
+      },
+      {
+        "origin": "19TH",
+        "line": "03",
+        "destination": "RICH"
+      }
+    ],
+    [
+      {
+        "origin": "COLM",
+        "line": "02",
+        "destination": "MCAR"
+      },
+      {
+        "origin": "MCAR",
+        "line": "03",
+        "destination": "RICH"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "COLM",
+        "line": "02",
+        "destination": "19TH"
+      },
+      {
+        "origin": "19TH",
+        "line": "03",
+        "destination": "RICH"
+      }
+    ],
+    [
+      {
+        "origin": "COLM",
+        "line": "02",
+        "destination": "MCAR"
+      },
+      {
+        "origin": "MCAR",
+        "line": "03",
+        "destination": "RICH"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "BALB",
+        "line": "02",
+        "destination": "ORIN"
+      }
+    ],
+    [
+      {
+        "origin": "BALB",
+        "line": "08",
+        "destination": "19TH"
+      },
+      {
+        "origin": "19TH",
+        "line": "02",
+        "destination": "ORIN"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "BALB",
+        "line": "02",
+        "destination": "ORIN"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "BALB",
+        "line": "02",
+        "destination": "ORIN"
+      }
+    ]
+  ]
+}

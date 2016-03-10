@@ -1,0 +1,58 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "FRMT",
+        "line": "05",
+        "destination": "GLEN"
+      }
+    ],
+    [
+      {
+        "origin": "FRMT",
+        "line": "03",
+        "destination": "BAYF"
+      },
+      {
+        "origin": "BAYF",
+        "line": "11",
+        "destination": "GLEN"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "FRMT",
+        "line": "05",
+        "destination": "GLEN"
+      }
+    ],
+    [
+      {
+        "origin": "FRMT",
+        "line": "03",
+        "destination": "BAYF"
+      },
+      {
+        "origin": "BAYF",
+        "line": "11",
+        "destination": "GLEN"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "FRMT",
+        "line": "03",
+        "destination": "BAYF"
+      },
+      {
+        "origin": "BAYF",
+        "line": "11",
+        "destination": "GLEN"
+      }
+    ]
+  ]
+}

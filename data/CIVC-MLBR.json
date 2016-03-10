@@ -1,0 +1,36 @@
+{
+  "FRI": [
+    [
+      {
+        "origin": "CIVC",
+        "line": "07",
+        "destination": "MLBR"
+      }
+    ],
+    [
+      {
+        "origin": "CIVC",
+        "line": "01",
+        "destination": "MLBR"
+      }
+    ]
+  ],
+  "SAT": [
+    [
+      {
+        "origin": "CIVC",
+        "line": "01",
+        "destination": "MLBR"
+      }
+    ]
+  ],
+  "SUN": [
+    [
+      {
+        "origin": "CIVC",
+        "line": "01",
+        "destination": "MLBR"
+      }
+    ]
+  ]
+}

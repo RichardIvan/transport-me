@@ -1199,5 +1199,70 @@ exports.getRoutesAndSaveToFile = function() {
     })
 
   })
-  
+
+}
+
+exports.getRoutesFromAPI = function() {
+
+  let url = 'http://api.bart.gov/api/route.aspx?cmd=routes&key=MW9S-E7SL-26DU-VV8V'
+
+  fetch(url).then((data) => data.text()).then((data) => {
+
+    let json = xmljs.parseXmlString(data, { noblanks: true })
+    // console.log(json.root().get('routes').childNodes());
+    let routesNode = json.root().get('routes').childNodes();
+    // console.log(routeNodes.length);
+    
+    let routes = routesNode.map((route) => {
+      // console.log(route.name());
+
+      let routeNodes = route.childNodes();
+      // console.log(routeNodes);
+      let object = {};
+
+      routeNodes.forEach((node) => {
+        let name = node.name()
+        switch( name ) {
+          case 'number':
+            let text = node.text();
+            // if ( text.length === 1 ) {
+            //   text = '0' + text
+            // }
+            object[name] = parseInt(text)
+            break;
+        }
+      })
+      return object;
+    })
+    // console.log(typeof routes);
+    // console.log(_.isArray(routes));
+    // console.log( ); 
+    routes = _.sortBy(routes, 'number') 
+    return routes
+  }).then((routesObject) => {
+
+    routesObject = _.map(routesObject, (a) => {
+      let number = '' + a.number
+      if ( number.length === 1 ) {
+        number = 0 + number
+      }
+      a.number = number
+      return number
+    })
+
+    return routesObject
+  }).then((newRouteObject) => {
+
+    let obj = {}
+    obj.lines = newRouteObject
+    console.log(newRouteObject);
+    console.log(obj);
+
+    let file = './newData/lines.json'
+    jsonfile.writeFile(file, obj, {spaces: 2}, function(err) {
+      if(err) {
+        console.log(err);
+      }
+    })
+  })
 }

@@ -243,4 +243,4 @@ let newLoopIt = function( Index ) {
 
 // DataParser.getRoutes();
 
-
+DataParser.getRoutesFromAPI();

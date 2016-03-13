@@ -1266,3 +1266,535 @@ exports.getRoutesFromAPI = function() {
     })
   })
 }
+
+exports.getStationsByRoute = function() {
+
+  let file = './newData/lines.json'
+  let lines = new Promise((resolve, reject) => {
+    jsonfile.readFile(file, function(err, obj) {
+      resolve(obj)
+    })
+  });
+
+  lines.then(data => {
+
+    let whatever = _.map(data.lines, (l) => {
+
+      let line = parseInt(l)
+
+      let url = `http://api.bart.gov/api/route.aspx?cmd=routeinfo&route=${line}&key=MW9S-E7SL-26DU-VV8V`
+      console.log(url);
+      return fetch(url)
+      .then((xml) => xml.text())
+      .then((xmlText) => {
+
+        // console.log(xmlText)
+        let json = xmljs.parseXmlString(xmlText, { noblanks: true })
+        // console.log(json.root().get('routes').childNodes());
+        let stationNodes = json.root().get('routes').get('route').get('config').childNodes();
+        // console.log(routeNodes.length);
+        
+        let stations = stationNodes.map((stationNode) => {
+          // console.log(route.name());
+
+          return stationNode.text()
+          
+        })
+
+        return [l, stations]
+
+      })
+      .catch((e) => console.log(e))
+
+    })
+
+    Promise.all(whatever).then(fulfilled => {
+      let object = {}
+      fulfilled.forEach(line => {
+        object[line[0]] = line[1]
+      })
+
+      let file = './newData/line-stations.json'
+
+      jsonfile.writeFile(file, object, {spaces: 2}, (err) => {
+        if (err) {
+          console.log(err);
+        }
+      })
+    })
+
+  })
+
+}
+
+exports.getTimetableByFirstStationOnRoute = function() {
+
+  let file = './newData/line-stations.json'
+  let lines = new Promise((resolve, reject) => {
+    jsonfile.readFile(file, function(err, obj) {
+      resolve(obj)
+    })
+  });
+
+  lines.then(data => {
+
+    // console.log(data);
+
+    // console.log(Object.keys(data));
+    let keys = Object.keys(data)
+
+    let firstStations = _.map(keys, (key) => {
+
+      return [key, data[key][0] ]
+
+    })
+
+    let onlyStations = _.map(firstStations, (pair) => {
+      return pair[1]
+    })
+    // console.log(firstStations);
+
+
+
+    let promises = _.map(firstStations, (stationPairs) => {
+
+
+      
+
+      let url = `http://api.bart.gov/api/sched.aspx?cmd=stnsched&orig=${stationPairs[1]}&key=MW9S-E7SL-26DU-VV8V`
+
+      // console.log(stationPairs[1]);
+      // console.log(stationPairs[0]);
+      // console.log(url);
+
+      // console.log('-------');
+
+      return fetch(url)
+      .then(response => response.text())
+      .then((xmlText) => {
+        let json = xmljs.parseXmlString(xmlText, { noblanks: true })
+        // console.log(json.root().get('routes').childNodes());
+        let stationNodes = json.root().get('station').childNodes();
+        // console.log(routeNodes.length);
+        stationNodes = _.drop(stationNodes, 2)
+
+        // console.log(stationNodes);
+
+        // console.log(stationPairs[1]);
+        // console.log(stationPairs[0]);
+        // console.log(url);
+        
+        let routeArray = []
+
+        let stations = stationNodes.forEach((stationNode) => {
+          // console.log(route.name());
+          // return stationNode.attrs()
+          let nodeAttrs = stationNode.attrs()
+          // console.log(nodeAttrs);
+          
+          let arr = []
+           // let object = {}
+          _.forEach(nodeAttrs, (attr, index) => {
+            let name = attr.name()
+            // console.log(attr.name());
+            switch (name) {
+              case 'line':
+                arr.push( parseInt(attr.value().split(' ')[1]) )
+                break;
+              case 'origTime':
+                // if ( nodeAttrs.value())
+                // console.log(firstStations[1]);return
+                arr.push( attr.value() )
+                // let routeNumber = parseInt(attr.value().split(' ')[1])
+                // // console.log(routeNumber);
+                // if ( routeNumber === 12 ) {
+                //   console.log(`got route 12 at ${index} index`);
+
+                //   // console.log(routeNumber);
+                // }
+                // // console.log('ROUTE ' + parseInt(attr.value()));
+                // return 'ROUTE ' + parseInt(attr.value())
+                break;
+            }
+
+          })
+
+          // console.log(arr);
+          routeArray.push( arr )
+          // return arr
+          // console.log(arr);
+
+          // switch (nodeAttrs.name) {
+          //   case 'line':
+          //     // if ( nodeAttrs.value())
+          //     console.log(nodeAttrs.value());
+          //     break;
+          // }
+          // return stationNode.name()
+          
+        })
+
+        // console.log(routeArray);
+        // console.log(stationPairs[0]);
+
+        let filteredArray = _.filter(routeArray, function(item) {
+          // console.log(item[0]);
+          if ( item[0] === parseInt(stationPairs[0]) ) return 1
+        })
+
+        // console.log(filteredArray);
+
+        let finalObject = {}
+        finalObject[stationPairs[1]] = filteredArray
+
+        console.log( stationPairs[1] === 'COLS' );
+
+        if ( stationPairs[1] === 'COLS' ) {
+          console.log(routeArray);
+        }
+
+        // console.log(finalObject);
+        // console.log(stations);
+        // console.log(_.flatten(stations));
+        // console.log(routeArray);
+        // console.log(stations);
+        // return [l, stations]
+      })
+      .catch((e) => console.log(e))
+
+    })
+
+    
+
+    Promise.all(promises).then((fulfilled) => {
+      console.log(fulfilled);
+    })
+
+    // let whatever = _.map(data.lines, (l) => {
+
+    //   let line = parseInt(l)
+
+    //   let url = `http://api.bart.gov/api/route.aspx?cmd=routeinfo&route=${line}&key=MW9S-E7SL-26DU-VV8V`
+    //   console.log(url);
+    //   return fetch(url)
+    //   .then((xml) => xml.text())
+    //   .then((xmlText) => {
+
+    //     // console.log(xmlText)
+    //     let json = xmljs.parseXmlString(xmlText, { noblanks: true })
+    //     // console.log(json.root().get('routes').childNodes());
+    //     let stationNodes = json.root().get('routes').get('route').get('config').childNodes();
+    //     // console.log(routeNodes.length);
+        
+    //     let stations = stationNodes.map((stationNode) => {
+    //       // console.log(route.name());
+
+    //       return stationNode.text()
+          
+    //     })
+
+    //     return [l, stations]
+
+    //   })
+    //   .catch((e) => console.log(e))
+
+    // })
+
+    // Promise.all(whatever).then(fulfilled => {
+    //   let object = {}
+    //   fulfilled.forEach(line => {
+    //     object[line[0]] = line[1]
+    //   })
+
+    //   let file = './newData/line-stations.json'
+
+    //   jsonfile.writeFile(file, object, {spaces: 2}, (err) => {
+    //     if (err) {
+    //       console.log(err);
+    //     }
+    //   })
+    // })
+
+  })
+
+}
+
+exports.getTimetableByFirstStationFromFile = function() {
+
+  let file = './newData/line-stations.json'
+
+  file = new Promise((resolve, reject) => {
+    jsonfile.readFile( file, function(err, object) {
+      if (err) {
+        console.log(err);
+        reject(err)
+      } else {
+        resolve(object)
+      }
+    })
+  });
+
+  file.then((f) => {
+    // console.log(f);
+
+    let keys = Object.keys(f)
+    // let route = {}
+    // route[keys[0]] = f[keys[0]]
+
+    let route = [keys[0], f[keys[0]]]
+
+    return route
+  })
+  .then((route) => {
+    // console.log('route');
+    console.log( route );
+
+    // let keys = 
+    // let pair = route[]
+    let pair = [route[1][0], route[1][1]]
+    console.log(pair);
+
+    return new Promise((resolve, reject) => {
+      let file = `./D/${pair[0]}-${pair[1]}.json`
+
+      jsonfile.readFile( file, (err, data) => {
+        if (err) reject()
+        resolve([route, data])
+      })
+      // console.log(file);
+    })
+
+  }).
+  then(data => {
+    let dayKeys = Object.keys(data[1])
+
+    let monday = data[1]['MON']
+    // console.log(monday);
+
+    let mondayKeys = Object.keys(monday);
+    let requiredLineArray = _.filter(mondayKeys, (time) => {
+      if ( monday[time][0].line === data[0][0] ) return true
+    })
+
+    let sorted = requiredLineArray.sort()
+    let dateTimeStrings = _.map(sorted, (key) => {
+      return [`${monday[key][0].origTimeDate} ${monday[key][0].origTimeMin}`, parseInt(key)]
+    })
+
+    // console.log(dateTimeStrings);
+    return {
+      timeTable: dateTimeStrings,
+      line: data[0]
+    }
+
+    // return dateTimeStrings
+  })
+  .then(sortedTimetable => {
+    console.log(sortedTimetable);
+
+    let array = sortedTimetable.timeTable
+    let arrLength = sortedTimetable.timeTable.length
+    let firstDepartureIndex
+
+    for( let index in array ) {
+      // console.log(sortedTimetable.timeTable[index][1]);
+      // let string = array[index][1]
+      // console.log(string);
+      // console.log(+index + 1);
+      // console.log(arrLength);
+
+      // console.log((+index + 1) !== arrLength );
+      index = +index 
+
+      if ( (index + 1) !== arrLength ) {
+        // console.log('hello');
+        let startTime = moment( array[index][0], 'MM-DD-YYYY hh:mm A')
+        let end = moment( array[index + 1][0], 'MM-DD-YYYY hh:mm A')
+
+        let duration = moment.duration(end.diff(startTime));
+        let minutes = duration.asMinutes();
+        let timeDiff = minutes;
+        // let timeDiff = time - array[0]
+
+        // console.log(timeDiff);
+
+
+        if ( timeDiff < 60 ) {
+          firstDepartureIndex = index
+          // console.log(firstDepartureIndex);
+          break;
+        }
+      }
+    }
+
+    let firstDeparture = array[firstDepartureIndex][0]
+
+    sortedTimetable.firstDeparture = firstDeparture
+    return sortedTimetable
+    // console.log(firstDeparture);
+
+    // _.find(sortedTimetable.timeTable, (o) => {
+
+    // })
+
+    // return {
+    //   timeTible: sortedTimetable
+    // }
+
+    // let timetableStrings = _.map(sortedTimetable, (entry) => {
+    //   return entry[1]
+    // })
+
+    // _.forEach(timetableStrings, (time, index, array) => {
+    //   if ( index > 1 ) {
+    //     // console.log(array[index-1]);
+    //     let startTime = moment( array[index-1], 'MM-DD-YYYY hh:mm A')
+    //     let end = moment( array[index], 'MM-DD-YYYY hh:mm A')
+
+    //     let duration = moment.duration(end.diff(startTime));
+    //     let minutes = duration.asMinutes();
+    //     let timeDiff = minutes;
+    //     // let timeDiff = time - array[0]
+    //     console.log(timeDiff);
+    //   }
+    // })
+
+  })
+  .then(data => {
+
+    // console.log(data);
+
+    let stations = data.line[1];
+    let endOfArray = stations.length - 1
+    console.log(stations);
+    let pairs = []
+
+    _.forEach(stations, (station, index, array) => {
+      if (index !== endOfArray) {
+        pairs.push([station, array[index + 1]])
+      }
+    })
+
+    let urls = _.map(pairs, (pair) => {
+      // the urls are missing time and date that should be appended at the time of parsing ---> &time=2:00am&date=03/04/2016
+      let url = `http://api.bart.gov/api/sched.aspx?cmd=depart&orig=${pair[0]}&dest=${pair[1]}&key=MW9S-E7SL-26DU-VV8V&b=0&a=1&l=0`
+      return url
+    })
+
+    let xmls = []
+    // console.log(urls);
+
+    let index = 0;
+
+    let times = []
+
+    // console.log(data.firstDeparture);
+    return new Promise((resolve, reject) => {
+      
+      let recursiveCall = function( timeString ) {
+
+        // console.log(index !== urls.length);
+
+        if ( index !== urls.length ) {
+          let momentDate = moment(timeString, 'MM-DD-YYYY hh:mm A')
+          let date = momentDate.format('MM/DD/YYYY')
+          let time = momentDate.format('hh:mma')
+          let url = `${urls[index]}&time=${time}&date=${date}`
+
+          index++
+
+          // console.log(url);
+
+          fetch( url ).then((response) => response.text())
+          .then((xml) => {
+            // console.log(xml);
+
+            let json = xmljs.parseXmlString(xml, { noblanks: true })
+            // console.log(json.root().get('routes').childNodes());
+            let routeAttrs = json.root().get('schedule').get('request').get('trip').attrs()
+
+            // console.log(routeAttrs);
+            // let times = []
+            let obj = {}
+
+            _.forEach(routeAttrs, (attr) => {
+              // console.log(attr.name());
+              
+              switch( attr.name() ) {
+                // case 'origTimeMin':
+                case 'destTimeMin':
+                case 'destTimeDate':
+
+                  // console.log(attr.value());
+                  // console.log([attr.value()]);
+                  obj[attr.name()] = attr.value()
+                  // times.push(obj)
+                  break
+              }
+              
+              // console.log(attr.value());
+            })
+
+            // console.log(obj);
+            let newTimeString = `${obj.destTimeDate} ${obj.destTimeMin}`
+            times.push(newTimeString)
+            console.log(times);
+            
+            console.log(index === urls.length);
+
+            if (index === urls.length) {
+              resolve()
+            }
+
+            recursiveCall(newTimeString)
+            console.log(newTimeString);
+            // console.log(times);
+
+          })
+          
+
+        }
+
+      }
+
+      times.push(data.firstDeparture)
+      recursiveCall(data.firstDeparture)
+
+    }).then(() => {
+      // console.log(data);
+      // console.log(times);
+
+      // console.log(times.length === data.line[1].length);
+
+      let arrayOfStationsWithTime = {}
+
+      _.forEach(data.line[1], (lineID, index) => {
+        // console.log(lineID);
+        // let obj = {}
+        arrayOfStationsWithTime[lineID] = [times[index]]
+        // return obj
+      })
+// 
+      console.log(arrayOfStationsWithTime);
+
+      // let originStation = Object.keys(arrayOfStationsWithTime)[0]
+      // console.log();
+      let key = data.line[1][0];
+      arrayOfStationsWithTime[key].push(data.timeTable)
+      // console.log(arrayOfStationsWithTime);
+
+      data.finalObject = {}
+      data.finalObject[data.line[0]] = arrayOfStationsWithTime
+      // console.log(_.flatten(data.timeTable));
+
+      return data
+
+    })
+
+    // promise
+
+  }).then(data => {
+    console.log(data.finalObject);
+  })
+
+}

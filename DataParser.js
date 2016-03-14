@@ -1540,264 +1540,347 @@ exports.getTimetableByFirstStationFromFile = function() {
     let keys = Object.keys(f)
     // let route = {}
     // route[keys[0]] = f[keys[0]]
-
-    let route = [keys[0], f[keys[0]]]
-    // console.log(route);
-
-    return route
-  })
-  .then((route) => {
-    // console.log('route');
-    console.log( route );
-
-    // let keys = 
-    // let pair = route[]
-    let pair = [route[1][0], route[1][1]]
-    console.log(pair);
-
-    return new Promise((resolve, reject) => {
-      let file = `./D/${pair[0]}-${pair[1]}.json`
-
-      jsonfile.readFile( file, (err, data) => {
-        if (err) reject()
-        resolve([route, data])
-      })
-      // console.log(file);
-    })
-
-  }).
-  then(data => {
-    let dayKeys = Object.keys(data[1])
-
-    let monday = data[1]['MON']
-    // console.log(monday);
-    dayKeys = _.filter(dayKeys, (key) => {
-      switch(key) {
-        case 'MON':
-        case 'SAT':
-        case 'SUN':
-          return 1;
-          break;
-      }
-    })
-
-    let dayPromises = _.map(dayKeys, (key) => {
-      // console.log(data[1][key]);
+    let routePromises = _.map(keys, (key) => {
 
       return new Promise((resolve, reject) => {
-        
-        let day = data[1][key]
-        let mondayKeys = Object.keys(day);
-        let requiredLineArray = _.filter(mondayKeys, (time) => {
-          if ( day[time][0].line === data[0][0] ) return true
-        })
-
-        let sorted = requiredLineArray.sort()
-        let dateTimeStrings = _.map(sorted, (key) => {
-          return [`${day[key][0].origTimeDate} ${day[key][0].origTimeMin}`, parseInt(key)]
-        })
-
-        // console.log(dateTimeStrings);
-        resolve( {
-          day: key,
-          timeTable: dateTimeStrings,
-          line: data[0]
-        } )
-        // return 
+        // console.log(keys);
+        // console.log(key);
+        // console.log(keys[key]);
+        let route = [key, f[key]]
+        // console.log(route);
+        resolve(route)
 
       })
-      .then(sortedTimetable => {
-        // console.log(sortedTimetable);
+      .then((route) => {
+        // console.log('route');
+        console.log( route );
 
-        let array = sortedTimetable.timeTable
-        let arrLength = sortedTimetable.timeTable.length
-        let firstDepartureIndex
+        // let keys = 
+        // let pair = route[]
+        let pair = [route[1][0], route[1][1]]
+        // console.log(pair);
 
-        for( let index in array ) {
-          index = +index 
-
-          if ( (index + 1) !== arrLength ) {
-            // console.log('hello');
-            let startTime = moment( array[index][0], 'MM-DD-YYYY hh:mm A')
-            let end = moment( array[index + 1][0], 'MM-DD-YYYY hh:mm A')
-
-            let duration = moment.duration(end.diff(startTime));
-            let minutes = duration.asMinutes();
-            let timeDiff = minutes;
-            // let timeDiff = time - array[0]
-
-            // console.log(timeDiff);
-
-
-            if ( timeDiff < 60 ) {
-              firstDepartureIndex = index
-              // console.log(firstDepartureIndex);
-              break;
-            }
-          }
-        }
-
-        let firstDeparture = array[firstDepartureIndex][0]
-
-        sortedTimetable.firstDeparture = firstDeparture
-        return sortedTimetable
-
-      })
-      .then(data => {
-
-        console.log('PRINTING PRINTING');
-        console.log(data);
-
-        let stations = data.line[1];
-        let endOfArray = stations.length - 1
-        // console.log(stations);
-        let pairs = []
-
-        _.forEach(stations, (station, index, array) => {
-          if (index !== endOfArray) {
-            pairs.push([station, array[index + 1]])
-          }
-        })
-
-        console.log(pairs);
-
-        let urls = _.map(pairs, (pair) => {
-          // the urls are missing time and date that should be appended at the time of parsing ---> &time=2:00am&date=03/04/2016
-          let url = `http://api.bart.gov/api/sched.aspx?cmd=depart&orig=${pair[0]}&dest=${pair[1]}&key=MW9S-E7SL-26DU-VV8V&b=0&a=1&l=0`
-          return url
-        })
-
-        console.log(urls);
-
-        let xmls = []
-        // console.log(urls);
-
-        let index = 0;
-
-        let times = []
-
-        // console.log(data.firstDeparture);
         return new Promise((resolve, reject) => {
-          
-          let recursiveCall = function( timeString ) {
+          let file = `./D/${pair[0]}-${pair[1]}.json`
+          console.log(file);
 
-            // console.log(index !== urls.length);
+          jsonfile.readFile( file, (err, data) => {
+            if (err) reject()
+            resolve([route, data])
+          })
+          // console.log(file);
+        })
 
-            if ( index !== urls.length ) {
-              let momentDate = moment(timeString, 'MM-DD-YYYY hh:mm A')
-              let date = momentDate.format('MM/DD/YYYY')
-              let time = momentDate.format('hh:mma')
-              let url = `${urls[index]}&time=${time}&date=${date}`
+      }).
+      then(data => {
+        let dayKeys = Object.keys(data[1])
 
-              index++
+        // let monday = data[1]['MON']
+        // console.log(monday);
+        dayKeys = _.filter(dayKeys, (key) => {
+          switch(key) {
+            case 'MON':
+            case 'SAT':
+            case 'SUN':
+              return 1;
+              break;
+          }
+        })
 
-              // console.log(url);
+        let dayPromises = _.map(dayKeys, (key) => {
+          // console.log(data[1][key]);
 
-              fetch( url ).then((response) => response.text())
-              .then((xml) => {
-                // console.log(xml);
+          return new Promise((resolve, reject) => {
+              
+            // console.log('KEY');
+            console.log(key);
+            console.log(data[0][0]);
+            // console.log(data[0]);
 
-                let json = xmljs.parseXmlString(xml, { noblanks: true })
-                // console.log(json.root().get('routes').childNodes());
-                let routeAttrs = json.root().get('schedule').get('request').get('trip').attrs()
+            let day = data[1][key]
+            let mondayKeys = Object.keys(day);
+            let requiredLineArray = _.filter(mondayKeys, (time) => {
+              // console.log(day[time][0].line);
+              // console.log(data[0][0]);
+              if ( day[time][0].line === data[0][0] ) return true
+            })
 
-                // console.log(routeAttrs);
-                // let times = []
-                let obj = {}
+            // console.log(requiredLineArray.length);
+            let sorted = requiredLineArray.sort()
+            let dateTimeStrings = _.map(sorted, (key) => {
+              return [`${day[key][0].origTimeDate} ${day[key][0].origTimeMin}`, parseInt(key)]
+            })
 
-                _.forEach(routeAttrs, (attr) => {
-                  // console.log(attr.name());
-                  
-                  switch( attr.name() ) {
-                    // case 'origTimeMin':
-                    case 'destTimeMin':
-                    case 'destTimeDate':
+            console.log(sorted.length);
+            console.log('sorted length');
 
+            // console.log(dateTimeStrings);
+            resolve( {
+              day: key,
+              timeTable: dateTimeStrings,
+              line: data[0]
+            } )
+            // return 
+
+          })
+          .then(sortedTimetable => {
+            // console.log(sortedTimetable);
+
+            let array = sortedTimetable.timeTable
+            let arrLength = sortedTimetable.timeTable.length
+            let firstDepartureIndex
+
+            for( let index in array ) {
+              index = +index 
+
+              if ( (index + 1) !== arrLength ) {
+                // console.log('hello');
+                let startTime = moment( array[index][0], 'MM-DD-YYYY hh:mm A')
+                let end = moment( array[index + 1][0], 'MM-DD-YYYY hh:mm A')
+
+                let duration = moment.duration(end.diff(startTime));
+                let minutes = duration.asMinutes();
+                let timeDiff = minutes;
+                // let timeDiff = time - array[0]
+
+                // console.log(timeDiff);
+
+
+                if ( timeDiff < 60 ) {
+                  firstDepartureIndex = index
+                  // console.log(firstDepartureIndex);
+                  break;
+                }
+              }
+            }
+
+            let firstDeparture = array[firstDepartureIndex][0]
+
+            sortedTimetable.firstDeparture = firstDeparture
+            return sortedTimetable
+
+          })
+          .then(data => {
+
+            // console.log('PRINTING PRINTING');
+            // console.log(data);
+
+            let stations = data.line[1];
+            let endOfArray = stations.length - 1
+            // console.log(stations);
+            let pairs = []
+
+            _.forEach(stations, (station, index, array) => {
+              if (index !== endOfArray) {
+                pairs.push([station, array[index + 1]])
+              }
+            })
+
+            // console.log(pairs);
+
+            let urls = _.map(pairs, (pair) => {
+              // the urls are missing time and date that should be appended at the time of parsing ---> &time=2:00am&date=03/04/2016
+              let url = `http://api.bart.gov/api/sched.aspx?cmd=depart&orig=${pair[0]}&dest=${pair[1]}&key=MW9S-E7SL-26DU-VV8V&b=0&a=1&l=0`
+              return url
+            })
+
+            // console.log(urls);
+
+            let xmls = []
+            // console.log(urls);
+
+            let index = 0;
+
+            let times = []
+
+            // console.log(data.firstDeparture);
+            return new Promise((resolve, reject) => {
+              
+              let recursiveCall = function( timeString ) {
+
+                // console.log(index !== urls.length);
+
+                if ( index !== urls.length ) {
+                  let momentDate = moment(timeString, 'MM-DD-YYYY hh:mm A')
+                  let date = momentDate.format('MM/DD/YYYY')
+                  let time = momentDate.format('hh:mma')
+                  let url = `${urls[index]}&time=${time}&date=${date}`
+
+                  index++
+
+                  // console.log(url);
+
+                  fetch( url ).then((response) => response.text())
+                  .then((xml) => {
+                    // console.log(xml);
+
+                    let json = xmljs.parseXmlString(xml, { noblanks: true })
+                    // console.log(json.root().get('routes').childNodes());
+                    let routeAttrs = json.root().get('schedule').get('request').get('trip').attrs()
+
+                    // console.log(routeAttrs);
+                    // let times = []
+                    let obj = {}
+
+                    _.forEach(routeAttrs, (attr) => {
+                      // console.log(attr.name());
+                      
+                      switch( attr.name() ) {
+                        // case 'origTimeMin':
+                        case 'destTimeMin':
+                        case 'destTimeDate':
+
+                          // console.log(attr.value());
+                          // console.log([attr.value()]);
+                          obj[attr.name()] = attr.value()
+                          // times.push(obj)
+                          break
+                      }
+                      
                       // console.log(attr.value());
-                      // console.log([attr.value()]);
-                      obj[attr.name()] = attr.value()
-                      // times.push(obj)
-                      break
-                  }
+                    })
+
+                    // console.log(obj);
+                    let newTimeString = `${obj.destTimeDate} ${obj.destTimeMin}`
+                    times.push(newTimeString)
+                    // console.log(times);
+                    
+                    // console.log(index === urls.length);
+
+                    if (index === urls.length) {
+                      resolve()
+                    }
+
+                    let rand = Math.round(Math.random() * 30000);
+                    setTimeout(function() {
+                      recursiveCall(newTimeString)
+                    }, 0)
+                    // recursiveCall(newTimeString)
+                    // console.log(newTimeString);
+                    // console.log(times);
+
+                  })
                   
-                  // console.log(attr.value());
-                })
 
-                // console.log(obj);
-                let newTimeString = `${obj.destTimeDate} ${obj.destTimeMin}`
-                times.push(newTimeString)
-                // console.log(times);
-                
-                // console.log(index === urls.length);
-
-                if (index === urls.length) {
-                  resolve()
                 }
 
-                recursiveCall(newTimeString)
-                // console.log(newTimeString);
-                // console.log(times);
+              }
 
-              })
+              times.push(data.firstDeparture)
+              let rand = Math.round(Math.random() * 30000);
+              setTimeout(function() {
+                recursiveCall(data.firstDeparture)
+              }, 0)
               
 
-            }
+            }).then(() => {
+              // console.log(data);
+              // console.log(times);
 
-          }
+              // console.log(times.length === data.line[1].length);
 
-          times.push(data.firstDeparture)
-          recursiveCall(data.firstDeparture)
+              let arrayOfStationsWithTime = {}
 
-        }).then(() => {
-          // console.log(data);
-          // console.log(times);
+              _.forEach(data.line[1], (lineID, index) => {
+                // console.log(lineID);
+                // let obj = {}
+                arrayOfStationsWithTime[lineID] = [times[index]]
+                // return obj
+              })
+              let key = data.line[1][0];
+              arrayOfStationsWithTime[key].push(data.timeTable)
+              // console.log(arrayOfStationsWithTime);
 
-          // console.log(times.length === data.line[1].length);
+              data.finalObject = {}
+              data.finalObject[data.line[0]] = arrayOfStationsWithTime
+              // console.log(_.flatten(data.timeTable));
 
-          let arrayOfStationsWithTime = {}
 
-          _.forEach(data.line[1], (lineID, index) => {
-            // console.log(lineID);
-            // let obj = {}
-            arrayOfStationsWithTime[lineID] = [times[index]]
-            // return obj
+              return data
+
+            })
+
+            // promise
+
+          }).then(data => {
+
+            let day = {}
+            day[data.day] = data.finalObject
+            console.log(day);
+            return day;
+            // console.log(data.finalObject);
+            // console.log('just printing data');
           })
-          let key = data.line[1][0];
-          arrayOfStationsWithTime[key].push(data.timeTable)
-          // console.log(arrayOfStationsWithTime);
 
-          data.finalObject = {}
-          data.finalObject[data.line[0]] = arrayOfStationsWithTime
-          // console.log(_.flatten(data.timeTable));
-
-
-          return data
 
         })
 
-        // promise
+        // console.log(dayPromises);
 
-      }).then(data => {
+        return Promise.all(dayPromises).catch((e) => {
+          // console.log('my error here');
+          console.log(e)
+        })
 
-        let day = {}
-        day[data.day] = data.finalObject
-        return day;
-        // console.log(data.finalObject);
-        // console.log('just printing data');
+        // return dateTimeStrings
+      })
+      .then(allDataFromPromises => {
+        // console.log(allDataFromPromises);
+        // console.log('got it');
+        let routeObject = {}
+
+        // let keys = Object.keys(allDataFromPromises)
+        // console.log(keys);
+        _.forEach(allDataFromPromises, (day, index) => {
+          // console.log(day);
+          let key = Object.keys(day)[0];
+          // console.log(key);
+          let route = Object.keys(day[key])[0]
+          // console.log(route);
+          // console.log(day[key][route]);
+          if ( !routeObject[route] ) {
+            routeObject[route] = {}
+          }
+          
+          routeObject[route][key] = day[key][route]
+          // console.log('printing daykey');
+          // let dayKeys = Object.keys(day);
+          // console.log(dayKey);
+          // _.forEach(dayKeys, (singleDay) => {
+          //   console.log('printing single day');
+          //   console.log(singleDay);
+          //   let route = Object.keys(singleDay)[0]
+          //   console.log(route);
+          //   console.log('printing data to assign to routeobject');
+          //   console.log(day[dayKey][route]);
+          //   routeObject[route][dayKey] = allDataFromPromises[dayKey][route]
+          // })
+          
+        })
+
+        console.log('printing route object');
+        console.log(routeObject);
+        return routeObject
       })
 
+      return Promise.all(routePromises).catch((e) => {
+        console.log('my error here');
+        console.log(e)
+      })
+
+    }).then((allDataFromRoutePromises) => {
+
+      console.log('printing allDataFromRoutePromises');
+      console.log(allDataFromRoutePromises);
 
     })
 
-    // console.log(dayPromises);
+    
+    // console.log(route);
 
-    return Promise.all(dayPromises)
-
-    // return dateTimeStrings
+    
   })
-  .then(allDataFromPromises => {
-    console.log(allDataFromPromises);
-  })
+  
   
   
 

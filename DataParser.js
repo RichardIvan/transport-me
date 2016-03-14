@@ -1952,3 +1952,43 @@ exports.listFilesInDirectory = function() {
   .catch((error) => console.log(error))
 
 }
+
+exports.saveRouteFilesToFirebase = function() {
+
+  this.listFilesInDirectory().then(filenames => {
+    console.log(filenames);
+    _.forEach(filenames, filename => {
+      let file = `./final/${filename.filename}`
+
+      new Promise((resolve, reject) => {
+        jsonfile.readFile(file, (err, filedata) => {
+          if (err) {
+            reject(err)
+          } else resolve(filedata)
+        })
+      })
+      .then(data => {
+        // console.log(data);
+        let child = `datastore/${filename.pair[0]}/${filename.pair[1]}`
+        return fire.child(child).set(data)
+      })
+      .then(firePromise => {
+        console.log(firePromise);
+      })
+      .catch(e => console.log(e))
+    })
+  }).catch(err => console.log(err))
+
+}
+
+exports.saveRouteFilesFromFirebase = function() {
+  fire.child('datastore').once('value', snapshot => {
+    let file = './final/routes.json'
+
+    jsonfile.writeFile( file, snapshot.val(), (e) => {
+      if(e) {
+        console.log(e);
+      }
+    })
+  })
+}

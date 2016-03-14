@@ -250,4 +250,7 @@ let newLoopIt = function( Index ) {
 
 // DataParser.getTimetableByFirstStationFromFile()
 
-DataParser.listFilesInDirectory()
+// DataParser.listFilesInDirectory()
+// DataParser.saveRouteFilesToFirebase();
+
+DataParser.saveRouteFilesFromFirebase();

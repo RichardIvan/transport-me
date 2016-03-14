@@ -16,6 +16,7 @@ var uniqBy = require('lodash.uniqby');
 var uniqWith = require('lodash.uniqwith');
 _.uniqBy = uniqBy;
 _.uniqWith = uniqWith;
+var fs = require('fs')
 
 
 var stationsUrl = 'http://api.bart.gov/api/stn.aspx?cmd=stns&key=MW9S-E7SL-26DU-VV8V'
@@ -1913,7 +1914,41 @@ exports.getTimetableByFirstStationFromFile = function() {
 
   })
   
-  
-  
+}
+
+exports.listFilesInDirectory = function() {
+  let dir = './final/'
+
+  return new Promise((resolve, reject) => {
+    fs.readdir(dir, function(err, files) {
+      if (err) {
+        reject(err)
+      } else resolve(files)
+    })
+  })
+  .then(filenames => {
+    // filter only filenames for route names
+    filenames = _.filter(filenames, (filenames) => {
+      return (filenames.length === 14 ) ? true : false
+    })
+    return filenames
+    // console.log(filenames);
+  })
+  .then((filteredFilenames) => {
+    let pairs = _.map(filteredFilenames, (filename) => {
+      let name = filename.split('.')[0]
+      let pair = name.split('-')
+      return {
+        filename: filename,
+        pair: [pair[0], pair[1]]
+      }
+    })
+    return pairs;
+  })
+  .then((itemsBeforeReadingFiles) => {
+    // console.log(itemsBeforeReadingFiles);
+    return itemsBeforeReadingFiles
+  })
+  .catch((error) => console.log(error))
 
 }

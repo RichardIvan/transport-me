@@ -247,4 +247,7 @@ let newLoopIt = function( Index ) {
 
 // DataParser.getStationsByRoute()
 // DataParser.getTimetableByFirstStationOnRoute()
-DataParser.getTimetableByFirstStationFromFile()
+
+// DataParser.getTimetableByFirstStationFromFile()
+
+// DataParser.

@@ -1956,6 +1956,7 @@ exports.listFilesInDirectory = function() {
 exports.saveRouteFilesToFirebase = function() {
 
   this.listFilesInDirectory().then(filenames => {
+    // fire.child('datastore').set(null)
     console.log(filenames);
     _.forEach(filenames, filename => {
       let file = `./final/${filename.filename}`
@@ -1969,7 +1970,7 @@ exports.saveRouteFilesToFirebase = function() {
       })
       .then(data => {
         // console.log(data);
-        let child = `datastore/${filename.pair[0]}/${filename.pair[1]}`
+        let child = `datastore/journey/${filename.pair[0]}/${filename.pair[1]}`
         return fire.child(child).set(data)
       })
       .then(firePromise => {
@@ -1989,6 +1990,18 @@ exports.saveRouteFilesFromFirebase = function() {
       if(e) {
         console.log(e);
       }
+    })
+  })
+}
+
+exports.saveStationsToFile = function() {
+  this.getStations().then(data => {
+    console.log(data.val());
+    let obj = data.val()
+    let file = './backend/stations.json'
+
+    jsonfile.writeFile( file, obj, (error) => {
+      if (error) console.log(error)
     })
   })
 }

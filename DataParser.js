@@ -1994,6 +1994,21 @@ exports.saveRouteFilesFromFirebase = function() {
   })
 }
 
+exports.saveRouteFileToFirebase = function() {
+  let file = './backend/schedule.json'
+  jsonfile.readFile( file, (e, obj) => {
+    if(e) {
+      console.log(e);
+    } else {
+
+      fire.child('datastore/routes').set(obj)
+
+    }
+  })
+
+  
+}
+
 exports.saveStationsToFile = function() {
   this.getStations().then(data => {
     console.log(data.val());

@@ -13,6 +13,7 @@ var express = require('express')
 var now = require("performance-now")
 
 var DataParser = require("./DataParser.js");
+var r = require('./Responses.js')
 
 var app = express()
 var port = 9000
@@ -251,7 +252,11 @@ let newLoopIt = function( Index ) {
 // DataParser.getTimetableByFirstStationFromFile()
 
 // DataParser.listFilesInDirectory()
-DataParser.saveRouteFilesToFirebase();
+// DataParser.saveRouteFilesToFirebase();
 
 // DataParser.saveRouteFilesFromFirebase();
 // DataParser.saveStationsToFile()
+
+DataParser.saveRouteFileToFirebase()
+
+// r.handleRequest('/journey/COLS/MLBR/departure/0915')

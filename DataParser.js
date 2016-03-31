@@ -1982,6 +1982,17 @@ exports.saveRouteFilesToFirebase = function() {
 
 }
 
+exports.getFile = function(file) {
+
+  return new Promise((resolve, reject) => {
+    let f = file;
+    jsonfile.readFile(f, (err, object) => {
+      err ? reject(err) : resolve(object)
+    })
+  });
+
+}
+
 exports.saveRouteFilesFromFirebase = function() {
   fire.child('datastore').once('value', snapshot => {
     let file = './final/routes.json'
@@ -2005,8 +2016,19 @@ exports.saveRouteFileToFirebase = function() {
 
     }
   })
+}
 
-  
+exports.saveLineStationsFileToFirebase = function() {
+  let file = './backend/line-stations.json'
+  jsonfile.readFile( file, (e, obj) => {
+    if(e) {
+      console.log(e);
+    } else {
+
+      fire.child('datastore/line-stations').set(obj)
+
+    }
+  })
 }
 
 exports.saveStationsToFile = function() {
@@ -2019,4 +2041,59 @@ exports.saveStationsToFile = function() {
       if (error) console.log(error)
     })
   })
+}
+
+exports.transformScheduleFile = function() {
+
+  let filePaths = [ './backend/schedule.json', './backend/line-stations.json' ]
+  let files = _.map( filePaths, url => {
+    // console.log(url);
+    return this.getFile( url )
+  })
+
+  // console.log(files);
+  
+  Promise.all( files )
+    .then(data => {
+      let [scheduleFile, stationsFile ] = data
+      // console.log(schedule);
+      // console.log(stations);
+
+      let lineKeys = Object.keys(stationsFile)
+      let lineKeysInSchedule = Object.keys(scheduleFile)
+      console.log(lineKeysInSchedule);
+      _.forEach(lineKeysInSchedule, line => {
+        let dayKeysInSchedule = Object.keys(scheduleFile[line])
+        _.each(dayKeysInSchedule, day => {
+          console.log(scheduleFile[line][day]);
+          let stationsOnLine = stationsFile[line]
+          console.log(stationsOnLine);
+          let newData = _.map(stationsOnLine, stationName => {
+            let obj = {}
+            obj[stationName] = scheduleFile[line][day][stationName];
+            return obj
+            // console.log(scheduleFile[line][day][stationName]);
+          })
+          console.log(newData);
+        })
+        // console.log(dayKeysInSchedule);
+      })
+      
+      console.log(lineKeys);
+
+
+
+    })
+    .catch(e => console.log(e))
+}
+
+exports.getAllNewDataToFile = function () {
+  console.log('running');
+  fire.child('new').once('value')
+    .then(snapshot => snapshot.val())
+    .then(data => {
+      console.log('got data');
+      let file = './newData/all.json'
+      jsonfile.writeFile( file, data, (err) => console.log(err))
+    })
 }

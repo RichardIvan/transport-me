@@ -1,0 +1,11 @@
+:global(#search-container) :global(.pe-menu) {
+  top: 1px !important;
+}
+
+// #search-container {
+//   top: 1px;
+// }
+
+:global(#shadow-target) > :global(.pe-shadow) {
+  display: none;
+}

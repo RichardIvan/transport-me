@@ -1,0 +1,45 @@
+body,
+html,
+
+:global(.app) {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+:global(.app) {
+  background: #fff;
+}
+
+:global(.app .pe-header) {
+  background: #fff;
+  height: 100px;
+}
+
+:global(.app .pe-header-panel .pe-toolbar) {
+    background-color: #3f51b5;
+}
+
+:global(.app .pe-header-panel .pe-title) {
+    font-size: 27.69px; // 18 / 0.65
+}
+
+:global(.app .pe-header-panel-content)  {
+    padding: 16px 16px 36px 16px;
+    max-width: 700px;
+    margin: 0 auto;
+    height: 0
+}
+
+.inlineList {
+  display: inline;
+  margin-right: 1em;
+}
+
+.toolBarSize {
+  height: 64px !important;
+}
+
+:global(.pe-ripple) {
+  color: #fff !important;
+}

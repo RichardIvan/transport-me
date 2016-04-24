@@ -1,0 +1,7 @@
+.results-container {
+  overflow-y: scroll;
+  -moz-transition: height 1s ease;
+  -webkit-transition: height 1s ease;
+  -o-transition: height 1s ease;
+  transition: height 1s ease;
+}

@@ -13,6 +13,8 @@ import setState from '../helpers/set-state.js'
 
 //helpers
 import renderStationHeaderSection from '../helpers/render/render-station-header-section.js'
+import renderTimeSelectionSection from '../helpers/render/render-time-selection-header-section.js'
+
 
 //stores
 import HeaderStore from '../stores/header-store.js'
@@ -21,7 +23,6 @@ import JourneyStore from '../stores/journey-store.js'
 
 //components
 import searchToolbarComponent from './SearchToolbarComponent.js'
-import TimeSelectionComponent from './TimeSelectionComponent.js'
 
 import 'polythene/layout/theme/theme'
 
@@ -39,28 +40,44 @@ import Velocity from 'velocity-animate'
 import { full, tall, white } from '../../css/journey-planner.scss'
 import '../../css/journey-planner.scss'
 
-const btn = function(icn, cls) {
+const handlers = {
+  schedule: (status) => {
+    Actions.changeScheduleSelectionStatus({ defaultHeader: status })
+  },
+  go: (status) => {
+    console.log(status)
+    if (status) {
+      Actions.setDepartureTime()
+    } else {
+      // Actions.getJourney()
+    }
+  }
+}
+
+const btn = function(icn, handler) {
   return m.component(iconBtn, {
-    class: cls,
     icon: {
-      class: cls,
       msvg: icn
+    },
+    events: {
+      onclick: handler
     }
   })
 }
 
 const baseToolbar = function() {
   return m('div.layout.center-center', { class: classNames(full, tall) }, [
-    btn(gIconSchedule, ''),
+    btn(gIconSchedule, handlers.schedule.bind(null, !this.state.data.defaultHeader())),
     // bellow section should be conditional
 
-    renderStationHeaderSection.call(this),
+    this.state.data.defaultHeader() ? renderStationHeaderSection.call(this) : renderTimeSelectionSection.call(this)
+    ,
 
     // this button might stay as well and the action be conditionally changed?
     // either set departure time or find journey
 
     // pass action parameter conditionally?
-    btn(gGoIcon, '')
+    btn(gGoIcon, handlers.go.bind(null, !this.state.data.defaultHeader()))
 
     // second displayed option is a section with textfield where user selects
     // time and date of the train departure
@@ -87,7 +104,8 @@ const HeaderComponent = {
   state: {
     data: {
       searchActive: m.prop(false),
-      journeyPlanner: m.prop({})
+      journeyPlanner: m.prop({}),
+      defaultHeader: m.prop(true)
     }
   },
 

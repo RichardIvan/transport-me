@@ -113,7 +113,7 @@ const searchHandler = function(e) {
 
 const createView = function() {
   const self = this
-  return m('div', { class: classNames(fullWidth, fullHeight, above) }, [
+  return m('div', { class: classNames(fullWidth, fullHeight, above, 'search') }, [
     m('div#serch-container', { config: fadeIn }, [
       m.component(search, {
         type: 'fullwidth',

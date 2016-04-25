@@ -11,7 +11,8 @@ import Actions from '../actions.js'
 const LOCAL_EVENT_NAME = Constants.DataStores.STORE
 
 const _data = {
-  searchActive: m.prop(false)
+  searchActive: m.prop(false),
+  defaultHeader: m.prop(true)
 }
 
 const HeaderStore = {
@@ -49,6 +50,9 @@ const HeaderStore = {
         break
       case Constants.ActionType.GET_STATION_TYPE:
         Actions.getValidStationName(_data.searchActive())
+        break
+      case Constants.ActionType.SET_HEADER_STATUS:
+        _data.defaultHeader(payload.data.defaultHeader)
         break
       default:
         break

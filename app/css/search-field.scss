@@ -1,13 +1,13 @@
-:global(.pe-textfield__input-area) {
+:global(.search .pe-textfield__input-area) {
   height: auto !important;
 }
 
-:global(.pe-textfield__input ) {
+ :global(.search .pe-textfield__input ) {
   height: auto !important;
   padding-top: 22px !important;
 }
 
-:global(.pe-textfield__label) {
+:global(.search .pe-textfield__label) {
   height: auto !important;
   padding-top: 22px !important;
 }

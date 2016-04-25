@@ -26,6 +26,9 @@ export default {
       data
     })
   },
+
+
+  //HEADER
   setSearchStatus(data) {
     Dispatcher({
       action: Constants.ActionType.SET_SEARCH_STATUS,
@@ -54,6 +57,15 @@ export default {
       action: Constants.ActionType.SELECT_STATION_RESULT,
       data
     })
+  },
+  changeScheduleSelectionStatus(data) {
+    Dispatcher({
+      action: Constants.ActionType.SET_HEADER_STATUS,
+      data
+    })
+  },
+  setDepartureTime(data) {
+    console.log(data)
   },
 
 

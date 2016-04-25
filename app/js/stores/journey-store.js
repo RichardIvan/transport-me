@@ -35,12 +35,23 @@ const _data = {
   // })
 }
 
-const Journey = {
+const JourneyStore = {
 
   getAll() {
     console.log(_data)
     return new Promise((resolve, reject) => {
       resolve({ data: _data })
+    })
+  },
+  getJourneyPlanner() {
+    console.log(_data)
+    
+    return new Promise((resolve, reject) => {
+      resolve({ 
+        data: {
+          journeyPlanner: _data.journeyPlanner
+        }
+      })
     })
   },
   // Allow Controller-View to register itself with store
@@ -102,10 +113,7 @@ const Journey = {
           stationName: payload.data.stationName
         }
 
-        console.log(_data.journeyPlanner())
-        break
-      case Constants.ActionType.GET_JOURNEY_STATION:
-        //accepts id which is type origin/destination
+        JourneyStore.emitChange()
         break
       default:
         break
@@ -115,4 +123,4 @@ const Journey = {
 
 // Bullet.on('INITIALIZE_APP', Data.dispatchIndex)
 
-export default Journey
+export default JourneyStore

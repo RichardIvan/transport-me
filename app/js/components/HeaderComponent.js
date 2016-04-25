@@ -3,6 +3,7 @@
 // libraries
 import m from 'mithril'
 import Bullet from 'bullet-pubsub'
+import _ from 'lodash'
 
 import classNames from 'classnames'
 
@@ -12,7 +13,7 @@ import setState from '../helpers/set-state.js'
 
 //stores
 import HeaderStore from '../stores/header-store.js'
-import StationsStore from '../stores/stations-store.js'
+// import StationsStore from '../stores/stations-store.js'
 import JourneyStore from '../stores/journey-store.js'
 
 //components
@@ -134,15 +135,27 @@ const baseToolbar = function() {
   console.log('this within the baseToolbar function')
   console.log(this)
 
+  console.log(this.state.data.journeyPlanner())
+
+  let origin
+  let destination
+  if (!_.isEmpty(this.state.data.journeyPlanner())) {
+    if (this.state.data.journeyPlanner().origin) {
+      origin = this.state.data.journeyPlanner().origin.stationName[0]
+    }
+    if (this.state.data.journeyPlanner().destination) {
+      destination = this.state.data.journeyPlanner().destination.stationName[0]
+    }
+  }
 
   return m('div.layout.center-center', { class: classNames(full, tall) }, [
     btn(gIconSchedule, ''),
     m('div.flex.two.tall', { style: { paddingLeft: '20px' } }, [
-      txtBtn('Origin', originId)
+      txtBtn( origin || 'Origin', originId)
     ]),
     m.component(icon, { msvg: gToIcon, class: 'flex two' }),
     m('div.flex.three.tall', [
-      txtBtn('Destination', destinationId)
+      txtBtn( destination || 'Destination', destinationId)
     ]),
     btn(gGoIcon, ''),
     m('div#custom-ripple', {
@@ -168,7 +181,8 @@ const HeaderComponent = {
   // so we can change the text of the buttons accordingly
   state: {
     data: {
-      searchActive: m.prop(false)
+      searchActive: m.prop(false),
+      journeyPlanner: m.prop({})
     }
   },
 
@@ -178,14 +192,15 @@ const HeaderComponent = {
   },
 
   _onJourneyStoreChange() {
-    
-    JourneyStore.getAll()
+    console.log('GETTING _onJourneyStoreChange')
+    JourneyStore.getJourneyPlanner()
       .then(setState.bind(HeaderComponent))
   },
 
   controller(data) {
     this.onunload = function() {
       HeaderStore.removeChangeListener(HeaderComponent._onChange)
+      JourneyStore.removeChangeListener(HeaderComponent._onJourneyStoreChange)
       Bullet.off('HEADER_RIPPLE')
     }
   },

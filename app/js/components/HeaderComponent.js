@@ -158,6 +158,9 @@ const toolbar = function() {
 }
 
 const HeaderComponent = {
+  //this state includes the journey store data
+  // since we need the journey origin station and destination station
+  // so we can change the text of the buttons accordingly
   state: {
     data: {
       searchActive: m.prop(false)

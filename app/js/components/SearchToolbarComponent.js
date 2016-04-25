@@ -31,8 +31,10 @@ let handleClearClick = (e) => {
   Actions.setSearchStatus({ searchActive: false })
 }
 
+// this is being triggered only when the station in the field is valid anyway
 const handleForwardClick = function(e) {
   Actions.getStationType()
+  Actions.setSearchStatus({ searchActive: false })
 }
 
 const btnClear = m.component(iconButton, {

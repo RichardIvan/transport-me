@@ -44,8 +44,6 @@ const JourneyStore = {
     })
   },
   getJourneyPlanner() {
-    console.log(_data)
-    
     return new Promise((resolve, reject) => {
       resolve({ 
         data: {
@@ -114,6 +112,9 @@ const JourneyStore = {
         }
 
         JourneyStore.emitChange()
+        break
+      case Constants.ActionType.SET_DEPARTURE_TIME:
+        _data.journeyPlanner()['departureTime'] = payload.data.departureTime
         break
       default:
         break

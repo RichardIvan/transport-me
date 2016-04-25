@@ -42,15 +42,7 @@ import '../../css/journey-planner.scss'
 
 const handlers = {
   schedule: (status) => {
-    Actions.changeScheduleSelectionStatus({ defaultHeader: status })
-  },
-  go: (status) => {
-    console.log(status)
-    if (status) {
-      Actions.setDepartureTime()
-    } else {
-      // Actions.getJourney()
-    }
+    Actions.changeScheduleSelectionStatus({ defaultHeader: !status })
   }
 }
 
@@ -67,7 +59,7 @@ const btn = function(icn, handler) {
 
 const baseToolbar = function() {
   return m('div.layout.center-center', { class: classNames(full, tall) }, [
-    btn(gIconSchedule, handlers.schedule.bind(null, !this.state.data.defaultHeader())),
+    btn(gIconSchedule, handlers.schedule.bind(null, this.state.data.defaultHeader())),
     // bellow section should be conditional
 
     this.state.data.defaultHeader() ? renderStationHeaderSection.call(this) : renderTimeSelectionSection.call(this)
@@ -77,7 +69,7 @@ const baseToolbar = function() {
     // either set departure time or find journey
 
     // pass action parameter conditionally?
-    btn(gGoIcon, handlers.go.bind(null, !this.state.data.defaultHeader()))
+    btn(gGoIcon, handlers.schedule.bind(null, this.state.data.defaultHeader()))
 
     // second displayed option is a section with textfield where user selects
     // time and date of the train departure

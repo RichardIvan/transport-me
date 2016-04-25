@@ -65,7 +65,10 @@ export default {
     })
   },
   setDepartureTime(data) {
-    console.log(data)
+    Dispatcher({
+      action: Constants.ActionType.SET_DEPARTURE_TIME,
+      data
+    })
   },
 
 

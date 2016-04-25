@@ -13,6 +13,7 @@ import setState from '../helpers/set-state.js'
 //stores
 import HeaderStore from '../stores/header-store.js'
 import StationsStore from '../stores/stations-store.js'
+import JourneyStore from '../stores/journey-store.js'
 
 //components
 import searchToolbarComponent from './SearchToolbarComponent.js'
@@ -130,6 +131,10 @@ const baseToolbar = function() {
   const originId = 'origin'
   const destinationId = 'destination'
 
+  console.log('this within the baseToolbar function')
+  console.log(this)
+
+
   return m('div.layout.center-center', { class: classNames(full, tall) }, [
     btn(gIconSchedule, ''),
     m('div.flex.two.tall', { style: { paddingLeft: '20px' } }, [
@@ -150,7 +155,7 @@ const toolbar = function() {
   const searchState = this.state.data.searchActive()
   return m('div', [
     !searchState ? m.component(polyToolbar, {
-      content: baseToolbar()
+      content: baseToolbar.call(this)
     }) : m.component(polyToolbar, {
       content: searchToolbarComponent
     })
@@ -172,6 +177,12 @@ const HeaderComponent = {
       .then(setState.bind(HeaderComponent))
   },
 
+  _onJourneyStoreChange() {
+    
+    JourneyStore.getAll()
+      .then(setState.bind(HeaderComponent))
+  },
+
   controller(data) {
     this.onunload = function() {
       HeaderStore.removeChangeListener(HeaderComponent._onChange)
@@ -185,6 +196,7 @@ const HeaderComponent = {
 }
 
 HeaderStore.addChangeListener(HeaderComponent._onChange)
+JourneyStore.addChangeListener(HeaderComponent._onJourneyStoreChange)
 // StationsStore.addChangeListener(HeaderComponent._onStationStoreChange)
 
 export default HeaderComponent

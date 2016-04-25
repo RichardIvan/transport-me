@@ -22,7 +22,7 @@ const DataConstructor = function(resp) {
   
 }
 
-let _data = {
+const _data = {
   result: m.prop(''),
   journeyPlanner: m.prop({})
   // journeyPlanner: m.prop({
@@ -38,6 +38,7 @@ let _data = {
 const Journey = {
 
   getAll() {
+    console.log(_data)
     return new Promise((resolve, reject) => {
       resolve({ data: _data })
     })
@@ -94,12 +95,17 @@ const Journey = {
       case Constants.ActionType.SET_JOURNEY_STATION:
         // const stationType = payload.data.stationType
         // const stationName = payload.data.stationName
+        console.log(payload.data)
+        console.log(payload.data.stationName)
 
         _data.journeyPlanner()[payload.data.stationType] = {
           stationName: payload.data.stationName
         }
 
         console.log(_data.journeyPlanner())
+        break
+      case Constants.ActionType.GET_JOURNEY_STATION:
+        //accepts id which is type origin/destination
         break
       default:
         break

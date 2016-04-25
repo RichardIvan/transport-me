@@ -165,6 +165,10 @@ const StationsStore = {
         console.log(_data.validStation())
         if (_data.validStation()) {
           stations.then((data) => {
+
+            console.log(data[_data.validStationIndex()])
+            console.log(_data.validStationIndex())
+
             const dataForAction = {
               stationType: payload.data,
               stationName: data[_data.validStationIndex()]
@@ -172,7 +176,12 @@ const StationsStore = {
             console.log(dataForAction)
             Actions.setJourneyStation(dataForAction)
           })
+          .then(() => {
+            Actions.setSearchStatus({ searchActive: false })
+          })
         }
+        // close the search bar after all is extracted so this store can be reset
+        // Actions.setSearchStatus({ searchActive: false })
         // Actions.
         break
       case Constants.ActionType.RESET_SEARCH_BAR:

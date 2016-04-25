@@ -26,6 +26,11 @@ export default {
       data
     })
   },
+  findRoutes() {
+    Dispatcher({
+      action: Constants.ActionType.FIND_ROUTES
+    })
+  },
 
 
   //HEADER

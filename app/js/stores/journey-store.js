@@ -4,6 +4,7 @@
 
 import m from 'mithril'
 import _ from 'lodash'
+import moment from 'moment'
 
 import Bullet from 'bullet-pubsub'
 import Constants from '../constants.js'
@@ -136,6 +137,60 @@ const JourneyStore = {
 
           Actions.loadSearchBar({ name: stationName })
         }
+        break
+      case Constants.ActionType.FIND_ROUTES:
+        const url = new URL(window.location.href)
+        const urlOrigin = url.origin
+        console.log(url)
+        console.log(_data.journeyPlanner().departureTime)
+        let time = moment(_data.journeyPlanner().departureTime, 'YYYY-MM-DDThh:mm')
+        console.log()
+        if ( !time.isValid() ) {
+          time = moment().local()
+          console.log(time)
+        }
+        console.log(time)
+        let day = time.day()
+        if ( day > -1 || day < 5 ) {
+          day = 'WKDY'
+        } else if ( day === 5 ) {
+          day = 'SAT'
+        } else day = 'SUN'
+        const hour = time.get('hour')
+        let minutes = time.get('minute')
+
+        if (minutes < -1 || minutes < 16) {
+          minutes = '00'
+        } else if ( minutes < 16 || minutes < 31 ) {
+          minutes = '15'
+        } else if (minutes < 31 || minutes < 46) {
+          minutes = '30'
+        } else minutes = '45'
+        const timeString = `${hour}${minutes}`
+        console.log(timeString)
+
+        console.log(day)
+        console.log(hour)
+        console.log(minutes)
+
+        const origin = _data.journeyPlanner().origin.stationName[0]
+        const destination = _data.journeyPlanner().destination.stationName[0]
+        const urlToFetch = `${urlOrigin}/journey/${origin}/${destination}/departure/${day}/${timeString}`
+
+        fetch(urlToFetch)
+        // fetch('http://localhost:3000/journey/RICH/FRMT/departure/WKDY/0900')
+        // .then(response => response)
+        .then(res => res.json())
+        // .then(response => response.json())
+        .then(json => {
+          _data.result(json)
+
+          console.log(json)
+          // _.forEach(json, route => {
+          //   console.log(route[0][0][1])
+          // })
+        })
+        .then(JourneyStore.emitChange)
         break
       default:
         break

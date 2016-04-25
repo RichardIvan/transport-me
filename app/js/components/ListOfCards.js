@@ -16,7 +16,9 @@ import setState from '../helpers/set-state.js'
 const List = {
 
   state: {
-    data: []
+    data: {
+      result: m.prop([])
+    }
   },
 
   _onChange() {
@@ -32,7 +34,7 @@ const List = {
           title: 'Connections'
         },
         tiles: [
-          _.map(List.state.data, (connection, index) => {
+          _.map(List.state.data.result(), (connection, index) => {
             // console.log(connection)
             // console.log(StationCard)
             // console.log( index )

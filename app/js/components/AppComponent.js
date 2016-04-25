@@ -14,7 +14,9 @@ import setState from '../helpers/set-state.js'
 import headerComponent from '../components/HeaderComponent.js'
 // import setInitialState from '../helpers/set-initial-state.js'
 
+//poly components
 import headerPanel from 'polythene/header-panel/header-panel'
+import snackbar from 'polythene/notification/snackbar'
 
 //components
 import ListOfCards from './ListOfCards.js'
@@ -46,7 +48,8 @@ const myHeaderPanel = function() {
     },
     content: m('.list', [
       this.state.data.searchActive() ? stationResultsMenu : m('div.horisontal.layout', { style: { width: '100%', height: 0 } }),
-      ListOfCards
+      ListOfCards,
+      m('div#snackbar', m.component(snackbar))
     ])
   })
 }

@@ -70,6 +70,12 @@ export default {
       data
     })
   },
+  loadSearchBar(data) {
+    Dispatcher({
+      action: Constants.ActionType.LOAD_SEARCH_BAR,
+      data
+    })
+  },
 
 
   // set journey station

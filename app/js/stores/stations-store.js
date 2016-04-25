@@ -51,11 +51,20 @@ const _data = {
   resultsPresent: m.prop(false),
   query: m.prop(''),
   validStation: m.prop(false),
-  validStationIndex: m.prop(-1)
+  validStationIndex: m.prop(-1),
+  stationToFilterFromResults: m.prop('')
+}
+
+const filterResults = (r) => {
+  if (_data.stationToFilterFromResults()) {
+    return _.filter(r, (o) => {
+      return o[1].toLowerCase() !== _data.stationToFilterFromResults()
+    })
+  } else return r
 }
 
 const handleEngineResponse = function(d) {
-  _data.results(d)
+  _data.results(filterResults(d))
   _data.resultsPresent(true)
   this.emitChange()
 }
@@ -76,6 +85,7 @@ const StationsStore = {
     _data.query = m.prop('')
     _data.validStation = m.prop(false)
     _data.validStationIndex = m.prop(-1)
+    _data.stationToFilterFromResults = m.prop('')
     // StationsStore.emitChange()
   },
 
@@ -107,7 +117,7 @@ const StationsStore = {
           stations
             .then((names) => {
               console.log(names)
-              _data.results(names)
+              _data.results(filterResults(names))
               _data.resultsPresent(true)
               StationsStore.emitChange()
             })
@@ -174,6 +184,15 @@ const StationsStore = {
         break
       case Constants.ActionType.RESET_SEARCH_BAR:
         this.resetStore()
+        break
+      case Constants.ActionType.SET_JOURNEY_STATION:
+        // console.log('SET_JOURNEY_STATION')
+        // console.log(payload.data.stationName.toLowerCase())
+        // _data.stationToFilterFromResults(payload.data.stationName[1])
+        break
+      case Constants.ActionType.LOAD_SEARCH_BAR:
+        console.log(payload)
+        _data.stationToFilterFromResults(payload.data.name.toLowerCase())
         break
       default:
         break

@@ -32,6 +32,7 @@ import iconBtn from 'polythene/icon-button/icon-button'
 
 import gIconSchedule from 'mmsvg/google/msvg/action/schedule'
 import gGoIcon from 'mmsvg/google/msvg/content/send'
+import clearIcon from 'mmsvg/google/msvg/content/clear'
 
 // import textfield from 'polythene/textfield/textfield'
 // import btn from 'polythene/button/button'
@@ -59,7 +60,7 @@ const btn = function(icn, handler) {
 
 const baseToolbar = function() {
   return m('div.layout.center-center', { class: classNames(full, tall) }, [
-    btn(gIconSchedule, handlers.schedule.bind(null, this.state.data.defaultHeader())),
+    btn(this.state.data.defaultHeader() ? gIconSchedule : clearIcon, handlers.schedule.bind(null, this.state.data.defaultHeader())),
     // bellow section should be conditional
 
     this.state.data.defaultHeader() ? renderStationHeaderSection.call(this) : renderTimeSelectionSection.call(this)

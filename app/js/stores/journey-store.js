@@ -8,6 +8,9 @@ import _ from 'lodash'
 import Bullet from 'bullet-pubsub'
 import Constants from '../constants.js'
 
+//utilities
+import Actions from '../actions.js'
+
 const LOCAL_EVENT_NAME = Constants.DataStores.JOURNEY_STORE
 // yt 10:00
 // store updates itself, noone updates it
@@ -115,6 +118,24 @@ const JourneyStore = {
         break
       case Constants.ActionType.SET_DEPARTURE_TIME:
         _data.journeyPlanner()['departureTime'] = payload.data.departureTime
+        break
+      case Constants.ActionType.SET_SEARCH_STATUS:
+        if (payload.data.searchActive) {
+          const journey = _data.journeyPlanner()
+          const origin = journey.origin
+          const destination = journey.destination
+          let stationName
+
+          if (origin) {
+            console.log(origin)
+            stationName = origin.stationName[1].toLowerCase()
+          } else if (destination) {
+            console.log(destination)
+            stationName = destination.stationName[1].toLowerCase()
+          } else stationName = ''
+
+          Actions.loadSearchBar({ name: stationName })
+        }
         break
       default:
         break

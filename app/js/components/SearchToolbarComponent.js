@@ -3,6 +3,7 @@
 // libraries
 import m from 'mithril';
 import Velocity from 'velocity-animate'
+import Bullet from 'bullet-pubsub'
 
 //utilities
 import classNames from 'classnames'
@@ -33,6 +34,9 @@ let handleClearClick = (e) => {
 
 // this is being triggered only when the station in the field is valid anyway
 const handleForwardClick = function(e) {
+  //have this available on check and show a notificatino stating that the station is invalid?
+  if (!this.state.data.validStation())
+    return
   Actions.getStationType()
 }
 
@@ -46,16 +50,40 @@ const btnClear = m.component(iconButton, {
   }
 })
 
+function rotateElement() {
+  const el = document.getElementById('choose-station-button')
+  Velocity(el, { 
+    x: '+=200', y: '25%', rotateZ: 360
+  }),
+  Velocity(el, { 
+    x: '+=200', y: '25%', rotateZ: 0
+  }, {
+    duration: 0
+  })
+}
+
+function rotate(el, initiated) {
+  if (!initiated) {
+    const element = el
+    Bullet.on('ROTATE_GO', rotateElement)
+    element.onunload = () => {
+      Bullet.off('ROTATE_GO')
+    }
+  }
+}
+
 const btnForward = function() {
   return m.component(iconButton, {
-    class: forwardBtn,
+    id: 'choose-station-button',
     icon: {
       msvg: iconForward
     },
-    // raised: state.validStation()
+    // raised: this.state.data.validStation(),
+    // disabled: !this.state.data.validStation(),
     events: {
-      onclick: handleForwardClick
-    }
+      onclick: handleForwardClick.bind(this)
+    },
+    config: rotate
   })
 }
 
@@ -110,19 +138,19 @@ const createView = function() {
         buttons: {
           none: {
             before: btnClear,
-            after: btnForward()
+            after: btnForward.call(this)
           },
           focus: {
             before: btnClear,
-            after: btnForward()
+            after: btnForward.call(this)
           },
           focus_dirty: {
             before: btnClear,
-            after: btnForward()
+            after: btnForward.call(this)
           },
           dirty: {
             before: btnClear,
-            after: btnForward()
+            after: btnForward.call(this)
           }
         }
       })
@@ -136,7 +164,8 @@ const SearchToolbarComponent = {
   state: {
     data: {
       query: m.prop(''),
-      resultsPresent: m.prop(false)
+      resultsPresent: m.prop(false),
+      validStation: m.prop(false)
     }
   },
 

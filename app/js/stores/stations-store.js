@@ -71,21 +71,11 @@ const StationsStore = {
 
   resetStore() {
     console.log('RESETING STORE')
-    console.log(_data.results())
-    console.log(_data.resultsPresent())
-    console.log(_data.query())
-    console.log(_data.validStation())
-    console.log(_data.validStationIndex())
     // _data.results = m.prop([])
     // _data.resultsPresent = m.prop(false)
     _data.query = m.prop('')
     _data.validStation = m.prop(false)
     _data.validStationIndex = m.prop(-1)
-    console.log(_data.results())
-    console.log(_data.resultsPresent())
-    console.log(_data.query())
-    console.log(_data.validStation())
-    console.log(_data.validStationIndex())
     // StationsStore.emitChange()
   },
 
@@ -93,7 +83,8 @@ const StationsStore = {
     return new Promise((resolve) => {
       resolve({ data: {
         query: _data.query,
-        resultsPresent: _data.resultsPresent
+        resultsPresent: _data.resultsPresent,
+        validStation: _data.validStation
       } })
     })
   },
@@ -180,15 +171,9 @@ const StationsStore = {
             Actions.setSearchStatus({ searchActive: false })
           })
         }
-        // close the search bar after all is extracted so this store can be reset
-        // Actions.setSearchStatus({ searchActive: false })
-        // Actions.
         break
       case Constants.ActionType.RESET_SEARCH_BAR:
-        console.log('ALKDJALSKDJALSDHLASKHD')
         this.resetStore()
-        StationsStore.emitChange()
-        console.log('change emitted')
         break
       default:
         break

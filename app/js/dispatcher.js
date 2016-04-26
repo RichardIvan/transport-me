@@ -8,6 +8,7 @@ import Store from './store.js'
 import JourneyStore from './stores/journey-store.js'
 import HeaderStore from './stores/header-store.js'
 import StationsStore from './stores/stations-store.js'
+import CardsStore from './stores/cards-store.js'
 
 // register + call back 
 
@@ -24,4 +25,5 @@ export default function (payload) {
   JourneyStore.dispatchIndex(payload)
   HeaderStore.dispatchIndex(payload)
   StationsStore.dispatchIndex(payload)
+  CardsStore.dispatchIndex(payload)
 }

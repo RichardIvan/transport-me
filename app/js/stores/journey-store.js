@@ -184,8 +184,15 @@ const JourneyStore = {
           // _.forEach(json, route => {
           //   console.log(route[0][0][1])
           // })
+          return json.length
         })
-        .then(JourneyStore.emitChange)
+        .then((length) => {
+          console.log(length)
+          const arr = Array(length)
+          arr.fill(true)
+          Actions.changeCompactStatus(arr)
+        })
+        // .then(JourneyStore.emitChange)
         break
       default:
         break

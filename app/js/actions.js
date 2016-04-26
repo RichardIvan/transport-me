@@ -104,6 +104,14 @@ export default {
       action: Constants.ActionType.SET_JOURNEY_STATION,
       data
     })
+  },
+
+  //cards
+  changeCompactStatus(data) {
+    Dispatcher({
+      action: Constants.ActionType.COMPACT_CHANGE,
+      data
+    })
   }
 }
 

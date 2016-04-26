@@ -67,6 +67,6 @@ const Data = {
   }
 }
 
-Bullet.on('INITIALIZE_APP', Data.dispatchIndex)
+// Bullet.on('INITIALIZE_APP', Data.dispatchIndex)
 
 export default Data

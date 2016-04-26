@@ -129,7 +129,7 @@ const DataControl = (function() {
 
           let possibleRoutes = findRoutes( routes, origin, destination, day)
           console.log(possibleRoutes)
-          const constructFullTime = function( oldTime ) {
+          const constructFullTime = function(oldTime) {
             return [oldTime.substr(0, 2), oldTime.substr(2, 2), '00'].join(':')
           }
           const fullTimeString = constructFullTime(time)

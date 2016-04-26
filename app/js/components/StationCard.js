@@ -5,157 +5,188 @@ import m from 'mithril'
 import _ from 'lodash'
 // const debug = require('debug')
 
+//utilities
+import Actions from '../actions.js'
+import setState from '../helpers/set-state.js'
+
+//poly components
 import list from 'polythene/list/list'
 
+//components
 import card from '../poly/card.js'
-
 import StationTiles from '../components/StationTiles.js'
 
-// let counter = 0
-
-const C = function(connection) {
-  // console.log(connection)
-  // console.log(counter++)
-  const ListOfStations = {
-
-    state: {
-      data: {
-        compact: m.prop(false)
-      }
-    },
-
-    _onChange() {
-      console.log('change')
-    },
-
-    view(ctrl) {
-      return m.component(card, {
-        // here we need to have separate thingy if the connection has a transfer
-        // os it's either an extra card or a list within the card only
-        content: m.component(list, {
-          tiles: [
-            m.component(card, {
-              content: m.component(list, {
-                tiles: [
-                  // here is the compact check
-                  _.map(connection, (single) => {
-                    return m.component(StationTiles(single, ListOfStations.state.data.compact()))
-                  })
-                ]
-              }),
-              events: {
-                onclick: (e) => {
-                  console.log(e)
-                  console.log('should or could be compact!')
-                  //trigger compact change
-                }
-              }
-            })
-          ]
+export default function(connection, index, compactBootlean) {
+  return m.component(card, {
+    // here we need to have separate thingy if the connection has a transfer
+    // os it's either an extra card or a list within the card only
+    content: m.component(list, {
+      tiles: [
+        m.component(card, {
+          content: m.component(list, {
+            tiles: [
+              // here is the compact check
+              _.map(connection, (single) => {
+                return m.component(StationTiles(single, compactBootlean))
+              })
+            ]
+          }),
+          events: {
+            onclick: (e) => {
+              Actions.changeCompactStatus({ index: index, status: !compactBootlean })
+            }
+          }
         })
-      })
-    }
-  }
-
-  return ListOfStations
-  
+      ]
+    })
+  })
 }
 
-// const MC = m.component(card, {
-//   content: m.component(list, {
-//     header: {
-//       title: 'text()'
-//     },
-//     tiles: [
-//       m.component(listTile, {
-//         content: m.component({controller: function() {}, view: function() {
-//           return m('p', text)
-//         }})
-//       }),
-//       m.component(listTile, {
-//         title: 'Ali Connors',
-//         subtitle: 'Brunch this weekend?',
-//         icon: {
-//           type: 'large',
-//           src: 'app/list-tile/avatars/1.png'
-//         }
-//       })
-//     ],
-//     borders: true,
-//     selectable: true
-//   })
-// })
+// let counter = 0
+// let subscribed = false
 
-// const view = function(ctrl) {
-//   return MC
-// }
+// let con
 
-// const MyCard = {
+// const ListOfStations = {
 
 //   state: {
 //     data: {
-//       message: m.prop('hellow'),
-//       showSidebar: m.prop(false)
+//       compact: m.prop(true)
 //     }
 //   },
 
-//   // state: new State({ message: 'hellow', showSidebar: false }),
-
 //   _onChange() {
-//     console.log('STORE GET ALL')
-//     // setState.call(App, Store.getAll())
-
-//     // App.state = Store.getAll()
-//     Store.getAll()
-//       .then(setState.bind(MyCard))
-//     //   .then(() => m.redraw())
-//     //   .then(() => console.log(App.state.data.message()))
-//   },
-
-//   _onInitialData() {
-//     // console.log(DataStore.getAll())
-//     // m.startComputation()
-//     // let state = DataStore.getAll()
-//     console.log('INITIAL LOAD')
-//     DataStore.getAll()
-//       .then(setState.bind(App))
-//     // m.endComputation()
-//     // console.log(this.state)
-//     // console.log(this.state)
+//     CardStore.getAll()
+//       .then(setState.bind(ListOfStations))
+//       .then(() => {
+//         console.log(ListOfStations.state.data.compact())
+//       })
 //   },
 
 //   controller(data) {
-
 //     this.onunload = function() {
-//       Store.removeChangeListener(MyCard._onChange)
-//       DataStore.removeChangeListener(MyCard._onInitialData)
-//       // Store.removeChangeListener(App.controller)
+//       CardStore.removeChangeListener(ListOfStations._onChange)
+//       subscribed = false
 //     }
-//     this.message = MyCard.state.data.message
-
-//     // return {
-//     //   onunload() {
-//     //     Store.removeChangeListener(App._onChange)
-//     //     DataStore.removeChangeListener(App._onInitialData)
-//     //   },
-//     //   message: App.state.data.message,
-//     //   printMessage: (e) => console.log(e)
-//     // }
 //   },
 
-//   // controller: Store.register('CUSTOM', function() {
-//   //   App.state = Store.getAll()
-//   // }),
-
 //   view(ctrl) {
-//     return MC
+//     return m.component(card, {
+//       // here we need to have separate thingy if the connection has a transfer
+//       // os it's either an extra card or a list within the card only
+//       content: m.component(list, {
+//         tiles: [
+//           m.component(card, {
+//             content: m.component(list, {
+//               tiles: [
+//                 // here is the compact check
+//                 _.map(con, (single) => {
+//                   console.log(ListOfStations.state.data.compact())
+//                   return m.component(StationTiles(single, ListOfStations.state.data.compact()))
+//                 })
+//               ]
+//             }),
+//             events: {
+//               onclick: (e) => {
+//                 console.log(e)
+//                 console.log(ListOfStations.state.data.compact())
+//                 console.log(!ListOfStations.state.data.compact())
+//                 Actions.changeCompactStatus(!ListOfStations.state.data.compact())
+                
+//                 //trigger compact change
+//               }
+//             }
+//           })
+//         ]
+//       })
+//     })
 //   }
-
 // }
 
-// setInterval(function() {
-//   // text('xyz')
-//   MyCard.view = view
-// }, 1000)
+// class Card {
+//   constructor(connection, index) {
+//     const self = this
+//     this.connection = connection;
+//     this.index = index
 
-export default C
+//     // console.log('INDEX')
+//     // console.log(this.index)
+
+//     this.state = {
+//       data: {
+//         compact: m.prop(true)
+//       }
+//     }
+
+//     this._onChange = () => {
+//       CardStore.getAll()
+//         .then(setState.bind(self))
+//         .then(() => {
+//           console.log(self.state.data.compact())
+//         })
+//     }
+
+//     this.controller = (data) => {
+//       this.onunload = function() {
+//         CardStore.removeChangeListener(self._onChange)
+//         subscribed = false
+//       },
+//       this.config = ( el, inited ) => {
+//         if (!inited) {
+//           console.log('subscribed listener')
+//           CardStore.addChangeListener(ListOfStations._onChange)
+//         }
+//       }
+//     }
+
+//     this.view = (ctrl) => {
+//       return m.component(card, {
+//         // here we need to have separate thingy if the connection has a transfer
+//         // os it's either an extra card or a list within the card only
+//         content: m.component(list, {
+//           tiles: [
+//             m.component(card, {
+//               content: m.component(list, {
+//                 tiles: [
+//                   // here is the compact check
+//                   _.map(self.connection, (single) => {
+//                     console.log(self.state.data.compact())
+//                     return m.component(StationTiles(single, self.state.data.compact()))
+//                   })
+//                 ]
+//               }),
+//               events: {
+//                 onclick: (e) => {
+//                   console.log(e)
+//                   console.log(self.state.data.compact())
+//                   console.log(!self.state.data.compact())
+//                   Actions.changeCompactStatus(!self.state.data.compact())
+                  
+//                   //trigger compact change
+//                 }
+//               }
+//             })
+//           ]
+//         })
+//       })
+//     }
+//   }
+
+//   // methods
+// }  
+
+// const myCard = newCard
+
+// const C = function(connection, index) {
+//   const ListOfStations = new Card(connection, index)
+//   // if (!subscribed) {
+//   //   CardStore.addChangeListener(ListOfStations._onChange)
+//   //   console.log('subscribed')
+//   //   console.log(subscribed)
+//   //   subscribed = true
+//   // 
+//   return ListOfStations
+// }
+
+
+// export default C

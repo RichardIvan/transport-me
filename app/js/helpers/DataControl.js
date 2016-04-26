@@ -133,27 +133,24 @@ const DataControl = (function() {
             return [oldTime.substr(0, 2), oldTime.substr(2, 2), '00'].join(':')
           }
           const fullTimeString = constructFullTime(time)
-          // console.log(fullTimeString)
 
-          let firstCollection = _.reduce(possibleRoutes, (result, route, iii) => {
+          const firstCollection = _.reduce(possibleRoutes, (result, route, iii) => {
 
-            // console.log(route)
-            // console.log(route.length)
-            let secondCollection = _.reduce(route, (res, part, indx) => {
+            const secondCollection = _.reduce(route, (res, part, indx) => {
               // console.log('PRINTED RES')
               // console.log(indx)
               // console.log(res)
               // console.log('PRINTED RES')
               if ( !indx ) {
 
-                let lineNumber = part.line
-                let partOrigin = part.origin
-                let partDestination = part.destination
+                const lineNumber = part.line
+                const partOrigin = part.origin
+                const partDestination = part.destination
 
-                let lineInfo = getLineToParse(data, lineNumber, day)
+                const lineInfo = getLineToParse(data, lineNumber, day)
 
 
-                let possibleFirstParts = []
+                const possibleFirstParts = []
                 _.each(lineInfo, (line, index, arrray) => {
                   // we return true here if the origin station is on this route and also this origin station is within the timeframe and also the destination station is present
                   let returnTrue = function() {
@@ -162,7 +159,11 @@ const DataControl = (function() {
                   
                   _.forEach(line, (stop, parsedStationIndex, array) => {
                     // console.log(stop[3])
+                    // console.log(partOrigin)
+                    // console.log(stop[3].startsWith(partOrigin))
                     if ( stop[3].startsWith(partOrigin) ) {
+
+                      console.log(partOrigin)
 
                       let departureTime = stop[1]
                       let min = fullTimeString
@@ -180,7 +181,10 @@ const DataControl = (function() {
                           if ( ix > parsedStationIndex ) {
                             // we are filtering the transfers here too
                             // console.log('filtering destination');
-                            if ( p[3] === partDestination ) {
+
+                            if ( p[3].startsWith(partDestination) ) {
+                              console.log(partDestination)
+
                               let slimmedLine = _.cloneDeep(line)
                               slimmedLine = _(slimmedLine).drop(parsedStationIndex).dropRight(line.length - ix - 1 ).value()
                               // console.log(slimmedLine)
@@ -233,7 +237,8 @@ const DataControl = (function() {
                     // }
                     
                     _.forEach(line, (stop, parsedStationIndex, array) => {
-                      // console.log(stop[3])
+                      console.log(stop[3])
+                      console.log(partOrigin)
                       if ( stop[3].startsWith(partOrigin) ) {
 
                         let departureTime = stop[1]
@@ -317,15 +322,12 @@ const DataControl = (function() {
 
 
             }, [])
-            // array of first parts
-
-            // console.log(secondCollection)
             result.push(secondCollection)
             return result
 
           }, [])
 
-          // console.log(firstCollection
+          console.log(firstCollection)
           let finalArray = _.filter(_.flatten(firstCollection), array => {
             return (!_.isEmpty(array) ) ? 1 : 0
           })

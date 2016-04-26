@@ -35,17 +35,9 @@ const List = {
         },
         tiles: [
           _.map(List.state.data.result(), (connection, index) => {
-            // console.log(connection)
-            // console.log(StationCard)
-            // console.log( index )
             return m.component(StationCard(connection))
           })
         ],
-        // tiles: [
-        //   StationCard,
-        //   StationCard,
-        //   StationCard
-        // ],
         borders: true,
         selectable: true
       })

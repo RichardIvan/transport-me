@@ -7,7 +7,7 @@ const CacheControl = (function() {
   //   '/route': this.get.bind(this)
   // }
 
-  const staticCacheName = 'transport-static-v2'
+  const staticCacheName = 'transport-static-v3'
 
   const _object = {
 

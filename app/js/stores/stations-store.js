@@ -5,6 +5,7 @@ import m from 'mithril'
 import Bloodhound from 'bloodhound-js'
 import Bullet from 'bullet-pubsub'
 import _ from 'lodash'
+import debug from 'debug'
 
 //utilities
 import Constants from '../constants.js'
@@ -56,6 +57,7 @@ const _data = {
 }
 
 const filterResults = (r) => {
+  console.log(_data.stationToFilterFromResults())
   if (_data.stationToFilterFromResults()) {
     return _.filter(r, (o) => {
       return o[1].toLowerCase() !== _data.stationToFilterFromResults()
@@ -116,7 +118,6 @@ const StationsStore = {
         if (!payload.data) {
           stations
             .then((names) => {
-              console.log(names)
               _data.results(filterResults(names))
               _data.resultsPresent(true)
               StationsStore.emitChange()
@@ -124,22 +125,6 @@ const StationsStore = {
         } else {
           engine.search(payload.data, handleEngineResponse.bind(StationsStore))
         }
-
-        
-        // stationNames.then((names) => {
-        //   const stationIndex = _.indexOf(names, payload.data.toLowerCase())
-        //   console.log(stationIndex)
-        //   if (stationIndex > -1) {
-        //     _data.validStationIndex(stationIndex)
-        //     _data.validStation(true)
-        //   } else {
-        //     _data.validStation(false)
-        //     _data.validStationIndex(-1)
-        //   }
-
-        //   StationsStore.emitChange()
-        // })
-
         break
       case Constants.ActionType.INITIALIZE_APP:
         // HeaderStore.emitChange()

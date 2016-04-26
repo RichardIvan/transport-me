@@ -42,7 +42,7 @@ const _data = {
 const JourneyStore = {
 
   getAll() {
-    console.log(_data)
+    // console.log(_data)
     return new Promise((resolve, reject) => {
       resolve({ data: _data })
     })
@@ -70,46 +70,46 @@ const JourneyStore = {
   dispatchIndex(payload) {
     console.log('PAYLOAD', payload)
     switch (payload.action) {
-      case Constants.ActionType.RETRIEVE_JOURNEY:
+      // case Constants.ActionType.RETRIEVE_JOURNEY:
 
-        console.log("RETRIEVE_JOURNEY")
+      //   console.log("RETRIEVE_JOURNEY")
 
-        fetch('http://localhost:3000/journey/RICH/FRMT/departure/WKDY/0900')
-        // .then(response => response)
-        .then(res => res.json())
-        // .then(response => response.json())
-        .then(json => {
-          _data.result(json)
+      //   fetch('http://localhost:3000/journey/RICH/FRMT/departure/WKDY/0900')
+      //   // .then(response => response)
+      //   .then(res => res.json())
+      //   // .then(response => response.json())
+      //   .then(json => {
+      //     _data.result(json)
 
-          console.log(json)
-          // _.forEach(json, route => {
-          //   console.log(route[0][0][1])
-          // })
-        })
-        .then(Journey.emitChange)
-        .catch(er => console.log(er))
+      //     console.log(json)
+      //     // _.forEach(json, route => {
+      //     //   console.log(route[0][0][1])
+      //     // })
+      //   })
+      //   .then(Journey.emitChange)
+      //   .catch(er => console.log(er))
 
-        // const dataRequest = new Request('data/')
-        // const routesRequest = new Request('routes/')
-        // const requests = [dataRequest, routesRequest]
+      //   // const dataRequest = new Request('data/')
+      //   // const routesRequest = new Request('routes/')
+      //   // const requests = [dataRequest, routesRequest]
 
-        // const promises = _.map(requests, (request) => {
-        //   return caches.match(request)
-        //     .then((response) => response.json())
-        // })
+      //   // const promises = _.map(requests, (request) => {
+      //   //   return caches.match(request)
+      //   //     .then((response) => response.json())
+      //   // })
 
 
 
-        // Promise.all(promises).then((responses) => {
-        //   _data = new DataConstructor(responses)
-        // })
-        // .then(Data.emitChange)
-        break
+      //   // Promise.all(promises).then((responses) => {
+      //   //   _data = new DataConstructor(responses)
+      //   // })
+      //   // .then(Data.emitChange)
+      //   break
       case Constants.ActionType.SET_JOURNEY_STATION:
         // const stationType = payload.data.stationType
         // const stationName = payload.data.stationName
-        console.log(payload.data)
-        console.log(payload.data.stationName)
+        // console.log(payload.data)
+        // console.log(payload.data.stationName)
 
         _data.journeyPlanner()[payload.data.stationType] = {
           stationName: payload.data.stationName
@@ -128,10 +128,10 @@ const JourneyStore = {
           let stationName
 
           if (origin) {
-            console.log(origin)
+            // console.log(origin)
             stationName = origin.stationName[1].toLowerCase()
           } else if (destination) {
-            console.log(destination)
+            // console.log(destination)
             stationName = destination.stationName[1].toLowerCase()
           } else stationName = ''
 
@@ -141,15 +141,15 @@ const JourneyStore = {
       case Constants.ActionType.FIND_ROUTES:
         const url = new URL(window.location.href)
         const urlOrigin = url.origin
-        console.log(url)
-        console.log(_data.journeyPlanner().departureTime)
+        // console.log(url)
+        // console.log(_data.journeyPlanner().departureTime)
         let time = moment(_data.journeyPlanner().departureTime, 'YYYY-MM-DDThh:mm')
-        console.log()
+        // console.log()
         if ( !time.isValid() ) {
           time = moment().local()
-          console.log(time)
+          // console.log(time)
         }
-        console.log(time)
+        // console.log(time)
         let day = time.day()
         if ( day > -1 || day < 5 ) {
           day = 'WKDY'
@@ -167,11 +167,6 @@ const JourneyStore = {
           minutes = '30'
         } else minutes = '45'
         const timeString = `${hour}${minutes}`
-        console.log(timeString)
-
-        console.log(day)
-        console.log(hour)
-        console.log(minutes)
 
         const origin = _data.journeyPlanner().origin.stationName[0]
         const destination = _data.journeyPlanner().destination.stationName[0]

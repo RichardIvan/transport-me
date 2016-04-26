@@ -223,7 +223,7 @@ const DataControl = (function() {
                   let partOrigin = part.origin
                   let partDestination = part.destination
 
-                  let lineInfo = getLineToParse(data, lineNumber, dayType)
+                  let lineInfo = getLineToParse(data, lineNumber, day)
 
                   let possibleNextPart = []
                   _.each(lineInfo, (line, index, arrray) => {

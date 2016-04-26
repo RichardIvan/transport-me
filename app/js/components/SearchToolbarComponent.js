@@ -174,38 +174,17 @@ const SearchToolbarComponent = {
       .then(setState.bind(SearchToolbarComponent))
   },
 
-  _onInit() {
-    console.log('initial data')
-  },
-
   controller(data) {
     this.onunload = function() {
-      // console.log('REMOVING THE LISTENER')
-      // console.log('REMOVING THE LISTENER')
-      // console.log('REMOVING THE LISTENER')
-      // console.log('REMOVING THE LISTENER')
-      // console.log('REMOVING THE LISTENER')
-      // console.log('REMOVING THE LISTENER')
-      // SearchToolbarComponent.state.data.query = m.prop('')
       SearchToolbarComponent._onQueryChange()
       StationsStore.removeChangeListener(SearchToolbarComponent._onQueryChange)
-      // Store.removeChangeListener(StationResultsMenu._onChange)
-      // DataStore.removeChangeListener(StationResultsMenu._onInitialData)
-      // Bullet.off('HEADER_RIPPLE')
-      // Store.removeChangeListener(App.controller)
-    },
-    this.getIt = function() {
-      console.log('yo')
     }
   },
 
   view(ctrl) {
     return createView.call(this)
   }
-
 }
-
-console.log(SearchToolbarComponent._onQueryChange)
 
 StationsStore.addChangeListener(SearchToolbarComponent._onQueryChange)
 

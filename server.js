@@ -87,8 +87,10 @@ app.get('/stations/*', (req, res) => {
   fs.readFile(filePath, 'utf-8', (err, filedata) => {
     Papa.parse(filedata, {
       complete(results) {
-        console.log(results.data)
         let dropped = _(results.data).drop().dropRight().value()
+        dropped = _.filter(dropped, (item) => {
+          return item[0].indexOf('_') === -1
+        })
         dropped = _.map(dropped, (station) => [station[0], station[1]])
         res.json(dropped)
         // console.log("Finished:", );

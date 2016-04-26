@@ -1,9 +1,10 @@
 'use strict'
 
+//libraries
 import m from 'mithril'
 import _ from 'lodash'
+// const debug = require('debug')
 
-import listTile from 'polythene/list-tile/list-tile'
 import list from 'polythene/list/list'
 
 import card from '../poly/card.js'
@@ -18,7 +19,9 @@ const C = function(connection) {
   const ListOfStations = {
 
     state: {
-      data: ''
+      data: {
+        compact: m.prop(false)
+      }
     },
 
     _onChange() {
@@ -26,21 +29,27 @@ const C = function(connection) {
     },
 
     view(ctrl) {
-      return m.component( card, {
+      return m.component(card, {
         // here we need to have separate thingy if the connection has a transfer
         // os it's either an extra card or a list within the card only
         content: m.component(list, {
           tiles: [
-            _.map(connection, (singleLine, index) => {
-              return m.component( card, {
-                content: m.component( list, {
-                  tiles: [
-                    _.map(connection, (single) => {
-                      return m.component(StationTiles( single ))
-                    })
-                  ]
-                })
-              })
+            m.component(card, {
+              content: m.component(list, {
+                tiles: [
+                  // here is the compact check
+                  _.map(connection, (single) => {
+                    return m.component(StationTiles(single, ListOfStations.state.data.compact()))
+                  })
+                ]
+              }),
+              events: {
+                onclick: (e) => {
+                  console.log(e)
+                  console.log('should or could be compact!')
+                  //trigger compact change
+                }
+              }
             })
           ]
         })

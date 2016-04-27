@@ -9,7 +9,7 @@ import App from './components/AppComponent.js'
 
 import '../css/app.scss'
 
-import ProtoService from '../js/services/protoService.js'
+import RealTimeService from '../js/services/realtimeService.js'
 
 // register service worker
 const sw = new SW()
@@ -23,9 +23,7 @@ m.route(el, '/', {
   '/home': App
 })
 
-
-ProtoService()
-
+RealTimeService()
 
 console.log(Actions)
 

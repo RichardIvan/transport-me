@@ -19,7 +19,7 @@ let loaded = false
 const valueGetter = () => {
   if (!loaded) {
     loaded = true
-    return moment().local().format('YYYY-MM-DDThh:mm')
+    return moment().local().format('YYYY-MM-DDTHH:mm')
   }
 } 
 

@@ -3,7 +3,6 @@
 // libraries
 import m from 'mithril'
 import Bullet from 'bullet-pubsub'
-import _ from 'lodash'
 
 import classNames from 'classnames'
 
@@ -68,10 +67,6 @@ const baseToolbar = function() {
 
     this.state.data.defaultHeader() ? renderStationHeaderSection.call(this) : renderTimeSelectionSection.call(this)
     ,
-
-    // this button might stay as well and the action be conditionally changed?
-    // either set departure time or find journey
-
     // pass action parameter conditionally?
     btn(gGoIcon, this.state.data.defaultHeader() ? handlers.go.bind(null) : handlers.schedule.bind(null, this.state.data.defaultHeader()))
 

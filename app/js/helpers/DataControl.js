@@ -62,10 +62,13 @@ const DataControl = (function() {
 
   let compareTime = function( comparisonType, stationTime, timeByUser) {
 
+    // console.log(stationTime)
+    // console.log(timeByUser)
+
     timeByUser = timeByUser.split(":")
     stationTime = stationTime.split(':').join('')
 
-    let timeByUserHour = parseInt(timeByUser[0])
+    let timeByUserHour = parseInt(timeByUser[0], 10)
 
     if (timeByUserHour >= 0 && timeByUserHour <= 2) {
       timeByUserHour = '' + (24 + timeByUserHour)
@@ -99,8 +102,8 @@ const DataControl = (function() {
     getRoute: function( event, pathnameInfo ) {
       // console.log(this)
 
-      console.log(event)
-      console.log(pathnameInfo)
+      // console.log(event)
+      // console.log(pathnameInfo)
 
       const dataRequest = new Request('data/')
       const routesRequest = new Request('routes/')
@@ -163,7 +166,7 @@ const DataControl = (function() {
                     // console.log(stop[3].startsWith(partOrigin))
                     if ( stop[3].startsWith(partOrigin) ) {
 
-                      console.log(partOrigin)
+                      // console.log(partOrigin)
 
                       let departureTime = stop[1]
                       let min = fullTimeString
@@ -183,7 +186,7 @@ const DataControl = (function() {
                             // console.log('filtering destination');
 
                             if ( p[3].startsWith(partDestination) ) {
-                              console.log(partDestination)
+                              // console.log(partDestination)
 
                               let slimmedLine = _.cloneDeep(line)
                               slimmedLine = _(slimmedLine).drop(parsedStationIndex).dropRight(line.length - ix - 1 ).value()
@@ -237,8 +240,8 @@ const DataControl = (function() {
                     // }
                     
                     _.forEach(line, (stop, parsedStationIndex, array) => {
-                      console.log(stop[3])
-                      console.log(partOrigin)
+                      // console.log(stop[3])
+                      // console.log(partOrigin)
                       if ( stop[3].startsWith(partOrigin) ) {
 
                         let departureTime = stop[1]
@@ -257,7 +260,7 @@ const DataControl = (function() {
                             if ( ix > parsedStationIndex ) {
                               // we are filtering the transfers here too
                               // console.log('filtering destination');
-                              if ( p[3] === partDestination ) {
+                              if ( p[3].startsWith(partDestination) ) {
                                 let slimmedLine = _.cloneDeep(line)
                                 slimmedLine = _(slimmedLine).drop(parsedStationIndex).dropRight(line.length - ix - 1 ).value()
                                 // console.log(slimmedLine)

@@ -11,6 +11,8 @@ import Constants from '../constants.js'
 
 //utilities
 import Actions from '../actions.js'
+import fetchRealtime from '../services/realtimeService.js'
+import sortHelper from '../helpers/sort-helper.js'
 
 const LOCAL_EVENT_NAME = Constants.DataStores.JOURNEY_STORE
 // yt 10:00
@@ -23,7 +25,6 @@ const DataConstructor = function(resp) {
     schedule: m.prop(responses[0] || ''),
     routes: m.prop(responses[1] || '')
   }
-  
 }
 
 const _data = {
@@ -156,7 +157,10 @@ const JourneyStore = {
         } else if ( day === 5 ) {
           day = 'SAT'
         } else day = 'SUN'
-        const hour = time.get('hour')
+        let hour = time.get('hour')
+        if (hour < 10) {
+          hour = `0${hour}`
+        }
         let minutes = time.get('minute')
 
         if (minutes < -1 || minutes < 16) {
@@ -172,27 +176,42 @@ const JourneyStore = {
         const destination = _data.journeyPlanner().destination.stationName[0]
         const urlToFetch = `${urlOrigin}/journey/${origin}/${destination}/departure/${day}/${timeString}`
 
+        console.log(urlToFetch)
+
         fetch(urlToFetch)
         // fetch('http://localhost:3000/journey/RICH/FRMT/departure/WKDY/0900')
         // .then(response => response)
         .then(res => res.json())
         // .then(response => response.json())
+        .then(sortHelper)
         .then(json => {
-          _data.result(json)
-
           console.log(json)
-          // _.forEach(json, route => {
-          //   console.log(route[0][0][1])
-          // })
+          _data.result(json)
           return json.length
         })
         .then((length) => {
-          console.log(length)
           const arr = Array(length)
           arr.fill(true)
           Actions.changeCompactStatus(arr)
         })
+        .then(fetchRealtime)
         // .then(JourneyStore.emitChange)
+        break
+      case Constants.ActionType.FILL_DELAYS:
+        const delays = payload.data
+        const delayIDs = _.map(delays, (delay) => {
+          return delay.id
+        })
+        const results = _data.result()
+        const resultIDs = _.map(results, (result) => {
+          return result[0][0][0]
+        })
+        const resultIndexes = ''
+        console.log(delayIDs)
+        console.log(resultIDs)
+
+
+
         break
       default:
         break

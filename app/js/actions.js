@@ -105,6 +105,12 @@ export default {
       data
     })
   },
+  fillDelays(data) {
+    Dispatcher({
+      action: Constants.ActionType.FILL_DELAYS,
+      data
+    })
+  },
 
   //cards
   changeCompactStatus(data) {

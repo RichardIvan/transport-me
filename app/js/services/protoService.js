@@ -1,24 +1,33 @@
 'use strict'
 
 import URI from 'urijs'
-
-const ProtoBuf = require('protobufjs')
-
-const builder = ProtoBuf.loadProtoFile('../../../gtfs-realtime.proto')
-
-const RealTime = builder.build('transit_realtime')
+import _ from 'lodash'
 
 // const url = 'http://api.bart.gov/gtfsrt/tripupdate.aspx'
 
-let url = URI(window.location.href)
-console.log(url)
+const baseUrl = new URI(window.location.href)
+const realtimeEndpoint = `http://${baseUrl.host()}/realtime/`
 // const url = 'http://api.bart.gov/gtfsrt/tripupdate.aspx'
 
 export default function() {
+  // var req = request({ uri: realtimeEndpoint }, (err, response, body) => {
+  //   console.log(response.statusCode)
+  //   if (body) {
+  //     // console.log(RealTime.TripUpdate.StopTimeUpdate.decode)
+  //     console.log(RealTime.TripUpdate.StopTimeEvent.decodeJSON(body))
+  //     // console.log(RealTime.TripUpdate.StopTimeUpdate.decodeDelimited(body))
+  //   }
+  // })
 
-  fetch(url)
-    .then(data => {
-      console.log(data)
+  fetch(realtimeEndpoint)
+    .then(data => data.json())
+    .then((json) => {
+      console.log(json)
+      _.forEach(json, (entity) => {
+        console.log(entity.trip_update)
+      })
     })
-  console.log(RealTime)
+    .catch((err) => {
+      console.log(err)
+    })
 }

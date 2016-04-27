@@ -9,7 +9,10 @@ var express = require('express')
   , bodyParser = require('body-parser')
   , logger = require('morgan')
   , fetch = require('node-fetch')
-  , fs = require('fs');
+  , fs = require('fs')
+  , request = require('request');
+
+var GtfsRealtimeBindings = require('gtfs-realtime-bindings');
 
 let Papa = require('papaparse')
 let jsonfile = require('jsonfile')
@@ -244,7 +247,21 @@ app.get('/routes/*', (req, res) => {
 })
 
 app.get('/realtime/*', (req, res) => {
-  console.log('hello realtime')
+  // const url = 'http://api.bart.gov/gtfsrt/tripupdate.aspx'
+  const urlToFetch = 'http://api.bart.gov/gtfsrt/tripupdate.aspx'
+  const requestSettings = { method: 'GET', url: urlToFetch, encoding: null }
+
+  request(requestSettings, function (error, response, body) {
+    if (!error && response.statusCode == 200) {
+      var feed = GtfsRealtimeBindings.FeedMessage.decode(body)
+      res.json(feed.entity)
+      // feed.entity.forEach(function(entity) {
+      //   if (entity.trip_update) {
+      //     res.json(entity.trip_update)
+      //   }
+      // })
+    }
+  })
 })
 
 var server = http.createServer(app)

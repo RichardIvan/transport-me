@@ -9,6 +9,8 @@ import App from './components/AppComponent.js'
 
 import '../css/app.scss'
 
+import ProtoService from '../js/services/protoService.js'
+
 // register service worker
 const sw = new SW()
 sw.register('/')
@@ -22,6 +24,7 @@ m.route(el, '/', {
 })
 
 
+ProtoService()
 
 
 console.log(Actions)

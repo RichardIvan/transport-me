@@ -241,20 +241,10 @@ app.get('/routes/*', (req, res) => {
   jsonfile.readFile( filePath, (err, data) => {
     res.json(data)
   })
+})
 
-  // fs.readFile(filePath, 'utf-8', (err, filedata) => {
-  //   Papa.parse(filedata, {
-  //     complete(results) {
-  //       // console.log(results.data.length)
-  //       // const dropped = _(results.data).drop().dropRight().value()
-  //       // console.log(dropped.length)
-  //       // res.json(dropped)
-  //       // console.log(results.data)
-  //       res.json(results.data)
-  //       // console.log("Finished:", );
-  //     }
-  //   })
-  // })
+app.get('/realtime/*', (req, res) => {
+  console.log('hello realtime')
 })
 
 var server = http.createServer(app)

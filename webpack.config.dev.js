@@ -16,6 +16,7 @@ const journey = proxyMiddleware('/journey', target)
 const raw = proxyMiddleware('/raw', target)
 const routes = proxyMiddleware('/routes', target)
 const stations = proxyMiddleware('/stations', target)
+const realtime = proxyMiddleware('/realtime', target)
 
 module.exports = {
   devtool: 'source-map',
@@ -55,7 +56,7 @@ module.exports = {
         // (which should be serving on http://localhost:3100/)
         // through BrowserSync
         proxy: 'http://localhost:8080/',
-        middleware: [data, journey, raw, routes, stations]
+        middleware: [data, journey, raw, routes, stations, realtime]
       },
       // plugin optionss
       {

@@ -36,10 +36,26 @@ html,
   margin-right: 1em;
 }
 
+.right {
+  float: right;
+  margin-right: 2.1em;
+}
+
 .toolBarSize {
   height: 64px !important;
 }
 
 :global(.pe-ripple) {
   color: #fff !important;
+}
+
+.icon {
+  position: absolute !important;
+  top: 0;
+  right: 0;
+  width: 22px !important;
+  margin-right: 1em;
+}
+.active {
+  color: dodgerblue;
 }

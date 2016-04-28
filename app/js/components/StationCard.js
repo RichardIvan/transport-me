@@ -16,24 +16,28 @@ import list from 'polythene/list/list'
 import card from '../poly/card.js'
 import StationTiles from '../components/StationTiles.js'
 
-export default function(connection, index, compactBootlean) {
+//styles
+import { cardStyle } from '../../css/card-style.scss'
+
+export default function(connection, index, compactBootlean, realtime) {
   return m.component(card, {
     // here we need to have separate thingy if the connection has a transfer
     // os it's either an extra card or a list within the card only
     content: m.component(list, {
       tiles: [
+
+        // this card - no good <-
         m.component(card, {
+          class: cardStyle,
           content: m.component(list, {
             tiles: [
               // here is the compact check
-              _.map(connection, (single) => {
-                return m.component(StationTiles(single, compactBootlean))
-              })
+              _.map(connection, (single) => StationTiles(single, compactBootlean, realtime))
             ]
           }),
           events: {
             onclick: (e) => {
-              Actions.changeCompactStatus({ index: index, status: !compactBootlean })
+              Actions.changeCompactStatus({ index, status: !compactBootlean })
             }
           }
         })

@@ -13,6 +13,7 @@ import Constants from '../constants.js'
 import Actions from '../actions.js'
 import fetchRealtime from '../services/realtimeService.js'
 import sortHelper from '../helpers/sort-helper.js'
+import changeTimeUponDelay from '../helpers/change-time-upon-delay.js'
 
 const LOCAL_EVENT_NAME = Constants.DataStores.JOURNEY_STORE
 // yt 10:00
@@ -29,7 +30,8 @@ const DataConstructor = function(resp) {
 
 const _data = {
   result: m.prop(''),
-  journeyPlanner: m.prop({})
+  journeyPlanner: m.prop({}),
+  realtime: m.prop(false)
   // journeyPlanner: m.prop({
   //   stationType: m.prop({
   //     stationName: m.prop('')
@@ -202,7 +204,7 @@ const JourneyStore = {
         const delayIDs = _.map(delays, (delay) => {
           return delay.id
         })
-        const results = _data.result()
+        let results = _data.result()
         const resultIDs = _.map(results, (result) => {
           return result[0][0][0]
         })
@@ -225,11 +227,24 @@ const JourneyStore = {
         console.log(resultIndexes)
         console.log(delayIndexes)
 
-        // _.forEach(delayIndexes, (resultIndex) => {
-        //   changeTimeUponDelay(result, timeDiff)
-        // })
+        const diffs = _.map(delayIndexes, (index) => {
+          // console.log(delays[index])
+          return delays[index].trip_update.stop_time_update[0].departure.delay
+        })
+
+        console.log(diffs)
+
+        console.log('RESULTS BEFORE TRANSFORMATION')
+        console.log(results)
+        _.forEach(diffs, (diff, index) => {
+          results[resultIndexes[index]] = changeTimeUponDelay(results[resultIndexes[index]], diff)
+        })
+        console.log('RESULTS AFTER TRANSFORMATION')
         console.log(delayIDs)
         console.log(resultIDs)
+        _data.result(results)
+        _data.realtime(true)
+        JourneyStore.emitChange()
         break
       default:
         break

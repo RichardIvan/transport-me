@@ -23,8 +23,6 @@ m.route(el, '/', {
   '/home': App
 })
 
-RealTimeService()
-
 console.log(Actions)
 
 // fetch('http://localhost:3000/stations/')

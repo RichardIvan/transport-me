@@ -12,7 +12,7 @@ import setState from '../helpers/set-state.js'
 import list from 'polythene/list/list'
 
 //components
-import StationCard from './StationCard.js'
+import stationCard from './StationCard.js'
 
 // import Journey Store
 import JourneyStore from '../stores/journey-store.js'
@@ -23,7 +23,8 @@ const List = {
   state: {
     data: {
       result: m.prop([]),
-      compact: m.prop([])
+      compact: m.prop([]),
+      realtime: m.prop(false)
     }
   },
 
@@ -47,13 +48,14 @@ const List = {
   view(ctrl) {
     const result = List.state.data.result()
     const compactValuesArray = List.state.data.compact()
+    const realtime = List.state.data.realtime()
     return m('div', [
       m.component(list, {
         header: {
           title: 'Connections'
         },
         tiles: [
-          _.map(result, (connection, index) => StationCard(connection, index,compactValuesArray[index]))
+          _.map(result, (connection, index) => stationCard(connection, index,compactValuesArray[index], realtime))
         ],
         borders: true,
         selectable: true

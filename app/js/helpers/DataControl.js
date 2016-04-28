@@ -34,12 +34,7 @@ const DataControl = (function() {
   }
 
   const _object = {
-    getRoute( event, pathnameInfo ) {
-      // console.log(this)
-
-      // console.log(event)
-      // console.log(pathnameInfo)
-
+    getRoute(event, pathnameInfo) {
       const dataRequest = new Request('data/')
       const routesRequest = new Request('routes/')
       const requests = [dataRequest, routesRequest]
@@ -48,9 +43,7 @@ const DataControl = (function() {
         return caches.match(request)
           .then((response) => response.json())
       })
-      // DataControl.transformData.bind(event)
-      // console.log(_object)
-      
+
       return Promise.all(promises)
         .then((results) => {
           console.log(results)
@@ -65,7 +58,7 @@ const DataControl = (function() {
           console.log(day)
           console.log(time)
 
-          const possibleRoutes = findRoutes( routes, origin, destination, day)
+          const possibleRoutes = findRoutes(routes, origin, destination, day)
           console.log(possibleRoutes)
           const constructFullTime = function(oldTime) {
             return [oldTime.substr(0, 2), oldTime.substr(2, 2), '00'].join(':')
@@ -90,12 +83,12 @@ const DataControl = (function() {
                       hr = ( hr.toString().length === 1 ) ? '0' + hr : hr
                       max[0] = hr
                       max = max.join(':')
-                      if ( compareTime('gt', departureTime, min) && compareTime('lt', departureTime, max)) {
+                      if (compareTime('gt', departureTime, min) && compareTime('lt', departureTime, max)) {
                         _.eachRight(line, (p, ix) => {
                           if (ix > parsedStationIndex) {
                             if (p[3].startsWith(partDestination)) {
                               let slimmedLine = _.cloneDeep(line)
-                              slimmedLine = _(slimmedLine).drop(parsedStationIndex).dropRight(line.length - ix - 1 ).value()
+                              slimmedLine = _(slimmedLine).drop(parsedStationIndex).dropRight(line.length - ix - 1).value()
                               _.forEach(slimmedLine, (s) => {
                                 s[6] = lineNumber
                               })
@@ -117,12 +110,11 @@ const DataControl = (function() {
                 const previousPartDepartureTimes = _.map(res, (part) => _.last(part[previousPartIndex])[1])
 
                 _.forEach(previousPartDepartureTimes, (time, partialIndex) => {
-
                   const lineNumber = part.line
                   const partOrigin = part.origin
                   const partDestination = part.destination
 
-                  let lineInfo = getLineToParse(data, lineNumber, day)
+                  const lineInfo = getLineToParse(data, lineNumber, day)
 
                   const possibleNextPart = []
                   _.each(lineInfo, (line, index) => {
@@ -134,13 +126,11 @@ const DataControl = (function() {
                         const min = time
                         let max = time.split(':')
                         let hr = parseInt(max[0], 10) + 1
-                        hr = ( hr.toString().length === 1 ) ? '0' + hr : hr
-                        // console.log(hr)
+                        hr = (hr.toString().length === 1) ? `0${hr}` : hr
                         max[0] = hr
                         max = max.join(':')
-                        // console.log( max )
-                        if (compareTime( 'gt', departureTime, min) && compareTime('lt', departureTime, max)) {
-                          _.eachRight( line, (p, ix ) => {
+                        if (compareTime('gt', departureTime, min) && compareTime('lt', departureTime, max)) {
+                          _.eachRight(line, (p, ix) => {
                             if (ix > parsedStationIndex) {
                               if (p[3].startsWith(partDestination)) {
                                 let slimmedLine = _.cloneDeep(line)

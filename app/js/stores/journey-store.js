@@ -206,12 +206,30 @@ const JourneyStore = {
         const resultIDs = _.map(results, (result) => {
           return result[0][0][0]
         })
-        const resultIndexes = ''
+        const resultIndexes = []
+        const delayIndexes = []
+        _.forEach(delayIDs, (id) => {
+          const index = _.indexOf(resultIDs, id)
+          console.log(index)
+          if (index !== -1)
+            resultIndexes.push(index)
+        })
+        _.forEach(resultIDs, (id) => {
+          const index = _.indexOf(delayIDs, id)
+          if (index !== -1) {
+            console.log(delays[index])
+            delayIndexes.push(index)
+          }
+        })
+
+        console.log(resultIndexes)
+        console.log(delayIndexes)
+
+        // _.forEach(delayIndexes, (resultIndex) => {
+        //   changeTimeUponDelay(result, timeDiff)
+        // })
         console.log(delayIDs)
         console.log(resultIDs)
-
-
-
         break
       default:
         break

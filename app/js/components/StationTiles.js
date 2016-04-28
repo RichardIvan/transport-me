@@ -18,8 +18,6 @@ import styles from '../../css/app.scss'
 import LineStyles from '../../css/line-number-colors.scss'
 
 const renderIcon = (realtime) => {
-  console.log("REALTIME ICOOOON")
-  console.log(realtime)
   return m.component(icon, {
     class: classNames(styles.icon, realtime ? styles.active : ''),
     msvg: radioIcon
@@ -37,29 +35,42 @@ const compactPart = function(stations) {
   const first = _.first(stations)
   const last = _.last(stations)
 
-  const array = [
-    createList(first),
-    createList(last)
-  ]
-  return array
+  return m('ul', { style: { listStyle: 'none', padding: '0px' } }, [
+    m('li', { style: { marginTop: '1em', marginBottom: '1em' } }, createList(first)),
+    m('li', { style: { marginTop: '1em', marginBottom: '1em' } }, createList(last))
+  ])
+  // const array = [
+  //   createList(first),
+  //   createList(last)
+  // ]
+  // return array
 }
 
 const fullPart = (stations) => {
-  return  _.map(stations, (station) => {
+  return m('ul', { style: { listStyle: 'none', padding: '0px' } }, [
+      _.map(stations, (station) => {
             // console.log(station)
-            return createList(station)
+            return m('li', { style: { marginTop: '1em', marginBottom: '1em' } }, createList(station))
           })
+    ]) 
 }
 
-export default function(stations, compact, realtime) {
-  const className = LineStyles[ColorConstants[stations[0][6]]]
+export default function(stations, compact, realtime, duration) {
+  const lineNumber = stations[0][6]
+  const className = LineStyles[ColorConstants[lineNumber]]
   return m.component(listTile, {
     // class: className,
-    title: 'fucking hell',
     content: [
-      m(`.${className}`),
-      compact ? compactPart(stations) : fullPart(stations),
-      renderIcon(realtime)
+      // m(`.${className}`),
+      m('div', m(`ul.${styles['line-info']}`, [
+        m('li', `Line: ${lineNumber}`),
+        m('li', { class: styles['li-right'] }, `Duration: ${duration} ${duration == 1 ? 'minute' : 'minutes'}`),
+        m('li', renderIcon(realtime)) 
+      ])),
+      m(`.${styles['li-content']}`, [
+        m(`.${className}`),
+        compact ? compactPart(stations) : fullPart(stations)
+      ]),
     ]
   })
   // return m.component(listTile, {

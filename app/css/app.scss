@@ -54,8 +54,26 @@ html,
   top: 0;
   right: 0;
   width: 22px !important;
-  margin-right: 1em;
+  margin-right: 0.3em;
+  margin-top: -0.3em;
 }
 .active {
   color: dodgerblue;
+}
+.li-content {
+  padding: 1em;
+  position: relative;
+}
+.line-info {
+  list-style: none
+}
+.line-info li {
+  display: inline
+}
+.li-right {
+  float: right;
+  margin-right: 3em;
+}
+:global(#origin), :global(#destination) {
+  width: 100%;
 }

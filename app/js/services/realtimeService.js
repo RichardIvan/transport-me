@@ -14,14 +14,11 @@ export default function() {
     fetch(realtimeEndpoint)
       .then(data => data.json())
       .then((json) => {
-        console.log(json)
-        console.log(json.length)
         const delayedTrips = _.filter(json, (entity) => {
           // console.log(entity.length)
           // console.log(entity.id)
           return entity.trip_update.stop_time_update[0].departure.delay !== 0
         })
-        console.log(delayedTrips)
         if (!_.isEmpty(delayedTrips)) {
           Actions.fillDelays(delayedTrips)
         }

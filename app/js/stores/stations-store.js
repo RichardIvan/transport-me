@@ -57,7 +57,6 @@ const _data = {
 }
 
 const filterResults = (r) => {
-  console.log(_data.stationToFilterFromResults())
   if (_data.stationToFilterFromResults()) {
     return _.filter(r, (o) => {
       return o[1].toLowerCase() !== _data.stationToFilterFromResults()
@@ -81,14 +80,10 @@ const StationsStore = {
   },
 
   resetStore() {
-    console.log('RESETING STORE')
-    // _data.results = m.prop([])
-    // _data.resultsPresent = m.prop(false)
     _data.query = m.prop('')
     _data.validStation = m.prop(false)
     _data.validStationIndex = m.prop(-1)
     _data.stationToFilterFromResults = m.prop('')
-    // StationsStore.emitChange()
   },
 
   getQuery() {
@@ -140,26 +135,16 @@ const StationsStore = {
       case Constants.ActionType.SEARCH_STATIONS_QUERY:
         validateStation.call(_data, stationNames, payload.data)
         _data.query(payload.data)
-        // _data.results([])
-        // _data.resultsPresent(false)
-        //actions .. this will trigger the serch station
         Actions.searchStations(payload.data)
         StationsStore.emitChange()
         break
       case Constants.ActionType.RETRIEVE_JOURNEY_VALID_STATION_NAME:
-        console.log(payload.data)
-        console.log(_data.validStation())
         if (_data.validStation()) {
           stations.then((data) => {
-
-            console.log(data[_data.validStationIndex()])
-            console.log(_data.validStationIndex())
-
             const dataForAction = {
               stationType: payload.data,
               stationName: data[_data.validStationIndex()]
             }
-            console.log(dataForAction)
             Actions.setJourneyStation(dataForAction)
           })
           .then(() => {
@@ -171,12 +156,8 @@ const StationsStore = {
         this.resetStore()
         break
       case Constants.ActionType.SET_JOURNEY_STATION:
-        // console.log('SET_JOURNEY_STATION')
-        // console.log(payload.data.stationName.toLowerCase())
-        // _data.stationToFilterFromResults(payload.data.stationName[1])
         break
       case Constants.ActionType.LOAD_SEARCH_BAR:
-        console.log(payload)
         _data.stationToFilterFromResults(payload.data.name.toLowerCase())
         break
       default:

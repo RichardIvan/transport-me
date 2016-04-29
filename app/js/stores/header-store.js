@@ -45,7 +45,6 @@ const HeaderStore = {
         HeaderStore.emitChange()
         break
       case Constants.ActionType.INITIALIZE_APP:
-        console.log('INITIAL HEADER LOAD')
         HeaderStore.emitChange()
         break
       case Constants.ActionType.GET_STATION_TYPE:

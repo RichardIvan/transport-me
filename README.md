@@ -22,6 +22,7 @@ Lastly run:
 npm run serve
 ```
 
+Please note when running the app with command npm run dev .. the backend server needs to run before this command. So please run ```node --harmony_destructuring server.js``` first
 
 ### Technologies Used.
 

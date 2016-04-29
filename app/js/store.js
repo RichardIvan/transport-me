@@ -42,7 +42,7 @@ const Store = {
   },
 
   dispatchIndex(payload) {
-    console.log('PAYLOAD', payload)
+    // console.log('PAYLOAD', payload)
     switch (payload.action) {
       case Constants.ActionTypes.TEST_STORE:
         _data.message('test store works')

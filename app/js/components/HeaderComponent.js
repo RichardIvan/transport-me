@@ -106,7 +106,6 @@ const HeaderComponent = {
   },
 
   _onJourneyStoreChange() {
-    console.log('GETTING _onJourneyStoreChange')
     JourneyStore.getJourneyPlanner()
       .then(setState.bind(HeaderComponent))
   },

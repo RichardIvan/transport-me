@@ -8,7 +8,7 @@ import Constants from '../constants.js'
 //utilities
 import Actions from '../actions.js'
 
-const LOCAL_EVENT_NAME = Constants.DataStores.STORE
+const LOCAL_EVENT_NAME = Constants.DataStores.HEADER_STORE
 
 const _data = {
   searchActive: m.prop(false),
@@ -35,7 +35,7 @@ const HeaderStore = {
   },
 
   dispatchIndex(payload) {
-    console.log('PAYLOAD', payload)
+    // console.log('PAYLOAD', payload)
     switch (payload.action) {
       case Constants.ActionType.SET_SEARCH_STATUS:
         _data.searchActive(payload.data.searchActive)
@@ -45,7 +45,6 @@ const HeaderStore = {
         HeaderStore.emitChange()
         break
       case Constants.ActionType.INITIALIZE_APP:
-        console.log('INITIAL HEADER LOAD')
         HeaderStore.emitChange()
         break
       case Constants.ActionType.GET_STATION_TYPE:

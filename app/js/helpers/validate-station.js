@@ -7,7 +7,6 @@ import Bullet from 'bullet-pubsub'
 export default function(stations, station) {
   stations.then((names) => {
     const stationIndex = _.indexOf(names, station.toLowerCase())
-    console.log(stationIndex)
     if (stationIndex > -1) {
       this.validStationIndex(stationIndex)
       this.validStation(true)

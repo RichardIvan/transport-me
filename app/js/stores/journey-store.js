@@ -71,58 +71,19 @@ const JourneyStore = {
   },
 
   dispatchIndex(payload) {
-    console.log('PAYLOAD', payload)
+    // console.log('PAYLOAD', payload)
     switch (payload.action) {
-      // case Constants.ActionType.RETRIEVE_JOURNEY:
-
-      //   console.log("RETRIEVE_JOURNEY")
-
-      //   fetch('http://localhost:3000/journey/RICH/FRMT/departure/WKDY/0900')
-      //   // .then(response => response)
-      //   .then(res => res.json())
-      //   // .then(response => response.json())
-      //   .then(json => {
-      //     _data.result(json)
-
-      //     console.log(json)
-      //     // _.forEach(json, route => {
-      //     //   console.log(route[0][0][1])
-      //     // })
-      //   })
-      //   .then(Journey.emitChange)
-      //   .catch(er => console.log(er))
-
-      //   // const dataRequest = new Request('data/')
-      //   // const routesRequest = new Request('routes/')
-      //   // const requests = [dataRequest, routesRequest]
-
-      //   // const promises = _.map(requests, (request) => {
-      //   //   return caches.match(request)
-      //   //     .then((response) => response.json())
-      //   // })
-
-
-
-      //   // Promise.all(promises).then((responses) => {
-      //   //   _data = new DataConstructor(responses)
-      //   // })
-      //   // .then(Data.emitChange)
-      //   break
       case Constants.ActionType.SET_JOURNEY_STATION:
-        // const stationType = payload.data.stationType
-        // const stationName = payload.data.stationName
-        // console.log(payload.data)
-        // console.log(payload.data.stationName)
-
         _data.journeyPlanner()[payload.data.stationType] = {
           stationName: payload.data.stationName
         }
-
         JourneyStore.emitChange()
         break
+
       case Constants.ActionType.SET_DEPARTURE_TIME:
         _data.journeyPlanner()['departureTime'] = payload.data.departureTime
         break
+
       case Constants.ActionType.SET_SEARCH_STATUS:
         if (payload.data.searchActive) {
           const journey = _data.journeyPlanner()
@@ -141,6 +102,7 @@ const JourneyStore = {
           Actions.loadSearchBar({ name: stationName })
         }
         break
+
       case Constants.ActionType.FIND_ROUTES:
         const url = new URL(window.location.href)
         const urlOrigin = url.origin
@@ -148,7 +110,7 @@ const JourneyStore = {
         // console.log(_data.journeyPlanner().departureTime)
         let time = moment(_data.journeyPlanner().departureTime, 'YYYY-MM-DDThh:mm')
         // console.log()
-        if ( !time.isValid() ) {
+        if (!time.isValid()) {
           time = moment().local()
           // console.log(time)
         }
@@ -178,9 +140,6 @@ const JourneyStore = {
         const destination = _data.journeyPlanner().destination.stationName[0]
         const urlToFetch = `${urlOrigin}/journey/${origin}/${destination}/departure/${day}/${timeString}`
 
-        console.log(urlToFetch)
-        console.log('about to fetch')
-
         fetch(urlToFetch)
         // fetch('http://localhost:3000/journey/RICH/FRMT/departure/WKDY/0900')
         // .then(response => response)
@@ -188,7 +147,6 @@ const JourneyStore = {
         // .then(response => response.json())
         .then(sortHelper)
         .then(json => {
-          console.log(json)
           _data.result(json)
           return json.length
         })
@@ -200,6 +158,7 @@ const JourneyStore = {
         .then(fetchRealtime)
         // .then(JourneyStore.emitChange)
         break
+        
       case Constants.ActionType.FILL_DELAYS:
         const delays = payload.data
         const delayIDs = _.map(delays, (delay) => {
@@ -213,36 +172,23 @@ const JourneyStore = {
         const delayIndexes = []
         _.forEach(delayIDs, (id) => {
           const index = _.indexOf(resultIDs, id)
-          console.log(index)
           if (index !== -1)
             resultIndexes.push(index)
         })
         _.forEach(resultIDs, (id) => {
           const index = _.indexOf(delayIDs, id)
           if (index !== -1) {
-            console.log(delays[index])
             delayIndexes.push(index)
           }
         })
-
-        console.log(resultIndexes)
-        console.log(delayIndexes)
 
         const diffs = _.map(delayIndexes, (index) => {
           // console.log(delays[index])
           return delays[index].trip_update.stop_time_update[0].departure.delay
         })
-
-        console.log(diffs)
-
-        console.log('RESULTS BEFORE TRANSFORMATION')
-        console.log(results)
         _.forEach(diffs, (diff, index) => {
           results[resultIndexes[index]] = changeTimeUponDelay(results[resultIndexes[index]], diff)
         })
-        console.log('RESULTS AFTER TRANSFORMATION')
-        console.log(delayIDs)
-        console.log(resultIDs)
         _data.result(results)
         _data.realtime(true)
         JourneyStore.emitChange()

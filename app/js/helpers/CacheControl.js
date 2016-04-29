@@ -23,7 +23,7 @@ const CacheControl = (function() {
         throw err
       })
     },
-    getFromCache: function(event, callback, cache) {
+    getFromCache: function(event, callback) {
 
       console.log('GETTING FROM CACHE')
       console.log(event.request)
@@ -48,8 +48,8 @@ const CacheControl = (function() {
           return response
         }
         // console.log('No response found in cache. About to fetch from network...')
-        if (cache === false)
-          return
+        // if (cache === false)
+        //   return
 
         // return new Response(['resp'])
         return callback()

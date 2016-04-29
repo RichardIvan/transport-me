@@ -1,6 +1,8 @@
 'use strict'
 
 import _ from 'lodash'
+import CacheControl from './CacheControl.js'
+import NetworkControl from './NetworkControl.js'
 
 const DataControl = (function() {
   const findRoutes = function(routes, origin, destination, dayType) {
@@ -39,9 +41,16 @@ const DataControl = (function() {
       const routesRequest = new Request('routes/')
       const requests = [dataRequest, routesRequest]
 
+      console.log(dataRequest)
+      console.log(routesRequest)
+
       const promises = _.map(requests, (request) => {
-        return caches.match(request)
-          .then((response) => response.json())
+        //fetch the endpoints here
+        console.log('REQUESTING DATA AND ROUTES VIA CACHECONTROL')
+        return CacheControl.getFromCache(request, NetworkControl.fetchFromNetwork.bind(null, request)).then((response) => response.json())
+        // return fetch(request).then((response) => response.json())
+        // return caches.match(request)
+        //   .then((response) => response.json())
       })
 
       return Promise.all(promises)

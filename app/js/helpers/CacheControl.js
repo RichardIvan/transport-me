@@ -7,7 +7,7 @@ const CacheControl = (function() {
   //   '/route': this.get.bind(this)
   // }
 
-  const staticCacheName = 'transport-static-v3'
+  const staticCacheName = 'transport-static-v2'
 
   const _object = {
 
@@ -24,6 +24,23 @@ const CacheControl = (function() {
       })
     },
     getFromCache: function(event, callback) {
+
+      console.log('GETTING FROM CACHE')
+      console.log(event.request)
+      console.log(event)
+      console.log(event.url)
+      // console.log(event.request.url.indexOf('/data/'))
+      // console.log(event.request.url.indexOf('/routes/'))
+
+      if (event.url) {
+        if( event.url.indexOf('/data/') !== -1 ) {
+          console.log('FOUND DATA IN REQUEST')
+          event.request = new Request('data/')
+        } else if (event.url.indexOf('/routes/') !== -1 ) {
+          console.log('FOUND ROUTES IN REQUEST')
+          event.request = new Request('routes/')
+        }
+      }
 
       return caches.match(event.request).then((response) => {
         if (response && response.clone().ok) {

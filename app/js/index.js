@@ -18,10 +18,7 @@ sw.register('/')
 Actions.initialize.call(this, { action: 'INITIALIZE_APP' })
 
 const el = document.getElementById('app')
-m.route(el, '/', {
-  '/': App,
-  '/home': App
-})
+m.mount(el, App)
 
 console.log(Actions)
 

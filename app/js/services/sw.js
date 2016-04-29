@@ -3,7 +3,7 @@
 const registerServiceWorker = require('serviceworker!./workers/serviceWorker.js')
 
 class Sw {
-  constructor() {
+  constructor(scope) {
     this.scope = '/'
   }
   register (scope) {

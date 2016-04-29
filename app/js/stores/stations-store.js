@@ -14,7 +14,7 @@ import Actions from '../actions.js'
 //helpers
 import validateStation from '../helpers/validate-station.js'
 
-const LOCAL_EVENT_NAME = Constants.DataStores.STORE
+const LOCAL_EVENT_NAME = Constants.DataStores.STATIONS_STORE
 
 let engine 
 

@@ -179,6 +179,7 @@ const JourneyStore = {
         const urlToFetch = `${urlOrigin}/journey/${origin}/${destination}/departure/${day}/${timeString}`
 
         console.log(urlToFetch)
+        console.log('about to fetch')
 
         fetch(urlToFetch)
         // fetch('http://localhost:3000/journey/RICH/FRMT/departure/WKDY/0900')

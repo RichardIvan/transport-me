@@ -20,21 +20,23 @@ self.addEventListener('install', (event) => {
 
     caches.open(staticCacheName).then((cache) => {
       return cache.addAll([
-        // '../../../index.html'
-        // 'data/'
-        // '../js/index.js'
-        'stations/'
+        '/',
+        '/index.html',
+        '/css/main.css',
+        '/js/index.js',
+        '/?/',
+        '/?/index.html',
+        '/?/css/main.css',
+        '/?/js/index.js',
+        '/stations/'
       ]).then((a) => {
-        // console.log()
         // console.log(window)
         const endpoints = ['data/', 'routes/']
 
-        // console.log(endpoints)
-
-        const promises = _.map(endpoints, endpoint => {
+        const promises = _.map(endpoints, (endpoint) => {
           const url = `${event.currentTarget.registration.scope}${endpoint}`
 
-          return fetch(url).then(response => {
+          return fetch(url).then((response) => {
             const dataRequest = new Request(endpoint)
 
             return cache.put(dataRequest, response)
@@ -44,7 +46,8 @@ self.addEventListener('install', (event) => {
         return Promise.all(promises)
         
       }).catch((e) => console.log(e))
-    }).then(() => {
+    })
+    .then(() => {
       self.skipWaiting()
     })
   )
@@ -82,14 +85,26 @@ self.addEventListener('fetch', (event) => {
 
   const endpoint = dataFromURL.endpoint
 
+  console.log('ENDPOINT IN SW')
+  console.log(endpoint)
+
   switch (endpoint) {
     case 'data':
       // getFromCache accepts event / event.request and callbackFunction in case there is no data in in the cache
-      return CacheControl.getFromCache(event, DataControl.transformData.bind(null, event))
+      event.respondWith(
+        CacheControl.getFromCache(event, NetworkControl.fetchFromNetwork.bind(null, event))
+        )
+      break
+    case 'routes':
+      // getFromCache accepts event / event.request and callbackFunction in case there is no data in in the cache
+      event.respondWith(
+        CacheControl.getFromCache(event, NetworkControl.fetchFromNetwork.bind(null, event))
+        )
       break
     case 'journey':
       // let thingy = CacheControl.getFromCache(event, DataControl.getRoute.bind(null, event, pathnameInfo))
       // console.log()
+      console.log(dataFromURL)
 
       event.respondWith(
         CacheControl.getFromCache(event, DataControl.getRoute.bind(null, event, dataFromURL))
@@ -109,7 +124,13 @@ self.addEventListener('fetch', (event) => {
         CacheControl.getFromCache(event, NetworkControl.fetchFromNetwork.bind(null, event))
       )
       break
+    case 'realtime':
+      event.respondWith(
+        NetworkControl.fetchFromNetwork(event)
+      )
+      break
     default:
+      event.respondWith(CacheControl.getFromCache(event))
       break
   }
 

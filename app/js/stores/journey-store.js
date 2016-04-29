@@ -154,6 +154,7 @@ const JourneyStore = {
           const arr = Array(length)
           arr.fill(true)
           Actions.changeCompactStatus(arr)
+          Actions.changeRealtimeStatus(false)
         })
         .then(fetchRealtime)
         // .then(JourneyStore.emitChange)
@@ -193,6 +194,9 @@ const JourneyStore = {
         _data.realtime(true)
         JourneyStore.emitChange()
         break
+      case Constants.ActionType.CHANGE_REALTIME_STATUS:
+        _data.realtime(payload.data)
+        JourneyStore.emitChange()
       default:
         break
     }

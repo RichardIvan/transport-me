@@ -118,6 +118,12 @@ export default {
       action: Constants.ActionType.COMPACT_CHANGE,
       data
     })
+  },
+  changeRealtimeStatus(data) {
+    Dispatcher({
+      action: Constants.ActionType.CHANGE_REALTIME_STATUS,
+      data
+    })
   }
 }
 

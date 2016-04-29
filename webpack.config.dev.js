@@ -65,7 +65,7 @@ module.exports = {
         reload: false
       }
     ),
-    new ExtractTextPlugin('./main.css', { allChunks: true })
+    new ExtractTextPlugin('./css/main.css', { allChunks: true })
   ],
   module: {
     loaders: [{

@@ -23,7 +23,7 @@ const CacheControl = (function() {
         throw err
       })
     },
-    getFromCache: function(event, callback) {
+    getFromCache: function(event, callback, cache) {
 
       console.log('GETTING FROM CACHE')
       console.log(event.request)
@@ -48,20 +48,35 @@ const CacheControl = (function() {
           return response
         }
         // console.log('No response found in cache. About to fetch from network...')
-
+        if (cache === false)
+          return
 
         // return new Response(['resp'])
         return callback()
           .then(resp => {
             // console.log(response.clone().json())
+            // if (!cache)
+            //   return
+            // if (event.url) {
+            //   let init = { 'status': 200, 'statusText': "OK"}
+            //   let response = new Response(resp, init)
+            //   CacheControl.putIntoCache(event, response.clone())
+            //   return response
+            // } else {
+            //   CacheControl.putIntoCache(event, resp.clone())
+            //   return resp
+            // }
+            
             let init = { 'status': 200, 'statusText': "OK"}
             let response = new Response(resp, init)
             CacheControl.putIntoCache(event, response.clone())
+            return response
+            
             // console.log(response.json())
 
             // let clone = response.clone()
             // console.log(clone.json())
-            return response
+            
           })
           .catch(err => console.log(err))
 

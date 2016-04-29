@@ -38,7 +38,7 @@ var BART = require('./BART.js')
 const pFlagIndex = process.argv.indexOf('-p')
 
 const app = express()
-const port = process.argv[pFlagIndex + 1] || 1337
+const port = (pFlagIndex !== -1 ) ? process.argv[pFlagIndex + 1] : 1337
 
 const publicDir = path.join(__dirname, '')
 

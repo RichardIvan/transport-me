@@ -91,6 +91,8 @@ self.addEventListener('fetch', (event) => {
   switch (endpoint) {
     case 'data':
       // getFromCache accepts event / event.request and callbackFunction in case there is no data in in the cache
+      // const dataRequest = new Request('data/')
+      // const routesRequest = new Request('routes/')
       event.respondWith(
         CacheControl.getFromCache(event, NetworkControl.fetchFromNetwork.bind(null, event))
         )
@@ -129,84 +131,17 @@ self.addEventListener('fetch', (event) => {
         NetworkControl.fetchFromNetwork(event)
       )
       break
+    case 'browser-sync':
+    case 'sockjs-node':
+      break
     default:
-      event.respondWith(CacheControl.getFromCache(event))
+      console.log(endpoint)
+      console.log(endpoint)
+      console.log(endpoint)
+      console.log(endpoint)
+      event.respondWith(CacheControl.getFromCache(event, NetworkControl.fetchFromNetwork.bind(null, event)))
+      // // event.respondWith(CacheControl.getFromCache(event, NetworkControl.fetchFromNetwork.bind(null, event)))
+      // event.respondWith(CacheControl.getFromCache(event, NetworkControl.fetchFromNetwork.bind(null, event, false)))
       break
   }
-
-  // CacheControl.isCacheable(pathname, event)
-
-  // if (  ) {
-  //   console.log('yes it is cacheable')
-  //   // CacheControl.get(event)
-  // }
-  
-
-  // switch (pathname) {
-  //   case '/js/index.js':
-  //     event.respondWith(
-
-  //       caches.match(event.request).then((response) => {
-  //         if (response) {
-  //           console.log('Found response in cache:', response)
-  //           return response
-  //         }
-  //         console.log('No response found in cache. About to fetch from network...')
-
-  //         return fetch(event.request).then((res) => {
-  //           console.log('Response from network is:', res)
-  //           return caches.open(staticCacheName).then((cache) => {
-  //             console.log('Putting response in in Cache')
-  //             cache.put(event.request, res.clone())
-  //             return res
-  //           })
-
-  //           // return response;
-  //         }).catch((error) => {
-  //           console.error('Fetching failed:', error)
-  //           throw error
-  //         })
-
-  //       })
-
-  //     )
-  //     break
-
-
-  // }
-
-  // const end = now()
-  // const duration = (start - end).toFixed(3) * -1
-  // console.log(`${duration} ms`)
-
-  // console.log(url)
-  // console.log(url.host)
-  // console.log(url.pathname)
-
-  // if (url.host === 'localhost:3000' && url.pathname === '/stations') {
-  //   console.log('Handling fetch event for', event.request.url)
-
-    // console.log( 'we are trying to get content from cache' )
-    // event.respondWith(
-    //   caches.match(event.request).catch(() => {
-    //     console.log( 'dont have match in cache' )
-    //     return fetch(event.request).then((response) => {
-    //       console.log( 'successful fetch over the network' )
-    //       return caches.open('v1').then((cache) => {
-    //         console.log( 'ive sucessfully put in in cache' )
-    //         cache.put(event.request, response.clone())
-    //         return response;
-    //       })
-    //     })
-    //   }).catch(() => {
-    //     console.log('this is some sort of brutal error')
-    //     return caches.match('/sw-test/gallery/myLittleVader.jpg')
-    //   })
-    // )
-  // }
-
-  // console.log(event)
-  // event.respondWith(
-  //   caches.match(event.request);
-  // );
 })

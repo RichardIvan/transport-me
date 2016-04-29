@@ -135,10 +135,6 @@ self.addEventListener('fetch', (event) => {
     case 'sockjs-node':
       break
     default:
-      console.log(endpoint)
-      console.log(endpoint)
-      console.log(endpoint)
-      console.log(endpoint)
       event.respondWith(CacheControl.getFromCache(event, NetworkControl.fetchFromNetwork.bind(null, event)))
       // // event.respondWith(CacheControl.getFromCache(event, NetworkControl.fetchFromNetwork.bind(null, event)))
       // event.respondWith(CacheControl.getFromCache(event, NetworkControl.fetchFromNetwork.bind(null, event, false)))

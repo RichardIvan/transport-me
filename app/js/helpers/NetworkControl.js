@@ -6,7 +6,7 @@ const NetworkControl = (function() {
     fetchFromNetwork(event) {
       console.log('network fetch')
       const url = event.request.url
-      return fetch(url)
+      return fetch(url).catch(err => err)
     }
 
   }

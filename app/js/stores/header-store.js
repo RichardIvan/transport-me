@@ -35,7 +35,7 @@ const HeaderStore = {
   },
 
   dispatchIndex(payload) {
-    console.log('PAYLOAD', payload)
+    // console.log('PAYLOAD', payload)
     switch (payload.action) {
       case Constants.ActionType.SET_SEARCH_STATUS:
         _data.searchActive(payload.data.searchActive)

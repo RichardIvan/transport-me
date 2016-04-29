@@ -71,7 +71,7 @@ const JourneyStore = {
   },
 
   dispatchIndex(payload) {
-    console.log('PAYLOAD', payload)
+    // console.log('PAYLOAD', payload)
     switch (payload.action) {
       // case Constants.ActionType.RETRIEVE_JOURNEY:
 

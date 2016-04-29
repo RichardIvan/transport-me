@@ -112,7 +112,7 @@ const StationsStore = {
   },
 
   dispatchIndex(payload) {
-    console.log('PAYLOAD', payload)
+    // console.log('PAYLOAD', payload)
     switch (payload.action) {
       case Constants.ActionType.SEARCH_STATIONS:
         if (!payload.data) {

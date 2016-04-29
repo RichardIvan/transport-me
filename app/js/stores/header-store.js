@@ -8,7 +8,7 @@ import Constants from '../constants.js'
 //utilities
 import Actions from '../actions.js'
 
-const LOCAL_EVENT_NAME = Constants.DataStores.STORE
+const LOCAL_EVENT_NAME = Constants.DataStores.HEADER_STORE
 
 const _data = {
   searchActive: m.prop(false),

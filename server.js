@@ -32,7 +32,7 @@ var moment = require('moment')
 
 // var DataParser = require("./DataParser.js");
 // var GTFS = require('./GTFS.js')
-var BART = require('./BART.js')
+// var BART = require('./BART.js')
 // var r = require('./Responses.js')
 
 const pFlagIndex = process.argv.indexOf('-p')

@@ -21,12 +21,9 @@ const valueGetter = () => {
     loaded = true
     return moment().local().format('YYYY-MM-DDTHH:mm')
   }
-} 
+}
 
 export default function() {
-
-  console.log('RENDERING TIME SELECTION COMPONENT')
-
   return [
     m('div.flex', { style: { paddingLeft: '20px' } }, [
       m('form', [
@@ -54,7 +51,6 @@ export default function() {
              //    })
              //  })
             }
-            console.log(e)
           },
           value: valueGetter,
           // validate: (value) => {
@@ -79,19 +75,7 @@ export default function() {
             }
           }
         })
-
       ])
     ])
   ]
-
-  // [m('div.flex.two.tall', { style: { paddingLeft: '20px' } }, [
-  //     txtBtn( origin || 'Origin', originId)
-  //   ]),
-  //   m.component(icon, { msvg: gToIcon, class: 'flex two' }),
-  //   m('div.flex.three.tall', [
-  //     txtBtn( destination || 'Destination', destinationId)
-  //   ]),
-  //   m('div#custom-ripple', {
-  //     config: rippleHandler
-  //   })]
 }

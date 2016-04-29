@@ -12,6 +12,7 @@ import radioIcon from 'mmsvg/google/msvg/notification/wifi'
 
 //helpers
 import ColorConstants from '../helpers/color-constants.js'
+import getTimeDifference from '../helpers/time/get-time-diff.js'
 
 //styles
 import styles from '../../css/app.scss'
@@ -55,9 +56,20 @@ const fullPart = (stations) => {
     ]) 
 }
 
-export default function(stations, compact, realtime, duration) {
+const calculateDuration = (connection) => {
+  const first = _.first(connection)[1]
+  const last = _.last(connection)[1]
+  
+  return getTimeDifference(first, last)
+}
+
+export default function(stations, compact, realtime) {
   const lineNumber = stations[0][6]
   const className = LineStyles[ColorConstants[lineNumber]]
+
+  //calculate duration here
+  const duration = calculateDuration(stations)
+
   return m.component(listTile, {
     // class: className,
     content: [

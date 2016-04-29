@@ -3,49 +3,24 @@
 //libraries
 import m from 'mithril'
 import _ from 'lodash'
-import classNames from 'classnames'
 // const debug = require('debug')
 
 //utilities
 import Actions from '../actions.js'
-import setState from '../helpers/set-state.js'
-
-//helpers
-import getTimeDifference from '../helpers/time/get-time-diff.js'
 
 //poly components
 import list from 'polythene/list/list'
-import listTile from 'polythene/list-tile/list-tile'
-import shadow from 'polythene/shadow/shadow'
 
 //components
 import card from '../poly/card.js'
 import StationTiles from '../components/StationTiles.js'
 
 //styles
-import styles from '../../css/app.scss'
 import { cardStyle } from '../../css/card-style.scss'
 
-const compactPart = (stations) => {
-  return _.map(stations, (station) => {
-    return m.component(listTile, {
-      content: m('ul', [
-        m('li', { class: classNames(styles.inlineList) }, station[1]),
-        m('li', { class: classNames(styles.inlineList, styles.right) }, station[3])
-      ])
-    })
-  })
-}
 
-const calculateDuration = (connection) => {
-  const first = _.first(_.first(connection))[1]
-  const last = _.last(_.last(connection))[1]
-  
-  return getTimeDifference(first, last)
-}
 
 export default function(connection, index, compactBootlean, realtime) {
-  const duration = calculateDuration(connection)
   return m.component(card, {
     // here we need to have separate thingy if the connection has a transfer
     // os it's either an extra card or a list within the card only
@@ -80,7 +55,7 @@ export default function(connection, index, compactBootlean, realtime) {
           content: m.component(list, {
             tiles: [
               // here is the compact check
-              _.map(connection, (single) => StationTiles(single, compactBootlean, realtime, duration))
+              _.map(connection, (single) => StationTiles(single, compactBootlean, realtime))
             ]
           }),
           events: {

@@ -16,6 +16,9 @@ const staticCacheName = CacheControl.getCacheName()
 
 self.addEventListener('install', (event) => {
 
+  console.log(event)
+  console.log(self)
+
   event.waitUntil(
 
     caches.open(staticCacheName).then((cache) => {
@@ -54,15 +57,18 @@ self.addEventListener('install', (event) => {
 })
 
 self.addEventListener('waiting', (event) => {
-  // console.log('yeah waiting man')
+  console.log('yeah waiting man')
 })
 
 self.addEventListener('redundant', (event) => {
-  // console.log(event)
-  // console.log('yeah waiting')
+  console.log(event)
+  console.log('yeah waiting')
 })
 
 self.addEventListener('activate', (event) => {
+
+  console.log('have been activated')
+
   event.waitUntil(
     caches.keys().then((cacheNames) => {
       return Promise.all(
@@ -80,23 +86,18 @@ self.addEventListener('activate', (event) => {
 
 self.addEventListener('fetch', (event) => {
 
+  console.log(event)
+
   const url = event.request.url
   const dataFromURL = parseURL(url)
 
   const endpoint = dataFromURL.endpoint
 
-  console.log('ENDPOINT IN SW')
-  console.log(endpoint)
+  // console.log('ENDPOINT IN SW')
+  // console.log(endpoint)
 
   switch (endpoint) {
     case 'data':
-      // getFromCache accepts event / event.request and callbackFunction in case there is no data in in the cache
-      // const dataRequest = new Request('data/')
-      // const routesRequest = new Request('routes/')
-      event.respondWith(
-        CacheControl.getFromCache(event, NetworkControl.fetchFromNetwork.bind(null, event))
-        )
-      break
     case 'routes':
       // getFromCache accepts event / event.request and callbackFunction in case there is no data in in the cache
       event.respondWith(

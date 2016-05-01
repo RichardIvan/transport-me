@@ -7,7 +7,7 @@ class Sw {
     this.scope = '/'
   }
   register (scope) {
-    registerServiceWorker({ scope }).then((registration) => {
+    registerServiceWorker().then((registration) => {
       // console.log(registration)
       let serviceWorker
       if (registration.installing) {

@@ -25,10 +25,10 @@ const CacheControl = (function() {
     },
     getFromCache: function(event, callback) {
 
-      console.log('GETTING FROM CACHE')
-      console.log(event.request)
-      console.log(event)
-      console.log(event.url)
+      // console.log('GETTING FROM CACHE')
+      // console.log(event.request)
+      // console.log(event)
+      // console.log(event.url)
       // console.log(event.request.url.indexOf('/data/'))
       // console.log(event.request.url.indexOf('/routes/'))
 

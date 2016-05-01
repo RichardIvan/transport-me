@@ -2,7 +2,7 @@
 
 import m from 'mithril'
 
-import SW from './services/sw.js'
+// import SW from './services/sw.js'
 import Actions from './actions.js'
 
 import App from './components/AppComponent.js'
@@ -10,8 +10,8 @@ import App from './components/AppComponent.js'
 import '../css/app.scss'
 
 // register service worker
-const sw = new SW()
-sw.register('/')
+// const sw = new SW()
+// sw.register('/')
 
 Actions.initialize.call(this, { action: 'INITIALIZE_APP' })
 

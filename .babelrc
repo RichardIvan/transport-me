@@ -1,4 +1,4 @@
 {
   "presets": ["es2015", "stage-2"],
-  "plugins": ["closure-elimination", "transform-runtime"]
+  "plugins": ["transform-runtime"]
 }

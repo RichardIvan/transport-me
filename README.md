@@ -4,9 +4,12 @@ This second Udacity Senior Web Developer Nanodegree project will allow you to lo
 
 This application is using the Flux methodology for manipulation of data and applications' state.
 
-### Get Started.
+### Prerequisites.
+
+This project is assuming you are running node v5.3.0 since we are using the --harmony_destructuring flag.
 
 Get started by intalling npm; please follow this tutorial -> [http://blog.npmjs.org/post/85484771375/how-to-install-npm](http://blog.npmjs.org/post/85484771375/how-to-install-npm)
+
 
 After installing npm, you are prepared to install gulp so you can test the application; please follow this tutorial -> [https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md)
 

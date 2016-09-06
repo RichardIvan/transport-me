@@ -28,11 +28,11 @@ Please note when running the app with command npm run dev .. the backend server 
 
 
 [Mithril](https://github.com/lhorie/mithril.js/tree/master) for it being amazing front end javascript library
-*[Bloodhound](https://github.com/pqx/bloodhound) for station search autocomplete
-*HTML5
-*CSS3
-*Javascript
-*SCSS
-*Gulp
-*Webpack
-*Written in ES6
+* [Bloodhound](https://github.com/pqx/bloodhound) for station search autocomplete
+* HTML5
+* CSS3
+* Javascript
+* SCSS
+* Gulp
+* Webpack
+* Written in ES6

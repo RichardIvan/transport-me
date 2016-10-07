@@ -73,15 +73,9 @@ app.get('/*.html', function(req, res) {
   // console.log(req)
   res.sendFile(path.join(__dirname + `/prod${req.originalUrl}`));
 
-  // res.send('hello world')
-
 })
 
-
 app.get('/journey/*', (req, res) => {
-  console.log('hello journey')
-  // console.log(new URL(req.url))
-  // console.log(req)
   var host = req.headers.host
   var url = host + req.url
 
@@ -119,13 +113,10 @@ app.get('/stations/*', (req, res) => {
 })
 
 app.get('/raw/*', (req, res) => {
-  console.log('hello raw')
   const url = new URL(req.url)
-  console.log('before the effin error')
+
   const pathname = _.takeRight(url.pathname.split('/'), 2)
-  // .shift()
-  console.log('got dat motherfukin request bitches')
-  console.log(pathname)
+
   if(!pathname[0] || !pathname[1]) return
 
   let filePath
@@ -145,7 +136,7 @@ app.get('/raw/*', (req, res) => {
       complete(results) {
         // console.log(results.data.length)
         const dropped = _(results.data).drop().dropRight().value()
-        console.log(dropped.length)
+
         res.json(dropped)
         // console.log("Finished:", );
       }
@@ -158,14 +149,13 @@ app.get('/data/', (req, res) => {
   const url = new URL(req.url)
 
   const pathname = _.takeRight(url.pathname.split('/'), 2)
-  console.log('got dat motherfukin request bitches')
 
   const filePaths = ['./gtfs/data/stop_times.txt', './gtfs/data/trips.txt']
 
   const promises = _.map(filePaths, (filePath) => {
 
     return new Promise((resolve, reject) => {
-      
+
       fs.readFile(filePath, 'utf-8', (err, filedata) => {
         Papa.parse(filedata, {
           complete(results) {
@@ -212,9 +202,7 @@ app.get('/data/', (req, res) => {
 })
 
 app.get('/routes/*', (req, res) => {
-  console.log('hello routes')
   const filePath = './backend/routes.json'
-  console.log(filePath)
 
   jsonfile.readFile( filePath, (err, data) => {
     res.json(data)
@@ -246,7 +234,3 @@ reload(server, app)
 server.listen(app.get('port'), function(){
   console.log("Web server listening on port " + app.get('port'));
 });
-
-
-
-

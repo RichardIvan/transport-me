@@ -11,7 +11,8 @@ module.exports = {
   },
   output: {
     path: path.join(__dirname, 'prod'),
-    filename: './js/[name].js' // Template based on keys in entry above
+    filename: './js/[name].js', // Template based on keys in entry above
+    publicPath: './'
   },
   resolve: {
     extensions: ['', '.js', '.json'],

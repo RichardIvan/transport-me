@@ -23,18 +23,18 @@ self.addEventListener('install', (event) => {
 
     caches.open(staticCacheName).then((cache) => {
       return cache.addAll([
-        '/transport-me/',
-        '/transport-me/index.html',
-        '/transport-me/css/main.css',
-        '/transport-me/js/index.js',
-        '/transport-me/?/',
-        '/transport-me/?/index.html',
-        '/transport-me/?/css/main.css',
-        '/transport-me/?/js/index.js',
-        '/transport-me/stations/'
+        '/',
+        '/index.html',
+        '/css/main.css',
+        '/js/index.js',
+        '/?/',
+        '/?/index.html',
+        '/?/css/main.css',
+        '/?/js/index.js',
+        '/stations/'
       ]).then((a) => {
         // console.log(window)
-        const endpoints = ['transport-me/data/', 'transport-me/routes/']
+        const endpoints = ['data/', 'routes/']
 
         const promises = _.map(endpoints, (endpoint) => {
           const url = `${event.currentTarget.registration.scope}${endpoint}`

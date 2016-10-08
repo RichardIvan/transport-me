@@ -3,9 +3,16 @@
   "version": "1.0.0",
   "description": "Public transportation app",
   "main": "index.js",
+  "watch": {
+    "build": {
+      "patterns": [
+        "src"
+      ]
+    }
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "webpack --config webpack.config.prod.js",
+    "build": "webpack --config webpack.config.prod.js && cp -r prod ../RICHARDIVANdotCOM/src/client/transport-me/",
     "dev": "webpack-dev-server --inline --hot --config webpack.config.dev.js",
     "lint": "eslint src",
     "serve": "node --harmony_destructuring server.js -p 3000"
@@ -47,6 +54,7 @@
     "morgan": "^1.7.0",
     "node-fetch": "^1.4.0",
     "node-sass": "^3.4.2",
+    "npm-watch": "^0.1.6",
     "papaparse": "^4.1.2",
     "performance-now": "^0.2.0",
     "polythene": "^0.2.23",

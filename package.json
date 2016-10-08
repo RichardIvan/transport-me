@@ -6,13 +6,16 @@
   "watch": {
     "build": {
       "patterns": [
-        "src"
+        "app"
       ]
     }
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "webpack --config webpack.config.prod.js && cp -r prod ../RICHARDIVANdotCOM/src/client/transport-me/",
+    "prebuild": "rm -rf ./prod",
+    "copy-transport-me": "rm -rf ../RICHARDIVANdotCOM/src/client/transport-me/ && cp -rf ./prod ../RICHARDIVANdotCOM/src/client/transport-me",
+    "build": "webpack --config webpack.config.prod.js && npm run copy-transport-me",
+    "watch-build": "npm-watch",
     "dev": "webpack-dev-server --inline --hot --config webpack.config.dev.js",
     "lint": "eslint src",
     "serve": "node --harmony_destructuring server.js -p 3000"

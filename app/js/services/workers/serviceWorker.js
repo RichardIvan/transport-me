@@ -23,18 +23,18 @@ self.addEventListener('install', (event) => {
 
     caches.open(staticCacheName).then((cache) => {
       return cache.addAll([
-        '/',
-        '/index.html',
-        '/css/main.css',
-        '/js/index.js',
-        '/?/',
-        '/?/index.html',
-        '/?/css/main.css',
-        '/?/js/index.js',
-        '/stations/'
+        '/transport-me/',
+        '/transport-me/index.html',
+        '/transport-me/css/main.css',
+        '/transport-me/js/index.js',
+        '/transport-me/?/',
+        '/transport-me/?/index.html',
+        '/transport-me/?/css/main.css',
+        '/transport-me/?/js/index.js',
+        '/transport-me/stations/'
       ]).then((a) => {
         // console.log(window)
-        const endpoints = ['data/', 'routes/']
+        const endpoints = ['transport-me/data/', 'transport-me/routes/']
 
         const promises = _.map(endpoints, (endpoint) => {
           const url = `${event.currentTarget.registration.scope}${endpoint}`
@@ -47,7 +47,7 @@ self.addEventListener('install', (event) => {
         })
 
         return Promise.all(promises)
-        
+
       }).catch((e) => console.log(e))
     })
     .then(() => {
@@ -120,7 +120,7 @@ self.addEventListener('fetch', (event) => {
       )
       // accepts callback that will construct the necessary response for the route
       // this function searches data by passed in route Info
-      // return 
+      // return
       break
     case 'stations':
       event.respondWith(

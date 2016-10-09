@@ -16,9 +16,9 @@ import validateStation from '../helpers/validate-station.js'
 
 const LOCAL_EVENT_NAME = Constants.DataStores.STATIONS_STORE
 
-let engine 
+let engine
 
-const stations = fetch('http://localhost:3000/stations/')
+const stations = fetch('/transport-me/stations/')
   .then((res) => res.json())
 
 const stationNames = stations.then((data) => {

@@ -23,15 +23,15 @@ self.addEventListener('install', (event) => {
 
     caches.open(staticCacheName).then((cache) => {
       return cache.addAll([
-        '/',
-        '/index.html',
-        '/css/main.css',
-        '/js/index.js',
-        '/?/',
-        '/?/index.html',
-        '/?/css/main.css',
-        '/?/js/index.js',
-        '/stations/'
+        '/transport-me/',
+        '/transport-me/index.html',
+        '/transport-me/css/main.css',
+        '/transport-me/js/index.js',
+        '/transport-me/?/',
+        '/transport-me/?/index.html',
+        '/transport-me/?/css/main.css',
+        '/transport-me/?/js/index.js',
+        '/transport-me/stations/'
       ]).then((a) => {
         // console.log(window)
         const endpoints = ['data/', 'routes/']

@@ -40,6 +40,7 @@
     "html-webpack-plugin": "latest",
     "http-proxy-middleware": "^0.12.0",
     "imports-loader": "^0.6.5",
+    "jsonfile": "^2.4.0",
     "lodash": "^4.5.0",
     "mithril": "^0.2.3",
     "mmsvg": "^1.1.1",

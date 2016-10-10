@@ -197,6 +197,7 @@ app.get('/data/', (req, res) => {
           })
         })
       })
+
       res.json(tripObject)
     })
 })

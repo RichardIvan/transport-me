@@ -175,6 +175,7 @@ app.get('/data/', (req, res) => {
 
       const tripObject = {}
 
+      console.log(stops)
       const groupedStops = _.groupBy(stops, (stop) => stop[0])
       // console.log(groupedStops)
 
